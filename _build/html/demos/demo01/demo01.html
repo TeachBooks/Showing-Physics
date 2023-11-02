@@ -1,0 +1,649 @@
+
+
+<!DOCTYPE html>
+
+
+<html >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Developing Particle Explanations through Colouring Eggs &#8212; Introductie tot experimenteren</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'demos/demo01/demo01';</script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="prev" title="Making a slanting tower stacking blocks" href="../demo04/demo04.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="None"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../../intro.html">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/logo.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../../_static/logo.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../intro.html">
+                    Welcome to your Jupyter Book
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Showing physics Introduction</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../../Introduction/About.html">About this book</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Introduction/Foreword.html">Foreword</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Introduction/Introduction.html">Description of demonstrations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Introduction/Pedagogy.html">The pedagogy of physics demonstrations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Introduction/Authors.html">About the authors</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Demonstrations for conceptual development</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../demo02/demo02.html">Cappuccino and specific heat versus heat of vaporization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../demo03/demo03.html">Light in darkness</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../demo04/demo04.html">Making a slanting tower stacking blocks</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Demonstrations on Nature of Science</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Developing Particle Explanations through Colouring Eggs</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fdemos/demo01/demo01.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../../_sources/demos/demo01/demo01.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Developing Particle Explanations through Colouring Eggs</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#equipment">Equipment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation">Preparation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#procedure">Procedure</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#orientation-30-min">1. Oriëntation (30 min)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#collecting-and-presenting-observations-30-min">2. Collecting and presenting observations (30 min)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#interpretations-and-conclusions-answering-the-research-question-30-min">3. Interpretations and conclusions, answering the research question (30 min)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#physics-background">Physics background</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#safety-and-environment">Safety and environment</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <div class="tex2jax_ignore mathjax_ignore section" id="developing-particle-explanations-through-colouring-eggs">
+<h1>Developing Particle Explanations through Colouring Eggs<a class="headerlink" href="#developing-particle-explanations-through-colouring-eggs" title="Permalink to this headline">#</a></h1>
+<p>Author:     Peter Dekkers<br />
+Time:	  	30 + 30 + 30 min<br />
+Age group:	12-14<br />
+Concepts:	particle model, membranes</p>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
+<p>The activity challenges students to explain what they observe, which is that some substances do, while others do not penetrate the membrane surrounding a raw egg, after its shell is removed. A simple particle model is introduced as a potentially viable explanation. The demonstration presents an example of the way in which models in science arise, and of their value and status. Difficult about particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, colour), properties that the particles themselves do not possess. The particles themselves, for example, (are thought to) consist of a point with mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. . The demonstration attempts to show that de power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.</p>
+</div>
+<div class="section" id="equipment">
+<h2>Equipment<a class="headerlink" href="#equipment" title="Permalink to this headline">#</a></h2>
+<ul class="simple">
+<li><p>10 eggs or more</p></li>
+<li><p>10 jam jars (or beakers)</p></li>
+<li><p>2 litres of organic vinegar (not cleaning vinegar)</p></li>
+<li><p>a heating plate</p></li>
+<li><p>a sharp (kitchen) knife</p></li>
+<li><p>syringe without needle</p></li>
+<li><p>salt</p></li>
+<li><p>various food colourings (try an Asian food shop).</p></li>
+<li><p>A choice of other ‘test substances’ from the kitchen: tea, milk, salad oil, instant coffee; coloured soft drinks.</p></li>
+</ul>
+</div>
+<div class="section" id="preparation">
+<h2>Preparation<a class="headerlink" href="#preparation" title="Permalink to this headline">#</a></h2>
+<p>Photograph the 10 eggs. Preserve one egg with its shell, place the rest for about 3-4 days in organic vinegar, to remove the shells. Replace the vinegar halfway if no more bubbles are formed while some of the shell remains. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.</p>
+</div>
+<div class="section" id="procedure">
+<h2>Procedure<a class="headerlink" href="#procedure" title="Permalink to this headline">#</a></h2>
+<div class="section" id="orientation-30-min">
+<h3>1. Oriëntation (30 min)<a class="headerlink" href="#orientation-30-min" title="Permalink to this headline">#</a></h3>
+<p>This first step takes about 15 min. (session 1, + 10 min)
+Place the egg that still has its shell in a jam jar and submerge it in vinegar. Let the students observe and describe what is happening. If you like, present the reaction equation when they have done so. Then show the remaining 9 eggs.
+Notably, the eggs have lost their shells leaving them almost transparent. Furthermore, the egg has become larger when its shell was removed. (Compare the egg that has just been placed in vinegar with the rest, and show the photo of the original 10 eggs.) How is that possible?
+Students often come up with the following ideas.</p>
+<p><em><strong>Explanation 1. The egg shell kept the egg together, it has ‘sagged’ while losing its shell.</strong></em></p>
+<p>Test: if this is correct, it should be possible to compress the material in the egg. Is that the case?
+Cut one of the eggs, fill the syringe with it, remove the air, close the syringe and try to compress it. Conclusion?</p>
+<a class="reference internal image-reference" href="../../_images/dm01_figure1.JPG"><img alt="../../_images/dm01_figure1.JPG" class="align-center" src="../../_images/dm01_figure1.JPG" style="width: 300px;" /></a>
+<center><i> Fig.1 - Some text here.</i></center>
+<p><em><strong>Explanation 2. ‘Water’ has entered the egg.</strong></em></p>
+<p>Test: place one of the eggs in a pan of water, let it slowly come to the boil and cook it until reasonably firm (about 15 min should do). Open it and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
+Conclusion: vinegar goes through the outer ‘skin’ or membrane of an egg, but egg white does not. How do other substances behave?</p>
+<p><em><strong>Research plan</strong></em>
+Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day let it slowly come to the boil and cook it for a long time, then open it and investigate the contents.</p>
+<a class="reference internal image-reference" href="../../_images/dm01_figure2.JPG"><img alt="../../_images/dm01_figure2.JPG" class="align-center" src="../../_images/dm01_figure2.JPG" style="width: 300px;" /></a>
+<center><i> Fig.2 - Some text here.</i></center>
+</div>
+<div class="section" id="collecting-and-presenting-observations-30-min">
+<h3>2. Collecting and presenting observations (30 min)<a class="headerlink" href="#collecting-and-presenting-observations-30-min" title="Permalink to this headline">#</a></h3>
+<p>The second session continues after the plan has been carried out, and the eggs with test substances have been boiled. The observations of the contents by watching and tasting will lead to the following conclusions, among others:</p>
+<ul class="simple">
+<li><p>the egg contains a second membrane that surrounds the yolk;</p></li>
+<li><p>egg white and yolk do not penetrate the membrane that surround them;</p></li>
+<li><p>salt and vinegar penetrate both membranes;</p></li>
+<li><p>food colouring liquids penetrate the outer, but not the inner membrane.</p></li>
+</ul>
+<p>Produce a systematic overview of the observations, for example in an observations table like Table 1. The research question has been modified into: <em><strong>Which substances can penetrate the outer membrane, and which of these can also pass through the inner membrane?</strong></em></p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Name of substance:</p></th>
+<th class="head"><p>Passes through outer membrane (yes/no)</p></th>
+<th class="head"><p>Passes through inner membrane (yes/no)</p></th>
+<th class="head"><p>Column 4</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Egg white</p></td>
+<td><p>No</p></td>
+<td><p>No</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>Yolk</p></td>
+<td><p>?</p></td>
+<td><p>No</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>Salt</p></td>
+<td><p>Yes</p></td>
+<td><p>Yes</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>Vinegar</p></td>
+<td><p>Yes</p></td>
+<td><p>Yes</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p>Green food colouring</p></td>
+<td><p>Yes</p></td>
+<td><p>No</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p>Red food colouring</p></td>
+<td><p>Yes</p></td>
+<td><p>No</p></td>
+<td><p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="interpretations-and-conclusions-answering-the-research-question-30-min">
+<h3>3. Interpretations and conclusions, answering the research question (30 min)<a class="headerlink" href="#interpretations-and-conclusions-answering-the-research-question-30-min" title="Permalink to this headline">#</a></h3>
+<p>What causes some substances to pass through both membranes, others to pass through the outer one only, and yet others to pass through neither? Challenge the students to answer this question. Acknowledge and appreciate all of the ideas the students offer, but critically assess with the whole class whether each of the explanations is indeed able to explain all of the observations.</p>
+<a class="reference internal image-reference" href="../../_images/dm01_figure3.JPG"><img alt="../../_images/dm01_figure3.JPG" class="align-center" src="../../_images/dm01_figure3.JPG" style="width: 300px;" /></a>
+<center><i> Fig.3 - Some text here.</i></center>
+<p>Subsequently suggest, if that has not been done yet: imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the fleeces are not entirely closed but have tiny holes, similar to the pores in your skin. Finally, imagine that in liquids like yolk the particles are all continuously moving criss cross: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about to and fro. It is impossible, however, to see the swarming or shaking of the particles, they are much too small for that, but there are nice simulations to visualize the particles: <a class="reference external" href="https://phet.colorado.edu">https://phet.colorado.edu</a></p>
+<p>Questions for discussion (to be used for example in a think-pair-share activity)
+Answer the questions below by trying to use the ideas presented above.
+1a. Which membrane then has bigger holes, the outer or the inner one?
+1b. Can you show in column 4 of the observations table which substances have large particles, which have medium size, and which have small particles?
+1c. Can you explain the observations with these ideas?</p>
+<p>***Modelling in science ***
+By further discussion of the questions below, the teacher may clarify, e.g., what the nature is of scientific models, how they are used, and that there are always limits to their validity.</p>
+<p>We have carried out a kind of investigation into the properties of substances and eggs.
+2a. What did we do that a scientist would definitely do as well?
+2b. What did we do that a scientist would never do?
+2c. What did we not do, that a scientist would definitely do?
+2d. Can we call what we did a scientific investigation?</p>
+<p>Can we now be certain that substances consist of particles, and that fleeces have holes?
+3a. Can you come up with a different explanation for the observations?
+3b. Did you see particles or holes in fleeces? In that case can you be sure they exist?
+3c. Do you think scientists can see the particles? Can they be sure that they really exist?
+We used a model to explain the observations. The model consists of ideas about the composition of substances and materials. We do not know for certain whether our model is entirely correct, but it does help us to figure out what is happening. People often use a model to make it easier to do or understand something. Examples: Google Maps, temperature graphs in the weather forecast, map of the school, X-ray photo at the dentist, sheet music, etc.</p>
+</div>
+</div>
+<div class="section" id="physics-background">
+<h2>Physics background<a class="headerlink" href="#physics-background" title="Permalink to this headline">#</a></h2>
+<p>The shell of an egg is removed by placing it in vinegar for a few days. Bubbles (of carbon dioxide) and water start forming immediately, as calcium ions go into solution, because the calciumcarbonate of the shells slowly disintegrates due to the acid (CaCO<span class="math notranslate nohighlight">\(_3\)</span> + 2H<span class="math notranslate nohighlight">\(^+\)</span> → Ca<span class="math notranslate nohighlight">\(_2^+\)</span>(aq) + CO<span class="math notranslate nohighlight">\(_2\)</span> (gas) + H<span class="math notranslate nohighlight">\(_2\)</span>O).
+Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein’s theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with (Feynman et al., 1963, p. 1-2)</p>
+</div>
+<div class="section" id="safety-and-environment">
+<h2>Safety and environment<a class="headerlink" href="#safety-and-environment" title="Permalink to this headline">#</a></h2>
+<p>Use only safe, harmless substances. Boil the shell-less eggs in a fuming cupboard, if possible.</p>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./demos\demo01"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="../demo04/demo04.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Making a slanting tower stacking blocks</p>
+      </div>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#equipment">Equipment</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#preparation">Preparation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#procedure">Procedure</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#orientation-30-min">1. Oriëntation (30 min)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#collecting-and-presenting-observations-30-min">2. Collecting and presenting observations (30 min)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#interpretations-and-conclusions-answering-the-research-question-30-min">3. Interpretations and conclusions, answering the research question (30 min)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#physics-background">Physics background</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#safety-and-environment">Safety and environment</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Freek Pols
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright Delft University of Technology, CC BY 4.0.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
