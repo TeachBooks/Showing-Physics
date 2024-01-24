@@ -10,6 +10,12 @@ parts:
     - file: Introduction/Foreword
     - file: Introduction/Introduction
     - file: Introduction/Pedagogy
+      title: Pedagogy
+      sections:
+      - file: Introduction/Ped_Argumentation
+        title: Argumentation
+      - file: Introduction/Ped_BackAndForthThinking
+        title: Back and forth thinking
     - file: Introduction/Authors
       
   - caption: Demonstrations for conceptual development
@@ -21,3 +27,5 @@ parts:
   - caption: Demonstrations on Nature of Science
     chapters:
     - file: demos/demo01/demo01 #particle
+
+  

@@ -1,6 +1,8 @@
 # The pedagogy of physics demonstrations
 
-demos are almost always entertaining, but are these educating as well? 
+Demos are almost always entertaining, but are these educating as well? This book not only presents many physics demonstrations, it also delves in the ...
+
+
 educational value is increased with proper way of conducting them
 we provide ...
 
