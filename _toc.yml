@@ -4,19 +4,22 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Showing physics Introduction
+  - caption: Introduction
     chapters:
     - file: Introduction/About
     - file: Introduction/Foreword
     - file: Introduction/Introduction
-    - file: Introduction/Pedagogy
-      title: Pedagogy
-      sections:
-      - file: Introduction/Ped_Argumentation
-        title: Argumentation
-      - file: Introduction/Ped_BackAndForthThinking
-        title: Back and forth thinking
     - file: Introduction/Authors
+
+  - caption: Pedagogy
+    chapters:  
+    - file: Pedagogy/Introduction
+    - file: Pedagogy/PoE
+    - file: Pedagogy/Conceptcartoons
+    - file: Pedagogy/Argumentation
+    - file: Pedagogy/BackAndForthThinking
+    - file: Pedagogy/Nos
+    
       
   - caption: Demonstrations for conceptual development
     chapters:
@@ -28,4 +31,5 @@ parts:
     chapters:
     - file: demos/demo01/demo01 #particle
 
+  - caption: Demonstrations for good fun
   

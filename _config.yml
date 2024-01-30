@@ -21,6 +21,10 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+    
 # Information about where the book exists on the web
 repository:
   url: https://github.com/executablebooks/jupyter-book  # Online location of your book
@@ -33,7 +37,7 @@ html:
   use_issues_button: true
   use_repository_button: true
 
-launch_buttons:
-  notebook_interface: classic 
-  binderhub_url: "https://mybinder.org"
-  thebe: true
+# launch_buttons:
+#   notebook_interface: classic 
+#   binderhub_url: "https://mybinder.org"
+#   thebe: true

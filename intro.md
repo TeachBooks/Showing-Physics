@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Showing Physics
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book presents a selection of the 99 best, most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:t}`showdefysica1,showdefysica2,showdefysica3`  as published by the <a href="http://nvon.nl" target="_blank">Dutch Society of Science Teachers</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! 
 
-Check out the content pages bundled with this sample book to see more.
+The demonstrations are structured using three categories:
+* Demonstrations for conceptual development
+* Demonstrations on teaching scientific inquiry and/or nature of science
+* Demonstrations for good fun
 
-```{tableofcontents}
+So, whether you want to deepen students' understanding of a specific topic, want to engage them in thorough thinking or if you were asked to demonstrate physics on a festive occasion, you can find demonstrations and inspiriation in this book. 
+
+## References
+```{bibliography}
+:filter: docname in docnames
 ```
