@@ -8,7 +8,6 @@ parts:
     chapters:
     - file: Introduction/About
     - file: Introduction/Foreword
-    - file: Introduction/Introduction
     - file: Introduction/Authors
 
   - caption: Pedagogy
@@ -32,4 +31,3 @@ parts:
     - file: demos/demo01/demo01 #particle
 
   - caption: Demonstrations for good fun
-  

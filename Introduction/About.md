@@ -6,6 +6,13 @@ Are the demonstrations described original? Don't expect them to be so. Most demo
 
 This book is published under the CC-BY-NC, what means that you are allowed to use and adapt the materials for non-comercial use and under the condition that you refer to the original work. Note that you can contribute to the demonstrations is this book. 
 
+```{figure} metalballs.jpeg
+width: 50%
+name: fig:metalballs
+---
+The cooling of two heated metal balls. Which one cools down fastest, the big or the small ball?
+```
+
 ## How to use the book
 Demonstrations are fantastic. They offer so many wonderful possibilities that we really should do at least one in every physics class. That may not always work out, but the objection "which demo then?" no longer applies. After all, you now have this volume in your hands!
 
@@ -14,10 +21,6 @@ You can read this book, of course, but the main idea is to do the activities des
 Specifying exactly which student audience the demonstration is intended for 
 proved to be difficult. If it is a matter of observing phenomena and the beginning of the development of vocabulary, many demonstrations can be used in elementary schools. In lower secondary schools, the demonstrations can usually be used for qualitative explanations at the phenomenon level. As soon as chains of concepts are needed for an explanation you end up in higher grades of secondary education. If you need to establish relationships between different areas of physics or if quantitative reasoning is necessary, the level will soon be upper secondary school.
 
-![figure1](metalballs.jpeg) <center><i> Fig.1 - The cooling of two heated metal balls. Which one cools down fastest, the big or the small ball?</i></center>
-
-
-## Disclaimer
 ```{Warning}
 We have carefully conceived, developed, described and tested each of the experiments. Moreover, we specified safety issues where necessary. However, we are not responsible for whatever accidents, or injuries when doing a demonstration described in this book. We want to emphasize as well the requirement to test a demonstration before doing it with public. 
 ```
