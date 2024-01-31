@@ -1,6 +1,6 @@
 # Making a slanting tower stacking blocks
 
-Author: Maarten van Woerkom\
+Author:     Maarten van Woerkom\
 Time: 		20 minutes\
 Age group: 	12 and up\
 Concepts: 	center of mass, stable equilibrium
@@ -46,4 +46,9 @@ All of that above block 5 and the overhang is already more than one block length
 ```{Tip}
 * Instead of blocks of wood you can also use CD cases or big Lego blocks.
 * If you google with the term “markthal Rotterdam”, then you will see on the photographs that the 228 apartments were stacked in a way you will now understand. Teacher Eline Bijker actually started her demonstration of stacking blocks with a photograph of the market hall in Rotterdam (figure 4) and asked her students which construction principle was used. The Rotterdam “markthal” is an indoor market with apartments stacked into an arch shape overhead. It was opened in 2014.
+```
+
+## References
+```{bibliography}
+:filter: docname in docnames
 ```

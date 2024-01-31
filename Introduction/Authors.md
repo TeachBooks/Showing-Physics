@@ -5,17 +5,15 @@
 **Ed van den Berg** is a retired physics teacher trainer and got his PhD. in Physics Education - on the topic of teaching practical work. 
 
 ```{figure} authors/auth_Peter.jpg
-:width: 150px
-:align: left
+:width: 10%
 --- 
-**Peter Dekkers** is a physics teacher trainer and got his PhD. in Physics Education - on the topic of teaching practical work. 
+Peter Dekkers is a physics teacher trainer and got his PhD. in Physics Education - on the topic of teaching practical work. 
 ```
 
-```{image} authors/auth_Ineke.jpg
+```{figure} authors/auth_Ineke.jpg
 :width: 150px
-:align: left
 ---
-**Ineke Frederik** is a retired physics teacher trainer. 
+Ineke Frederik is a retired physics teacher trainer. 
 ```
 
 
