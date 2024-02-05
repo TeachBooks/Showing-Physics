@@ -29,7 +29,18 @@ parts:
   - caption: Demos on Nature of Science
     chapters:
     - file: demos/demo01/demo01 #particle
+    - file: demos/demo05/demo05
+    - file: demos/demo06/demo06
+    - file: demos/demo07/demo07
+    - file: demos/demo08/demo08
+    - file: demos/demo09/demo09
 
   - caption: Demos for special occasions
     chapters:
     - file: demos/demo04/demo04 #should be replaced
+    - file: demos/demo10/demo10
+    - file: demos/demo11/demo11
+    - file: demos/demo12/demo12
+    - file: demos/demo13/demo13
+    - file: demos/demo14/demo14
+    - file: demos/demo15/demo15
