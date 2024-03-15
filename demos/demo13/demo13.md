@@ -27,11 +27,11 @@ Can one girl be stronger than 4 boys? Sure! if she is clever…
 * 1 girl
 * 1 strong rope
 
-```{figure} dm02_figure2.JPG
+```{figure} demo13_figure1.jpg
 :width: 300px
 :align: center
 ---
-The demo is easy to set up
+The young lady will always be stronger
 ```
 
 ## Preparation
@@ -44,6 +44,13 @@ Ask the students in the class to explain why the boys cannot keep the rope tight
 
 ```{tip}
 Another version of this demonstration was published by Vollebregt and Hooyman (2007). They connected two ropes on either side of a crate of beer and told the boys to pull so hard that the ropes would be horizontal. Impossible! 
+```
+
+```{figure} demo13_figure2.jpg
+:width: 300px
+:align: center
+---
+Neither here can the rope be pulled horizontal
 ```
 
 ## Physics background
