@@ -23,7 +23,8 @@ Conservation of linear momentum can be shown by mounting a pendulum on an easy-r
 If the cart turns out to ride away, even if it is in a jerky way, something must be wrong with a fundamental conservation law, isn’t it?
 Most of us know from our childhood that if you’re sitting in a cart, you can move forward without touching the ground, just by moving your upper body back and forward in the right way.
 This experiment will only succeed if the cart is not running too smoothly, so friction is part of the secret. It’s not really a spectacular experiment, but it’s something that gets you thinking about physics.
-```{figure} dm02_figure2.JPG
+
+```{figure} demo15_figure1.jpg
 :width: 300px
 :align: center
 ---
@@ -44,7 +45,18 @@ Now it’s a matter of trial-and error: due to resistance the cart should only m
 •	the height of the cross-bar
 •	the mass of the cart itself 
 •	de underlying surface
-After all the cart should jerkily ride into one direction, after releasing the pendulum. A short video can be viewed on https://www.nvon.nl/leswerk/showdefysica2-demo-b18-de-zelfrijdende-auto
+After all the cart should jerkily ride into one direction, after releasing the pendulum. 
+
+<div style='text-align: center;'>
+
+```{code-cell} ipython3
+:tags: [remove-input]
+from IPython.display import YouTubeVideo
+VideoWidth=600
+YouTubeVideo("AlzA5F4IBhw", width=VideoWidth, align='center')
+```
+
+</div>
 
 Our cart has a total mass of about one kilogram (including the pendulum), the mass of the pendulum is 0,10 kg, the pendulum has a length of 65 cm and the crossbar is about 45 cm underneath the point of suspension.
 
@@ -53,6 +65,13 @@ First show the cart without cross-bar and ask for predictions what will happen a
 Then show that the cart doesn’t move when the amplitude is too small, and discuss the reason for this.
 The final question is whether there is a way to get the cart moving in one direction. After having discussed that, it is time for the experiment: mount the cross-bar and show it…
 Ask the audience to look closely at the motion of the cart: during which stage of the oscillation does it move?
+
+```{figure} demo15_figure2.jpg
+:width: 300px
+:align: center
+---
+The demo is easy to set up
+```
 
 The discussion that follows must make clear in which way the properties of rolling resistance are responsible for this phenomenon.
 After that there might be discussion about the question if this could also work with a sleigh, an air-cushion vehicle, or a boat.

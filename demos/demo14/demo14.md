@@ -22,7 +22,7 @@ Concepts:	  kinetic and static friction
 ## Introduction
 Friction is an everyday phenomenon. How would the world behave without friction? We describe some demonstrations which do not cost anything but show very clearly the difference between friction when there is no movement (static friction) and friction when two surfaces move relative to each other (kinetic friction). Many interesting applications can be found when static friction becomes kinetic friction.   
 
-```{figure} dm02_figure2.JPG
+```{figure} demo14_figure1.jpg
 :width: 300px
 :align: center
 ---
@@ -42,7 +42,12 @@ Hang the piece of cloth across the horizontal pvc-tube . One end should be lower
 Put the tray on the floor then pull the string and walk with constant speed across the room, it is a bit like walking a dog (here the tray). The tray will jump ahead, stand still, jump ahead, etc.  
 Ask your students for more examples of this phenomenon.
 
-
+```{figure} demo14_figure2.jpg
+:width: 300px
+:align: center
+---
+The demo is easy to set up
+```
 
 ## Physics background
 When the piece of cloth is not moving, static friction ensures that the cloth does not move, even though one side is longer than the other. Once it starts moving, friction becomes kinetic rather than static and this kinetic friction turns out to be insufficient to compensate for the difference in weight of both sides of the cloth. 
