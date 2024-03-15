@@ -22,11 +22,11 @@ Concepts:	  phases of water, evaporation, condensation, combustion, air, oxygen
 ## Introduction
 Just above the surface of boiling water, nothing noteworthy seems to be happening or visible. Slightly higher, however, a kind of rising fog is seen. An object placed in that fog gets wet: the fog consists of water droplets. But then what fills the space between the bubbling water and the fog? Is that ‘just hot air’, or not? How could you investigate that?
 
-```{figure} dm02_figure2.JPG
+```{figure} demo09_figure1.jpg
 :width: 300px
 :align: center
 ---
-The demo is easy to set up
+The required materials
 ```
 ## Equipment
 * Electric boiler; 
@@ -47,7 +47,12 @@ Bring the burning candle down into the kettle, and note that it goes out. Summar
 •	the candle goes out: above the water is a substance that looks like air but it is not;
 •	bubbles come out of the water;
 •	water droplets float above the kettle.
- 
+ ```{figure} demo09_figure2.jpg
+:width: 300px
+:align: center
+---
+Above the kettle, the flame burns somewhat weaker
+```
 Draw a conclusion together. It may well be that the conclusion is not that there is water vapor above the liquid. That is not proven. What we can agree on is: 
 
 •	what comes out of the bubbles and hangs above the liquid looks like air;
@@ -55,7 +60,12 @@ Draw a conclusion together. It may well be that the conclusion is not that there
 •	this substance turns into water droplets when it rises higher.
  
 The substance concerned has a name, "steam". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration by together establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
-
+```{figure} demo09_figure3.jpg
+:width: 300px
+:align: center
+---
+Inside the kettle, above the water, the flame extinguishes
+```
 ```{warning}
 Working with boiling water has risks. Do not let students come too close; if possible, use a camera and projection to give everyone a good view.
 ```

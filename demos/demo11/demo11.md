@@ -23,11 +23,11 @@ This description was inspired by {cite}`Ehrlich1990`.
 ## Introduction
 Everything that falls freely should experience an acceleration g? Or not? Are there exceptions? 
 
-```{figure} dm02_figure2.JPG
+```{figure} demo11_figure1.jpg
 :width: 300px
 :align: center
 ---
-The demo is easy to set up
+The experimental setup
 ```
 
 ## Equipment
