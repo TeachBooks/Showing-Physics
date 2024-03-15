@@ -21,12 +21,14 @@ parts:
     
       
   - caption: Demos for conceptual development
+  numbered: True
     chapters:
     - file: demos/demo02/demo02 #cappucino
     - file: demos/demo03/demo03 #light
     #- file: demos/demo04/demo04 #stacking blocks
     
   - caption: Demos on Nature of Science
+  numbered: True
     chapters:
     - file: demos/demo01/demo01 #particle
     - file: demos/demo05/demo05
@@ -36,6 +38,7 @@ parts:
     - file: demos/demo09/demo09
 
   - caption: Demos for special occasions
+  numbered: True
     chapters:
     - file: demos/demo04/demo04 #should be replaced
     - file: demos/demo10/demo10
