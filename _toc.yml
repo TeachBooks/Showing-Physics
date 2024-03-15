@@ -44,3 +44,19 @@ parts:
     - file: demos/demo13/demo13
     - file: demos/demo14/demo14
     - file: demos/demo15/demo15
+
+  - caption: WND 2023
+    chapters:
+    - file: WND/WND
+      title: WND teaser verslag
+      sections:            
+      - file: WND/Voorwoord
+        title: Voorwoord
+      - file: WND/Programma
+        title: Programma
+      - file: WND/Opening
+        title: Opening
+      - file: WND/Lezingen
+        title: Lezingen
+      - file: WND/Themawedstrijd
+        title: Themawedstrijd
