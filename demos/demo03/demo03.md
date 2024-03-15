@@ -21,13 +21,17 @@ Concepts: Light, light matter interaction
 ## Introduction
 What is light? Why is it dark at night while there are so many stars? Why do we see objects (not)? These are relevant questions that we ask ourselves. But these are as well interesting questions from a physics perspective. This demo, adapted from {cite}`demircioglu2019`, lets students consider answers to these questions in an inquisitive way.
 
+<div style='text-align: center;'>
+
 ```{code-cell} ipython3
 :tags: [remove-input]
 from IPython.display import YouTubeVideo
 VideoWidth=600
 YouTubeVideo("YDBr1Lof_mI", width=VideoWidth, align='center')
 ```
-    
+
+</div>  
+
 ## Equipment
 * Laser
 * vacuumpump & bell
