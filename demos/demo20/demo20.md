@@ -12,8 +12,6 @@ kernelspec:
 ---
 
 # Reflection
-
-
 Author:     Ineke Frederik\
 Time:	  	10 minutes\
 Age group:	12 - 15\
