@@ -17,6 +17,8 @@ A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to 
 ---
 The demo is easy to set up
 ```
+<center><i> Figure 1 - A cappuccino</i></center>
+
 
 That’s the question we pose to our high school students first. How many mL of 90 oC hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4 oC) to 65 $^o$C? Assume that the specific heat of milk is the same as that of water. Students answer the question on a worksheet and practise their computation skills. The answer: 122 g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. What would the answer be if we use boiling hot water of 100 oC? Students calculate again then the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
@@ -37,7 +39,7 @@ Fill the Erlenmeyer with water, preferably boiling water to prevent waiting by s
 ## Procedure
 The first part of the execution consists of computations. 
 
-A cappuccino is made by ...... (here follows the text of the introduction but without the information that a cappuccino machine uses steam. ….. but what can you do if there is no time to heat the milk slowly like in a restaurant or coffee shop? A cappuccino machine adds “hot water” to heat the milk. The maximum dilution that is acceptable for the taste is 10%. Such a small dilution does not matter as expresso is strong coffee with little water. 
+A cappuccino is made by ...... (here follows the text of the introduction but **without the information that a cappuccino machine uses steam**)...... but what can you do if there is no time to heat the milk slowly like in a restaurant or coffee shop? A cappuccino machine adds “hot water” to heat the milk. The maximum dilution that is acceptable for the taste is 10%. Such a small dilution does not matter as expresso is strong coffee with little water. 
 
 > *Calculate on your worksheet how much water of 90 $^o$C has to be added to 50 ml milk of 5°C to heat it to a temperature of 65$^o$C. Assume that the specific heat of milk equals that of water. The formulas and constants you need are on the worksheet (or on the board). (Answer 120 g).*
 
@@ -55,6 +57,8 @@ A cappuccino is made by ...... (here follows the text of the introduction but wi
 ---
 The demo is easy to set up
 ```
+<center><i> Figure 2 - The demo is easy to set up.</i></center>
+
 
 The teacher explains the set-up and asks a student to come to the front to measure the volume of “milk” and its temperature (should be about 5$^o$C). 
 
