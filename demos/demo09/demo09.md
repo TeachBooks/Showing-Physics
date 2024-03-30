@@ -28,6 +28,9 @@ Just above the surface of boiling water, nothing noteworthy seems to be happenin
 ---
 The required materials
 ```
+<center><i> Figure 1 - The required materials.</i></center>
+
+
 ## Equipment
 * Electric boiler; 
 * water; 
@@ -44,28 +47,36 @@ The required materials
 Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it you see 'nothing'. What is actually there? Experience shows that most students say '(hot) air'. That idea can be tested, because if it is ordinary air, like the air we breathe, there must be oxygen in it. So if we hold a burning candle in the kettle, it would just keep burning if that space contains normal air.
  
 Bring the burning candle down into the kettle, and note that it goes out. Summarize the observations: 
-•	the candle goes out: above the water is a substance that looks like air but it is not;
-•	bubbles come out of the water;
-•	water droplets float above the kettle.
+* the candle goes out: above the water is a substance that looks like air but it is not;
+* bubbles come out of the water;
+* water droplets float above the kettle.
+
  ```{figure} demo09_figure2.jpg
 :width: 300px
 :align: center
 ---
 Above the kettle, the flame burns somewhat weaker
 ```
+<center><i> Figure 2 - Above the kettle, the flame burns somewhat weaker</i></center>
+
+
 Draw a conclusion together. It may well be that the conclusion is not that there is water vapor above the liquid. That is not proven. What we can agree on is: 
 
-•	what comes out of the bubbles and hangs above the liquid looks like air;
-•	it is not air, because a candle does not keep burning in it;
-•	this substance turns into water droplets when it rises higher.
+*	what comes out of the bubbles and hangs above the liquid looks like air;
+*	it is not air, because a candle does not keep burning in it;
+*	this substance turns into water droplets when it rises higher.
  
 The substance concerned has a name, "steam". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration by together establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
+
 ```{figure} demo09_figure3.jpg
 :width: 300px
 :align: center
 ---
 Inside the kettle, above the water, the flame extinguishes
 ```
+<center><i> Figure 3 - Inside the kettle, above the water, the flame extinguishes</i></center>
+
+
 ```{warning}
 Working with boiling water has risks. Do not let students come too close; if possible, use a camera and projection to give everyone a good view.
 ```

@@ -30,6 +30,8 @@ A smooth, flat table that is as long as possible. A retort stand that is as high
 ---
 A schematic of the experimental setup
 ```
+<center><i> Figure 1 - A schematic of the experimental setup</i></center>
+
 
 ## Preparation
 Build the set-up, see figure 1. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses so that friction is negligible up to speeds of about 1 m/s, and choose matching spring-balances.
@@ -46,6 +48,8 @@ A Predict-Observe-Explain approach is appropriate here. An example is presented 
 ---
 The actual setup
 ```
+<center><i> Figure 2 - The actual setup</i></center>
+
 
 ## Physics background
 If an object moves along at constant velocity, with both a propelling force and a force counteracting the propulsion acting on it, then these forces are equal, irrespective of the speed of the object. Furthermore, maintaining a larger speed does not require a larger propelling force, if friction is negligible. To maintain the speed, it is enough for propelling force and counteracting force to be equal in size. The ultimate example is a space ship, where the rocket engine can be switched off once the target speed has been reached. *It is sometimes claimed that Newton’s First Law can be verified only in these idealised, frictionless circumstances. But here we see that also in ordinary situations, the net force is zero if the velocity is constant.*

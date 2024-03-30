@@ -34,6 +34,8 @@ In this demonstration metal balls change into ping-pong balls. Of course that is
 ---
 Balls before the transformation
 ```
+<center><i> Figure 1 - Balls before the transformation.</i></center>
+
 
 ## Preparation
 Fill the container with the corn. Push the pingpong balls to the bottom of the container. They should not be visible. Keep the metal balls separate. 
@@ -48,6 +50,9 @@ Put the metal balls on top of the corn, then put the lid on the container and �
 ---
 Balls after the transformation
 ```
+<center><i> Figure 2 - Balls after the transformation.</i></center>
+
+
 Of course nobody will believe that the metal really changed into plastic, but what happened then? Discussion will occur spontaneously. The surprise of this demonstration will captivate, but to figure out the secret one has to do some hard physics thinking.
 Spontaneous reasoning is often going into the right direction, but needs some correction. Chances are that somebody will propose that the metal balls are heavier than the corn. Then let them compare the mass of the three balls with the whole container of corn. Then of course the metal balls are not heavier, but it is not a fair comparison. When you compare more or less equal volumes of corn and metal ball, then the metal ball indeed turns out heavier. That is a good opportunity to discuss density and the meaning of “fair comparison”.
 If the metal balls “sink” because their density is greater than that of corn, can you then also explain that pingpong balls will rise when shaking the container? As a check you can put the Ping-Pong balls at the bottom of the container and leave out the metal balls. It was striking that half of the elementary education majors predicted that in this case the Ping-Pong balls would not rise. The characteristics of the buoyant force apparently are quite counter intuitive.

@@ -15,8 +15,8 @@ kernelspec:
 
 
 Author:     Ed van den Berg and Frank Schweickert\
-Time:	  	  15 minutes
-Age group:	14-18 and special events \\
+Time:	  	  15 minutes\
+Age group:	14-18 and special events \
 Concepts:	  refraction, dispersion, spectrum, rainbow, prism, lens
 
 ## Introduction
@@ -34,6 +34,7 @@ Cover the OHP with white sheets of paper. Put the container with water (about ¾
 ---
 The demo is easy to set up
 ```
+<center><i> Figure 1 - The demo is easy to set up</i></center>
 
 ## Procedure
 1.	When the students come in, the spectrum is already visible on the wall.
