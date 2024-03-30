@@ -48,6 +48,8 @@ Light the candle and put it under the vacuumbell so that smoke is trapped beneat
 ---
 The demo is easy to set up
 ```
+<center><i> Figure 1 - The demo is easy to set up</i></center>
+
 
 ## Procedure
 Start the demo with asking the broad question why it is dark at night even with so many stars. If there are countless stars, would the sky not be bright at night as well? Explain that the vacuumbell can be used as a model for the universe: there are hardly particles in space. Moreover, we can be regarded as a star.
@@ -60,6 +62,7 @@ Turn the laser on and ask students what they observe. Is the laserbeam visible? 
 ---
 The laserbeam is well visible, but the entire bell is illuminated as well!
 ```
+<center><i> Figure 2 - The laserbeam is well visible, but the entire bell is illuminated as well!</i></center>
 
 
 Ask students to write down their observation when you turn on the vacuumpump. If the bell has been sufficiently vacuumed, you can turn off the pump and ask whether there is light visible in the bell jar. Is there still light anyway? Why do we see things, and how do we relate this demo, and what happens, with being dark at night?
@@ -68,8 +71,10 @@ Ask students to write down their observation when you turn on the vacuumpump. If
 :width: 300px
 :align: center
 ---
-When the bell got more and more vcuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.
+When the bell got more and more vacuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.
 ```
+<center><i> Figure 3 - When the bell got more and more vacuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.</i></center>
+
 
 ## Physics background
 To see objects, there needs to be a light-matter interaction. Because the universe is almost entirely empty, these interactions are hardly there. The light that we see at night are directly coming from the stars. Many lightbeams 'miss' the earth and will never be observed. There are some exemptions of the light-matter interactions. The moon does not produce light itself but reflects the light coming from the sun. 
