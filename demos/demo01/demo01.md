@@ -39,7 +39,7 @@ Cut one of the eggs, fill the syringe with it, remove the air, close the syringe
 :width: 300px
 :align: center
 ```
-<center><i> Fig.1 - Some text here.</i></center>
+<center><i> Figure 1 - An unboiled egg in vinegar.</i></center>
 
 
 ***Explanation 2. ‘Water’ has entered the egg.***
@@ -54,7 +54,7 @@ Together, decide which other substances you want to test (include some food colo
 :width: 300px
 :align: center
 ```
-<center><i> Fig.2 - Some text here.</i></center>
+<center><i> Figure 2 - Unboiled egg without its shell.</i></center>
 
 ### 2. Collecting and presenting observations (30 min)
 The second session continues after the plan has been carried out, and the eggs with test substances have been boiled. The observations of the contents by watching and tasting will lead to the following conclusions, among others:
@@ -82,7 +82,7 @@ What causes some substances to pass through both membranes, others to pass throu
 :width: 300px
 :align: center
 ```
-<center><i> Fig.3 - Some text here.</i></center>
+<center><i> Figure 3 - Food coloring penetrates the outer but not the inner membrane.</i></center>
 
 Subsequently suggest, if that has not been done yet: imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the fleeces are not entirely closed but have tiny holes, similar to the pores in your skin. Finally, imagine that in liquids like yolk the particles are all continuously moving criss cross: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about to and fro. It is impossible, however, to see the swarming or shaking of the particles, they are much too small for that, but there are nice simulations to visualize the particles: https://phet.colorado.edu 
 
