@@ -29,6 +29,8 @@ Everything that falls freely should experience an acceleration g? Or not? Are th
 ---
 The experimental setup
 ```
+<center><i> Figure 1 - The experimental setup</i></center>
+
 
 ## Equipment
 * Meter stick or equivalent. 

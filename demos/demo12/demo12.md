@@ -20,7 +20,7 @@ Age group:	15 and up in physics lessons but also at open days or other 'events' 
 Concepts:	  acceleration, mass, inertia, rotational acceleration, rotational inertia (= moment of inertia), center of gravity, mass distribution
 
 ## Introduction
-What does the m mean in F=ma ? Inertia, or 'resistance to acceleration', this is the essence of the mass concept which usually receives little attention. Rotational inertia - "resistance against rotational acceleration" - is usually not included in secondary curricula, but it is very simple and can be spectacularly demonstrated with everyday objects. No time in the secondary curriculum? Ten minutes of inspiration always pay off!
+What does the m mean in $\Sigma$ F=ma ? Inertia, or 'resistance to acceleration', this is the essence of the mass concept which usually receives little attention. Rotational inertia - "resistance against rotational acceleration" - is usually not included in secondary curricula, but it is very simple and can be spectacularly demonstrated with everyday objects. No time in the secondary curriculum? Ten minutes of inspiration always pay off!
 
 ```{figure} dm02_figure2.JPG
 :width: 300px
