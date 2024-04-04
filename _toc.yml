@@ -14,8 +14,7 @@ parts:
   - caption: Pedagogy
     numbered: True
     chapters:  
-    - file: Pedagogy/Introduction
-    
+    - file: Pedagogy/Introduction    
     - file: Pedagogy/Conceptcartoons
       
   - caption: Demos on Nature of Science
@@ -32,7 +31,6 @@ parts:
       - file: demos/demo07/demo07
       - file: demos/demo08/demo08
       
-
   - caption: Demos for scientific inquiry
     numbered: True
     chapters:
@@ -42,6 +40,7 @@ parts:
       title: Demos on scientific inquiry
       sections:
       - file: demos/demo09/demo09
+      - file: demos/demo10/demo10
 
   - caption: Demos for conceptual development
     numbered: True
@@ -53,10 +52,22 @@ parts:
       sections:
       - file: demos/demo02/demo02 #cappucino
       - file: demos/demo03/demo03 #light
-      #- file: demos/demo04/demo04 #stacking blocks
+      - file: demos/demo11/demo11
+      - file: demos/demo12/demo12
+      - file: demos/demo13/demo13
+      - file: demos/demo14/demo14
+      - file: demos/demo15/demo15
+      - file: demos/demo16/demo16
+      - file: demos/demo17/demo17
+      - file: demos/demo18/demo18
+      - file: demos/demo19/demo19
+      - file: demos/demo20/demo20
+      - file: demos/demo21/demo21
+      - file: demos/demo22/demo22
+      - file: demos/demo23/demo23
+      - file: demos/demo24/demo24
+      - file: demos/demo25/demo25
     
-
-
   - caption: Demos for special occasions
     numbered: True
     chapters:
@@ -66,12 +77,8 @@ parts:
       title: Demos for special occasions
       sections:
       - file: demos/demo04/demo04 #should be replaced
-      - file: demos/demo10/demo10
-      - file: demos/demo11/demo11
-      - file: demos/demo12/demo12
-      - file: demos/demo13/demo13
-      - file: demos/demo14/demo14
-      - file: demos/demo15/demo15
+      
+      
 
   - caption: WND 2023
     chapters:
