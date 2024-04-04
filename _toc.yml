@@ -15,7 +15,7 @@ parts:
     numbered: True
     chapters:  
     - file: Pedagogy/Introduction
-    - file: Pedagogy/PoE
+    
     - file: Pedagogy/Conceptcartoons
       
   - caption: Demos on Nature of Science
@@ -60,13 +60,18 @@ parts:
   - caption: Demos for special occasions
     numbered: True
     chapters:
-    - file: demos/demo04/demo04 #should be replaced
-    - file: demos/demo10/demo10
-    - file: demos/demo11/demo11
-    - file: demos/demo12/demo12
-    - file: demos/demo13/demo13
-    - file: demos/demo14/demo14
-    - file: demos/demo15/demo15
+    - file: Pedagogy/PoE
+      title: Predict Observe Explain
+    - file: demos/Specialdemos
+      title: Demos for special occasions
+      sections:
+      - file: demos/demo04/demo04 #should be replaced
+      - file: demos/demo10/demo10
+      - file: demos/demo11/demo11
+      - file: demos/demo12/demo12
+      - file: demos/demo13/demo13
+      - file: demos/demo14/demo14
+      - file: demos/demo15/demo15
 
   - caption: WND 2023
     chapters:
