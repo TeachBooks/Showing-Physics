@@ -2,12 +2,12 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: intro # checked
 parts:
   - caption: Introduction
     numbered: True
     chapters:
-    - file: Introduction/About
+    - file: Introduction/About # checked
     - file: Introduction/Foreword
     - file: Introduction/Authors
 
@@ -78,20 +78,3 @@ parts:
       sections:
       - file: demos/demo04/demo04 #should be replaced
       
-      
-
-  - caption: WND 2023
-    chapters:
-    - file: WND/WND
-      title: WND teaser verslag
-      sections:            
-      - file: WND/Voorwoord
-        title: Voorwoord
-      - file: WND/Programma
-        title: Programma
-      - file: WND/Opening
-        title: Opening
-      - file: WND/Lezingen
-        title: Lezingen
-      - file: WND/Themawedstrijd
-        title: Themawedstrijd
