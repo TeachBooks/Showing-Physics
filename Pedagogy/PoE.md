@@ -11,8 +11,8 @@ All students, therefore, individually formulate their expectations/predictions o
 
 The steps in PEOE are illustrated in Table 1 with the trivial example of a large and small falling stone (Figure 1). (Both the mass and the volume of the stones are different). Many students (and their parents) expect a large stone to fall faster than a small one.
 
-TABLE
-```{table}
+
+```{table} The various steps in the PEOE approach
 | Step | Steps in PEOE | Example |
 |------|---------------|---------|
 | 1    | Show how you will perform the experiment or ask "how can I investigate whether...?". Then come up with a plan for the demonstration with the students and make sure it is clear to all students before they start predicting. | I (teacher) have two stones, a large and a small one. How can I investigate which one falls faster? |
