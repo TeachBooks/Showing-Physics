@@ -12,6 +12,7 @@ copyright: Delft University of Technology, CC BY 4.0
 execute:
   execute_notebooks: force
 
+only_build_toc_files: true
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:

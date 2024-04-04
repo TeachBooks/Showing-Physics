@@ -17,27 +17,45 @@ parts:
     - file: Pedagogy/Introduction
     - file: Pedagogy/PoE
     - file: Pedagogy/Conceptcartoons
-    - file: Pedagogy/Argumentation
-    - file: Pedagogy/BackAndForthThinking
-    - file: Pedagogy/Nos
-    
       
-  - caption: Demos for conceptual development
-    numbered: True
-    chapters:
-    - file: demos/demo02/demo02 #cappucino
-    - file: demos/demo03/demo03 #light
-    #- file: demos/demo04/demo04 #stacking blocks
-    
   - caption: Demos on Nature of Science
     numbered: True
     chapters:
-    - file: demos/demo01/demo01 #particle
-    - file: demos/demo05/demo05
-    - file: demos/demo06/demo06
-    - file: demos/demo07/demo07
-    - file: demos/demo08/demo08
-    - file: demos/demo09/demo09
+    - file: Pedagogy/Nos
+      title: Pedagogy of NoS
+    - file: demos/NOSdemos
+      title: Demos on NoS
+      sections:
+      - file: demos/demo01/demo01 #particle
+      - file: demos/demo05/demo05
+      - file: demos/demo06/demo06
+      - file: demos/demo07/demo07
+      - file: demos/demo08/demo08
+      
+
+  - caption: Demos for scientific inquiry
+    numbered: True
+    chapters:
+    - file: Pedagogy/Argumentation
+      title: Scientific inquiry and argumentation
+    - file: demos/Inquirydemos
+      title: Demos on scientific inquiry
+      sections:
+      - file: demos/demo09/demo09
+
+  - caption: Demos for conceptual development
+    numbered: True
+    chapters:
+    - file: Pedagogy/BackAndForthThinking
+      title: Back-and-forth thinking
+    - file: demos/Conceptdemos
+      title: Demos on conceptual development
+      sections:
+      - file: demos/demo02/demo02 #cappucino
+      - file: demos/demo03/demo03 #light
+      #- file: demos/demo04/demo04 #stacking blocks
+    
+
 
   - caption: Demos for special occasions
     numbered: True
