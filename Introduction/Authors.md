@@ -59,7 +59,7 @@ Karel Langendonck (1974) studied technical physics in Eindhoven. He worked in se
 :width: 50%
 ```
 
-Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has been working as a practicum coordinator at TU Delft's Engineering Physics program. In 2023 he obtained his PhD on practicum didactics, specifically learning to investigate. His research still focuses on the development of research skills and knowledge, but now at the university level. 
+Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has been working as a practicum coordinator at TU Delft's Engineering Physics program. In 2023 he obtained his PhD on practicum didactics, specifically on teaching scientific inquiry. He now is an assistant professor at the Science & Engineering Education department. His research still focuses on the development of teaching experimental physics, but now with a focus on university level. 
 
 
 **Wim Sonneveld** 
@@ -112,7 +112,7 @@ Norbert van Veen (1976) obtained his qualification as a Physics teacher at the H
 Maarten van Woerkom (1944) studied theoretical solid state physics at the Catholic University of Nijmegen. After his studies he was a physics teacher at HBS-b, havo and vwo in Almelo and Groenlo. In that period he was a member of the construction group of final exam papers for the vwo and subsequently for ten years a member of the central exam committee fixing assignments (CEVO). For his merits for Dutch physics education he received the Minnaert Prize in 1994. He was a physics teacher at the University of Twente for ten years.
 
 
-**Contributors**
-Henny Kramer-Pals
+**Contributors**\
+Henny Kramer-Pals\
 Suzanne Schuurman
     

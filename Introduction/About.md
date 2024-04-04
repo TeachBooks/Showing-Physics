@@ -3,8 +3,9 @@
 This book originated in the collaboration between physics teachers and physics teacher trainers, united in the Dutch Society for Science Teachers [(NVON)](https://nvon.nl). The three Dutch volumes of Show*de*Fysica cover over a 200 demonstrations for secondary school physics, along with additional text on the pedagogy of physics demonstrations. Each of these demonstrations are tested by various secondary school physics teachers and their technicians. This ensures that these demonstrations have not only value in their description, but are also accessible by teacher. 
 
 ```{figure} Figures/metalballs.jpeg
-:name: fig:metalballs
-:width: 50%
+---
+name: fig:metalballs
+width: 50%
 ---
 The cooling of two heated metal balls. Which one cools down fastest, the big or the small ball?
 ```
@@ -19,8 +20,9 @@ Demonstrations are fantastic. They offer so many wonderful possibilities that we
 You can read this book, of course, but the main idea is to do the activities described yourself in your classroom and adapt them to your own needs. Therefore, in choosing and developing the demonstrations, we always had in mind a teacher who wants to realize in his or her class activities from which something valuable is learned.
 
 ```{figure} Figures/soapbells.jpg
-:name: fig:soapbells
-:width: 50%
+---
+name: fig:soapbells
+width: 50%
 ---
 Why do soapbells behave strangely in the surrounding of a vanderGraaf generator?
 ```

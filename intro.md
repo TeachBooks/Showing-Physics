@@ -1,6 +1,11 @@
 # Showing Physics
 
-This book presents a selection of the 99 `best`, most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:t}`showdefysica1,showdefysica2,showdefysica3`  as published by the <a href="http://nvon.nl" target="_blank">Dutch Society of Science Teachers</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! 
+```{figure} front.jpg
+:width: 40%
+:align: center
+```
+
+This book presents a selection of the 99 'best', most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:t}`showdefysica1,showdefysica2,showdefysica3` as published by the <a href="http://nvon.nl" target="_blank">Dutch Society of Science Teachers</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! 
 
 The demonstrations are structured using the four categories:
 * Demonstrations on nature of science

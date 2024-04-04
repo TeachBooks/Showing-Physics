@@ -9,7 +9,7 @@ parts:
     chapters:
     - file: Introduction/About # checked
     - file: Introduction/Foreword
-    - file: Introduction/Authors
+    - file: Introduction/Authors 
 
   - caption: Pedagogy
     numbered: True
