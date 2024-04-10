@@ -65,11 +65,11 @@ Berg, E. van den (2012). Natural Science and Engineering: thinking back and fort
 and phenomena, reasoning with concepts and with evidence. NVOX, 2012, 37(4), 176-177. <br>
 
 Naylor, S., Keogh, B. (2010). Concept cartoons in Science Education (revised edition). Millgate House
-Publishers, United Kingdom. <br>
+Publishers, United Kingdom. IN REFERENCES.BIB<br>
 
 Osborne, J. (2011). Science teaching methods: a rationale for practices. School Science Review, December
-2011, 93(343), 93-103. <br>
+2011, 93(343), 93-103. IN REFERENCES.BIB <br>
 
 Spaan, W. Oostdam, R., Schuitema, J. & Pijls, M. (2022) Analyzing teacher behavior in synthesizing
 hands-on and minds-on during practical work, Research in Science & Technological Education, DOI:
-10.1080/02635143.2022.2098265
+10.1080/02635143.2022.2098265 IN REFERENCES.BIB

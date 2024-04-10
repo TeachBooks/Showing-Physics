@@ -18,18 +18,19 @@ Author:     \
 Time:	  	  5 minutes\
 Age group:	15 and up\
 Concepts:	  acceleration of gravity g (=9.81 m/s2), free fall, rotation
-This description was inspired by {cite}`Ehrlich1990`.
+This description was inspired by {cite:t}`Ehrlich1990`.
 
 ## Introduction
-Everything that falls freely should experience an acceleration g? Or not? Are there exceptions? 
+Everything that falls freely should experience an acceleration $g$? Or not? Are there exceptions? 
 
 ```{figure} demo11_figure1.jpg
-:width: 300px
-:align: center
 ---
-The experimental setup
+width: 300px
+align: center
+---
+Are some of the dices falling faster than $g$?
 ```
-<center><i> Figure 1 - The experimental setup</i></center>
+
 
 
 ## Equipment

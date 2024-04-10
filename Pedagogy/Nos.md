@@ -107,7 +107,7 @@ As a teacher, the trick is to properly assess when and with which students you w
 And if you want to talk to your students about stereotypes (Why do so many people think science is mainly for white men?), Margriet van der Heijden's book "Ongekend" gives fascinating insights into how women were often systematically opposed and how their important contributions to science were forgotten.
 
 [//]: <> (ik heb de eerste bron in het nederlands gezet)
-## References
+
 ## References
 ```{bibliography}
 :filter: docname in docnames
