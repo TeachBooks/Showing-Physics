@@ -23,11 +23,13 @@ Concepts:
 A magnet falling through a coil generates an induced voltage. In this demonstration, we observe a magnet falling through a plastic tube and an aluminum tube. Both tubes have six identical coils arranged at equal intervals along the tube. We examine the measured induced voltage over time using the Coach 7 program.
 
 ```{image} demo86_figure1.png
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
+---
+Setup with the aluminum tube on the left and the plastic tube on the right
 ```
 
-<center><i> Figure 1. Setup with the aluminum tube on the left and the plastic tube on the right</center></i>
 
 ## Equipment
 
@@ -45,22 +47,24 @@ Project the Coach 7 screen during the measurement on the whiteboard.
 Press start measurement or F9, Coach 7 will wait for the trigger condition. Let the magnet fall through the plastic tube.
 1. Display the (U,t) diagram of the magnet falling through the plastic tube (see Figure 2).
 
-
 ```{figure} demo86_figure2.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
+---
+Each of the six coils of the plastic tube produces a signal as the falling magnet passes. The differences between the graphs per coil allow for discussion.
 ```
-
-<center><i> Figure 2. Each of the six coils of the plastic tube produces a signal as the falling magnet passes. The differences between the graphs per coil allow for discussion. </center> </i>
 
 2. How do the six graphs differ from each other? Provide an explanation.
 3. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough. (See Figure 3)
 
 ```{figure} demo86_figure3.png
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
+---
+With Coach 7, you can determine the value of the area in Vs.
 ```
-Figure 3. With Coach 7, you can determine the value of the area in Vs.
 
 4. Why should this area be equal?
 5. Repeat the experiment with the aluminum tube.
@@ -87,3 +91,5 @@ Because the product of N·ΔΦ is constant (the number of turns per coil is equa
 ```{bibliography}
 :filter: docname in docnames
 ```
+
+FORMULES NIET OVERGENOMEN, BESTANDEN NOG

@@ -22,12 +22,13 @@ Concepts:
 ## Introduction
 Clouds captivate children's imagination. They resemble cushions from an airplane or on a beautiful day. Often, students do not know how they form. This demonstration quickly and clearly illustrates this. The demonstration is well-suited for meteorology.
 
-```{image} demo88_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo88_figure1.jpg
+---
+width: 300px
+align: center
+---
+Vacuum bell jar, pump, match, and beaker with hot water
 ```
-
-<center><i>Figure 1. Vacuum bell jar, pump, match, and beaker with hot water</center></i>
 
 ## Requirements
 Vacuum pump and bell jar; beaker with hot water; box of matches; towel (to remove condensation from the bell jar after the demonstration).
@@ -40,9 +41,9 @@ Set up the apparatus visibly. Heat some water in a beaker or use hot tap water, 
 2. Start the vacuum pump. The water will start to evaporate. Optionally, you can place a thermometer or temperature sensor under the jar to demonstrate that evaporation extracts energy from the liquid, thus lowering the water temperature.
 3. Clouds form under the jar at a certain air pressure. The jar is no longer transparent.
 4. Would clouds form if you hadn't used the match?
-A. Yes, there would be more cloud formation;
-B. No, there would be no cloud formation;
-C. It makes no difference.
+  A. Yes, there would be more cloud formation;
+  B. No, there would be no cloud formation;
+  C. It makes no difference.
 5. Control question: In what practical situations does this type of cloud formation occur?
 
 ## Physics Background

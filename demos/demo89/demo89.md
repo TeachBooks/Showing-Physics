@@ -23,17 +23,22 @@ Concepts:
 
 Monochromatic LED lamps are suitable for fun and educational demonstrations. They are also excellent for investigation by students themselves. The bright colors in a darkened classroom create an atmosphere that students will surely remember.
 
-```{image} demo89_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo89_figure1.jpg
+---
+width: 300px
+align: center
+---
+The monochromatic LED lamps used.
 ```
-<center> <i> Figure 1. The monochromatic LED lamps used. </center> </i>
 
-```{image} demo89_figure2.jpg
-:width: 300px
-:align: center
+```{figure} demo89_figure2.jpg
+---
+width: 300px
+align: center
+---
+Spectra of the monochromatic RGB LED lamps determined with a spectrometer.
 ```
-<center> <i> Figure 2. Spectra of the monochromatic RGB LED lamps determined with a spectrometer. </center> </i>
+
 
 ## Equipment
 
@@ -59,31 +64,38 @@ a. Place the LED lamp at an appropriate distance from the spectrometer or ensure
 b. Let the beams overlap and discuss the mixed colors of light. It is also fun to create a shadow with different colors. Let students reason in what order you laid the LED lamps. See figure 3.
 c. Shine the red LED lamp on a TV in a darkened room. Discuss the diffraction spectrum you see. Ask the students to predict how the spectrum of green and blue differs from the displayed spectrum (figure 4).
 
-```{image} demo89_figure3.jpg
-:width: 300px
-:align: center
+```{figure} demo89_figure3.jpg
+---
+width: 300px
+align: center
+---
+Color Shadow: the LED lamps are placed next to each other, but in what order?
 ```
-<center> <i> Figure 3. Color Shadow: the LED lamps are placed next to each other, but in what order? </center> </i>
 
 
-```{image} demo89_figure4.jpg
-:width: 300px
-:align: center
+```{figure} demo89_figure4.jpg
+---
+width: 300px
+align: center
+---
+Diffraction spectra of three colors on the surface of a TV screen caused by the pixel pattern of the LED TV.
 ```
-<center> <i> Figure 4. Diffraction spectra of three colors on the surface of a TV screen caused by the pixel pattern of the LED TV. </center> </i>
 
-```{image} demo89_figure5.jpg
-:width: 300px
-:align: center
+```{figure} demo89_figure5.jpg
+---
+width: 300px
+align: center
+---
+Scattering on a ball.
 ```
-<center> <i> Figure 5. Scattering on a ball. </center> </i>
 
-
-```{image} demo89_figure6.jpg
-:width: 300px
-:align: center
+```{figure} demo89_figure6.jpg
+---
+width: 300px
+align: center
+---
+Determination of the strength of a lens. The lens is placed in a holder. This holds the lens at a fixed distance from the paper. On the paper, a measurement of 0.5 cm is marked. When looking through the lens, it is now enlarged to 1.0 cm. The magnification here is therefore -2.0.
 ```
-<center> <i> Figure 6. Determination of the strength of a lens. The lens is placed in a holder. This holds the lens at a fixed distance from the paper. On the paper, a measurement of 0.5 cm is marked. When looking through the lens, it is now enlarged to 1.0 cm. The magnification here is therefore -2.0. </center> </i>
 
 
 ## Physics background
@@ -97,3 +109,5 @@ e. Figure 8 shows how the magnification is determined. In another situation, we 
 
 • The LED lamps used were purchased from various online stores. Look for the light intensity that the LED lamps generate and choose ones that emit a lot of light.
 • The inexpensive soccer balls were purchased at Action, but you can also do the demonstration with ping pong balls.
+
+NOG EEN BESTAND TOEVOEGEN

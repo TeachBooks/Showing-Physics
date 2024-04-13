@@ -49,14 +49,13 @@ Tell them that you're going to do the same with a green laser pointer. Let stude
 
 Students may write something like: "The light is green at first, turns orange in the olive oil, and then turns green again". This statement seems correct, but how does the color change of the light work then? How does a green beam of light become orange and then green again? Why do we see the light from the middle of the olive oil as orange and not turned back to green?
 
-## Figure 1
-
-```{image} demo87_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo87_figure1.jpg
+---
+width: 300px
+align: center
+---
+The green laser beam appears to turn orange in olive oil. (Photo: Rutger Ockhorst.) 
 ```
-
-<center><i> Figure 1: The green laser beam appears to turn orange in olive oil. (Photo: Rutger Ockhorst.) </center> </i>
 
 Discuss with the (qualitative) energy level diagram of chlorophyll (Figure 2): a photon with sufficient energy can be absorbed, and then another photon is emitted. This is called fluorescence. The emitted photon can have at most the energy of the absorbed photon. There is no source that can provide extra energy.
 
@@ -66,11 +65,14 @@ Help students describe and draw the process themselves as much as possible, wher
 
 ## Physics Background
 
-```{image} demo87_figure2.jpg
-:width: 300px
-:align: center
+```{image} demo87_figure2.png
+---
+width: 300px
+align: center
+---
+Energy level diagram for fluorescence in olive oil
 ```
-<center><i> Figure 2: Energy level diagram for fluorescence in olive oil </center> </i>
+
 
 The energy of photons follows from Ef = hf. For the frequencies, it holds true: fred < forange < fgreen. During fluorescence, a (here green) photon is absorbed by the system, and part of the energy is released (how is unimportant) as the system returns to the ground state. See figure 2. The emitted photon, in the case of chlorophyll, orange, has at most the energy of the original photon. An orange photon cannot be replaced by a green photon later on, as the additional energy required is lacking. The red beam of light remained red for another reason. Apparently, a red photon has too little energy to be absorbed; it can at most be scattered without a change in energy.
 

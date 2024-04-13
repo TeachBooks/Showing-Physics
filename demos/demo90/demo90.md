@@ -23,11 +23,13 @@ Concepts:
 
 A wine glass and a small ball are easy to find in any school. With some practice, the ball can be kept spinning inside the inverted glass for quite some time. Beginners use a wine glass with a narrower bowl that tapers upwards. Skilled demonstrators use a wine glass with less tapering.
 
-```{image} demo90_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo90_figure1.jpg
+---
+width: 300px
+align: center
+---
+A wine glass with a ball describing circles.
 ```
-<center> <i> Figure 1. A wine glass with a ball describing circles. </center> </i>
 
 ## Equipment
 Wine glass; plastic ball with a bright color.

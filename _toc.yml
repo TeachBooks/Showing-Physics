@@ -67,6 +67,8 @@ parts:
       - file: demos/demo23/demo23
       - file: demos/demo24/demo24
       - file: demos/demo25/demo25
+      - file: demos/demo86/demo86
+      - file: demos/demo87/demo87
     
   - caption: Demos for special occasions
     numbered: True
@@ -77,4 +79,7 @@ parts:
       title: Demos for special occasions
       sections:
       - file: demos/demo04/demo04 #should be replaced
+      - file: demos/demo88/demo88
+      - file: demos/demo89/demo89
+      - file: demos/demo90/demo90
       
