@@ -19,6 +19,18 @@ Time:	  10 minutes	\
 Age group:	14 - 18\
 Concepts:	
 
+<div style='text-align: center;'>
+
+```{code-cell} ipython3
+:tags: [remove-input]
+from IPython.display import YouTubeVideo
+VideoWidth=600
+YouTubeVideo("pENy-iNx1u4?si=lEsB0RblzxcJTe-C", width=VideoWidth, align='center')
+```
+
+</div>  
+
+
 ## Introduction
 
 A wine glass and a small ball are easy to find in any school. With some practice, the ball can be kept spinning inside the inverted glass for quite some time. Beginners use a wine glass with a narrower bowl that tapers upwards. Skilled demonstrators use a wine glass with less tapering.

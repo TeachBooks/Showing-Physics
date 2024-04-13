@@ -22,10 +22,10 @@ Concepts:
 ## Introduction
 This is a demonstration that everyone must see because it contains so much beautiful physics. Depending on the purpose, you can emphasize different aspects.
 
-```{image} demo74_fig1.JPG
+```{figure} demo74_fig1.JPG
 ---
-:width: 300px
-:align: center
+width: 300px
+align: center
 ---
 The density current is visible
 ```
@@ -48,10 +48,10 @@ It's nice to attach an ice cream to a stand. You can also feel the flow by holdi
 
 ***What direction does the flow have?***
 
-```{image} demo74_fig2.JPG
+```{figure} demo74_fig2.JPG
 ---
-:width: 300px
-:align: center
+width: 300px
+align: center
 ---
 Some caption
 ```

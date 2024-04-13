@@ -29,8 +29,8 @@ Concepts:
 
 ```{figure} demo02_figure2.JPG
 ---
-:width: 300px
-:align: center
+width: 300px
+align: center
 ---
 The demo is easy to set up
 ```

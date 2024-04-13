@@ -39,7 +39,6 @@ align: center
 Spectra of the monochromatic RGB LED lamps determined with a spectrometer.
 ```
 
-
 ## Equipment
 
 Monochromatic LED lamps in red, green, and blue are required for all the following components:
@@ -103,7 +102,7 @@ a. The spectrum of the lamps is reasonably monochromatic.
 b. The mixed colors of light are well known; second-grade material.
 c. The shortest wavelength has the smallest deflection. In figure 5, it can be seen that the diffraction spectrum on the LED TV is a combination of a double and single slit.
 d. The light from the LED lamp enters the white ball and is internally diffusely scattered. The entire ball will then emit the color of the lamp.
-e. Figure 8 shows how the magnification is determined. In another situation, we found: N = -3.0. Distance from the lens to the paper: v = 0.68 cm measured. For b, we find: -2.0 cm. (b is virtual). Using the lens formula: f = 1.0 cm or S = 1.0·102 dpt.
+e. Figure 8 shows how the magnification is determined. In another situation, we found: $N$ = -3.0. Distance from the lens to the paper: $v$ = 0.68 cm measured. For $b$, we find: -2.0 cm. ($b$ is virtual). Using the lens formula: $f$ = 1.0 cm or S = 1.0·10$^2$ dpt.
 
 ## Tips
 
