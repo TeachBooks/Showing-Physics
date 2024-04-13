@@ -27,7 +27,8 @@ Concepts:
 
 ## Procedure
 
-```{figure} dm02_figure2.JPG
+```{figure} demo02_figure2.JPG
+---
 :width: 300px
 :align: center
 ---
