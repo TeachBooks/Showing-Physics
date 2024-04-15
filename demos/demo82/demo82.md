@@ -22,17 +22,22 @@ Concepts:
 ## Introduction
 A transit of an exoplanet is a distant concept for many students. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
 
-```{image} dm82_figure1.JPEG
-:width: 300px
-:align: center
+```{image} dm82_figure1.jpeg
+---
+width: 300px
+align: center 
+---
+Setup to measure a transit.
 ```
-<center><i> Figure 1. Setup to measure a transit. </i></center>
 
-```{image} dm82_figure2.PNG
-:width: 300px
-:align: center
+
+```{image} dm82_figure2.png
+---
+width: 300px
+align: center 
+---
+The light dip of the transit.
 ```
-<center><i> Figure 2. The light dip of the transit. </i></center>
 
 ## Equipment
 LED lamp (large opaque lamp) in holder; measuring tape; caliper; light sensor; sphere in a rider of an optical case.

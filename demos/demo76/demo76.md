@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# A Balloon that Can Do Everything
-###  Sinking, Floating, and Hovering Balloon
+# A Balloon that Can Do Everything: Sinking, Floating, and Hovering Balloon
 
 Author:     \
 Time:	  	10 minutes\

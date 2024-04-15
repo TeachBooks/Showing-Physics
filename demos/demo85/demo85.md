@@ -65,7 +65,3 @@ Then, a discussion follows about an explanation. The third and fourth observatio
 ## Physics background
 The explanation is best linked to the third and fourth observations in the situation of Figure 2 where the third light bulb has just been connected: the temperature of bulb 1 and 2 is higher than that of bulb 3 because bulbs 1 and 2 have just lit up and bulb 3 has not. Therefore, at the moment of connection, the resistance of bulbs 1 and 2 is higher than that of bulb 3, and thus bulbs 1 and 2 receive a larger share of the voltage in this series circuit. After connecting, the temperature of bulb 3 increases, so it receives more and more voltage (and bulbs 1 and 2 receive less, but the decrease in brightness is not visible to the naked eye). The fourth observation: as more bulbs are in series, the total resistance is greater, and thus the current is smaller, causing the temperature of the last bulb to increase more slowly. This leads to a slower increase in voltage across it and thus a slower increase in brightness. Finally, what happens to the current: the resistance of the last connected bulb increases, so the total resistance in the circuit increases and the current decreases.
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```

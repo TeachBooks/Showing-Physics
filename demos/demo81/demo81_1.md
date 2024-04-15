@@ -24,17 +24,22 @@ Concepts:
 This demonstration, if executed properly, generates a lot of noise at an irritating pitch. A demonstration that students will certainly not forget. By choosing the correct positions on the rod, you can even 'play' two overtones. Frequency measurements are straightforward, and the link to the physics of musical instruments is quickly established.
 
 
-```{image} dm81_1_figure1.JPG
-:width: 300px
-:align: center
+```{image} dm81_1_figure1.jpg
+---
+width: 300px
+align: center 
+---
+Hold the rod in the middle for the fundamental tone.
 ```
-<center><i> Figure 1. Hold the rod in the middle for the fundamental tone. </i></center>
 
-```{image} dm81_1_figure2.PNG
-:width: 300px
-:align: center
+
+```{image} dm81_1_figure2.png
+---
+width: 300px
+align: center 
+---
+Hold the rod a quarter length from the top for the first overtone.
 ```
-<center><i> Figure 2. Hold the rod a quarter length from the top for the first overtone. </i></center>
 
 ## Equipment
 Measuring tape; aluminum rod (over 1 m long); fine sandpaper or a hammer; felt-tip pen or pencil; sound sensor with Coach 7 or phyphox app (Audio spectrum).
@@ -60,26 +65,34 @@ For the fundamental tone, there is a node in the middle and a antinode at the en
 $$
 f = \frac{n \cdot v_{Al}}{2l}
 $$
+
 ```{image} dm81_1_figure3.JPG
-:width: 300px
-:align: center
+---
+width: 300px
+align: center 
+---
+The transversely drawn fundamental tone and the first overtone.
 ```
-<center><i> Figure 3. The transversely drawn fundamental tone and the first overtone. </i></center>
 
 The speed of sound in the rod can be calculated with: $ v = \sqrt{\frac{E}{\rho}} $
 Here, E is the elastic modulus of the material used (71 GPa for aluminum) and ρ is the density of the rod. Conversely, you can use the measured frequency to determine the elastic modulus of the material.
 
 When 'playing' the overtone, the nodes are at a quarter and three-quarter length of the rod.
 
-```{image} dm81_1_figure4a.JPG
-:width: 300px
-:align: center
+```{image} dm81_1_figure4a.jpg
+---
+width: 300px
+align: center 
+---
 ```
-```{image} dm81_1_figure4b.PNG
-:width: 300px
-:align: center
+
+```{image} dm81_1_figure4b.png
+---
+width: 300px
+align: center 
+---
+Results of audio spectrum measurement with phyphox and Fourier analysis in Coach 7 
 ```
-<center><i> Figure 4. Results of audio spectrum measurement with phyphox and Fourier analysis in Coach 7 </i></center>
 
 
 ## Tips

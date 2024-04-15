@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Shadow of a flame
-### Visualisation of heat flow
+# Shadow of a flame: Visualisation of heat flow
 
 Author:     \
 Time:	  	15-20 minutes\
@@ -59,7 +58,3 @@ Some caption
 ## Physics background
 "The flame heats the air. The density of the warm air is now lower than that of the surroundings, causing it to rise. Due to the density difference in the air, light passes through different media and undergoes refraction. This can be seen as 'the shadow of the flame'. The flow visible here is an example of this. Initially, there is laminar flow, but it becomes turbulent at a certain point. Gently wave your hand and you'll see the laminar flow immediately become turbulent.
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```

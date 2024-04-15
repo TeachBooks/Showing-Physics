@@ -22,18 +22,23 @@ Concepts:
 ## Introduction
 The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, you make the Lorentz force on ions in solution convincingly visible. The Lorentz force is already known, so students can engage in robust back-and-forth thinking in this situation.
 
-```{image} dm84_figure1.JPG
-:width: 300px
-:align: center
+```{image} dm84_figure1.jpg
+---
+width: 300px
+align: center 
+---
+Setup with a salt solution in an aquarium tank with two electrodes connected to a DC power source. Two disk magnets are placed under the aquarium. The dye is located directly above the magnets. No current is flowing yet.
 ```
-<center><i> Figure 1. Setup with a salt solution in an aquarium tank with two electrodes connected to a DC power source. Two disk magnets are placed under the aquarium. The dye is located directly above the magnets. No current is flowing yet. </i></center>
 
 
-```{image} dm84_figure2.JPG
-:width: 300px
-:align: center
+
+```{image} dm84_figure2.jpg
+---
+width: 300px
+align: center 
+---
+The situation immediately after the current has been switched on for about one second. A force perpendicular to the direction of the current is generated above the magnets, causing a vortex. The magnets have become visible.
 ```
-<center><i> Figure 2. The situation immediately after the current has been switched on for about one second. A force perpendicular to the direction of the current is generated above the magnets, causing a vortex. The magnets have become visible. </i></center>
 
 
 ## Equipment
@@ -53,10 +58,12 @@ Control question: The teacher provides a sketch of the result and asks the stude
 
 ## Physics background
 ```{image} dm84_figure3.PNG
-:width: 300px
-:align: center
+---
+width: 300px
+align: center 
+---
+Force diagram for a positive and a negative ion for the upper magnet from figures 1 and 2. The sequence of reasoning is: direction of FL is observed, direction of v follows from potential direction, direction of I follows from v and particle charge, combining and applying hand rule gives direction of B (upward out of the water).
 ```
-<center><i> Figure 3. Force diagram for a positive and a negative ion for the upper magnet from figures 1 and 2. The sequence of reasoning is: direction of FL is observed, direction of v follows from potential direction, direction of I follows from v and particle charge, combining and applying hand rule gives direction of B (upward out of the water). </i></center>
 
 
 ## Tips
