@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Optics with LED Lamps
-### LED Lamps Provide Fun and Insight.
+# Optics with LEDs: LEDs Provide Fun and Insight.
 
 Author:     \
 Time:	  10 to 15 minutes	\
@@ -21,14 +20,14 @@ Concepts:
 
 ## Introduction
 
-Monochromatic LED lamps are suitable for fun and educational demonstrations. They are also excellent for investigation by students themselves. The bright colors in a darkened classroom create an atmosphere that students will surely remember.
+Monochromatic LEDs are suitable for fun and educational demonstrations. They are also excellent for investigation by students themselves. The bright colors in a darkened classroom create an atmosphere that students will surely remember.
 
 ```{figure} demo89_figure1.jpg
 ---
 width: 300px
 align: center
 ---
-The monochromatic LED lamps used.
+The monochromatic LEDs used.
 ```
 
 ```{figure} demo89_figure2.jpg
@@ -36,12 +35,12 @@ The monochromatic LED lamps used.
 width: 300px
 align: center
 ---
-Spectra of the monochromatic RGB LED lamps determined with a spectrometer.
+Spectra of the monochromatic RGB LEDs determined with a spectrometer.
 ```
 
 ## Equipment
 
-Monochromatic LED lamps in red, green, and blue are required for all the following components:
+Monochromatic LEDs in red, green, and blue are required for all the following components:
 a. Making spectrum: spectrometer; measurement program such as Coach.
 b. Overlap of light beams: white screen or ceiling.
 c. Showing diffraction spectra: LED TV or laptop screen.

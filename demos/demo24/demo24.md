@@ -45,7 +45,7 @@ Paint a wooden board (any size) a few times with "glow in the dark" paint. Make 
 7.	*How can we explain these results?* The expected answer is that “something” is excited by the laser light that then decays while emitting light. That “something” could be atoms of a special paint.
 8.	The teacher presents one-by-one the four energy schemes of figure 3 and asks: could this be the proper energy diagram? Which property fits and which one does not? The alternative is that students in duo’s or trio’s discuss diagrams A, B, C, and D and consider to what extent these diagrams can or cannot explain the phenomena.
 
-```{Possible explanations of emission with the energy schemes}
+```{admonition} Possible explanations of emission with the energy schemes
 In energy scheme A emission should have the same color as the laser light because the distance between energy levels is the same for excitation and emission (levels 1 and 3). 
 In energy scheme B the emission energy is indeed lower (from 3 to 2, green and not blue) but one would also expect emission of violet (directly from 3 to 1). Also, one might expect to cause also excitation with a green laser (directly from 2 to 3) which does not seem to happen.
 Option C seems more likely (level 2 closer to level 3) but also here one would expect emission of both violet (from 3 to 1) and green light (from 2 to 1), and why is there no excitation from 1 to 2 directly with a green laser?

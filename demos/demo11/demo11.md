@@ -18,7 +18,7 @@ Author:     \
 Time:	  	  5 minutes\
 Age group:	15 and up\
 Concepts:	  acceleration of gravity g (=9.81 m/s2), free fall, rotation
-This description was inspired by {cite:t}`Ehrlich1990`.
+This description was inspired by {cite:t}`ehrlich1990`.
 
 ## Introduction
 Everything that falls freely should experience an acceleration $g$? Or not? Are there exceptions? 
@@ -54,7 +54,7 @@ Think how the visibility of observations can be maximized. For example, put a ch
 10.	Rotation physics is often not in the curriculum. So we will not derive theoretically that the point with acceleration g is at 2/3th of the meter stick. But we do ask our students for examples of similar phenomena.  For example, a ladder which is put up too steep and turns over, a factory chimney which is blown up and falls over, a swimmer who stands on the diving board and lets himself fall over without jumping, etc. 
 
 ```{tip}
-Using the coins as indicator one can investigate shorter and longer sticks. You can move the center of mass of the stick by taping on pieces of wood in different positions. You can also conduct video measurement using films from the iPhone or a high-speed camera. Students could do projects and could then study rotational physics first, for example from well known physics texts such as {cite}`Young2014`.
+Using the coins as indicator one can investigate shorter and longer sticks. You can move the center of mass of the stick by taping on pieces of wood in different positions. You can also conduct video measurement using films from the iPhone or a high-speed camera. Students could do projects and could then study rotational physics first, for example from well known physics texts such as {cite}`young2014`.
 ```
 
 ## Physics background

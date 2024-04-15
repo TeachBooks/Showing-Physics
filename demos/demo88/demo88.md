@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Cloud Formulation
+# Cloud Formation
 
 
 Author:     \

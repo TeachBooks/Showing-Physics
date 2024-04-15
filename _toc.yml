@@ -67,6 +67,20 @@ parts:
       - file: demos/demo23/demo23
       - file: demos/demo24/demo24
       - file: demos/demo25/demo25
+
+      - file: demos/demo74/demo74
+      - file: demos/demo75/demo75
+      - file: demos/demo76/demo76
+      - file: demos/demo77/demo77
+      - file: demos/demo78/demo78
+      - file: demos/demo79/demo79
+      - file: demos/demo80/demo80
+      - file: demos/demo81/demo81_1
+      - file: demos/demo81/demo81_2  
+      - file: demos/demo82/demo82
+      - file: demos/demo83/demo83
+      - file: demos/demo84/demo84
+      - file: demos/demo85/demo85
       - file: demos/demo86/demo86
       - file: demos/demo87/demo87
     
