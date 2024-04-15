@@ -22,13 +22,29 @@ Concepts:	  acceleration, mass, inertia, rotational acceleration, rotational ine
 ## Introduction
 What does the m mean in $\Sigma$ F=ma ? Inertia, or 'resistance to acceleration', this is the essence of the mass concept which usually receives little attention. Rotational inertia - "resistance against rotational acceleration" - is usually not included in secondary curricula, but it is very simple and can be spectacularly demonstrated with everyday objects. No time in the secondary curriculum? Ten minutes of inspiration always pay off!
 
-```{figure} dm02_figure2.JPG
-:width: 300px
-:align: center
+```{figure} demo12_figure1.jpg
 ---
-The demo is easy to set up
+width: 300px
+align: center
+---
+SOME Caption
 ```
 
+```{figure} demo12_figure2.jpg
+---
+width: 300px
+align: center
+---
+SOME Caption
+```
+
+```{figure} demo12_figure3.jpg
+---
+width: 300px
+align: center
+---
+SOME Caption
+```
 ## Equipment
 A glass of water on a dry sheet of A4 paper; a ballpoint or pencil; a slightly longer stick or rod; a hammer; a meterstick or a rod; a broom; a broomstick or PVC pipe; other items of your choice; a full roll of toilet paper and one that is almost finished
 
