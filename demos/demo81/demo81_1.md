@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Singing Rod
-### Tones and Overtones
+# Singing Rod: Tones and Overtones
 
 
 Author:     \

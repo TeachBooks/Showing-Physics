@@ -47,7 +47,7 @@ Blow over the short tube to confirm.
 5. Blow hard over the tube. You will clearly hear an overtone that you can measure. Check: *Make a drawing of a possible overtone in the tube. Calculate the resonant frequency based on that drawing.*\
 Verify this frequency with a measurement.
 
-```{image} dm79_figure2.jpg
+```{figure} dm79_figure2.jpg
 ---
 width: 300px
 align: center

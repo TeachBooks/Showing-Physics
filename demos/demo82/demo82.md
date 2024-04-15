@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Transit of a Sphere
-### Simulating Planet Transits
+# Transit of a Sphere: Simulating Planet Transits
 
 Author:     \
 Time:	10 minutes\
@@ -22,7 +21,7 @@ Concepts:
 ## Introduction
 A transit of an exoplanet is a distant concept for many students. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
 
-```{image} dm82_figure1.jpeg
+```{figure} dm82_figure1.jpeg
 ---
 width: 300px
 align: center 
@@ -31,7 +30,7 @@ Setup to measure a transit.
 ```
 
 
-```{image} dm82_figure2.png
+```{figure} dm82_figure2.png
 ---
 width: 300px
 align: center 
