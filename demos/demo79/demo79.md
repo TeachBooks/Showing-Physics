@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Physics of the Panflute
-### Determination of the Speed of Sound
+# Physics of the Panflute: Determination of the Speed of Sound
 
 Author:     \
 Time:	  	15-20 minutes\

@@ -29,12 +29,13 @@ In this demonstration metal balls change into ping-pong balls. Of course that is
 * any container. 
 
 ```{figure} demo08_figure1.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 Balls before the transformation
 ```
-<center><i> Figure 1 - Balls before the transformation.</i></center>
+
 
 
 ## Preparation
@@ -45,13 +46,12 @@ Show the metal balls to the audience, pass them along. Meanwhile tell them that 
 Put the metal balls on top of the corn, then put the lid on the container and “heat” the corn by shaking the container. The metal balls will sink while the Ping-Pong balls will rise. Open the container: no more metal balls, but instead Ping-Pong balls (figure 2)!
 
 ```{figure} demo08_figure2.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 Balls after the transformation
 ```
-<center><i> Figure 2 - Balls after the transformation.</i></center>
-
 
 Of course nobody will believe that the metal really changed into plastic, but what happened then? Discussion will occur spontaneously. The surprise of this demonstration will captivate, but to figure out the secret one has to do some hard physics thinking.
 Spontaneous reasoning is often going into the right direction, but needs some correction. Chances are that somebody will propose that the metal balls are heavier than the corn. Then let them compare the mass of the three balls with the whole container of corn. Then of course the metal balls are not heavier, but it is not a fair comparison. When you compare more or less equal volumes of corn and metal ball, then the metal ball indeed turns out heavier. That is a good opportunity to discuss density and the meaning of “fair comparison”.

@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 When a vibration is applied to the end of a taut cord, under certain conditions, a standing wave can arise in the cord. The frequency of the vibration, the wave speed of the resulting wave in the cord, and the length of the cord must be in the correct proportions to each other. In the standard classroom experiment, you often vary the frequency. But what if you keep the frequency constant and take the wave speed and the length of the cord as variables? We use an electric toothbrush as the vibration source.
 
-```{image} dm77_figure1.JPG
+```{figure} dm77_figure1.JPG
 ---
 width: 300px
 align: center
@@ -69,7 +69,7 @@ $$\lambda^2=\frac{F_s}{\rho_L f^2}$$
 
 By plotting the square of the wavelength against the tension in the cord in a diagram, a proportional relationship arises. The slope of the graph is equal to and from this, you can then calculate the frequency. An example of a graph is shown in Figure 2.
 
-```{image} dm77_figure2.jpg
+```{figure} dm77_figure2.jpg
 ---
 width: 300px
 align: center

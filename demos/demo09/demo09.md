@@ -23,12 +23,12 @@ Concepts:	  phases of water, evaporation, condensation, combustion, air, oxygen
 Just above the surface of boiling water, nothing noteworthy seems to be happening or visible. Slightly higher, however, a kind of rising fog is seen. An object placed in that fog gets wet: the fog consists of water droplets. But then what fills the space between the bubbling water and the fog? Is that ‘just hot air’, or not? How could you investigate that?
 
 ```{figure} demo09_figure1.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The required materials
 ```
-<center><i> Figure 1 - The required materials.</i></center>
 
 
 ## Equipment
@@ -52,13 +52,12 @@ Bring the burning candle down into the kettle, and note that it goes out. Summar
 * water droplets float above the kettle.
 
  ```{figure} demo09_figure2.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 Above the kettle, the flame burns somewhat weaker
 ```
-<center><i> Figure 2 - Above the kettle, the flame burns somewhat weaker</i></center>
-
 
 Draw a conclusion together. It may well be that the conclusion is not that there is water vapor above the liquid. That is not proven. What we can agree on is: 
 
@@ -69,12 +68,12 @@ Draw a conclusion together. It may well be that the conclusion is not that there
 The substance concerned has a name, "steam". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration by together establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
 
 ```{figure} demo09_figure3.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 Inside the kettle, above the water, the flame extinguishes
 ```
-<center><i> Figure 3 - Inside the kettle, above the water, the flame extinguishes</i></center>
 
 
 ```{warning}

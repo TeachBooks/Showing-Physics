@@ -62,7 +62,7 @@ Help students describe and draw the process themselves as much as possible, wher
 
 ## Physics Background
 
-```{image} demo87_figure2.png
+```{figure} demo87_figure2.png
 ---
 width: 40%
 align: center

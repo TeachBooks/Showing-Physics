@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Slow Bulbs
-### PTC Behavior of Filament Made Visible
+# Slow Bulbs: PTC Behavior of Filament Made Visible
 
 
 Author:     \

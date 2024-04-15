@@ -24,7 +24,7 @@ Concepts:
 This demonstration, if executed properly, generates a lot of noise at an irritating pitch. A demonstration that students will certainly not forget. By choosing the correct positions on the rod, you can even 'play' two overtones. Frequency measurements are straightforward, and the link to the physics of musical instruments is quickly established.
 
 
-```{image} dm81_1_figure1.jpg
+```{figure} dm81_1_figure1.jpg
 ---
 width: 300px
 align: center 
@@ -33,7 +33,7 @@ Hold the rod in the middle for the fundamental tone.
 ```
 
 
-```{image} dm81_1_figure2.png
+```{figure} dm81_1_figure2.png
 ---
 width: 300px
 align: center 
@@ -66,7 +66,7 @@ $$
 f = \frac{n \cdot v_{Al}}{2l}
 $$
 
-```{image} dm81_1_figure3.JPG
+```{figure} dm81_1_figure3.JPG
 ---
 width: 300px
 align: center 
@@ -79,14 +79,14 @@ Here, E is the elastic modulus of the material used (71 GPa for aluminum) and ρ
 
 When 'playing' the overtone, the nodes are at a quarter and three-quarter length of the rod.
 
-```{image} dm81_1_figure4a.jpg
+```{figure} dm81_1_figure4a.jpg
 ---
 width: 300px
 align: center 
 ---
 ```
 
-```{image} dm81_1_figure4b.png
+```{figure} dm81_1_figure4b.png
 ---
 width: 300px
 align: center 

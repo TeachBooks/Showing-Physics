@@ -28,13 +28,14 @@ An old fashioned overhead projector (OHP) of which the upper convex lens is remo
 ## Preparation
 Cover the OHP with white sheets of paper. Put the container with water (about ¾ filled) on top of this and arrange the papers such that there is a narrow slit (up to 1 cm) next to the container where the light can pass through (figure 3).  Set-up and try out. 
 
-```{figure} dm06_figure2.JPG
-:width: 300px
-:align: center
+<!-- ```{figure} dm06_figure2.JPG
+---
+width: 300px
+align: center
 ---
 The demo is easy to set up
-```
-<center><i> Figure 1 - The demo is easy to set up</i></center>
+``` 
+-->
 
 ## Procedure
 1.	When the students come in, the spectrum is already visible on the wall.

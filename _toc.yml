@@ -43,7 +43,7 @@ parts:
       - file: demos/demo10/demo10
 
   - caption: Demos for conceptual development part 1
-    numbered: True
+    numbered: 3
     chapters:
     - file: Pedagogy/BackAndForthThinking
       title: Back-and-forth thinking
