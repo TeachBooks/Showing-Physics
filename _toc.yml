@@ -71,10 +71,10 @@ parts:
   - caption: Demos for conceptual development part 2
     numbered: True
     chapters:
-    - file: Pedagogy/BackAndForthThinking
-      title: Back-and-forth thinking
-    - file: demos/Conceptdemos
-      title: Demos on conceptual development
+    - file: Pedagogy/Empty
+      title: To be replaced
+    - file: demos/Conceptdemos2
+      title: To be replaced 2
       sections:
       - file: demos/demo74/demo74
       - file: demos/demo75/demo75
