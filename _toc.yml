@@ -3,9 +3,10 @@
 
 format: jb-book
 root: intro # checked
+
 parts:
   - caption: Introduction
-    numbered: 2
+    numbered: true
     chapters:
     - file: Introduction/About # checked
     - file: Introduction/Foreword
@@ -15,7 +16,6 @@ parts:
     numbered: 2
     chapters:  
     - file: Pedagogy/Introduction    
-    - file: Pedagogy/Conceptcartoons
       
   - caption: Demos on Nature of Science
     numbered: 2
@@ -72,8 +72,8 @@ parts:
   - caption: "Demos for conceptual development: mechanics, "
     numbered: 2
     chapters:
-    - file: Pedagogy/Empty
-      title: To be replaced
+    - file: Pedagogy/Conceptcartoons
+      title: Concept cartoons
     - file: demos/Conceptdemos2
       title: To be replaced 2
       sections:
