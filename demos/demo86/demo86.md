@@ -22,7 +22,7 @@ Concepts:
 ## Introduction
 A magnet falling through a coil generates an induced voltage. In this demonstration, we observe a magnet falling through a plastic tube and an aluminum tube. Both tubes have six identical coils arranged at equal intervals along the tube. We examine the measured induced voltage over time using the Coach 7 program.
 
-```{image} demo86_figure1.png
+```{figure} demo86_figure1.png
 ---
 width: 300px
 align: center

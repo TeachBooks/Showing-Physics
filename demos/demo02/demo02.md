@@ -12,12 +12,13 @@ Concepts:	Heat of vaporization ($L_v$) and condensation, specific heat, applying
 A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to a cup of espresso. Whole milk is best for foaming and the ideal milk temperature when adding it to the espresso is 65°C. The espresso itself may be warmer than that. During the heating the milk should not burn as that would spoil the taste. The best way is to heat the milk slowly while stirring to froth the milk and create foam. But modern cappuccino machines in restaurants do not have time for slow heating. Could we heat the milk by just adding hot water?
 
 ```{figure} dm02_figure2.JPG
-:width: 300px
-:align: center
 ---
-The demo is easy to set up
+width: 300px
+align: center
+---
+A cappuccino
 ```
-<center><i> Figure 1 - A cappuccino</i></center>
+
 
 
 That’s the question we pose to our high school students first. How many mL of 90 oC hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4 oC) to 65 $^o$C? Assume that the specific heat of milk is the same as that of water. Students answer the question on a worksheet and practise their computation skills. The answer: 122 g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. What would the answer be if we use boiling hot water of 100 oC? Students calculate again then the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
@@ -52,12 +53,13 @@ A cappuccino is made by ...... (here follows the text of the introduction but **
 > *That is very high, 665 $^o$C, that is not going to work. Let’s now look at what happens if we use steam, which is what we get when we heat water above 100$^o$C.*
 
 ```{figure} dm02_figure1.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The demo is easy to set up
 ```
-<center><i> Figure 2 - The demo is easy to set up.</i></center>
+
 
 
 The teacher explains the set-up and asks a student to come to the front to measure the volume of “milk” and its temperature (should be about 5$^o$C). 

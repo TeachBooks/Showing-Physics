@@ -25,8 +25,9 @@ Most of us know from our childhood that if you’re sitting in a cart, you can m
 This experiment will only succeed if the cart is not running too smoothly, so friction is part of the secret. It’s not really a spectacular experiment, but it’s something that gets you thinking about physics.
 
 ```{figure} demo15_figure1.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The demo is easy to set up
 ```
@@ -67,8 +68,9 @@ The final question is whether there is a way to get the cart moving in one direc
 Ask the audience to look closely at the motion of the cart: during which stage of the oscillation does it move?
 
 ```{figure} demo15_figure2.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The demo is easy to set up
 ```

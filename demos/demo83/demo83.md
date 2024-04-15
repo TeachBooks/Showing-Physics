@@ -22,7 +22,7 @@ Concepts:
 ## Introduction
 A demonstration likely to be suitable for both lower and upper-level students. In lower levels, it helps illustrate sound as vibration and explains concepts like frequency and amplitude. In upper levels, it serves as an analogy for the photoelectric effect, making quantities like threshold energy, kinetic energy, and cutoff frequency tangible.
 
-```{image} dm83_figure1.PNG
+```{figure} dm83_figure1.PNG
 ---
 width: 300px
 align: center 
@@ -60,9 +60,9 @@ The speaker vibrates and transfers this vibration to the ball, causing it to mov
 The frequency is how often the cone vibrates and determines the pitch of the sound; the ball will move faster up and down at higher tones.
 
 ### Higher level
-Barretto (2022) conceived and executed this experiment and also clearly described the analogy with the photoelectric effect. The bouncing ball is in a bound state in the tube, just like conduction electrons in a metal. At higher frequencies, the ball will bounce higher. Thus, the height is a measure of the kinetic energy of the ball. The sound frequency is analogous to the light frequency (the absorbed energy), and the sound intensity is analogous to the intensity of the light (quantity of photons). The analogy does not hold when using low-frequency sounds with high amplitude. In that case, the ball could still 'escape'. With the photoelectric effect, no current can be generated below the cutoff frequency. The measured data provide an analogous graph to the graph of kinetic energy against frequency of the photoelectric effect (see figure 2).
+{cite:t}`barretto2022physical` conceived and executed this experiment and also clearly described the analogy with the photoelectric effect. The bouncing ball is in a bound state in the tube, just like conduction electrons in a metal. At higher frequencies, the ball will bounce higher. Thus, the height is a measure of the kinetic energy of the ball. The sound frequency is analogous to the light frequency (the absorbed energy), and the sound intensity is analogous to the intensity of the light (quantity of photons). The analogy does not hold when using low-frequency sounds with high amplitude. In that case, the ball could still 'escape'. With the photoelectric effect, no current can be generated below the cutoff frequency. The measured data provide an analogous graph to the graph of kinetic energy against frequency of the photoelectric effect (see figure 2).
 
-```{image} dm83_figure2.PNG
+```{figure} dm83_figure2.PNG
 ---
 width: 300px
 align: center 
@@ -77,5 +77,6 @@ Diagram according to Barretto (2022): an analogous graph to the photoelectric ef
 
 ## References
 ```{bibliography}
-Jerry T Barretto (2022) A physical model to simulate the photoelectric effect Physics. Education. 57 053003
+:filter: docname in docnames
+
 ```

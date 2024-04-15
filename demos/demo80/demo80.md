@@ -64,7 +64,6 @@ In astronomy, blue and green filters are usually used for color information. How
 Unfortunately, this activity does not work with every mobile phone. Some cameras seem to adjust too much on their own and do not keep the settings constant. Setting it to fully manual mode, increasing the ISO value, and closing the aperture sometimes prove to be a solution. Having students work together in groups can reduce the problem.
 If it can be done quickly, you can put one of the photo pairs from a student on the projector for the debriefing. In any case, make sure to have two usable photos yourself!
 
-## References
-```{bibliography}
-Wikipedia provides information about the relationship between color index and temperature: https://en.wikipedia.org/wiki/Color_index
+```{tip}
+[Wikipedia](https://en.wikipedia.org/wiki/Color_index) provides information about the relationship between color index and temperature. 
 ```

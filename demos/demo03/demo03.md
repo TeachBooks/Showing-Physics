@@ -43,12 +43,12 @@ YouTubeVideo("YDBr1Lof_mI", width=VideoWidth, align='center')
 Light the candle and put it under the vacuumbell so that smoke is trapped beneath it. Make sure there is enough smoke! The smoke will make the laserbeam visible, see figure 1. Darken the classroom but leave the lights on.
 
 ```{figure} dm03_figure1.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The demo is easy to set up
 ```
-<center><i> Figure 1 - The demo is easy to set up</i></center>
 
 
 ## Procedure
@@ -57,23 +57,24 @@ Start the demo with asking the broad question why it is dark at night even with 
 Turn the laser on and ask students what they observe. Is the laserbeam visible? Everywhere? Outside and inside the bell? Now, turn of the lights. What can we see now? Is the laserbeam visible in and outside the bell? Is there any difference in light intensity? If so, what is a possible reason (hypothesis)? How can we test this hypothesis?
 
 ```{figure} dm03_figure2.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The laserbeam is well visible, but the entire bell is illuminated as well!
 ```
-<center><i> Figure 2 - The laserbeam is well visible, but the entire bell is illuminated as well!</i></center>
 
 
 Ask students to write down their observation when you turn on the vacuumpump. If the bell has been sufficiently vacuumed, you can turn off the pump and ask whether there is light visible in the bell jar. Is there still light anyway? Why do we see things, and how do we relate this demo, and what happens, with being dark at night?
 
 ```{figure} dm03_figure3.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 When the bell got more and more vacuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.
 ```
-<center><i> Figure 3 - When the bell got more and more vacuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.</i></center>
+
 
 
 ## Physics background

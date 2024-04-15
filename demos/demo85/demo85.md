@@ -24,7 +24,7 @@ Concepts:
 
 This surprising demonstration makes the PTC (Positive Temperature Coefficient) behavior of light bulbs visible. Explaining the observations requires a lot of back-and-forth thinking. You can provide it at various levels. The demonstration is suitable for checking understanding at the end of a chapter or section on resistance, current, and voltage in series circuits.
 
-```{image} demo85_figure1.JPG
+```{figure} demo85_figure1.JPG
 ---
 width: 300px
 align: center
@@ -35,7 +35,7 @@ During the demonstration, you continuously move the connection of the negative t
 
 During the demonstration, you gradually move the connection of the negative pole from left to right, so that the first time only one light bulb is switched on and the last time all light bulbs are connected.
 
-```{image} demo85_figure2.JPG
+```{figure} demo85_figure2.JPG
 ---
 width: 300px
 align: center

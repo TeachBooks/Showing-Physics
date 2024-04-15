@@ -28,8 +28,9 @@ Can one girl be stronger than 4 boys? Sure! if she is clever…
 * 1 strong rope
 
 ```{figure} demo13_figure1.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The young lady will always be stronger
 ```
@@ -47,8 +48,9 @@ Another version of this demonstration was published by Vollebregt and Hooyman (2
 ```
 
 ```{figure} demo13_figure2.jpg
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 Neither here can the rope be pulled horizontal
 ```

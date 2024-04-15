@@ -28,12 +28,13 @@ The demonstration of the interaction of Van de Graaff generator with soap bubble
 * video recording equipment (can be a student phone).
 
 ```{figure} demo10_figure1.JPG
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The soap bubble gun and the Van de Graaff generator. In this image, most bubbles move away from the generator. 
 ```
-<center><i> Figure 1 - The soap bubble gun and the Van de Graaff generator. In this image, most bubbles move away from the generator. </i></center>
+
 
 
 
@@ -44,12 +45,12 @@ Make sure you can blow the bubbles from above to the Van de Graaff generator for
 Blow the bubbles from above to the Van de Graaff generator or let a student do this. Ask the students to observe and write down their observations. You will probably get remarks such as 'the bubbles move away from the generator'. A good observer may have seen that initially the bubbles are moving towards the generator.
 
 ```{figure} demo10_figure2.JPG
-:width: 300px
-:align: center
+---
+width: 300px
+align: center
 ---
 The bubbles on the left move towards the Van de Graaff generator, while the bubbles on the right move away from the generator. How is that possible?
 ```
-<center><i> Figure 2 - The bubbles on the left move towards the Van de Graaff generator, while the bubbles on the right move away from the generator. How is that possible?</i></center>
 
 
 Then you start the process of developing explanations and testing them with better observations. The concept cartoon (figure 3) can be helpful as a start. It is important to determine the observable consequences of the proposed explanations in a classroom discussion first, so that you can investigate which explanation is the best one:
