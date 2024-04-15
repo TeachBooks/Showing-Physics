@@ -5,20 +5,20 @@ format: jb-book
 root: intro # checked
 parts:
   - caption: Introduction
-    numbered: True
+    numbered: 2
     chapters:
     - file: Introduction/About # checked
     - file: Introduction/Foreword
     - file: Introduction/Authors 
 
   - caption: Pedagogy
-    numbered: True
+    numbered: 2
     chapters:  
     - file: Pedagogy/Introduction    
     - file: Pedagogy/Conceptcartoons
       
   - caption: Demos on Nature of Science
-    numbered: True
+    numbered: 2
     chapters:
     - file: Pedagogy/Nos
       title: Pedagogy of NoS
@@ -26,74 +26,83 @@ parts:
       title: Demos on NoS
       sections:
       - file: demos/demo01/demo01 #particle
-      - file: demos/demo05/demo05
-      - file: demos/demo06/demo06
-      - file: demos/demo07/demo07
-      - file: demos/demo08/demo08
+      - file: demos/demo05/demo05 #newton firstlaw
+      - file: demos/demo06/demo06 #Spectacular Spectrum
+      - file: demos/demo07/demo07 #Magic with pendulums
+      - file: demos/demo08/demo08 #Memory Balls
       
   - caption: Demos for scientific inquiry
-    numbered: True
+    numbered: 2
     chapters:
     - file: Pedagogy/Argumentation
       title: Scientific inquiry and argumentation
     - file: demos/Inquirydemos
       title: Demos on scientific inquiry
       sections:
-      - file: demos/demo09/demo09
-      - file: demos/demo10/demo10
+      - file: demos/demo09/demo09 #vapor
+      - file: demos/demo10/demo10 #vdgraaf
 
-  - caption: Demos for conceptual development part 1
-    numbered: 3
+  - caption: "Demos for conceptual development: waves, optics, quantum, electricity, magnetism"
+    numbered: 2
     chapters:
     - file: Pedagogy/BackAndForthThinking
       title: Back-and-forth thinking
     - file: demos/Conceptdemos
       title: Demos on conceptual development
-      sections:
-      - file: demos/demo02/demo02 #cappucino
+      sections:     
       - file: demos/demo03/demo03 #light
-      - file: demos/demo11/demo11
-      - file: demos/demo12/demo12
-      - file: demos/demo13/demo13
-      - file: demos/demo14/demo14
-      - file: demos/demo15/demo15
-      - file: demos/demo16/demo16
-      - file: demos/demo17/demo17
-      - file: demos/demo18/demo18
-      - file: demos/demo19/demo19
-      - file: demos/demo20/demo20
-      - file: demos/demo21/demo21
-      - file: demos/demo22/demo22
-      - file: demos/demo23/demo23
-      - file: demos/demo24/demo24
-      - file: demos/demo25/demo25
+      - file: demos/demo19/demo19 #lorentz 
+      - file: demos/demo20/demo20 #reflection
+      - file: demos/demo21/demo21 #einstein
+      - file: demos/demo22/demo22 #infra red
+      - file: demos/demo23/demo23 #leds and foton
+      - file: demos/demo24/demo24 #laserwriting
+      - file: demos/demo74/demo74 #flameshadow
+      - file: demos/demo77/demo77 #waves
+      - file: demos/demo79/demo79 #speed of sound
+      - file: demos/demo80/demo80 #measuring stars
+      - file: demos/demo81/demo81_1 #sound
+      - file: demos/demo81/demo81_2 #sound
+      - file: demos/demo83/demo83 #bouncingball
+      - file: demos/demo84/demo84 #lorentz
+      - file: demos/demo85/demo85 #slow bulbs
+      - file: demos/demo86/demo86 #induction
+      - file: demos/demo87/demo87 #olive oil
 
-  - caption: Demos for conceptual development part 2
-    numbered: True
+  - caption: "Demos for conceptual development: mechanics, "
+    numbered: 2
     chapters:
     - file: Pedagogy/Empty
       title: To be replaced
     - file: demos/Conceptdemos2
       title: To be replaced 2
       sections:
-      - file: demos/demo74/demo74
-      - file: demos/demo75/demo75
-      - file: demos/demo76/demo76
-      - file: demos/demo77/demo77
-      - file: demos/demo78/demo78
-      - file: demos/demo79/demo79
-      - file: demos/demo80/demo80
-      - file: demos/demo81/demo81_1
-      - file: demos/demo81/demo81_2  
-      - file: demos/demo82/demo82
-      - file: demos/demo83/demo83
-      - file: demos/demo84/demo84
-      - file: demos/demo85/demo85
-      - file: demos/demo86/demo86
-      - file: demos/demo87/demo87
+      - file: demos/demo11/demo11 #faster than g
+      - file: demos/demo12/demo12 #rotational inertia
+      - file: demos/demo13/demo13 #tugowar
+      - file: demos/demo14/demo14 #stickslip
+      - file: demos/demo15/demo15 #selfpropellingcar
+      - file: demos/demo16/demo16 #fallingmagnet
+      - file: demos/demo17/demo17 #stable
+      - file: demos/demo18/demo18 #dropping balls
+      - file: demos/demo25/demo25 #centerofmass
+      - file: demos/demo78/demo78 #rotational balloon      
+  
+  - caption: "Demos for conceptual development: else"
+    numbered: 2
+    chapters:
+    - file: Pedagogy/Empty2
+      title: To be replaced
+    - file: demos/Conceptdemos3
+      title: To be replaced 2
+      sections:
+      - file: demos/demo02/demo02 #cappucino
+      - file: demos/demo75/demo75 #cooling spheres
+      - file: demos/demo76/demo76 #baloon
+      - file: demos/demo82/demo82 #planets
     
   - caption: Demos for special occasions
-    numbered: True
+    numbered: 2
     chapters:
     - file: Pedagogy/PoE
       title: Predict Observe Explain
@@ -101,7 +110,7 @@ parts:
       title: Demos for special occasions
       sections:
       - file: demos/demo04/demo04 #should be replaced
-      - file: demos/demo88/demo88
-      - file: demos/demo89/demo89
-      - file: demos/demo90/demo90
+      - file: demos/demo88/demo88 #cloud formation
+      - file: demos/demo89/demo89 #Optics with LEDs:
+      - file: demos/demo90/demo90 #Wine Glass
       
