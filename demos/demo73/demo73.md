@@ -73,3 +73,25 @@ The uncertainty is always given with only one significant figure. The final answ
 ```{tip}
 The NLT module Measuring and Interpreting provides more starting points around the theme of measurement uncertainty. A nice follow-up is to have students work with one of the various methods to determine g (e.g., with a pendulum, ball with magnetic switch, Ehrlig's drop method, acceleration along a slope with an air-cushioned track) and present the method (with its pros and cons). The University of Aachen has a video demonstrating this experiment: https://youtu.be/zRGh9_a1J7s.
 ```
+
+
+```{code-cell} Python
+#Import libraries
+import numpy as np
+
+#Invoeren van de metingen, H in cm, dt in s.
+H = /100 #De gemeten hoogte in cm
+u_H = /100 #De geschatte onzekerheid in c,
+dt = #De gemeten valtijd met de app Phyphox
+u_dt =  #De geschatte onzekerheid in de valtijd
+
+#Functie voor het bepalen van g
+def g(H,dt):
+    return 2*H/dt**2
+
+print('In dit experiment is g bepaald op: ', g(H,dt))
+
+err_in_g = np.sqrt((u_H/H)**2+4*(u_dt/dt)**2)*g(H,dt)
+
+print('In dit experiment is g bepaald op: %.1f +/- %.1f m/s^2' %(g(H,dt), err_in_g))
+```

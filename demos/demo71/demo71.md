@@ -67,5 +67,6 @@ Completely emptying a siphon remains peculiar, of course. Feel free to turn the 
 
 ## References
 ```{bibliography}
-Lederman, N. G. and Abd-El-Khalick, F. (1998) Avoiding De-natured Science - Activities That Promote Understandings of the Nature of Science. In W.F. McComas (Ed.) The nature of science in science education: Rationales and strategies. Dordrecht, Netherlands: Kluwer Academic Publishers. pp. 243-254.
+:filter: docname in docnames
 ```
+Lederman, N. G. and Abd-El-Khalick, F. (1998) Avoiding De-natured Science - Activities That Promote Understandings of the Nature of Science. In W.F. McComas (Ed.) The nature of science in science education: Rationales and strategies. Dordrecht, Netherlands: Kluwer Academic Publishers. pp. 243-254.

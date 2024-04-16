@@ -30,13 +30,11 @@ In this demonstration metal balls change into ping-pong balls. Of course that is
 
 ```{figure} demo08_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Balls before the transformation
 ```
-
-
 
 ## Preparation
 Fill the container with the corn. Push the pingpong balls to the bottom of the container. They should not be visible. Keep the metal balls separate. 
@@ -47,7 +45,7 @@ Put the metal balls on top of the corn, then put the lid on the container and â€
 
 ```{figure} demo08_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Balls after the transformation

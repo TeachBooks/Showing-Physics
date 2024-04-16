@@ -23,12 +23,11 @@ This activity does not involve physics but demonstrates a model for how physicis
 
 ```{figure} demo70_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The cylinder puzzle - A model of the universe
 ```
-
 
 ## Equipment
 Opaque cylinder with opaque lids on both sides; about 50 cm of sturdy rope or cord.
@@ -63,12 +62,11 @@ Successively, pull on three knots with a short, firm tug, for example, A-B-D-B. 
 
 ```{figure} demo70_figure2.png
 ---
-width: 300px
+width: 50%
 align: center
 ---
 All these models of the contents of the cylinder are consistent with all observations.
 ```
-
 
 5. Reflection: Is this science? 
 
@@ -80,6 +78,7 @@ Scientists also can't always open things up to see how they work inside: gravity
 6. Opening the cylinder?
 
 &emsp; &emsp; Let whoever really wants to open the cylinder do it now. Real scientists would also look inside the cylinder if they could because they are terribly curious.
+
 ## Physics background
 Many of the things you did to solve the cylinder puzzle resemble what scientists do during research:
 • you collect data (observe what happens when you pull the knots and then write it down)
@@ -93,5 +92,6 @@ By making more observations and adjusting their models, scientists gain more ins
 
 ## References
 ```{bibliography}
-Lederman, N. G. and Abd-El-Khalick, F. (1998) Avoiding De-natured Science - Activities That Promote Understandings of the Nature of Science. In W.F. McComas (Ed.) The nature of science in science education: Rationales and strategies. Dordrecht, Netherlands: Kluwer Academic Publishers. pp. 243-254
+:filter: docname in docnames
 ```
+Lederman, N. G. and Abd-El-Khalick, F. (1998) Avoiding De-natured Science - Activities That Promote Understandings of the Nature of Science. In W.F. McComas (Ed.) The nature of science in science education: Rationales and strategies. Dordrecht, Netherlands: Kluwer Academic Publishers. pp. 243-254

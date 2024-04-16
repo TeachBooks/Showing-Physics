@@ -102,5 +102,5 @@ Maarten van Woerkom (1944) studied theoretical solid state physics at the Cathol
 
 **Contributors**\
 Henny Kramer-Pals\
-Suzanne Schuurman
-    
+Suzanne Schuurman\
+Frank Schweickert\    

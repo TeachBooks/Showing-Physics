@@ -13,7 +13,6 @@ kernelspec:
 
 # Bouncing Ball in a Tube
 
-
 Author:     \
 Time:	30 minutes\
 Age group:	14 - 18\
@@ -67,7 +66,7 @@ The frequency is how often the cone vibrates and determines the pitch of the sou
 width: 300px
 align: center 
 ---
-Diagram according to Barretto (2022): an analogous graph to the photoelectric effect. Point out to the students the intercepts on the axes and the analogous intercepts on the diagram of the photoelectric effect. Also, indicate where the analogy no longer holds.
+Diagram according to {cite:t}`barretto2022physical`: an analogous graph to the photoelectric effect. Point out to the students the intercepts on the axes and the analogous intercepts on the diagram of the photoelectric effect. Also, indicate where the analogy no longer holds.
 ```
 
 
@@ -78,5 +77,4 @@ Diagram according to Barretto (2022): an analogous graph to the photoelectric ef
 ## References
 ```{bibliography}
 :filter: docname in docnames
-
 ```
