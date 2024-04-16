@@ -11,8 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Cylinder Puzzle
-### Exploring the Nature of Science
+# Cylinder Puzzle: Exploring the Nature of Science
 
 Author: Peter Dekkers     \
 Time:	  15-30 minutes	\

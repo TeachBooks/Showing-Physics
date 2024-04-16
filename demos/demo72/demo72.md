@@ -14,7 +14,7 @@ kernelspec:
 # Roll and Stop
 
 
-Author:     \
+Author: Freek Pols    \
 Time:	  15 - 20 minutes	\
 Age group:	14 - 18\
 Concepts:	
@@ -44,11 +44,13 @@ Depending on the desired outcome, one or more aspects of NoS can be discussed, s
 ## Physics background
 Due to the viscous liquid, the piece of lead will not remain at the bottom of the cylinder, see figure 1. This exerts a torque causing the cylinder not to continue rolling. The lead sinks back to the bottom of the cylinder, allowing the cylinder to roll a bit further again.
 
-```{figure} FP12_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo72_figure1.jpg
+---
+width: 300px
+align: center
+---
+The setup consists of a cylinder filled with a viscous liquid containing a piece of (fish) lead.
 ```
-<center> <i> Figure 1. The setup consists of a cylinder filled with a viscous liquid containing a piece of (fish) lead. </center> </i>
 
 ## References
 ```{bibliography}

@@ -11,11 +11,9 @@ kernelspec:
   name: python3
 ---
 
-# Magic or Not?
-### Nature of Science with a Siphon
+# Magic or Not?: Nature of Science with a Siphon
 
-
-Author:     \
+Author: Peter Dekkers    \
 Time:	  30 minutes	\
 Age group:	14 - 18\
 Concepts:	
@@ -23,12 +21,13 @@ Concepts:
 ## Introduction
 You demonstrate a surprising phenomenon and use it to work on the understanding of the Nature of Science. It's about the journey, not the answer.
 
-```{figure} PD06_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo71_figure1.jpg
+---
+width: 300px
+align: center
+---
+Magic box. Photo: Aike Stortelder.
 ```
-<center> <i> Figure 1. Magic box. Photo: Aike Stortelder. </center> </i>
-
 
 ## Equipment
 Two large beakers; one small beaker; food coloring; water; box; about 1.5 m of water hoses; two funnels; double-sided tape or tape; water-resistant caulk or glue; empty bottle.
@@ -54,15 +53,17 @@ You can elucidate the following aspects of Nature of Science based on these ques
 ## Physics background
 See Figure 2. Initially, the siphon is almost filled to the top (left). With the little extra liquid from the small beaker, the liquid at A turns the corner. The tube goes up and down but remains completely filled all the time. The force that drives the water out of the siphon and into the tube is due to the pressure difference between A (1 bar) and B (liquid pressure at depth AB). This becomes smaller as it empties, but is zero only when the siphon is completely empty.
 
-```{figure} PD06_figure2.png
-:width: 300px
-:align: center
+```{figure} demo71_figure2.png
+---
+width: 300px
+align: center
+---
+Diagram of the siphon, connected to one of the funnels. At the start, the siphon is almost completely filled with water and some dye.
 ```
-<center> <i> Figure 2. Diagram of the siphon, connected to one of the funnels. At the start, the siphon is almost completely filled with water and some dye. </center> </i>
 
-
-## Tips
+```{tip}
 Completely emptying a siphon remains peculiar, of course. Feel free to turn the box upside down after the discussion and show how it works. Perhaps searching for good explanations is just as important as having them.
+```
 
 ## References
 ```{bibliography}

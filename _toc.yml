@@ -30,6 +30,10 @@ parts:
       - file: demos/demo06/demo06 #Spectacular Spectrum
       - file: demos/demo07/demo07 #Magic with pendulums
       - file: demos/demo08/demo08 #Memory Balls
+      - file: demos/demo70/demo70 #Cylinder Puzzle
+      - file: demos/demo71/demo71 #magic balls
+      - file: demos/demo72/demo72 #rollstop
+
       
   - caption: Demos for scientific inquiry
     numbered: 2
@@ -41,6 +45,7 @@ parts:
       sections:
       - file: demos/demo09/demo09 #vapor
       - file: demos/demo10/demo10 #vdgraaf
+      - file: demos/demo73/demo73 #determining g
 
   - caption: "Demos for conceptual development: waves, optics, quantum, electricity, magnetism"
     numbered: 2
@@ -87,6 +92,8 @@ parts:
       - file: demos/demo18/demo18 #dropping balls
       - file: demos/demo25/demo25 #centerofmass
       - file: demos/demo78/demo78 #rotational balloon      
+      - file: demos/demo68/demo68 #collissions
+      - file: demos/demo69/demo69 #hill
   
   - caption: "Demos for conceptual development: else"
     numbered: 2

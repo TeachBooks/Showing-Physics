@@ -11,11 +11,10 @@ kernelspec:
   name: python3
 ---
 
-# Determination of g
-### But with precision!
+# Determination of g: But with precision!
 
 
-Author:     \
+Author: Freek Pols     \
 Time:	 20 minutes 	\
 Age group:	14 - 18\
 Concepts:	
@@ -23,12 +22,14 @@ Concepts:
 ## Introduction
 In physics class, you can experimentally determine the acceleration due to gravity. But how precise is the result? What should you pay attention to if you want to make a very precise determination? How do you quantify the accuracy with which you have determined the gravitational acceleration? Not ready for the mathematical side? Then you can also do this demonstration perfectly at the open evening by using the phyphox app without emphasizing the associated uncertainty.
 
-```{figure} FP01_figure1.jpg
-:width: 300px
-:align: center
+```{figure} demo73_figure1.jpg
+---
+width: 300px
+align: center
+---
+The hammer is suspended at a great height with a string attached to a balloon.
 ```
 
-<center> <i> The hammer is suspended at a great height with a string attached to a balloon. </center> </i>
 
 ## Equipment
 Fully inflated balloon; hammer; phone with phyphox app; string; wooden plank; framework for the setup; needle; measuring tape.
@@ -50,11 +51,13 @@ After measuring the falling height (with an estimate for the uncertainty) and de
 Normally, you determine the uncertainty in time based on repeated measurements, but what numbers do you expect to see when you repeat the measurement? And which decimal digit will vary?
 By using the provided Jupyter Notebook file, you can calculate the final value of g with its associated uncertainty.
 
-```{figure} FP02_figure2.jpg
-:width: 300px
-:align: center
+```{figure} demo73_figure2.jpg
+---
+width: 300px
+align: center
+---
+The measurement results obtained in the experiment.
 ```
-<center> <i> The measurement results obtained in the experiment. </center> </i>
 
 Control Question: We obtained the measurement results from figure 2. What information is needed to make a statement about the reliability of the measurements?
 
@@ -67,5 +70,6 @@ Every measurement can only be done with a certain precision. Sometimes the preci
 
 The uncertainty is always given with only one significant figure. The final answer is given with the same decimal digit (e.g., 9.8 ± 0.3 m/s²).
 
-## Tips
+```{tip}
 The NLT module Measuring and Interpreting provides more starting points around the theme of measurement uncertainty. A nice follow-up is to have students work with one of the various methods to determine g (e.g., with a pendulum, ball with magnetic switch, Ehrlig's drop method, acceleration along a slope with an air-cushioned track) and present the method (with its pros and cons). The University of Aachen has a video demonstrating this experiment: https://youtu.be/zRGh9_a1J7s.
+```
