@@ -4,7 +4,7 @@ In natural sciences, describing and explaining phenomena is central. Describing 
 To properly define back-and-forth thinking, we distinguish between the domain of phenomena, objects and observations ('*hands-on*') and the domain of concepts and
 ideas ('*minds-on*'), see {numref}`Figure {number} <fig:Domain_explainer>`.
 
-```{figure} Domain_explainer.jpg
+```{figure} Figures/Domain_explainer.png
 ---
 width: 50%
 name: fig:Domain_explainer
@@ -14,7 +14,7 @@ In the domain of objects and observations, we observe and measure. In the domain
 
 A back-and-forth thinking activity is an activity in which you use and link a hands-on aspect and a minds-on aspect in one reasoning session. As an example, we look at a demonstration in which the teacher creates a liquid column of "stacked" liquids of different densities [LINK], in which some objects are at a boundary plane, see {numref}`Figure {number} <fig:stacked_liquids>`. In the domain of *phenomena, objects and observations* are observations such as the stratification and precise location of objects. In the domain of *concepts and ideas* are the underlying concepts such as volume, mass, density and buoyancy. When you formulate an argument like "the object is at the interface of water and oil so the density of the object will be between that of oil and water," you are involved in back-and-forth thinking (BFT).
 
-```{figure} stacked_liquids.jpg
+```{figure} Figures/stacked_liquids.jpg
 ---
 width: 50%
 name: fig:stacked_liquids
@@ -37,7 +37,7 @@ and 'A fountain in a flask' [LINK].
 
 Once students link theories and concepts to observable phenomena, new questions arise that provide an opportunity to further stimulate back-and-forth thinking. Sometimes this can already be done by challenging students to formulate the question using previously learned jargon, which highlights the essential importance of proper language. As an example, take a demonstration in which a large and a small stone are released and hit the ground at the same time. Would it make any difference if you took a very small stone? Do we get the same perception if they fall from a greater height? What happens if you attach a feather to one of the stones? If students are challenged to formulate those questions with concepts then they should start using terms like air friction, gravity and possibly inertia. Correct jargon is essential because you cannot arrive at an answerable question without it.
 
-```{figure} combi_schakeling.jpg
+```{figure} Figures/combi_schakeling.png
 ---
 width: 50%
 name: fig:combi_schakeling
@@ -60,7 +60,8 @@ Often several didactic routes are possible for students to do back-and-forth thi
 > See 'Force and motion with a bowling ball' (B03) and 'Lorentz force on
      charged particles' (B51) for elaborated examples of the roadmap.
 
-### Literature
+## References
+
 Berg, E. van den (2012). Natural Science and Engineering: thinking back and forth between concepts
 and phenomena, reasoning with concepts and with evidence. NVOX, 2012, 37(4), 176-177. <br>
 
