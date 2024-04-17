@@ -30,7 +30,7 @@ parts:
       - file: demos/demo07/demo07 #Magic with pendulums
       - file: demos/demo08/demo08 #Memory Balls
       - file: demos/demo70/demo70 #Cylinder Puzzle
-      - file: demos/demo71/demo71 #magic balls
+      - file: demos/demo71/demo71 #magic siphon
       - file: demos/demo72/demo72 #rollstop
 
       
@@ -94,6 +94,7 @@ parts:
       - file: demos/demo78/demo78 #rotational balloon      
       - file: demos/demo68/demo68 #collissions
       - file: demos/demo69/demo69 #hill
+      - file: demos/demo58/demo58 #two blocks
   
   - caption: "Demos for conceptual development: else"
     numbered: 2
