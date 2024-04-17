@@ -14,7 +14,7 @@ kernelspec:
 # Chapter title
 
 
-Author:     \
+Author:  Ed van den Berg   \
 Time:	  	\
 Age group:	14 - 18\
 Concepts:	
