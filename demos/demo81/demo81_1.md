@@ -25,7 +25,7 @@ This demonstration, if executed properly, generates a lot of noise at an irritat
 
 ```{figure} dm81_1_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Hold the rod in the middle for the fundamental tone.
@@ -34,7 +34,7 @@ Hold the rod in the middle for the fundamental tone.
 
 ```{figure} dm81_1_figure2.png
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Hold the rod a quarter length from the top for the first overtone.
@@ -67,7 +67,7 @@ $$
 
 ```{figure} dm81_1_figure3.JPG
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 The transversely drawn fundamental tone and the first overtone.
@@ -80,14 +80,14 @@ When 'playing' the overtone, the nodes are at a quarter and three-quarter length
 
 ```{figure} dm81_1_figure4a.jpg
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 ```
 
 ```{figure} dm81_1_figure4b.png
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Results of audio spectrum measurement with phyphox and Fourier analysis in Coach 7 

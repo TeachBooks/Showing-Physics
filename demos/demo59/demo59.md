@@ -23,7 +23,7 @@ A Crookes radiometer or light mill can be found in many physics cabinets. If you
 
 ```{figure} demo59_figure1.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 A radiometer from Crookes

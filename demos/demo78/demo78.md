@@ -23,7 +23,7 @@ Many students find centripetal force difficult to grasp. The misconception of a 
 
 ```{figure} dm78_figure1.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The setup.
@@ -52,5 +52,5 @@ If you consider the liquid in the balloon as one object, you can state that ther
 *  It takes some trial and error to get the optimal amount of liquid in the balloon. If the mass of the liquid is too large, the moment of inertia of the balloon is too large, and the effect does not occur or is too small. If the amount of liquid is too small, the phenomenon is not clearly visible. A quantity of about 200 mL works well.
 ```
 
-## Further Research
+## Follow-up
 The variables in this experiment are the size of the balloon, the amount of liquid in the balloon, and the rotation speed. You can vary these parameters extensively, with particular emphasis on varying the rotation speed (by winding the wire more or less), providing many possibilities.

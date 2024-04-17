@@ -48,6 +48,6 @@ Visible light is not absorbed by the glass, but is absorbed by the black garbage
 * Photograph yourself in front of a metal surface (for example aluminum foil), the photo will then indicate almost 37 degrees as surface temperature.  You just measured the temperature of your body and not the temperature of the metal surface!
 ```
 
-## Further research
+## Follow-up
 Investigate if IR radiation penetrates all kinds of plastic bags. Can you find material that is the most transparent to IR radiation?
 Of course, there are countless possibilities for research with an infrared camera. For example, where is the greatest heat loss of a person? Is there a difference between bald people and people with a lot of hair? What is the influence of a beard? Are there diseases that you can diagnose with infrared 'thermometry'?

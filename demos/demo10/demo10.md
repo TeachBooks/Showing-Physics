@@ -13,7 +13,6 @@ kernelspec:
 
 # Does van de Graaff not like a shower? Testing statements about electrostatics with a Van de Graaff generator and soap bubbles
 
-
 Author:     Wouter Spaan\
 Time:	  	  15 minutes\
 Age group:	15 - 18\
@@ -27,16 +26,13 @@ The demonstration of the interaction of Van de Graaff generator with soap bubble
 * soap bubble gun; 
 * video recording equipment (can be a student phone).
 
-```{figure} demo10_figure1.JPG
+```{figure} demo10_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The soap bubble gun and the Van de Graaff generator. In this image, most bubbles move away from the generator. 
 ```
-
-
-
 
 ## Preparation
 Make sure you can blow the bubbles from above to the Van de Graaff generator for best visibility.
@@ -44,9 +40,9 @@ Make sure you can blow the bubbles from above to the Van de Graaff generator for
 ## Procedure
 Blow the bubbles from above to the Van de Graaff generator or let a student do this. Ask the students to observe and write down their observations. You will probably get remarks such as 'the bubbles move away from the generator'. A good observer may have seen that initially the bubbles are moving towards the generator.
 
-```{figure} demo10_figure2.JPG
+```{figure} demo10_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The bubbles on the left move towards the Van de Graaff generator, while the bubbles on the right move away from the generator. How is that possible?

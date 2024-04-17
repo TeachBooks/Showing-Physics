@@ -26,7 +26,7 @@ This experiment will only succeed if the cart is not running too smoothly, so fr
 
 ```{figure} demo15_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The demo is easy to set up
@@ -69,7 +69,7 @@ Ask the audience to look closely at the motion of the cart: during which stage o
 
 ```{figure} demo15_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The demo is easy to set up

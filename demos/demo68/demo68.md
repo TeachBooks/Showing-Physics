@@ -24,7 +24,7 @@ Students find Newton's third law difficult to grasp. It is counterintuitive. Thi
 
 ```{figure} demo68_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 You use two IOlabs, one of which is weighted.
@@ -32,7 +32,7 @@ You use two IOlabs, one of which is weighted.
 
 ```{figure} demo68_figure2.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The forces on the IOlabs are equal in magnitude but opposite in direction. These forces also act for the same duration.
@@ -77,7 +77,7 @@ Ensure that you are familiar with the IOlab, that you can read out sensors, and 
 
 ```{figure} demo68_figure3.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The car pushes the truck to the nearest garage.

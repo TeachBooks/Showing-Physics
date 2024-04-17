@@ -11,13 +11,14 @@ kernelspec:
   name: python3
 ---
 
-# Falling faster than g, free fall with rotation
+# Falling faster than g: free fall with rotation
 
 
 Author:     \
 Time:	  	  5 minutes\
 Age group:	15 and up\
 Concepts:	  acceleration of gravity g (=9.81 m/s2), free fall, rotation
+
 This description was inspired by {cite:t}`ehrlich1990`.
 
 ## Introduction
@@ -25,13 +26,11 @@ Everything that falls freely should experience an acceleration $g$? Or not? Are 
 
 ```{figure} demo11_figure1.jpg
 ---
-width: 300px
+width: 350%
 align: center
 ---
 Are some of the dices falling faster than $g$?
 ```
-
-
 
 ## Equipment
 * Meter stick or equivalent. 
@@ -51,7 +50,7 @@ Think how the visibility of observations can be maximized. For example, put a ch
 7.	It would be good to repeat and now ask students to specifically pay attention to the end of the stick. 
 8.	Then follows a discussion about the linear acceleration of different points of the meter stick. This cannot be the same in rotational movement. If there are points which accelerate at less than g, shouldn’t there be points that accelerate at more than g? Did we see that? 
 9.	From our observations, which points accelerate with g or less? Which points with more than g? The separation is at 2/3 of the stick, so at 67 cm.
-10.	Rotation physics is often not in the curriculum. So we will not derive theoretically that the point with acceleration g is at 2/3th of the meter stick. But we do ask our students for examples of similar phenomena.  For example, a ladder which is put up too steep and turns over, a factory chimney which is blown up and falls over, a swimmer who stands on the diving board and lets himself fall over without jumping, etc. 
+10.	Rotation physics is often not in the curriculum. So we will not derive theoretically that the point with acceleration g is at 2/3th of the meter stick. But we do ask our students for examples of similar phenomena. For example, a ladder which is put up too steep and turns over, a factory chimney which is blown up and falls over, a swimmer who stands on the diving board and lets himself fall over without jumping, etc. 
 
 ```{tip}
 Using the coins as indicator one can investigate shorter and longer sticks. You can move the center of mass of the stick by taping on pieces of wood in different positions. You can also conduct video measurement using films from the iPhone or a high-speed camera. Students could do projects and could then study rotational physics first, for example from well known physics texts such as {cite}`young2014`.
@@ -59,7 +58,7 @@ Using the coins as indicator one can investigate shorter and longer sticks. You 
 
 ## Physics background
 The moment of force on a meterstick with length $L$ is $\frac{mgL}{2}$. Dividing this by the rotational inertia $(1/3)mL^2$ we obtain $\frac{3g}{2L}$ for the angular acceleration (analog to $\frac{ma}{m}$ for linear movement). 
-The linear acceleration at a point on the stick is the product of (distance from point to the rotation) * angular acceleration. This will be greater than g for points farther than $\frac{2L}{3}$.
+The linear acceleration at a point on the stick is the product of (distance from point to the rotation) * angular acceleration. This will be greater than $g$ for points farther than $\frac{2L}{3}$.
 
 
 ## References

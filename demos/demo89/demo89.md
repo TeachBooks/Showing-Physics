@@ -24,7 +24,7 @@ Monochromatic LEDs are suitable for fun and educational demonstrations. They are
 
 ```{figure} demo89_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The monochromatic LEDs used.
@@ -32,7 +32,7 @@ The monochromatic LEDs used.
 
 ```{figure} demo89_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Spectra of the monochromatic RGB LEDs determined with a spectrometer.
@@ -64,7 +64,7 @@ c. Shine the red LED lamp on a TV in a darkened room. Discuss the diffraction sp
 
 ```{figure} demo89_figure3.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Color Shadow: the LED lamps are placed next to each other, but in what order?
@@ -73,7 +73,7 @@ Color Shadow: the LED lamps are placed next to each other, but in what order?
 
 ```{figure} demo89_figure4.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Diffraction spectra of three colors on the surface of a TV screen caused by the pixel pattern of the LED TV.
@@ -81,7 +81,7 @@ Diffraction spectra of three colors on the surface of a TV screen caused by the 
 
 ```{figure} demo89_figure5.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Scattering on a ball.
@@ -89,7 +89,7 @@ Scattering on a ball.
 
 ```{figure} demo89_figure6.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Determination of the strength of a lens. The lens is placed in a holder. This holds the lens at a fixed distance from the paper. On the paper, a measurement of 0.5 cm is marked. When looking through the lens, it is now enlarged to 1.0 cm. The magnification here is therefore -2.0.

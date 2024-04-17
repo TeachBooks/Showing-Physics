@@ -23,7 +23,7 @@ A transit of an exoplanet is a distant concept for many students. With a relativ
 
 ```{figure} dm82_figure1.jpeg
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Setup to measure a transit.
@@ -32,7 +32,7 @@ Setup to measure a transit.
 
 ```{figure} dm82_figure2.png
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 The light dip of the transit.

@@ -13,7 +13,6 @@ kernelspec:
 
 # Magic with pendulums 
 
-
 Author:     Maarten van Woerkom\
 Time:	  	  20 minutes\
 Age group:	12 and up\

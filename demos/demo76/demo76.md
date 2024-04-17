@@ -23,7 +23,7 @@ Students learn about density in the second grade. Sinking and floating are pheno
 
 ```{figure} dm76_figure1.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The balloon is on its way up and hovers for a while in the warm water.

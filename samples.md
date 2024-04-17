@@ -1603,7 +1603,7 @@ here at 6 pm*.
 
 ** **
 
-## Further research
+## Follow-up
 
 Put the table higher on one end and then let different objects roll off
 the slanting surface. For example, cola cans shaken or not,
@@ -2073,7 +2073,7 @@ This demonstration provides an interesting opportunity to discuss the
 concept of apparent weightlessness. Is the magnet weightless during its
 fall?
 
-## Further research
+## Follow-up
 
 With the open tube, the force is less constant than with the closed
 tube. In the open tube one can see the magnet rotating. Perhaps rotation
@@ -2295,7 +2295,7 @@ drop the configuration!
 You may use the same four alternatives. But maybe you get a different
 answer....
 
-## Further research
+## Follow-up
 
 A colleague testing the dropping balls replaced the bottom tennis ball
 with a basketball. He expected and got something extra: an oscillation
@@ -2721,7 +2721,7 @@ reflects infrared like a mirror.
 
  
 
-## Further research  
+## Follow-up  
 
 Investigate if IR radiation penetrates all kinds of plastic bags. Can
 you find material that is the most transparent to IR radiation?
@@ -3004,7 +3004,7 @@ Provide for a darkened room so that the effect is stronger.
 
 There are many sources for "glow-in-the-dark" paint, see internet.
 
-## Further research  
+## Follow-up  
 
 The emission of the greenish light is temperature dependent (Randall &
 Wilkins, 1945), so increasing the temperature will shorten the

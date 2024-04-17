@@ -49,7 +49,7 @@ As an important check whether the explanation is clear and students can apply it
 ## Physics background
 Through the Lorentz force the copper tube will provide an upward force on the magnet, which prevents it from accelerating like in free fall. The magnet in turn provides an equal and downward force on the tube. Therefore, the force required to lift the tube increases with the same amount. It is this force you measure with the sensor. Once the magnet reaches a constant speed (which happens very fast), the increase in force is equal to the gravity on the magnet as the net force on the magnet equals zero.
 
-## Further research
+## Follow-up
 With the open tube, the force is less constant than with the closed tube. In the open tube one can see the magnet rotating. Perhaps rotation is less in a closed tube. Why would that be?
 
 ## References

@@ -46,7 +46,7 @@ Due to the viscous liquid, the piece of lead will not remain at the bottom of th
 
 ```{figure} demo72_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The setup consists of a cylinder filled with a viscous liquid containing a piece of (fish) lead.

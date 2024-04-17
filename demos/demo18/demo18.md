@@ -67,7 +67,7 @@ The bottom ball also experiences two forces: gravitational pull and the upwards 
 
 The dropped bottle that already had a started waterflow seems to empty out. But that is impossible! It would mean that the water experienced a greater acceleration than the bottle. 
 
-## Further research 
+## Follow-up 
 A colleague testing the dropping balls replaced the bottom tennis ball with a basketball. He expected and got something extra: an oscillation
 You tube shows lovely slow-motion films of a famous alternative for this demo: the slinky drop.
 

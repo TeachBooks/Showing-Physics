@@ -25,7 +25,7 @@ Students often find interpreting and connecting position, velocity, and accelera
 
 ```{figure} demo69_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The setup consists of the IOlab and a slope.
@@ -33,7 +33,7 @@ The setup consists of the IOlab and a slope.
 
 ```{figure} demo69_figure2.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Position, velocity, and acceleration
@@ -74,7 +74,7 @@ Ensure that you are familiar with the IOlab, that you can read out sensors, and 
 
 ```{figure} demo69_figure3.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Shooting a ball

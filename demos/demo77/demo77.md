@@ -23,7 +23,7 @@ When a vibration is applied to the end of a taut cord, under certain conditions,
 
 ```{figure} dm77_figure1.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The setup.
@@ -71,7 +71,7 @@ By plotting the square of the wavelength against the tension in the cord in a di
 
 ```{figure} dm77_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The square of the wavelength plotted against the tension in the cord.
@@ -85,5 +85,5 @@ The square of the wavelength plotted against the tension in the cord.
 * In the 2018 VWO exam (first time slot), this experiment was used as a context.
 ```
 
-## Further Research
+## Follow-up
 Using a different elastic (with a different linear mass density) or a different model or brand of electric toothbrush can inspire further research.

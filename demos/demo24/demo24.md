@@ -55,7 +55,7 @@ Option C seems more likely (level 2 closer to level 3) but also here one would e
 ## Physics background
 Phosphorescence happens when a substance (in our case ZnS doped with Cu) is excited by a light source emitting photons with the right minimum energy, The substance then emits light, which slowly fades out. In the case of the ‘glow in the dark’ paint, the copper ensures that extra metastable energy states exist. These provide an energy difference in order of green light (+/- 500 nm) and for the gradual emission of this light. The afterglow can last for some time.
 
-## Further research
+## Follow-up
 The emission of the greenish light is temperature dependent (Randall & Wilkins, 1945), so increasing the temperature will shorten the afterglow. The surface can be cooled or heated to examine this effect.
 
 ## References

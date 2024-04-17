@@ -24,7 +24,7 @@ Friction is an everyday phenomenon. How would the world behave without friction?
 
 ```{figure} demo14_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The demo is easy to set up
@@ -45,7 +45,7 @@ Ask your students for more examples of this phenomenon.
 
 ```{figure} demo14_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The demo is easy to set up

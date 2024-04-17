@@ -24,7 +24,7 @@ Just above the surface of boiling water, nothing noteworthy seems to be happenin
 
 ```{figure} demo09_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The required materials
@@ -53,7 +53,7 @@ Bring the burning candle down into the kettle, and note that it goes out. Summar
 
  ```{figure} demo09_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Above the kettle, the flame burns somewhat weaker
@@ -69,12 +69,11 @@ The substance concerned has a name, "steam". Often the fog is said to be made of
 
 ```{figure} demo09_figure3.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Inside the kettle, above the water, the flame extinguishes
 ```
-
 
 ```{warning}
 Working with boiling water has risks. Do not let students come too close; if possible, use a camera and projection to give everyone a good view.

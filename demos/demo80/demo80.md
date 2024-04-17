@@ -24,7 +24,7 @@ In this activity, you will simulate astronomical observations in the classroom b
 
 ```{figure} dm80_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The two light bulbs photographed through a red filter held in front of the mobile phone camera. The inset shows the original color image.
@@ -34,7 +34,7 @@ The two light bulbs photographed through a red filter held in front of the mobil
 
 ```{figure} dm80_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The two light bulbs photographed through a red filter held in front of the mobile phone camera. The inset shows the original color image.

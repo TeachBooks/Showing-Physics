@@ -25,7 +25,7 @@ This surprising demonstration makes the PTC (Positive Temperature Coefficient) b
 
 ```{figure} demo85_figure1.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 During the demonstration, you continuously move the connection of the negative terminal from left to right, so that the first time only one bulb is switched on and the last time all bulbs are connected.
@@ -36,7 +36,7 @@ During the demonstration, you gradually move the connection of the negative pole
 
 ```{figure} demo85_figure2.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The situation just after moving the connection. The third bulb is barely visible and needs some time to become as bright as the other two.

@@ -23,7 +23,7 @@ This is a demonstration that everyone must see because it contains so much beaut
 
 ```{figure} demo74_fig1.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The density current is visible
@@ -49,7 +49,7 @@ It's nice to attach an ice cream to a stand. You can also feel the flow by holdi
 
 ```{figure} demo74_fig2.JPG
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Some caption

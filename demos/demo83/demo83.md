@@ -23,7 +23,7 @@ A demonstration likely to be suitable for both lower and upper-level students. I
 
 ```{figure} dm83_figure1.PNG
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Bouncing ball in a tube above a JBL speaker.
@@ -63,7 +63,7 @@ The frequency is how often the cone vibrates and determines the pitch of the sou
 
 ```{figure} dm83_figure2.PNG
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Diagram according to {cite:t}`barretto2022physical`: an analogous graph to the photoelectric effect. Point out to the students the intercepts on the axes and the analogous intercepts on the diagram of the photoelectric effect. Also, indicate where the analogy no longer holds.

@@ -24,7 +24,7 @@ A magnet falling through a coil generates an induced voltage. In this demonstrat
 
 ```{figure} demo86_figure1.png
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Setup with the aluminum tube on the left and the plastic tube on the right
@@ -49,7 +49,7 @@ Press start measurement or F9, Coach 7 will wait for the trigger condition. Let 
 
 ```{figure} demo86_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Each of the six coils of the plastic tube produces a signal as the falling magnet passes. The differences between the graphs per coil allow for discussion.
@@ -60,7 +60,7 @@ Each of the six coils of the plastic tube produces a signal as the falling magne
 
 ```{figure} demo86_figure3.png
 ---
-width: 300px
+width: 50%
 align: center
 ---
 With Coach 7, you can determine the value of the area in Vs.

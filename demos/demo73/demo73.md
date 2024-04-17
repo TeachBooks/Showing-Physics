@@ -24,7 +24,7 @@ In physics class, you can experimentally determine the acceleration due to gravi
 
 ```{figure} demo73_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The hammer is suspended at a great height with a string attached to a balloon.
@@ -53,7 +53,7 @@ By using the provided Jupyter Notebook file, you can calculate the final value o
 
 ```{figure} demo73_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The measurement results obtained in the experiment.

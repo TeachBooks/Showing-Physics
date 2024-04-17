@@ -24,7 +24,7 @@ The Lorentz force on charged particles is more abstract and difficult to visuali
 
 ```{figure} dm84_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Setup with a salt solution in an aquarium tank with two electrodes connected to a DC power source. Two disk magnets are placed under the aquarium. The dye is located directly above the magnets. No current is flowing yet.
@@ -34,7 +34,7 @@ Setup with a salt solution in an aquarium tank with two electrodes connected to 
 
 ```{figure} dm84_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 The situation immediately after the current has been switched on for about one second. A force perpendicular to the direction of the current is generated above the magnets, causing a vortex. The magnets have become visible.
@@ -59,7 +59,7 @@ Control question: The teacher provides a sketch of the result and asks the stude
 ## Physics background
 ```{figure} dm84_figure3.PNG
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Force diagram for a positive and a negative ion for the upper magnet from figures 1 and 2. The sequence of reasoning is: direction of FL is observed, direction of v follows from potential direction, direction of I follows from v and particle charge, combining and applying hand rule gives direction of B (upward out of the water).

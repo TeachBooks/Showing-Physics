@@ -23,7 +23,7 @@ A metal rod can produce beautiful sounds. However, how it sounds depends on wher
 
 ```{figure} dm81_2_figure1.JPG
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 Holding the rod in the middle and tapping it against a table or striking it in another way produces a nice sound.
@@ -32,7 +32,7 @@ Holding the rod in the middle and tapping it against a table or striking it in a
 
 ```{figure} dm81_2_figure2.JPG
 ---
-width: 300px
+width: 50%
 align: center 
 ---
 If you hold the rod at the end, you only hear a dull thud. The rod does not resonate.

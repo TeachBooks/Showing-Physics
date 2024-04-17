@@ -37,7 +37,7 @@ A wine glass and a small ball are easy to find in any school. With some practice
 
 ```{figure} demo90_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 A wine glass with a ball describing circles.

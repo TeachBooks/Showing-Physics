@@ -44,7 +44,7 @@ Light the candle and put it under the vacuumbell so that smoke is trapped beneat
 
 ```{figure} dm03_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The demo is easy to set up
@@ -58,7 +58,7 @@ Turn the laser on and ask students what they observe. Is the laserbeam visible? 
 
 ```{figure} dm03_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The laserbeam is well visible, but the entire bell is illuminated as well!
@@ -69,7 +69,7 @@ Ask students to write down their observation when you turn on the vacuumpump. If
 
 ```{figure} dm03_figure3.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 When the bell got more and more vacuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.

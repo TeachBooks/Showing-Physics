@@ -48,7 +48,7 @@ Students may write something like: "The light is green at first, turns orange in
 
 ```{figure} demo87_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The green laser beam appears to turn orange in olive oil. (Photo: Rutger Ockhorst.) 
@@ -77,7 +77,7 @@ Control Question: Some photons were created by scattering, others by fluorescenc
 
 Find out what the term 'fluorescence' has to do with the element fluor.
 
-## Further Research
+## Follow-up
 
 Additionally, you can measure the fluorescence spectrum.
 

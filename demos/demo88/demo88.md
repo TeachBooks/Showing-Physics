@@ -24,7 +24,7 @@ Clouds captivate children's imagination. They resemble cushions from an airplane
 
 ```{figure} demo88_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Vacuum bell jar, pump, match, and beaker with hot water

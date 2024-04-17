@@ -48,8 +48,10 @@ Prepare the setup as described in the document.
 4. Discuss predictions about the experiment's outcome in different stages: before boiling, during boiling, and after removing the heat source.
 
 ```{figure} demo36_fig1.png
-:width: 300px
-:align: center
+---
+width: 50%
+align: center
+---
 ---
 The setup of the experiment.
 ```

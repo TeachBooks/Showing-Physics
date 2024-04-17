@@ -23,7 +23,7 @@ In this demonstration, we use a homemade panflute and take measurements of the l
 
 ```{figure} dm79_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The demonstration requires minimal equipment: a few PVC tubes of different lengths and your phone.
@@ -49,7 +49,7 @@ Verify this frequency with a measurement.
 
 ```{figure} dm79_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The data presented with coordinate transformation. Based on the function fit, the speed of sound in air is determined.

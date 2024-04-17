@@ -23,7 +23,7 @@ To let students experience the process of cooling solid objects, we observe the 
 
 ```{figure} dm75_figure1.jpeg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 The setup with a plastic test tube rack to place the balls on.
@@ -32,7 +32,7 @@ The setup with a plastic test tube rack to place the balls on.
 
 ```{figure} dm75_figure2.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Screenshot of the FLIR C5 measurement. The temperature range is set manually.
@@ -41,7 +41,7 @@ Screenshot of the FLIR C5 measurement. The temperature range is set manually.
 
 ```{figure} dm75_figure3.jpeg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Some caption
@@ -49,7 +49,7 @@ Some caption
 
 ```{figure} dm75_figure4.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Some caption
@@ -87,6 +87,6 @@ A smaller sphere has a relatively larger surface area, allowing the sphere to re
 *	Place the spheres in an oven to reach a higher temperature. Be extra careful when handling the spheres then.
 ```
 
-## Further Research
+## Follow-up
 Use a temperature sensor attached to the large and a slightly smaller sphere, perform the measurement in Coach 7. How meaningful is the measurement this way? How quickly do they both cool down? What influence does the temperature sensor itself have? The sensor also needs to heat up, in the case of a too small sphere, this will cost a lot of thermal energy from the sphere and therefore it will cool down even faster.
 

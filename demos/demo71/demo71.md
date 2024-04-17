@@ -23,7 +23,7 @@ You demonstrate a surprising phenomenon and use it to work on the understanding 
 
 ```{figure} demo71_figure1.jpg
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Magic box. Photo: Aike Stortelder.
@@ -55,7 +55,7 @@ See Figure 2. Initially, the siphon is almost filled to the top (left). With the
 
 ```{figure} demo71_figure2.png
 ---
-width: 300px
+width: 50%
 align: center
 ---
 Diagram of the siphon, connected to one of the funnels. At the start, the siphon is almost completely filled with water and some dye.
