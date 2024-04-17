@@ -29,7 +29,7 @@ With a clever use of the overhead projector we can make the old Einstein young a
 
 Construct a box with a transparent top and bottom of Perspex or glass with a distance of about 6 cm between top and bottom. On the top put a transparency with the old Einstein and on the bottom the young Einstein. The sides of the box are opaque so the young Einstein is hidden from view. Surrounding the bottom of the box is a black mask (cut from black carton) which covers the remaining part of the overhead projector (figure 2). 
 
-```{figure} dem21_figure1a.jpg
+```{figure} demo21_figure1a.jpg
 ---
 width: 50%
 align: center
@@ -45,7 +45,7 @@ align: center
 some caption
 ```
 
-```{figure} dem21_figure2a.jpg
+```{figure} demo21_figure2a.jpg
 ---
 width: 50%
 align: center
@@ -63,7 +63,7 @@ some caption
 
 ## Preparation
 Put the box on top of the overhead projector (figure 4). At the start adjust the overhead projector such that the old Einstein is on the screen.
-```{figure} dem21_figure3.jpg
+```{figure} demo21_figure3.jpg
 ---
 width: 50%
 align: center
@@ -78,7 +78,7 @@ some caption
 
 2.	Again start with the old Einstein. Then move the head of the OHP (with mirror and lens) downward. The old Einstein fades away and the young Einstein appears. Moving the head of the OHP up again shows the reverse process, the old Einstein reappears at the expense of the young Einstein. 
 
-```{figure} dem21_figure4.jpg
+```{figure} demo21_figure4.jpg
 ---
 width: 50%
 align: center
