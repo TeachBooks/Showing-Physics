@@ -42,7 +42,17 @@ The forces on the IOlabs are equal in magnitude but opposite in direction. These
 ## Equipment
 2x IOlab; mass; double-sided tape; computer.
 
-The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video here: https://youtu.be/PwPCHZAv_gs
+The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
+
+
+<div style='text-align: center;'>
+
+```{code-cell} ipython3
+:tags: [remove-input]
+from IPython.display import YouTubeVideo
+VideoWidth=600
+YouTubeVideo("PwPCHZAv_gs", width=VideoWidth, align='center')
+```
 
 ## Preparation
 Ensure that you are familiar with the IOlab, that you can read out sensors, and start and stop a measurement. Wind up the spring on one IOlab and attach the ring to the other. Weight one of the two IOlabs. Affix the weighting with double-sided tape. Create a track so that the motion of the IOlabs before and after the collision remains linear. The IOlab tends to go around the corner during collision.

@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Up the Hill, Down the Hill: Accelerating along a Slope
+# Up and down the hill: Accelerating along a Slope
 
 
 Author: Freek Pols    \
@@ -40,9 +40,23 @@ Position, velocity, and acceleration
 ```
 
 ## Equipment
-IOlab; slope ~15 cm wide, 50 cm long; computer.
+IOlab\
+slope ~15 cm wide, 50 cm long\ 
+computer and projection.
 
-The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video here: https://youtu.be/PwPCHZAv_gs
+The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
+
+
+<div style='text-align: center;'>
+
+```{code-cell} ipython3
+:tags: [remove-input]
+from IPython.display import YouTubeVideo
+VideoWidth=600
+YouTubeVideo("PwPCHZAv_gs", width=VideoWidth, align='center')
+```
+
+</div>  
 
 ## Preparation
 Ensure that you are familiar with the IOlab, that you can read out sensors, and start and stop a measurement. Set up the apparatus, distribute graph paper, and connect the IOlab to the computer. Choose the "Wheel 100 Hz" option.
