@@ -27,11 +27,15 @@ Friction is an everyday phenomenon. How would the world behave without friction?
 width: 50%
 align: center
 ---
-The demo is easy to set up
+Some caption
 ```
 
 ## Equipment
-Smooth pvc-tube (diameter32 mm); piece of cloth which easily slips over the surface of the tube (figure 1); small metal tray  (figure 2); spring (not stiff); string; washers.  
+Smooth pvc-tube (diameter32 mm);\ 
+piece of cloth which easily slips over the surface of the tube (figure 1); small metal tray  (figure 2); 
+spring (not stiff); 
+string; 
+washers.  
 
 ## Preparation
 Test whether the cloth slides easily across the tube. Check whether it slides off towards one side as soon as the tube is tilted a bit. 

@@ -13,7 +13,6 @@ kernelspec:
 
 # Determination of g: But with precision!
 
-
 Author: Freek Pols     \
 Time:	 20 minutes 	\
 Age group:	14 - 18\

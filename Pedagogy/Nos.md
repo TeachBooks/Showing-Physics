@@ -72,7 +72,7 @@ physics. It is only for boys.
 ## How can you bring attention to NoS into your lesson?
 
 An excellent start are *Black-Box* activities, especially if they evoke immediate surprise and confusion. You perform small experiments with an object (the *Black- box*). The result is the *output* of the *Black-Box*. But the mechanism by which it arrives at that output remains hidden. Students often feel that
-they can understand "how it is" and they immediately go to investigate. In a demonstration, you have excellent opportunities to then direct that and explore together. See for example the NoS activities 'Cylinder puzzle'(A06) and "Magic or not?"(A05) in this book or check out this English-language website of the Royal Society of Chemistry: edu.rsc.org/resources/black-box/1275.article
+they can understand "how it is" and they immediately go to investigate. In a demonstration, you have excellent opportunities to then direct that and explore together. See for example the NoS activities ['Cylinder puzzle'](../demos/demo70/demo70.md) and [Magic or not?](../demos/demo71/demo71.md) in this book, or check out this English-language website of the [Royal Society of Chemistry](edu.rsc.org/resources/black-box/1275.article)
 
 ```{figure} Figures/cylinder_puzzle.jpg
 ---
