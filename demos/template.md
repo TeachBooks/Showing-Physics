@@ -32,7 +32,7 @@ Concepts:
 width: 50%
 align: center
 ---
-The demo is easy to set up
+some caption
 ```
 
 ## Physics background

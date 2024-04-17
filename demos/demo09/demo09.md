@@ -32,10 +32,10 @@ The required materials
 
 
 ## Equipment
-* Electric boiler; 
-* water; 
-* tea light with container (for example a spaghetti spoon); 
-* matches (see figure 1); 
+* Electric boiler
+* water
+* tea light with container (for example a spaghetti spoon)
+* matches (see figure 1)
 * webcam and screen to make a candle visible in the holder for the whole class.
 
 ## Preparation

@@ -29,14 +29,62 @@ With a clever use of the overhead projector we can make the old Einstein young a
 
 Construct a box with a transparent top and bottom of Perspex or glass with a distance of about 6 cm between top and bottom. On the top put a transparency with the old Einstein and on the bottom the young Einstein. The sides of the box are opaque so the young Einstein is hidden from view. Surrounding the bottom of the box is a black mask (cut from black carton) which covers the remaining part of the overhead projector (figure 2). 
 
+```{figure} dem21_figure1a.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo21_figure1b.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} dem21_figure2a.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo21_figure2b.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
 ## Preparation
 Put the box on top of the overhead projector (figure 4). At the start adjust the overhead projector such that the old Einstein is on the screen.
+```{figure} dem21_figure3.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
 
 ## Procedure
 
 1.	The old Einstein is projected on the screen. When you put the white carton on top of the fixed screen, one sees a sharp image of the old Einstein. However, when the white carton is moved in the direction of the OHP the old Einstein fades away and the young Einstein appears. When you have moved the carton 1 or 2 meters towards the OHP, then only the young Einstein appears.  Pay attention to details such as the “growth” of the hair of the moustache and the hair on the head.  
 
 2.	Again start with the old Einstein. Then move the head of the OHP (with mirror and lens) downward. The old Einstein fades away and the young Einstein appears. Moving the head of the OHP up again shows the reverse process, the old Einstein reappears at the expense of the young Einstein. 
+
+```{figure} dem21_figure4.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
 
 ```{tip}
 * The glass/Perspex top and bottom should be surrounded by carton so the audience cannot look inside and cannot see the young Einstein picture. The audience only sees the box with on top the old Einstein. The audience often suspects that there is some kind of computer inside the box. This computer is thought to change the image.  

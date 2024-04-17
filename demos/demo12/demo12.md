@@ -46,14 +46,14 @@ align: center
 SOME Caption
 ```
 ## Equipment
-A glass of water on a dry sheet of A4 paper; a ballpoint or pencil; 
-a slightly longer stick or rod; 
-a hammer; 
-a meterstick or a rod; 
-a broom; 
-a broomstick or PVC pipe; 
-other items of your choice; 
-a full roll of toilet paper and one that is almost finished
+* A glass of water on a dry sheet of A4 paper; a ballpoint or pencil
+* a slightly longer stick or rod
+* a hammer
+* a meterstick or a rod
+* a broom
+* a broomstick or PVC pipe
+* other items of your choice
+* a full roll of toilet paper and one that is almost finished
 
 ## Preparation
 Prepare the objects needed. A few powerpoint slides might help. Make sure the bottom of the glass of water is dry and so it does not stick to the A4 sheet as a glass of tap water collects condense easily.

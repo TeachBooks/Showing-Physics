@@ -33,9 +33,9 @@ Are some of the dices falling faster than $g$?
 ```
 
 ## Equipment
-* Meter stick or equivalent. 
-* About 30 coins (teacher can borrow from students, they could be pennies or pounds, whatever). 
-* If possible a high-speed camera. Most phones can do 120 or 240 frames per second. Cheap action cameras can do 120 frames/second as well. 
+* Meter stick or equivalent
+* About 30 coins (teacher can borrow from students, they could be pennies or pounds, whatever)
+* If possible a high-speed camera. Most phones can do 120 or 240 frames per second. Cheap action cameras can do 120 frames/second as well
 
 ## Preparation
 Think how the visibility of observations can be maximized. For example, put a chair on top of a table and use that as one of the endpoints of the meter stick. Distribute the 20 coins more or less equally across the length of the stick. 

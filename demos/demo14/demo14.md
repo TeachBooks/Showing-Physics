@@ -19,6 +19,8 @@ Time:	  	  15 minutes\
 Age group:	16 - 18\
 Concepts:	  kinetic and static friction
 
+Inspired by {cite:t}`Balsma`.
+
 ## Introduction
 Friction is an everyday phenomenon. How would the world behave without friction? We describe some demonstrations which do not cost anything but show very clearly the difference between friction when there is no movement (static friction) and friction when two surfaces move relative to each other (kinetic friction). Many interesting applications can be found when static friction becomes kinetic friction.   
 
@@ -31,11 +33,12 @@ Some caption
 ```
 
 ## Equipment
-Smooth pvc-tube (diameter32 mm);\ 
-piece of cloth which easily slips over the surface of the tube (figure 1); small metal tray  (figure 2); 
-spring (not stiff); 
-string; 
-washers.  
+* Smooth pvc-tube (diameter32 mm) 
+* piece of cloth which easily slips over the surface of the tube (figure 1)
+* small metal tray  (figure 2)
+* spring (not stiff)
+* string
+* washers.  
 
 ## Preparation
 Test whether the cloth slides easily across the tube. Check whether it slides off towards one side as soon as the tube is tilted a bit. 
@@ -52,7 +55,7 @@ Ask your students for more examples of this phenomenon.
 width: 50%
 align: center
 ---
-The demo is easy to set up
+some caption
 ```
 
 ## Physics background
@@ -61,12 +64,11 @@ Through static friction the tray remains at rest until the force is big enough t
 Stick-slip is jerking motion which occurs when a moving object stands still for a moment (sticks) and then jumps forward (slips). The effect may repeat itself continuously. It is the same phenomenon, which occurs when a piece of chalk is moved perpendicular to a traditional blackboard and produces a very unpleasant screeching sound. But also the screeching brakes of a car and the movement of a bow across the violin strings are examples of stick-slip friction, as well as earth quakes when layers of rock move across each other.   
 A bag drawn across a table with a string might exhibit stick-slip motion as well.
 
+```{tip}
+YouTube has many stick-slip examples.
+````
 
 ## References
-YouTube has many stick-slip examples.
-Balsma, E. (2008). Wrijving op een koopje. NVOX, 33(3), 90-91. 
- 
-
 ```{bibliography}
 :filter: docname in docnames
 ```

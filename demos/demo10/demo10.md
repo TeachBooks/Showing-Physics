@@ -22,9 +22,9 @@ Concepts:	  observe and explain; reasoning with charge, electrostatic induction,
 The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below our focus is on the development of explanation and reasoning skills. 
 
 ## Equipment
-* Van de Graaff generator; 
-* soap bubble gun; 
-* video recording equipment (can be a student phone).
+* Van de Graaff generator
+* soap bubble gun
+* video recording equipment (can be a student phone)
 
 ```{figure} demo10_figure1.jpg
 ---

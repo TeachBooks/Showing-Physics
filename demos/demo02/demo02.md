@@ -55,7 +55,7 @@ A cappuccino is made by ...... (here follows the text of the introduction but **
 width: 50%
 align: center
 ---
-The demo is easy to set up
+some caption
 ```
 
 The teacher explains the set-up and asks a student to come to the front to measure the volume of “milk” and its temperature (should be about 5$^o$C). 

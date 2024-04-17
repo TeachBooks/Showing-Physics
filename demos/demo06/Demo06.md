@@ -22,7 +22,12 @@ Concepts:	  Refraction, dispersion, spectrum, rainbow, prism, lens
 The lights go off and then there is this beautiful spectrum on the wall (figures 1 & 2). The demonstration can be used for events to illustrate the beauty of physics, but it constitutes also a useful exercise in lower and upper secondary geometrical optics.
 
 ## Equipment
-An old fashioned overhead projector (OHP) of which the upper convex lens is removed as only the flat Fresnel plate is used; a transparent plastic container (for example a terrarium from an animal store); water; several A4 sheets of paper; a white wall or projection screen; a piece of white carton.
+* An old fashioned overhead projector (OHP) of which the upper convex lens is removed as only the flat Fresnel plate is used
+* a transparent plastic container (for example a terrarium from an animal store)
+* water
+* several A4 sheets of paper
+* a white wall or projection screen
+* a piece of white carton.
 
 ## Preparation
 Cover the OHP with white sheets of paper. Put the container with water (about ¾ filled) on top of this and arrange the papers such that there is a narrow slit (up to 1 cm) next to the container where the light can pass through (figure 3).  Set-up and try out. 
@@ -32,7 +37,7 @@ Cover the OHP with white sheets of paper. Put the container with water (about ¾
 width: 50%
 align: center
 ---
-The demo is easy to set up
+some caption
 ``` 
 -->
 

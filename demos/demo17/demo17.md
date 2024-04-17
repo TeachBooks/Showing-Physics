@@ -45,7 +45,3 @@ This demonstration can provide a valuable introduction to the differences betwee
 ## Physics background
 The center of gravity of the lower bottle is below the support, formed by the bottle opener. Therefore, the system is in equilibrium even without the top bottle. Depending on the (required) level of the students you can explain this more thoroughly by drawing the appropriate lines of action. The lines of action of the gravitational force and the normal force are exactly aligned. The line of action of the normal force will position itself ‘automatically’ in this exact configuration, which is possible whenever the center of gravity is below the supporting surface. In fact, the normal force probably consists of many small normal forces. Adding them correctly will result in one single resultant normal force with the described property.
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```

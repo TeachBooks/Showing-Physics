@@ -13,10 +13,13 @@ kernelspec:
 
 # Merry-go-around of floating candles, Lorentz force in liquids
 
-Author:     Onne Slooten en Ed van den Berg[^1]\
+Author:     Onne Slooten en Ed van den Berg\
 Time:	  	10 minutes\
 Age group:	15 - 18\
 Concepts:	electromagnetism, Lorentz force, ions, current, magnetic field
+
+
+ Original idea by {cite:t}`Biezeveld,`.
 
 ## Introduction
 What is more romantic than candle light in a darkened physics classroom with all students lined up around the demonstration table and candles which move like boats in the water, powered by an invisible force? 
@@ -69,19 +72,9 @@ As soon as the circuit is powered there will be a current of positive sodium ion
 The demonstration can be followed by other classical demonstrations of
 electro-magnetism such as those in Biezeveld, Mathot en Brouwer (2016)
 p190-193 or by discussion of conceptual questions on electromagnetism
-like in *Conceptual Physics*, chapter 25 (Hewitt, 2015).
+like in *Conceptual Physics* {cite:p}`Hewitt`.
 
 ## References
 ```{bibliography}
 :filter: docname in docnames
 ```
-
-## Literature
-
-Biezeveld, H., Mathot, L. Brouwer, R. (2016). *Stevin natuurkunde VWO*.
-ISBN 978-9-089-67216-2.
-
-Hewitt, P.G. (2015). *Conceptual Physics* (12th edition or earlier
-editions). Pearson, ISBN 978-0-321-90910-7
-
-[^1]: Original idea by Biezeveld, Mathot and Brouwer in their Scope and Stevin textbook series

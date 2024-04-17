@@ -47,7 +47,7 @@ Light the candle and put it under the vacuumbell so that smoke is trapped beneat
 width: 50%
 align: center
 ---
-The demo is easy to set up
+some caption
 ```
 
 
