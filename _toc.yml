@@ -25,13 +25,13 @@ parts:
     - file: demos/NOSdemos
       title: Demos on NoS
       sections:
-      - file: demos/demo01/demo01 #particle      
-      - file: demos/demo06/demo06 #Spectacular Spectrum
-      - file: demos/demo07/demo07 #Magic with pendulums
-      - file: demos/demo08/demo08 #Memory Balls
-      - file: demos/demo70/demo70 #Cylinder Puzzle
-      - file: demos/demo71/demo71 #magic siphon
-      - file: demos/demo72/demo72 #rollstop
+      - file: demos/NOS/demo01/demo01 #particle      
+      - file: demos/NOS/demo06/demo06 #Spectacular Spectrum
+      - file: demos/NOS/demo07/demo07 #Magic with pendulums
+      - file: demos/NOS/demo08/demo08 #Memory Balls
+      - file: demos/NOS/demo70/demo70 #Cylinder Puzzle
+      - file: demos/NOS/demo71/demo71 #magic siphon
+      - file: demos/NOS/demo72/demo72 #rollstop
 
       
   - caption: Demos for scientific inquiry
@@ -42,9 +42,9 @@ parts:
     - file: demos/Inquirydemos
       title: Demos on scientific inquiry
       sections:
-      - file: demos/demo09/demo09 #vapor
-      - file: demos/demo10/demo10 #vdgraaf
-      - file: demos/demo73/demo73 #determining g
+      - file: demos/SI/demo09/demo09 #vapor
+      - file: demos/SI/demo10/demo10 #vdgraaf
+      - file: demos/SI/demo73/demo73 #determining g
 
   - caption: "Demos for conceptual development: waves, optics, quantum, electricity, magnetism"
     numbered: 2
