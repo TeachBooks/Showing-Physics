@@ -76,6 +76,34 @@ It is possible to do this experiment as student practical work, but watch out wi
 ```{warning}
 Steam can cause bad burns. So watch out with the steam coming through the rubber tube, use insulating gloves or use tongs. 
 ```
+```{admonition} Worksheet
+Werkblad cappuccinoproef
+De volgende formules kunnen je helpen met de opgaven op dit werkblad.
+Algemene formules: Q = m ∙ cw ∙ ∆T en Q = L.m
+In dit experiment: Qop(genomen door de melk) = Qaf(gestaan door het water)
+50 g ∙ 4,2 J/g °C ∙ (65 °C – 5 °C) = mheet ∙ 4,2 J/g °C ∙ (Theet – 65 °C)
+
+ρwater ≈ 1,0 g/ml ; cmelk ≈ cwater = 4,18.103 J/g °C ; L = 2,26 . 106 J/kg (verdampingswarmte)
+[Tim, het symbool ρ is de Griekse letter rho).
+
+Poging 1: water van 90 °C (Theet is 90 °C)
+Bereken hoeveel gram water van 90° C we bij 50 g ‘melk’ (hier ook water) van 5° C moeten voegen opdat temperatuur van de ‘melk’ 65 °C wordt.
+Antwoord: 
+
+Poging 2: water van 100 °C (Theet is 100 °C)
+Bereken hoeveel gram water van 100 °C we bij 50 g ‘melk’ van 5 °C moeten voegen opdat de temperatuur van de ‘melk’ 65° C wordt.
+Antwoord: 
+
+Poging 3: heel heet water als het geen stoom zou worden
+Bereken Theet als we besluiten om 5 g heel heet water-niet-stoom bij 50 g ‘melk’ van 5 °C voegen opdat de temperatuur van de ‘melk’ 65 °C wordt (mheet is dus 5 g).
+Antwoord: 
+ 
+Poging 4: stoom van 100 °C
+Bereken hoeveel gram stoom van 100 °C we bij 50 g ‘melk’ van 5 °C moeten voegen opdat de temperatuur van de ‘melk’ 65 °C wordt.
+Antwoord: 
+
+
+```
 
 ## References
 ```{bibliography}
