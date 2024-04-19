@@ -6,7 +6,7 @@
 ```
 **Leo te Brinke**
 
-Leo te Brinke (1954) obtained his MO-B in physics from the Catholic University of Nijmegen. Since then he has been physics teacher at several schools for havo and vwo, also in adult education. He was also one of the founders of the Scan and Pulsar physics methods, where he has been a member of the authorship team from the beginning until now. At NOT-Teleac he collaborated on the video series Milestones in Physics and Engineering and Science Bank.
+Leo te Brinke (1954) obtained his MO-B in physics from the Catholic University of Nijmegen. Since then he has been physics teacher at several schools for havo (vocational) and vwo (pre-university), as well in adult education. He was one of the founders of the Scan and Pulsar physics methods. At NOT-Teleac he collaborated on the video series Milestones in Physics and Engineering and Science Bank.
 
 
 ```{figure} authors/auth_Ed.jpg

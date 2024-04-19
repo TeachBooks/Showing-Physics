@@ -28,7 +28,7 @@ sphinx:
     
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
+  url: https://gitlab.tudelft.nl/fpols/showing-physics  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: HEAD  # Which branch of the repository should be used when creating links (optional)
 

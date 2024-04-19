@@ -1,12 +1,24 @@
 # The pedagogy of physics demonstrations
 
-> Physics demonstrations are beautiful, inspiring and educational. They deserve to given plenty of attention in education. Demonstrations also take a lot of time. Getting materials together and match, arrange parts so that attention is focused on the main point, preparing presentation. Captivate and involve students. Questions raise questions. Build excitement, show the phenomenon. Making sure your audience will never forget your demonstration never forgets! Would you even start it? Of course I would. But if you do: do it well!
+```{admonition} **Teaser**
+Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the beginnings. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveile the phenomenon. All this effort aims to ensure that your audience will never forget your demonstration! And, finally, cleaning up... Should you even bother? **Absolutely!!!** But when you do it, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience.
+```
+
+```{figure} ../demos/demo12/demo12_figure2.jpg
+---
+width: 50%
+align: center
+---
+A teacher demonstrating [stability](../demos/demo12/demo12.md)
+```
+
+**Do we learn from demonstrations?**
 
 Almost everyone who is enthusiastic about STEM education remembers a great demonstration. One that sticks in the memory. One that you would like to share because you enjoyed it so much yourself. But did you learn anything from it? Are physics concepts better anchored? In an article in the *American Journal of Physics* ( {cite:t}`crouch2004classroom`):
 
 > Despite popular beliefs to the contrary, students learn little, if anything, from traditionally presented classroom demonstrations.
 
-So... should we leave out those demonstrations? Then at least you save time, a lot of time. The American research research fortunately also reports that you can significantly increase the learning effect of demonstrations. You have to modify the demonstration in such a way that your students predict the result.  Students who predict the result of the demonstration before they see that result, learn much more. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether you learn anything from a demonstration is then much less in question.
+So... should we leave out those demonstrations? Then at least you save time... a lot of time. {cite:t}`crouch2004classroom` fortunately also reports that you can significantly increase the learning effect of demonstrations. To do so, you have to modify the demonstration in such a way that your students [predict the result](PoE). Students who predict the result of the demonstration before they see that result, learn much more. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether you learn anything from a demonstration is then much less in question.
 
 Without any strategy to the didactical approach, demonstrations are not likely to increase students' comprehension of the phenomenon at hand. Hence, this book not only presents many physics demonstrations, it also delves in the strategies that can be applied when conducting a physics demonstration. Before elaborating on specific strategies, we cover some basic ideas. Moreover, pertaining to each of the four categories in this book, a section is devoted to the pedagogy that fits that specific purpose.
 
@@ -15,7 +27,7 @@ Without any strategy to the didactical approach, demonstrations are not likely t
 width: 40%
 align: center
 ---
-A teacher demonstrating the singing rod to teach students about standing waves.
+A teacher demonstrating the [singing rod](../demos/demo81/demo81.md) to teach students about standing waves.
 ```
 
 
