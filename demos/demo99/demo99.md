@@ -19,6 +19,13 @@ Time:	15 - 30 minutes  	\
 Age group:	Upper/lower secondary \
 Concepts:	Heat, radiation, absorption
 
+```{figure} demo99_figure1.jpeg
+---
+width: 50%
+align: center
+---
+The white and black test tube in the holder both heated by the light bulb. 
+```
 
 ## Introduction
 A simple demonstration of heating up and cooling down a black and a white test tube. When heating up, students will mostly give a good prediction. When cooling down, however, they will often be guided by the statement "heating up faster will also cool down faster". However, this statement does not hold true. 
@@ -28,14 +35,6 @@ A simple demonstration of heating up and cooling down a black and a white test t
 * a light bulb (> 40 W) or a high-power halogen spotlight; 
 * 2 temperature sensors; CoachLab and computer;
 * two rubber stoppers with hole; kettle; measuring cylinder to measure 20 mL of water.
-
-```{figure} demo99_figure1.jpeg
----
-width: 50%
-align: center
----
-The white and black test tube in the holder both heated by the light bulb. 
-```
 
 ```{figure} demo99_figure2.jpeg
 ---
@@ -51,12 +50,12 @@ Insert the temperature sensors through the rubber stoppers and place them in the
 Part 2: Heat water in a kettle. Pour the hot water into the measuring cylinder. Pour 20 mL of water into each test tube. Put the temperature sensors in the test tubes.
 
 ## Procedure
-Part 1:
+**Part 1:**
 1.	Give an intro about the experiment. You can tell about absorption of light by different coloured objects.
 2.	Predict in which test tube the air warms up fastest and why. 
 3.	Discuss the results with the students.
 
-Part 2:
+**Part 2:**
 4.	Explain that you will now fill the test tubes with hot water and then measure the cooling. 
 5.	Predict in which test tube the water cools down fastest and why.
 6.	Perform the test. 
