@@ -23,7 +23,7 @@ In physics class, you can experimentally determine the acceleration due to gravi
 
 ```{figure} demo73_figure1.jpg
 ---
-width: 50%
+width: 30%
 align: center
 ---
 The hammer is suspended at a great height with a string attached to a balloon.

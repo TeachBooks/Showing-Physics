@@ -126,9 +126,9 @@ parts:
   - caption: to be sorted
     numbered: 2
     chapters:
-    - file: Pedagogy/PoE
-      title: Predict Observe Explain
-    - file: demos/Specialdemos
+    - file: Pedagogy/New
+      title: to be replaced
+    - file: demos/Specialdemos2
       title: to be sorted
       sections:
       - file: demos/demo26/demo26 
@@ -163,4 +163,13 @@ parts:
       - file: demos/demo55/demo55
       - file: demos/demo56/demo56
       - file: demos/demo57/demo57
+      - file: demos/demo91/demo91
+      - file: demos/demo92/demo92
+      - file: demos/demo93/demo93
+      - file: demos/demo94/demo94
+      - file: demos/demo95/demo95
+      - file: demos/demo96/demo96
+      - file: demos/demo97/demo97
+      - file: demos/demo98/demo98
+      - file: demos/demo99/demo99
       

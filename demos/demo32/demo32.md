@@ -27,7 +27,7 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo32_figure1.jpg
 ---
 width: 50%
 align: center

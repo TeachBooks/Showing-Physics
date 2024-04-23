@@ -27,7 +27,7 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo30_figure1.JPG
 ---
 width: 50%
 align: center
@@ -35,6 +35,13 @@ align: center
 some caption
 ```
 
+```{figure} demo30_figure2.JPG
+---
+width: 50%
+align: center
+---
+some caption
+```
 ## Physics background
 
 ## Follow-up
