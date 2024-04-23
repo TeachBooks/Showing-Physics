@@ -21,6 +21,14 @@ Concepts:	  period, resonance
 ## Introduction
 5 or 6 pendulums are suspended from a rod (figure 1). Turn the rod slightly back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
 
+```{figure} dm07_figure1.JPG
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
 ## Equipment
 Use as rod a 70 cm piece of broomstick. The strings should have a thickness of several mm. Use wooden balls with a diameter of approximately 7 cm (available from toy or hobby websites). Give each ball a different color. Drill a narrow hole through each ball and through the broom stick. The string can be secured on either side with a knot. 
 
