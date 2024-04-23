@@ -47,7 +47,7 @@ Prepare the setup as described in the document.
 3. Hang the tubing in the water of the beaker, ensuring the end is a few cm below the water surface.
 4. Discuss predictions about the experiment's outcome in different stages: before boiling, during boiling, and after removing the heat source.
 
-```{figure} demo36_fig1.png
+```{figure} demo36_figure1.png
 ---
 width: 50%
 align: center

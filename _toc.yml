@@ -122,4 +122,24 @@ parts:
       - file: demos/demo88/demo88 #cloud formation
       - file: demos/demo89/demo89 #Optics with LEDs:
       - file: demos/demo90/demo90 #Wine Glass
+  
+  - caption: to be sorted
+    numbered: 2
+    chapters:
+    - file: Pedagogy/PoE
+      title: Predict Observe Explain
+    - file: demos/Specialdemos
+      title: to be sorted
+      sections:
+      - file: demos/demo26/demo26 
+      - file: demos/demo27/demo27 
+      - file: demos/demo28/demo28 
+      - file: demos/demo29/demo29 
+      - file: demos/demo30/demo30
+      - file: demos/demo31/demo31
+      - file: demos/demo32/demo32
+      - file: demos/demo33/demo33
+      - file: demos/demo34/demo34
+      - file: demos/demo35/demo35
+      - file: demos/demo36/demo36
       
