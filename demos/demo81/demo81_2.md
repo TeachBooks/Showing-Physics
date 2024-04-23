@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 A metal rod can produce beautiful sounds. However, how it sounds depends on where you hold it.
 
-```{figure} dm81_2_figure1.JPG
+```{figure} demo81_2_figure1.JPG
 ---
 width: 50%
 align: center 
@@ -30,7 +30,7 @@ Holding the rod in the middle and tapping it against a table or striking it in a
 ```
 
 
-```{figure} dm81_2_figure2.JPG
+```{figure} demo81_2_figure2.JPG
 ---
 width: 50%
 align: center 

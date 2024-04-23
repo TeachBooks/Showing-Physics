@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 Many students find centripetal force difficult to grasp. The misconception of a 'centrifugal force' is constantly looming. This experiment challenges students to seek an explanation for the displayed situation. By using the correct scientific terminology, you can encourage students to move away from the possible misconception of centrifugal force. This experiment can contribute to a 'conceptual change.'
 
-```{figure} dm78_figure1.JPG
+```{figure} demo78_figure1.JPG
 ---
 width: 50%
 align: center

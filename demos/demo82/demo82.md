@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 A transit of an exoplanet is a distant concept for many students. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
 
-```{figure} dm82_figure1.jpeg
+```{figure} demo82_figure1.jpeg
 ---
 width: 50%
 align: center 
@@ -30,7 +30,7 @@ Setup to measure a transit.
 ```
 
 
-```{figure} dm82_figure2.png
+```{figure} demo82_figure2.png
 ---
 width: 50%
 align: center 

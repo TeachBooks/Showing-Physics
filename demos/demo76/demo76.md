@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 Students learn about density in the second grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
 
-```{figure} dm76_figure1.JPG
+```{figure} demo76_figure1.JPG
 ---
 width: 50%
 align: center

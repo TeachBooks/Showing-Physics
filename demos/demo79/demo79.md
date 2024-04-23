@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 In this demonstration, we use a homemade panflute and take measurements of the lengths of the tubes and the corresponding frequency using the Phyphox app. The theory of standing waves in an open and closed tube then provides an accurate determination of the speed of sound.
 
-```{figure} dm79_figure1.jpg
+```{figure} demo79_figure1.jpg
 ---
 width: 50%
 align: center
@@ -47,7 +47,7 @@ Blow over the short tube to confirm.
 5. Blow hard over the tube. You will clearly hear an overtone that you can measure. Check: *Make a drawing of a possible overtone in the tube. Calculate the resonant frequency based on that drawing.*\
 Verify this frequency with a measurement.
 
-```{figure} dm79_figure2.jpg
+```{figure} demo79_figure2.jpg
 ---
 width: 50%
 align: center

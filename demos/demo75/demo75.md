@@ -21,7 +21,7 @@ Concepts:
 ## Introduction
 To let students experience the process of cooling solid objects, we observe the cooling of iron spheres with different diameters using a FLIR camera (C5). It is clearly visible that the smallest sphere cools down faster than the larger spheres. An experiment also conducted in the 18th century by George-Louis Leclerc to determine the age of the Earth.
 
-```{figure} dm75_figure1.jpeg
+```{figure} demo75_figure1.jpeg
 ---
 width: 50%
 align: center
@@ -30,7 +30,7 @@ The setup with a plastic test tube rack to place the balls on.
 ```
 
 
-```{figure} dm75_figure2.jpg
+```{figure} demo75_figure2.jpg
 ---
 width: 50%
 align: center
@@ -39,7 +39,7 @@ Screenshot of the FLIR C5 measurement. The temperature range is set manually.
 ```
 
 
-```{figure} dm75_figure3.jpeg
+```{figure} demo75_figure3.jpeg
 ---
 width: 50%
 align: center
@@ -47,7 +47,7 @@ align: center
 Some caption
 ```
 
-```{figure} dm75_figure4.jpg
+```{figure} demo75_figure4.jpg
 ---
 width: 50%
 align: center

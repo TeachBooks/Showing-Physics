@@ -24,7 +24,7 @@ In this demonstration of Newton’s First Law you can direct students’ thought
 ## Equipment
 A smooth, flat table that is as long as possible. A retort stand that is as high as possible, with clamps and two pulleys; a hanger with slotted masses; a thin cord that is twice as long as the table; two spring-balances. A cart. Power source and electromotor; two more retort stands each with a clamp and a pulley.
 
-```{figure} dm05_figure1.JPG
+```{figure} demo05_figure1.JPG
 ---
 width: 50%
 align: center
@@ -41,7 +41,7 @@ The cord is revolving uniformly, so a knot in the cord moves along at constant s
 
 A Predict-Observe-Explain approach is appropriate here. An example is presented in the worksheet below. Students predict in advance, in writing, what they expect will be measured in answering the two questions. Then the experiment is carried out. A (slightly) larger speed is realised by increasing the potential difference driving the electric motor. A conclusion is formulated on the basis of the observations. It is applied in similar contexts to explore whether it is generally applicable. 
 
-```{figure} dm05_figure2.JPG
+```{figure} demo05_figure2.JPG
 ---
 width: 50%
 align: center

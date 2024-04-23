@@ -11,7 +11,7 @@ This demonstration has been published by the authors in {cite:t}`hidden2012`.
 ## Introduction
 A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to a cup of espresso. Whole milk is best for foaming and the ideal milk temperature when adding it to the espresso is 65°C. The espresso itself may be warmer than that. During the heating the milk should not burn as that would spoil the taste. The best way is to heat the milk slowly while stirring to froth the milk and create foam. But modern cappuccino machines in restaurants do not have time for slow heating. Could we heat the milk by just adding hot water?
 
-```{figure} dm02_figure2.JPG
+```{figure} demo02_figure2.JPG
 ---
 width: 50%
 align: center
@@ -50,7 +50,7 @@ A cappuccino is made by ...... (here follows the text of the introduction but **
 
 > *That is very high, 665 $^o$C, that is not going to work. Let’s now look at what happens if we use steam, which is what we get when we heat water above 100$^o$C.*
 
-```{figure} dm02_figure1.jpg
+```{figure} demo02_figure1.jpg
 ---
 width: 50%
 align: center

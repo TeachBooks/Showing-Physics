@@ -11,7 +11,7 @@ Name of the demo
 
 ## Equipment
 * A number of equal blocks.
-```{figure} dm04_figure1.jpg
+```{figure} demo04_figure1.jpg
 ---
 width: 50%
 align: center
@@ -24,7 +24,7 @@ The demo requires only some blocks.
 Pile some blocks on top of each other with the instruction: how can you make the end of the top block stick out as much as possible? In other words, how can you achieve the maximum distance between the front of the top block and the front of the bottom block? You can use as many blocks as you want.
 Is it possible that the backside of the top block passes the front side of the bottom block?
 
-```{figure} dm04_figure2.jpg
+```{figure} demo04_figure2.jpg
 ---
 width: 50%
 align: center
@@ -42,7 +42,7 @@ When you use the reverse piling method, starting from the top, then very quickly
 * Center of mass of block 1 and block 2 together is above the front of block 3;
 * Center of mass of blocks 1 – 3 is above the front of block 4.
 All of that above block 5 and the overhang is already more than one block length.
-```{figure} dm04_figure3.jpg
+```{figure} demo04_figure3.jpg
 ---
 width: 50%
 align: center

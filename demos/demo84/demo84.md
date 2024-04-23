@@ -22,7 +22,7 @@ Concepts:
 ## Introduction
 The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, you make the Lorentz force on ions in solution convincingly visible. The Lorentz force is already known, so students can engage in robust back-and-forth thinking in this situation.
 
-```{figure} dm84_figure1.jpg
+```{figure} demo84_figure1.jpg
 ---
 width: 50%
 align: center 
@@ -32,7 +32,7 @@ Setup with a salt solution in an aquarium tank with two electrodes connected to 
 
 
 
-```{figure} dm84_figure2.jpg
+```{figure} demo84_figure2.jpg
 ---
 width: 50%
 align: center 
@@ -57,7 +57,7 @@ Students will likely answer that question based on the direction of the Lorentz 
 Control question: The teacher provides a sketch of the result and asks the students to figure out how to achieve that with these materials. Much back-and-forth thinking is guaranteed here.
 
 ## Physics background
-```{figure} dm84_figure3.PNG
+```{figure} demo84_figure3.PNG
 ---
 width: 50%
 align: center 

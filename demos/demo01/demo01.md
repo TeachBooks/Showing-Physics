@@ -35,7 +35,7 @@ Students often come up with the following ideas.
 Test: if this is correct, it should be possible to compress the material in the egg. Is that the case?
 Cut one of the eggs, fill the syringe with it, remove the air, close the syringe and try to compress it. Conclusion?
 
-```{figure} dm01_figure1.JPG
+```{figure} demo01_figure1.JPG
 ---
 width: 50%
 align: center
@@ -51,7 +51,7 @@ Conclusion: vinegar goes through the outer ‘skin’ or membrane of an egg, but
 ***Research plan***
 Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day let it slowly come to the boil and cook it for a long time, then open it and investigate the contents.
 
-```{figure} dm01_figure2.JPG
+```{figure} demo01_figure2.JPG
 ---
 width: 50%
 align: center
@@ -81,7 +81,7 @@ Produce a systematic overview of the observations, for example in an observation
 ### 3. Interpretations and conclusions, answering the research question (30 min)
 What causes some substances to pass through both membranes, others to pass through the outer one only, and yet others to pass through neither? Challenge the students to answer this question. Acknowledge and appreciate all of the ideas the students offer, but critically assess with the whole class whether each of the explanations is indeed able to explain all of the observations.
 
-```{figure} dm01_figure3.JPG
+```{figure} demo01_figure3.JPG
 ---
 width: 50%
 align: center

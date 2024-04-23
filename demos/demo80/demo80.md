@@ -22,7 +22,7 @@ Concepts:
 ## Introduction
 In this activity, you will simulate astronomical observations in the classroom by observing with light bulbs. The goal is to make students understand how to obtain temperature information from stars in a relatively simple way. In some cases, this also leads to information about the luminosity of a star and thus to distance information. They can determine this with some help, which requires a lot of back-and-forth thinking.
 
-```{figure} dm80_figure1.jpg
+```{figure} demo80_figure1.jpg
 ---
 width: 50%
 align: center
@@ -32,7 +32,7 @@ The two light bulbs photographed through a red filter held in front of the mobil
 
 
 
-```{figure} dm80_figure2.jpg
+```{figure} demo80_figure2.jpg
 ---
 width: 50%
 align: center

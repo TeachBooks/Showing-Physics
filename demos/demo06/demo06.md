@@ -32,7 +32,7 @@ The lights go off and then there is this beautiful spectrum on the wall (figures
 ## Preparation
 Cover the OHP with white sheets of paper. Put the container with water (about ¾ filled) on top of this and arrange the papers such that there is a narrow slit (up to 1 cm) next to the container where the light can pass through (figure 3).  Set-up and try out. 
 
-```{figure} dm06_figure1.JPG
+```{figure} demo06_figure1.JPG
 ---
 width: 50%
 align: center
@@ -40,7 +40,7 @@ align: center
 some caption
 ``` 
 
-```{figure} dm06_figure2.JPG
+```{figure} demo06_figure2.JPG
 ---
 width: 50%
 align: center
@@ -48,7 +48,7 @@ align: center
 some caption
 ``` 
 
-```{figure} dm06_figure3.JPG
+```{figure} demo06_figure3.JPG
 ---
 width: 50%
 align: center
@@ -56,7 +56,7 @@ align: center
 some caption
 ``` 
 
-```{figure} dm06_figure4.JPG
+```{figure} demo06_figure4.JPG
 ---
 width: 50%
 align: center
@@ -64,7 +64,7 @@ align: center
 some caption
 ``` 
 
-```{figure} dm06_figure5.JPG
+```{figure} demo06_figure5.JPG
 ---
 width: 50%
 align: center

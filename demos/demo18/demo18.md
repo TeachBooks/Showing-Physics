@@ -29,8 +29,24 @@ When a rigid body is dropped, all parts have the same acceleration. However, whe
 * Awl
 * Tub
 
+```{figure} demo18_figure1.JPG
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
 ## Preparation
 Connect the balls with the elastic band. Use the awl or a pin/nail to make a hole in the bottom of the bottle; diameter about two to three millimeters. 
+
+```{figure} demo18_figure2.JPG
+---
+width: 50%
+align: center
+---
+some caption
+``` 
 
 ## Procedure
 ### Procedure dropping balls
