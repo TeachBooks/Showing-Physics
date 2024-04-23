@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# Gauss' rifle
 
 
 Author:     \
@@ -27,7 +27,7 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo95_figure1.jpg
 ---
 width: 50%
 align: center
@@ -35,6 +35,21 @@ align: center
 some caption
 ```
 
+```{figure} demo95_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo95_figure3.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
 ## Physics background
 
 ## Follow-up

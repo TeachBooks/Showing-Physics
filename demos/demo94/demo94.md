@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# DNA
 
 
 Author:     \
@@ -27,13 +27,38 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo93_figure1.jpg
 ---
 width: 50%
 align: center
 ---
 some caption
 ```
+
+```{figure} demo93_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo93_figure3.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo93_figure4.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
 
 ## Physics background
 

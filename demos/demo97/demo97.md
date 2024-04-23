@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# Radioactive decay
 
 
 Author:     \
@@ -27,7 +27,15 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo97_figure1.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo97_figure2.jpg
 ---
 width: 50%
 align: center

@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# Implosion
 
 
 Author:     \
@@ -27,7 +27,15 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo98_figure1.JPG
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo98_figure2.JPG
 ---
 width: 50%
 align: center

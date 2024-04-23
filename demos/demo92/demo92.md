@@ -27,13 +27,23 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo92_figure1.jpg
 ---
 width: 50%
 align: center
 ---
 some caption
 ```
+
+```{figure} demo92_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+
 
 ## Physics background
 

@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# Black and white
 
 
 Author:     \
@@ -27,7 +27,7 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo99_figure1.jpeg
 ---
 width: 50%
 align: center
@@ -35,6 +35,29 @@ align: center
 some caption
 ```
 
+```{figure} demo99_figure2.jpeg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo99_figure3.jpeg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo99_figure4.jpeg
+---
+width: 50%
+align: center
+---
+some caption
+```
 ## Physics background
 
 ## Follow-up

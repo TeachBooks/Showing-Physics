@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# Falling spring
 
 
 Author:     \
@@ -27,7 +27,31 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo99_figure1.jpeg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo96_figure1.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo96_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+```{figure} demo96_figure3.jpg
 ---
 width: 50%
 align: center

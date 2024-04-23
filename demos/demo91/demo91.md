@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-# Chapter title
+# Mysterious fountain
 
 
 Author:     \
@@ -27,13 +27,23 @@ Concepts:
 
 ## Procedure
 
-```{figure} demo02_figure2.JPG
+```{figure} demo91_figure1.jpg
 ---
 width: 50%
 align: center
 ---
 some caption
 ```
+
+```{figure} demo91_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+```
+
+
 
 ## Physics background
 
