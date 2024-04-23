@@ -16,7 +16,7 @@ kernelspec:
 
 Author: Norbert van Veen    \
 Time:	15 - 30 minutes  	\
-Age group:	Upper/lower secondary \
+Age group:	Lower & Upper secondary \
 Concepts:	Heat, radiation, absorption
 
 ```{figure} demo99_figure1.jpeg

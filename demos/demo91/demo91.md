@@ -15,7 +15,7 @@ kernelspec:
 Author: Peter Dekkers    \
 Time:	10-15 minutes  	\
 Age group:	12\
-Concepts:	iphon, gravitational energy, conservation of energy
+Concepts:	Siphon, gravitational energy, conservation of energy
 
 ```{figure} demo91_figure1.jpg
 ---
