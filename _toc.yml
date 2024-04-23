@@ -142,4 +142,25 @@ parts:
       - file: demos/demo34/demo34
       - file: demos/demo35/demo35
       - file: demos/demo36/demo36
+      - file: demos/demo37/demo37
+      - file: demos/demo38/demo38
+      - file: demos/demo39/demo39
+      - file: demos/demo40/demo40
+      - file: demos/demo41/demo41
+      - file: demos/demo42/demo42
+      - file: demos/demo43/demo43
+      - file: demos/demo44/demo44
+      - file: demos/demo45/demo45
+      - file: demos/demo46/demo46
+      - file: demos/demo47/demo47
+      - file: demos/demo48/demo48
+      - file: demos/demo49/demo49
+      - file: demos/demo50/demo50
+      - file: demos/demo51/demo51
+      - file: demos/demo52/demo52
+      - file: demos/demo53/demo53
+      - file: demos/demo54/demo54
+      - file: demos/demo55/demo55
+      - file: demos/demo56/demo56
+      - file: demos/demo57/demo57
       
