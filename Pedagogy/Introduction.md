@@ -30,9 +30,6 @@ align: center
 A teacher demonstrating the [singing rod](../demos/demo81/demo81.md) to teach students about standing waves.
 ```
 
-
-
-
 ## What can you accomplish with demonstrations?
 So what exactly can you accomplish with demonstrations? The overall learning goals can be categorized as follows (after {cite:t}`hodson1993re`):
 

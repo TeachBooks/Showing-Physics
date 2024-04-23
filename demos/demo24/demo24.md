@@ -13,7 +13,6 @@ kernelspec:
 
 # Writing with a Laser using Phosphorescence
 
-
 Author:     Norbert van Veen\
 Time:	  	10 minutes\
 Age group:	14 - 18\
@@ -21,6 +20,14 @@ Concepts:	Phosphorescence, laser, photon energy, excitation, emission
 
 ## Introduction
 Phosphorescence (luminescence) is a familiar phenomenon for many students. They recognize this from various "Glow in the Dark" stickers and objects. What they do not know is that a threshold energy is needed to make phosphorescence possible. We do this experiment using several lasers, each with different wavelengths. The intensity (or output power) of the laser makes no difference whether or not the surface will illuminate. We show this by using a He-Ne laser and by spreading the beam using a concave lens.
+
+```{figure} demo24_figure1.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
 
 ## Equipment
 * ‘Glow in the Dark’ surface
@@ -35,6 +42,16 @@ Paint a wooden board (any size) a few times with "glow in the dark" paint. Make 
 * Provide for a darkened room so that the effect is stronger.
 * There are many sources for “glow-in-the-dark” paint, see internet.
 ```
+
+```{figure} demo24_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
+
 ## Procedure
 1.	*Today we will try a new kind of pen and school board.* With the violet laser draw some lines on the white wall. As soon as the laser is off, nothing visible remains. *Apparently, our pen does not work well on the wall.*
 2.	*Now write with a laser on the upper left-hand corner of the special board.* Just choose a word that is interesting for the class. Now the letters still light after the laser is off. *That is interesting, writing with a laser!*
@@ -44,6 +61,14 @@ Paint a wooden board (any size) a few times with "glow in the dark" paint. Make 
 6.	The teacher summarizes the results in a table on the board.
 7.	*How can we explain these results?* The expected answer is that “something” is excited by the laser light that then decays while emitting light. That “something” could be atoms of a special paint.
 8.	The teacher presents one-by-one the four energy schemes of figure 3 and asks: could this be the proper energy diagram? Which property fits and which one does not? The alternative is that students in duo’s or trio’s discuss diagrams A, B, C, and D and consider to what extent these diagrams can or cannot explain the phenomena.
+
+```{figure} demo24_figure3.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
 
 ```{admonition} Possible explanations of emission with the energy schemes
 In energy scheme A emission should have the same color as the laser light because the distance between energy levels is the same for excitation and emission (levels 1 and 3). 

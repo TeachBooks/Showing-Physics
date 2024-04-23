@@ -13,7 +13,6 @@ kernelspec:
 
 # Center of mass demo’s, feeling Physics with your own body!
 
-
 Author:     Ed van den Berg\
 Time:	  	10 minutes\
 Age group:	6 and up (elementary and secondary)\
@@ -50,10 +49,42 @@ The description is for a demo during an event with a large audience. For a demo 
 ## Physics background
 For definitions and background, see the physics textbooks. 
 
-## Extensions
+## Follow-up
 There are many interesting phenomena around us which illustrate the power of the center of mass concept. Students could collect such examples like: 
 * A fishing heron has to stand such that the center of mass is above the toes. The long toes of some birds prevent them from tipping over. 
 * A chair can be made to lean over but when let go, returns to its normal position, as long as the center of mass has not passed the tipping point. 
 * A center of mass can be outside the actual object, example: a ring. 
 * Many sports rely on the manipulation of the center of mass: dance, gymnastics, figure skating.
 * A high jumper jumps backward across the rope and bends his back in an arch such that the center of mass passes under the rope while the body passes over it (Fosbury flop). 
+
+```{figure} demo25_figure1.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
+```{figure} demo25_figure2.png
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
+```{figure} demo25_figure3.tif
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
+```{figure} demo25_figure4.png
+---
+width: 50%
+align: center
+---
+some caption
+``` 

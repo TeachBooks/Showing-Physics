@@ -19,6 +19,14 @@ Time:	  	10 minutes\
 Age group:	15 - 18\
 Concepts:	particle-wave duality of light, quantization, threshold frequency, photons
 
+```{figure} demo23_figure1.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
 ## Introduction
 It is not generally known that a light emitting diode (LED) can be used in reverse mode, as light sensor instead of lamp. A LED can generate a voltage when absorbing light, but under certain conditions ..... Just like a photocell a LED turns out to have a threshold wave length or frequency which also depends on the type of LED. This can only be explained with quantized light. I usually show this demonstration as a first lesson about photons, so before the photocell and the photo-electric effect. 
 
@@ -29,6 +37,14 @@ It is not generally known that a light emitting diode (LED) can be used in rever
 * A white light
 * A green laser pointer
 * A voltmeter with a very high internal resistance (10 M$\Ohm$ or higher)
+
+```{figure} demo23_figure2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
 
 ## Preparation
 For the first demonstration we make the LEDs shine by connecting each LED in forward direction in series with a resistor and a voltage source. Subsequent demonstrations are done without a voltage source, connecting  the LEDs directly to a Voltmeter and illuminated them with a laser pointer or other source (figures 1 and 2). Set the voltmeter to a range of 0 – 2V.
@@ -46,6 +62,13 @@ The question now is why even a modest intensity of white or green light does gen
 
 To further support this idea we can also look again at the conversion of electrical energy to light. To produce light the green LED needs a higher voltage than the red LED! Then we can get into determining Planck’s constant with LEDs, an experiment described elsewhere in this book.
 
+```{figure} demo23_figure3.JPG
+---
+width: 50%
+align: center
+---
+some caption
+``` 
 
 ## Physics background
 The main principles have been mentioned above. After this demonstration it will be easier to understand the photo cell. It is better to avoid getting into explanations of how LEDs work. The LED in this demonstration is purely a black box whose behavior we cannot explain by light waves as a continuous flow of energy, but only with energy packages or light quanta which we have named photons.
@@ -58,7 +81,6 @@ A practical application of the same phenomenon is the fact that one cannot get a
 * In our experiments small LEDs reacted better than big ones. It is unclear why.
 * The extra resistance is only needed to limit the current when LEDs are on. The magnitude of the resistance depends on the power source and the maximum power of the LEDs. Most LEDs can stand a current of several tens of mA and this is sufficient for well visible light.
 * It is possible to continue this demonstration with a determination of Planck’s constant with LEDs.
-
 ```
 
 ## Follow-up
