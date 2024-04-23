@@ -13,7 +13,6 @@ kernelspec:
 
 # Implosion
 
-
 Author:     \
 Time:	15 minutes  	\
 Age group:	From grade 8 onwards \
@@ -32,7 +31,11 @@ Heating a can with a layer of water.
 ```
 
 ## Equipment
-Sealable metal container (slightly cleaned oil drum, a large paint can, an empty soft drink can); gas burner large enough to heat the container; room temperature water; wet rag; cold water (possibly with ice cubes) and gloves.
+* Sealable metal container (slightly cleaned oil drum, a large paint can, an empty soft drink can); 
+gas burner large enough to heat the container; 
+* room temperature water; 
+* wet rag; 
+* cold water (possibly with ice cubes) and gloves.
 
 ## Preparation
 Test the demonstration so that you know approximately how long it takes for the can to implode. 

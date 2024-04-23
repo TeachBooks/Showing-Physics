@@ -33,6 +33,7 @@ parts:
       - file: demos/demo70/demo70 #Cylinder Puzzle
       - file: demos/demo71/demo71 #magic siphon
       - file: demos/demo72/demo72 #rollstop
+      - file: demos/demo91/demo91 #mysterious fountain
 
       
   - caption: Demos for scientific inquiry
@@ -163,7 +164,6 @@ parts:
       - file: demos/demo55/demo55
       - file: demos/demo56/demo56
       - file: demos/demo57/demo57
-      - file: demos/demo91/demo91
       - file: demos/demo92/demo92
       - file: demos/demo93/demo93
       - file: demos/demo94/demo94

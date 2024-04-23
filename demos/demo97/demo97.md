@@ -50,7 +50,7 @@ For a good statistical approximation, an initial number of three hundred cubes i
 You make the three hundred cubes by starting from a lath that has a square cross-section. You paint one side blue, two sides red. After sawing, three sides of the cubes are blank.
 
 ## Procedure
-1a) Count the initial number of cubes.You denote that number by O(0). The letter O stands for Remaining. The number 0 stands for thrown 0 times.
+1a) Count the initial number of cubes. You denote that number by O(0). The letter O stands for Remaining. The number 0 stands for thrown 0 times.
 Throw all cubes for the first time. Remove all the cubes that were placed with the red side up. The number of cubes remaining is called O(1).
 This is the number of cubes remaining after one throw.
 Throw the remaining cubes for the second time. Remove the red cubes again. Now the number of O(2) remains.
@@ -64,7 +64,7 @@ Do about 10 throws like this unless you run out of cubes before then.
 2b) Do the counts and check how well the graph fits the theoretical graph.
 
 Show a graph of the number of radioactive nuclei as a function of time. (Or of the radiation activity of a radioactive substance.) To that graph belongs the formula:
-N(t)=N(0) (1/2)^(t/τ) or rather N(t)=k^t N(0)
+$$N(t)=N(0) (1/2)^(t/τ)$$ or rather $$N(t)=k^t N(0)$$
 The shape of the graph is very similar to that of the graphs of the counts of the remaining cubes. 
 
 ## Physics background
@@ -82,8 +82,13 @@ On the one hand, the number of red cubes taken away grows. But it also decreases
 The number of blue cubes will only increase.
 
 ```{tip}
-Ìt is fairly easy to make a computer simulations of this 'decay process'.
+Ìt is fairly easy to make a computer simulations of this 'decay process'. We provide one below.
 ```
+
+```{code-cell} python
+Hier een simulatie
+```
+
 
 ## References
 ```{bibliography}
