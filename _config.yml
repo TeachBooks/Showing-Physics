@@ -23,13 +23,6 @@ bibtex_bibfiles:
   - references.bib
 
 
-    
-# Information about where the book exists on the web
-repository:
-  url: https://gitlab.tudelft.nl/fpols/showing-physics  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: HEAD  # Which branch of the repository should be used when creating links (optional)
-
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
@@ -42,9 +35,6 @@ html:
 #   binderhub_url: "https://mybinder.org"
 #   thebe: true
 
-launch_buttons:
-  thebe: true
-
 
 sphinx:
   config:
@@ -54,6 +44,12 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
-    extra_extensions:
-    - jupyterlite-sphinx
-    jupyterlite_config: jupyterlite-config.json
+    html_theme_options:
+      repository_url: https://gitlab.tudelft.nl/fpols/showing-physics  # Online location of your book
+      path_to_book: docs  # Optional path to your book, relative to the repository root
+      branch: HEAD  # Which branch of the repository should be used when creating links (optional)
+      use_repository_button: true
+      use_issues_button: true
+      use_multitoc_numbering: true
+      launch_buttons:
+        thebe: true
