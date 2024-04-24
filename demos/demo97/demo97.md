@@ -64,7 +64,7 @@ Do about 10 throws like this unless you run out of cubes before then.
 * Do the counts and check how well the graph fits the theoretical graph.
 
 Show a graph of the number of radioactive nuclei as a function of time. (Or of the radiation activity of a radioactive substance.) To that graph belongs the formula:
-$$N(t)=N(0) (1/2)^{(t/τ)}$$ 
+$N(t)=N(0) (1/2)^{(t/τ)}$
 or rather:
 *The shape of the graph is very similar to that of the graphs of the counts of the remaining cubes.*
 
@@ -83,22 +83,70 @@ You can also simulate this situation by performing two kinds of throws in parall
 * The number of blue cubes will only increase.
 
 ```{tip}
-Ìt is fairly easy to make a computer simulations of this 'decay process' using for instance excel. We provide a Python simulation below. You can run (and change the code) yourselves by clicking the live button at the top right.
+Ìt is fairly easy to make a computer simulations of this 'decay process' using for instance excel. We provide a Python simulation below. You can run (and change the code) yourselves.
+```
+```{eval-rst}
+.. replite::
+   :kernel: xeus-python
+   :toolbar: 0
+   :theme: JupyterLab Light
+   :width: 100%
+   :height: 600px
+
+   print("Hello from a JupyterLite console!")
 ```
 
-```{code-cell} python
-import numpy as np
-N_A, N_B, N_C = np.zeros(1000)
-N_A[0] = int(1e4)
+```{eval-rst}
+.. replite::
+   :kernel: xeus-python
+   :toolbar: 0
+   :theme: JupyterLab Light
+   :width: 100%
+   :height: 600px
 
-t_A_.5 = 10
-t_B_.5 = 20
-dt = 1
+   # loading required libraries
+    import numpy as np
+    import matplotlib.pyplot as plt
 
+    # setting initial conditions
+    N_total = 300
+    N_A = np.zeros(N_total)
+    N_B = np.zeros(N_total)
+    N_C = np.zeros(N_total)
+    N_A[0] = int(1e3)
 
+    # half-life nuclei A
+    tau_A = 10
+    L_A = np.log(2)/tau_A
+    # half-life nuclei B
+    tau_B = 30
+    L_B = np.log(2)/tau_B
 
+    dt = 1
+    t = np.zeros(N_total)
+
+    # calculating number of nuclei left
+    for i in range(len(N_A)-1):
+        A_A = N_A[i]*L_A*np.exp(-L_A*dt)
+        N_A[i+1] = N_A[i] - A_A*dt
+        
+        A_B = N_B[i]*L_B*np.exp(-L_B*dt)
+        N_B[i+1] = N_B[i] - A_B*dt + A_A*dt
+        
+        N_C[i+1] = N_C[i] + A_B*dt
+        
+        t[i+1] = t[i] + dt
+        
+    # plotting the data
+    plt.figure()
+    plt.plot(t,N_A,'k.',label='N_A')
+    plt.plot(t,N_B,'r.',label='N_B')
+    plt.plot(t,N_C,'b.',label='N_C')
+    plt.xlabel('time')
+    plt.ylabel('nuclei')
+    plt.legend()
+    plt.show()
 ```
-
 
 ## References
 ```{bibliography}

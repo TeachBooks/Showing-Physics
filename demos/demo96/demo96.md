@@ -44,38 +44,14 @@ C.	first go up a bit.
 D.	do something different than the above.
 ```
 
-```{figure} demo99_figure1.jpeg
+```{figure} demo99_figure4.jpg
 ---
 width: 50%
 align: center
 ---
-[35_MvW_1a. 1b, 1c (naast elkaar), naast de tekst hieronder]
-Je laat de slinky vallen. 
+Timelapse of the drop of a slinky.
 ```
 
-```{figure} demo96_figure1.jpg
----
-width: 50%
-align: center
----
-some caption
-```
-
-```{figure} demo96_figure2.jpg
----
-width: 50%
-align: center
----
-some caption
-```
-
-```{figure} demo96_figure3.jpg
----
-width: 50%
-align: center
----
-some caption
-```
 
 After everyone has decided on their choice, drop the feather. 
 Do warn that it is very fast and the result is difficult to observe.

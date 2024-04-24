@@ -52,14 +52,21 @@ Other concepts that could be addressed are:
 
 
 
-```{figure} demo93_figure2 & 3.jpg
+```{figure} demo93_figure2a.jpg
 ---
 width: 50%
 align: center
 ---
-On the left, the interference pattern of a penstock in laser light. The pattern is a combination of a lattice pattern with a pattern of bending around a single thin wire. This image was in reality about 22 cm high. Right: photo of the X-ray diffraction pattern of DNA. This picture, taken by Wilkins and Franklin, was used by Watson and Crick to confirm the double-helix structure of DNA. Find the similarities!
+The interference pattern of a penstock in laser light. The pattern is a combination of a lattice pattern with a pattern of bending around a single thin wire. This image was in reality about 22 cm high. 
 ```
 
+```{figure} demo93_figure4.jpg
+---
+width: 50%
+align: center
+---
+Photo of the X-ray diffraction pattern of DNA. This picture, taken by Wilkins and Franklin, was used by Watson and Crick to confirm the double-helix structure of DNA. Find the similarities with the interference pattern of the penstock!
+```
 
 ## Physics background
 When radiation falls through an aperture, a diffraction pattern will be created. See further **Braun et al (2011)**.
