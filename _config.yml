@@ -10,7 +10,7 @@ copyright: Delft University of Technology, CC BY 4.0
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: 'off'
 
 only_build_toc_files: true
 # Define the name of the latex output file for PDF builds
@@ -42,10 +42,10 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       repository_url: "https://gitlab.tudelft.nl/fpols/showing-physics"  # Online location of your book
-      path_to_book: docs  # Optional path to your book, relative to the repository root
-      branch: HEAD  # Which branch of the repository should be used when creating links (optional)
-      use_repository_button: false
-      use_issues_button: false
+      #path_to_book: docs  # Optional path to your book, relative to the repository root
+      #branch: HEAD  # Which branch of the repository should be used when creating links (optional)
+      use_repository_button: true
+      use_issues_button: true
       use_multitoc_numbering: true
       launch_buttons:
         thebe: true
