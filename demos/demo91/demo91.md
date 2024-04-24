@@ -65,7 +65,7 @@ Explanation for lower grades (use figure 2). When you pour a little water into t
 More precisely: once the column of liquid under the funnel is built up, and the flow is stable, the gas pressure above the liquids inside both bottles is the same. The gas pressure above the liquid in the funnel is also always equal to the atmospheric pressure prevailing at the end of the tap. Thus, the water continues to flow from the tap as long as the liquid column on the left is higher than the one on the right. According to Bernoulli, the potential energy of the excess water in the left column is then converted into the kinetic energy of the water flowing from the tap. It is a siphon effect: the water keeps flowing until there is no more excess potential energy available, either when the right bottle is empty or the liquid columns are of equal height.
 
 ## Follow-up
-{cite:t}`lederman1998avoiding` describes how various characteristics of scientific research can be clarified to students based on their own experiences. **See the scenario on the website for an explanation. TOEVOEGEN**
+{cite:t}`lederman1998avoiding` describes how various characteristics of scientific research can be clarified to students based on their own experiences.
 
 ```{tip}
 If it does not 'work,' check if the stoppers are securely fastened and the long tubes reach the liquid level in both bottles. Afterward, you can pull out the stoppers from the bottles, swap them, and start over. Be careful of overflow as some liquid has been added.
