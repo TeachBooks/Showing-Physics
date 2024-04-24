@@ -89,7 +89,6 @@ You can also simulate this situation by performing two kinds of throws in parall
 .. replite::
    :kernel: xeus-python
    :toolbar: 0
-   :theme: JupyterLab Light
    :width: 100%
    :height: 600px
 

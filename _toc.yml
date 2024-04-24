@@ -48,81 +48,81 @@ parts:
       - file: demos/demo10/demo10 #vdgraaf
       - file: demos/demo73/demo73 #determining g
 
-  - caption: "Demos for conceptual development: waves, optics, quantum, electricity, magnetism"
-    numbered: 2
-    chapters:
-    - file: Pedagogy/BackAndForthThinking
-      title: Back-and-forth thinking
-    - file: demos/Conceptdemos
-      title: Demos on conceptual development
-      sections:     
-      - file: demos/demo03/demo03 #light
-      - file: demos/demo19/demo19 #lorentz 
-      - file: demos/demo20/demo20 #reflection
-      - file: demos/demo21/demo21 #einstein
-      - file: demos/demo22/demo22 #infra red
-      - file: demos/demo23/demo23 #leds and foton
-      - file: demos/demo24/demo24 #laserwriting
-      - file: demos/demo74/demo74 #flameshadow
-      - file: demos/demo77/demo77 #waves
-      - file: demos/demo79/demo79 #speed of sound
-      - file: demos/demo80/demo80 #measuring stars
-      - file: demos/demo81/demo81_1 #sound
-      - file: demos/demo81/demo81_2 #sound
-      - file: demos/demo83/demo83 #bouncingball
-      - file: demos/demo84/demo84 #lorentz
-      - file: demos/demo85/demo85 #slow bulbs
-      - file: demos/demo86/demo86 #induction
-      - file: demos/demo87/demo87 #olive oil
+  # - caption: "Demos for conceptual development: waves, optics, quantum, electricity, magnetism"
+  #   numbered: 2
+  #   chapters:
+  #   - file: Pedagogy/BackAndForthThinking
+  #     title: Back-and-forth thinking
+  #   - file: demos/Conceptdemos
+  #     title: Demos on conceptual development
+  #     sections:     
+  #     - file: demos/demo03/demo03 #light
+  #     - file: demos/demo19/demo19 #lorentz 
+  #     - file: demos/demo20/demo20 #reflection
+  #     - file: demos/demo21/demo21 #einstein
+  #     - file: demos/demo22/demo22 #infra red
+  #     - file: demos/demo23/demo23 #leds and foton
+  #     - file: demos/demo24/demo24 #laserwriting
+  #     - file: demos/demo74/demo74 #flameshadow
+  #     - file: demos/demo77/demo77 #waves
+  #     - file: demos/demo79/demo79 #speed of sound
+  #     - file: demos/demo80/demo80 #measuring stars
+  #     - file: demos/demo81/demo81_1 #sound
+  #     - file: demos/demo81/demo81_2 #sound
+  #     - file: demos/demo83/demo83 #bouncingball
+  #     - file: demos/demo84/demo84 #lorentz
+  #     - file: demos/demo85/demo85 #slow bulbs
+  #     - file: demos/demo86/demo86 #induction
+  #     - file: demos/demo87/demo87 #olive oil
 
-  - caption: "Demos for conceptual development: mechanics, "
-    numbered: 2
-    chapters:
-    - file: Pedagogy/Conceptcartoons
-      title: Concept cartoons
-    - file: demos/Conceptdemos2
-      title: To be replaced 2
-      sections:
-      - file: demos/demo05/demo05 #newton firstlaw
-      - file: demos/demo11/demo11 #faster than g
-      - file: demos/demo12/demo12 #rotational inertia
-      - file: demos/demo13/demo13 #tugowar
-      - file: demos/demo14/demo14 #stickslip
-      - file: demos/demo15/demo15 #selfpropellingcar
-      - file: demos/demo16/demo16 #fallingmagnet
-      - file: demos/demo17/demo17 #stable
-      - file: demos/demo18/demo18 #dropping balls
-      - file: demos/demo25/demo25 #centerofmass
-      - file: demos/demo78/demo78 #rotational balloon      
-      - file: demos/demo68/demo68 #collissions
-      - file: demos/demo69/demo69 #hill
-      - file: demos/demo58/demo58 #two blocks
+  # - caption: "Demos for conceptual development: mechanics, "
+  #   numbered: 2
+  #   chapters:
+  #   - file: Pedagogy/Conceptcartoons
+  #     title: Concept cartoons
+  #   - file: demos/Conceptdemos2
+  #     title: To be replaced 2
+  #     sections:
+  #     - file: demos/demo05/demo05 #newton firstlaw
+  #     - file: demos/demo11/demo11 #faster than g
+  #     - file: demos/demo12/demo12 #rotational inertia
+  #     - file: demos/demo13/demo13 #tugowar
+  #     - file: demos/demo14/demo14 #stickslip
+  #     - file: demos/demo15/demo15 #selfpropellingcar
+  #     - file: demos/demo16/demo16 #fallingmagnet
+  #     - file: demos/demo17/demo17 #stable
+  #     - file: demos/demo18/demo18 #dropping balls
+  #     - file: demos/demo25/demo25 #centerofmass
+  #     - file: demos/demo78/demo78 #rotational balloon      
+  #     - file: demos/demo68/demo68 #collissions
+  #     - file: demos/demo69/demo69 #hill
+  #     - file: demos/demo58/demo58 #two blocks
   
-  - caption: "Demos for conceptual development: else"
-    numbered: 2
-    chapters:
-    - file: Pedagogy/Empty2
-      title: To be replaced
-    - file: demos/Conceptdemos3
-      title: To be replaced 2
-      sections:
-      - file: demos/demo02/demo02 #cappucino
-      - file: demos/demo75/demo75 #cooling spheres
-      - file: demos/demo76/demo76 #baloon
-      - file: demos/demo82/demo82 #planets
+  # - caption: "Demos for conceptual development: else"
+  #   numbered: 2
+  #   chapters:
+  #   - file: Pedagogy/Empty2
+  #     title: To be replaced
+  #   - file: demos/Conceptdemos3
+  #     title: To be replaced 2
+  #     sections:
+  #     - file: demos/demo02/demo02 #cappucino
+  #     - file: demos/demo75/demo75 #cooling spheres
+  #     - file: demos/demo76/demo76 #baloon
+  #     - file: demos/demo82/demo82 #planets
     
-  - caption: Demos for special occasions
-    numbered: 2
-    chapters:
-    - file: Pedagogy/PoE
-      title: Predict Observe Explain
-    - file: demos/Specialdemos
-      title: Demos for special occasions
-      sections:
-      - file: demos/demo04/demo04 #should be replaced
-      - file: demos/demo88/demo88 #cloud formation
-      - file: demos/demo89/demo89 #Optics with LEDs:
-      - file: demos/demo90/demo90 #Wine Glass
+  # - caption: Demos for special occasions
+  #   numbered: 2
+  #   chapters:
+  #   - file: Pedagogy/PoE
+  #     title: Predict Observe Explain
+  #   - file: demos/Specialdemos
+  #     title: Demos for special occasions
+  #     sections:
+  #     - file: demos/demo04/demo04 #should be replaced
+  #     - file: demos/demo88/demo88 #cloud formation
+  #     - file: demos/demo89/demo89 #Optics with LEDs:
+  #     - file: demos/demo90/demo90 #Wine Glass
   
   - caption: to be sorted
     numbered: 2

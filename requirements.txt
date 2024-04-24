@@ -2,6 +2,11 @@ jupyter-book
 matplotlib
 numpy
 
+# for running jup lite
+jupyterlite-pyodide-kernel 
+jupyterlite-sphinx
+
+
 # for live coding
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
 sphinx-thebe ~= 0.9.9
