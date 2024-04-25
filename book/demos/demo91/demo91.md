@@ -79,13 +79,13 @@ If it does not 'work,' check if the stoppers are securely fastened and the long 
 (worksheet)=
 ```{admonition} Worksheet
 
-### Overview
+**Overview**
 
 This section presents a scenario, which is a possible progression of the experiment along with examples of questions, comments, and explanations from the teacher aimed at stimulating the exchange of ideas and insights among students.
 
 ---
 
-### Discussion
+**Discussion**
 
 **Teacher:** "I have a cup here with a strange liquid. There's a setup here, and I'm going to pour a bit of this liquid into this funnel. What do you think will happen?"
 
@@ -127,7 +127,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 ---
 
-## Assignments
+**Assignments**
 
 **Students:** (in groups) Answer the following questions and present them to each other:
 
@@ -139,7 +139,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 ---
 
-## Comparison of Answers
+**Comparison of Answers**
 
 *Everyone naturally thinks their answers are the best. But can you also say why they are the best? If you only look at the solutions from other groups, which do you think are the best? Why?*
 
@@ -149,7 +149,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 ---
 
-## Conclusions: Characteristics of Scientific Research
+**Conclusions: Characteristics of Scientific Research**
 
 Does this experiment have something to do with science?
 
@@ -163,15 +163,15 @@ Does this experiment have something to do with science?
 
 ---
 
-### Explanation
+**Explanation**
 
-**Lower Secondary**
+*Lower Secondary*
 
 The color of the liquids has nothing to do with it; it was only meant to be interesting. It's just colored water. If you pour a little water into the funnel, the level in the left bottle rises, pushing air through the tube to the right bottle, which also causes the water there to rise. The tube of the 'tap' is narrow
 
 , so soon the water rises, goes around the bend, and falls into the funnel. Then you don't need to pour anymore, the water coming from the tap keeps the process going, usually until the right bottle is empty. The water stops running when the level difference in the bottles is the same, or the right bottle is empty.
 
-**Upper Secondary**
+*Upper Secondary*
 
 If you want to go a step further than the examination program, consider: the liquid is incompressible, the flow is frictionless, and the temperature is constant. Then the energy of a piece of liquid can change in three ways:
 
