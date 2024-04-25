@@ -44,7 +44,7 @@ C.	first go up a bit.
 D.	do something different than the above.
 ```
 
-```{figure} demo99_figure4.jpg
+```{figure} demo96_figure4.jpg
 ---
 width: 50%
 align: center
