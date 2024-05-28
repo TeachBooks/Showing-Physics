@@ -1,22 +1,11 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Rotational inertia
 
 
 Author:     Ed van den Berg\
 Time:	  	  10 minutes\
-Age group:	15 and up in physics lessons but also at open days or other 'events' for all ages\
+Age group:	15 and up in physics lessons but also at 'open house' or other 'events' for all ages\
 Concepts:	  acceleration, mass, inertia, rotational acceleration, rotational inertia (= moment of inertia), center of gravity, mass distribution
 
 ## Introduction
@@ -81,8 +70,8 @@ The parallel between linear movements and rotations is interesting. The linear i
 Then compare the following situations:
 Linear movement:     $F = ma$	(1)
 The sum of all forces on an object is equal to the product mass $m$ * acceleration $a$.
-Rotational movement:  Σ = I  	(2)
-The sum of all torques that cause an angular acceleration  is equal to the product of rotational inertia I * angular acceleration .
+Rotational movement:  Στ = Iα  	(2)
+The sum of all torques that cause an angular acceleration α is equal to the product of rotational inertia I * angular acceleration α.
 
 See a university level mechanics text for the restrictions to equations (1) and (2).
 

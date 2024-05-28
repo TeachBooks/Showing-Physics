@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Merry-go-around of floating candles, Lorentz force in liquids
 
@@ -19,7 +8,15 @@ Age group:	15 - 18\
 Concepts:	electromagnetism, Lorentz force, ions, current, magnetic field
 
 
- Original idea by {cite:t}`Biezeveld,`.
+ Original idea by {cite:t}`Biezeveld`.
+
+```{figure} demo19_figure1.JPG
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Introduction
 What is more romantic than candle light in a darkened physics classroom with all students lined up around the demonstration table and candles which move like boats in the water, powered by an invisible force? 
@@ -34,6 +31,14 @@ What is more romantic than candle light in a darkened physics classroom with all
 * Small partially burned candles which have been shaped such that they will float neatly with the flames upright;
 * Matches or a lighter;
 * A bit of salt to dissolve in the water and make it conducting.
+
+```{figure} demo19_figure2.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Preparation
 1. Make a hole in the middle of the block of copper which would make a tight fit with a standard electric cable. The ring and the block constitute the electrodes in the water. One is connected with the + and the other with the -- of the power source.

@@ -1,23 +1,19 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Falling magnet and Newton's Third Law: does the magnet challenge gravity?
 
-
-Author:     Wouter Spaan\
-Time:	  	10-15 minutes, extendable\
-Age group:	16+\
+Author: Wouter Spaan\
+Time:	10-15 minutes, extendable\
+Age group: 16+\
 Concepts:	Newton's First, Second and Thirs Law; constant velocity
+
+```{figure} demo16_figure1.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Introduction
 A magnet falling slowly through a copper tube is a well-known demonstration. It is possible to use the same phenomenon as an interesting, surprising and challenging application of Newton’s Third Law. In order to be able to measure with this set-up, the tube is suspended from a force sensor which measures its weight. This demonstration is not suitable to introduce the Third Law. However, it can provide an adequate test of its application with high-level students.
@@ -31,6 +27,14 @@ A magnet falling slowly through a copper tube is a well-known demonstration. It 
 
 ## Preparation
 Build the experimental set-up as pictured in figures 1 and 2.
+
+```{figure} demo16_figure2.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Procedure
 The students are probably familiar with a magnet falling slowly through the copper tube. If not, make sure to show it in advance. The explanation of the phenomenon is not strictly required for the learning goals mentioned, but your students are probably too curious not to tell them. The next step is to hang the tube from the force sensor and show a measurement of the force for a couple of seconds (without the magnet). It will show the weight of the tube, which equals the gravitational force on the tube.
