@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Air or not, reasoning about flames and vapor
 
@@ -44,7 +33,7 @@ The required materials
 •	Put the candle in the holder and light it.
 
 ## Procedure
-Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it you see 'nothing'. What is actually there? Experience shows that most students say '(hot) air'. That idea can be tested, because if it is ordinary air, like the air we breathe, there must be oxygen in it. So if we hold a burning candle in the kettle, it would just keep burning if that space contains normal air.
+Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it, you see 'nothing'. What is actually there? Experience shows that most students say '(hot) air'. That idea can be tested, because if it is ordinary air, like the air we breathe, there must be oxygen in it. So if we hold a burning candle in the kettle, it would just keep burning if that space contains normal air.
  
 Bring the burning candle down into the kettle, and note that it goes out. Summarize the observations: 
 * the candle goes out: above the water is a substance that looks like air but it is not;
@@ -59,13 +48,13 @@ align: center
 Above the kettle, the flame burns somewhat weaker
 ```
 
-Draw a conclusion together. It may well be that the conclusion is not that there is water vapor above the liquid. That is not proven. What we can agree on is: 
+Draw a conclusion together. It may well be that the conclusion is not: that there is water vapor above the liquid. That is not proven. What we can agree on is: 
 
 *	what comes out of the bubbles and hangs above the liquid looks like air;
 *	it is not air, because a candle does not keep burning in it;
 *	this substance turns into water droplets when it rises higher.
  
-The substance concerned has a name, "steam". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration by together establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
+The substance concerned has a name, "steam". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
 
 ```{figure} demo09_figure3.jpg
 ---
@@ -80,5 +69,5 @@ Working with boiling water has risks. Do not let students come too close; if pos
 ```
 
 ## Physics background
-The air that is above the liquid before it boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 oC. The water vapor only condenses above the kettle, where the temperature is lower. Due to lack of oxygen, the flame goes out (some knowledge about burning is desired prior knowledge).
+The air that is above the liquid before it boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 $^o$C. The water vapor only condenses above the kettle, where temperature is lower. Due to lack of oxygen, the flame goes out (some knowledge about burning is desired prior knowledge).
 

@@ -6,7 +6,7 @@ Age group:	12-14\
 Concepts:	particle model, membranes
 
 ## Introduction
-The activity challenges students to explain what they observe, which is that some substances do, while others do not penetrate the membrane surrounding a raw egg, after its shell is removed. A simple particle model is introduced as a potentially viable explanation. The demonstration presents an example of the way in which models in science arise, and of their value and status. Difficult about particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, colour), properties that the particles themselves do not possess. The particles themselves, for example, (are thought to) consist of a point with mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. The demonstration attempts to show that de power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.
+The activity challenges students to explain what they observe, which is that some substances do, while others do not penetrate the membrane surrounding a raw egg, after its shell is removed. A simple particle model is introduced as a potentially viable explanation. The demonstration presents an example of the way in which models in science arise, and of their value and status. Difficult about particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, colour), properties that the particles themselves do not possess. The particles themselves, for example, (are thought to) consist of a point with mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. The demonstration attempts to show that the power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.
 
 
 ## Equipment
@@ -21,12 +21,12 @@ The activity challenges students to explain what they observe, which is that som
 * A choice of other ‘test substances’ from the kitchen: tea, milk, salad oil, instant coffee; coloured soft drinks. 
 
 ## Preparation
-Photograph the 10 eggs. Preserve one egg with its shell, place the rest for about 3-4 days in organic vinegar, to remove the shells. Replace the vinegar halfway if no more bubbles are formed while some of the shell remains. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
+Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organic vinegar for about 3-4 days , to remove the shells. Replace the vinegar halfway when no more bubbles are formed, while some of the shells of the eggs remain. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
 
 ## Procedure
 ### 1. Oriëntation (30 min)
 This first step takes about 15 min. (session 1, + 10 min)
-Place the egg that still has its shell in a jam jar and submerge it in vinegar. Let the students observe and describe what is happening. If you like, present the reaction equation when they have done so. Then show the remaining 9 eggs. 
+Place the egg that still has its shell in a jam jar and submerge it in vinegar. Let the students observe and describe what is happening. If you like, present the students with the reaction equation. Then show the remaining 9 eggs. 
 Notably, the eggs have lost their shells leaving them almost transparent. Furthermore, the egg has become larger when its shell was removed. (Compare the egg that has just been placed in vinegar with the rest, and show the photo of the original 10 eggs.) How is that possible?
 Students often come up with the following ideas.
 
@@ -45,11 +45,11 @@ An unboiled egg in vinegar.
 
 ***Explanation 2. ‘Water’ has entered the egg.***
 
-Test: place one of the eggs in a pan of water, let it slowly come to the boil and cook it until reasonably firm (about 15 min should do). Open it and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
+Test: place one of the eggs in a pan of water, boil it slowly until it is reasonably firm (about 15 min should do). Open the egg and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
 Conclusion: vinegar goes through the outer ‘skin’ or membrane of an egg, but egg white does not. How do other substances behave?
 
 ***Research plan***
-Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day let it slowly come to the boil and cook it for a long time, then open it and investigate the contents.
+Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly and cook the egg for a long time, then open it and investigate the contents.
 
 ```{figure} demo01_figure2.JPG
 ---
@@ -89,7 +89,7 @@ align: center
 Food coloring penetrates the outer but not the inner membrane.
 ```
 
-Subsequently suggest, if that has not been done yet: imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the fleeces are not entirely closed but have tiny holes, similar to the pores in your skin. Finally, imagine that in liquids like yolk the particles are all continuously moving criss cross: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about to and fro. It is impossible, however, to see the swarming or shaking of the particles, they are much too small for that, but there are nice simulations to visualize the particles: https://phet.colorado.edu 
+Subsequently suggest, (if the suggestion has not been made): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the fleeces are not entirely closed but have tiny holes, similar to the pores in your skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about to and fro. It is impossible, however, to see the swarming or shaking of the particles, they are much too small for that, but there are nice simulations to visualize the particles: https://phet.colorado.edu 
 
 Questions for discussion (to be used for example in a think-pair-share activity)
 Answer the questions below by trying to use the ideas presented above.

@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Spectacular Spectrum
 
@@ -75,9 +64,9 @@ some caption
 ## Procedure
 1.	When the students come in, the spectrum is already visible on the wall.
 2.	The teacher asks rather trivial questions such as: what do you see? What does it look like? What do you usually use to obtain a spectrum? Is the image on the wall virtual or real?
-3.	The teacher takes the container with water from the OHP and uses the white carton to illustrate that the Fresnel plate produces a cone of light. Tilt the carton a little from the horizontal position and move is upwards. Light rays near the center are very steep, light rays are less and less steep as one moves away from the center.
+3.	The teacher takes the container with water from the OHP and uses the white carton to illustrate that the Fresnel plate produces a cone of light. Tilt the carton a little from the horizontal position and move it upwards. Light rays near the center are very steep, light rays are less and less steep as one moves away from the center.
 4.	Task for the students: try to explain the following:
-a.	In this set-up what causes the separation of colors (dispersion) and the formation of a spectrum?
+a.	In this set-up: what causes the separation of colors (dispersion) and the formation of a spectrum?
 b.	Why is the spectrum shaped like a rainbow?
 Alternatively prepare a worksheet with light rays A, B, and C (figure 4) drawn from the Fresnel lens up to the container and ask students to sketch what happens to these light rays when entering and exiting the container and use that to explain the image on the wall.
 5.	A hint from the teacher (if necessary): by covering part of the slit show that the left part of the slit forms the right part of the spectrum image and the right part of the slit forms the left part of the image.
@@ -88,7 +77,7 @@ The glass plate of the OHP is a Fresnel lens which produces a cone of light with
 The spectrum on the wall looks very much like a rainbow, but it is another phenomenon altogether. The rainbow is a virtual image which cannot be captured on a screen and moves along with the observer. It is formed when light rays from the sun (behind the observer) are refracted in water drops. On the other hand our “rainbow” is a real image which can be captured on a screen. {cite:t}`SCHLICHTING`, the inventor of this demonstration, did some calculations and computed the curvature of the red and blue parts of this spectrum.
 
 ## Follow-up
-There are possibilities for computation in the artikel Ein Regenbogen ohne Regen (in German) which is accessible through internet.
+There are possibilities for computation in the artikel 'Ein Regenbogen ohne Regen' (in German) which is accessible through internet.
 
 
 ## References

@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Magic with pendulums 
 
@@ -30,7 +19,7 @@ some caption
 ``` 
 
 ## Equipment
-Use as rod a 70 cm piece of broomstick. The strings should have a thickness of several mm. Use wooden balls with a diameter of approximately 7 cm (available from toy or hobby websites). Give each ball a different color. Drill a narrow hole through each ball and through the broom stick. The string can be secured on either side with a knot. 
+Use a 70 cm piece of broomstick as a rod. The strings should have a thickness of several mm. Use wooden balls with a diameter of approximately 7 cm (available from toy or hobby websites). Give each ball a different color. Drill a narrow hole through each ball and through the broom stick. The string can be secured on either side with a knot. 
 
 ## Preparation
 Practice several times with the rod and balls until your fingers know the resonant frequencies of each ball.
@@ -43,5 +32,5 @@ Hold the rod on the two ends (figure 2) in such a way that the balls will be in 
 *	Refer to other examples of resonance such as the Tacoma Narrows Bridge which collapsed in 1940.
 ```
 ## Physics background
-Each pendulum has its unique resonance frequency dependent on its length. Even turning the rod a few mm is sufficient to achieve a large amplitude of the ball if the resonance frequency is used. By practicing you can find out quickly about the proper frequencies.
+Each pendulum has its unique resonance frequency dependent on its length. Even turning the rod a few mm is sufficient to achieve a large amplitude of the ball if the resonance frequency is used. By practicing you can find the proper frequencies quickly.
 

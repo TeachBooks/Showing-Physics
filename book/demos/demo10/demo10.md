@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Does van de Graaff not like a shower? Testing statements about electrostatics with a Van de Graaff generator and soap bubbles
 
@@ -24,7 +13,7 @@ The demonstration of the interaction of Van de Graaff generator with soap bubble
 ## Equipment
 * Van de Graaff generator
 * soap bubble gun
-* video recording equipment (can be a student phone)
+* video recording equipment (e.g. Cell phone)
 
 ```{figure} demo10_figure1.jpg
 ---
@@ -54,7 +43,7 @@ Then you start the process of developing explanations and testing them with bett
 2.	The bubbles are charged from the start: depending on the charge of the bubbles they will move towards the generator or away from it.
 3.	The bubbles acquire charge on the way: the bubbles will change their behavior halfway. First they move towards the generator (as in explanation 1) and then their behavior depends on the charge of the bubbles (as in explanation 2).
 
-You can then record the experiments on video and play them on the screen. Blow several series of bubbles so that you will have enough video recordings. First the students can improve their own observations and then discuss which explanation best fits the observations. The film can be played more slowly and then you will see clearly that the bubbles initially move towards the Van de Graaff generator, only to turn around and move away eventually (or burst). Obviously, number 3 (the bubbles acquire charge on the way) is the correct conclusion, although some students will probably persevere in a different opinion. For a complete explanation it is important to focus on the moment the bubbles change their behavior, since there is no explanation to the crucial question how these bubbles get charged, yet. It turns out the bubbles change their behavior just after one of them hits the generator and pops. Sometimes it can also be seen that the bubbles move away from each other, but this is not always visible.
+You can then record the experiment on video and play it on a screen. Blow several series of bubbles so that you will have enough video recordings. First the students can improve their own observations and then discuss which explanation best fits the observations. The film can be played more slowly and then you will see clearly that the bubbles initially move towards the Van de Graaff generator, only to turn around and move away eventually (or burst). Obviously, number 3 (the bubbles acquire charge on the way) is the correct conclusion, although some students will probably persevere in a different opinion. For a complete explanation it is important to focus on the moment the bubbles change their behavior, since there is no explanation to the crucial question how these bubbles get charged, yet. It turns out the bubbles change their behavior just after one of them hits the generator and pops. Sometimes it can also be seen that the bubbles move away from each other, but this is not always visible.
 
 Finally, it is important to look back from the perspective of doing research. From 
 possible explanations (hypotheses) we have formulated observable consequences (predictions) to investigate through an experiment which explanation is (probably) the correct one. This provides a nice insight into the world of research. Hopefully this also shows that doing research is fun.

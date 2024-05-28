@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # No Force Needed to Sustain Constant Speed: Newton’s First Law
 
@@ -19,7 +8,7 @@ Age group:	15 - 16\
 Concepts:	  Force, speed, acceleration, Newton’s first law
 
 ## Introduction
-In this demonstration of Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a student practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
+In this demonstration of Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a students' practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
 
 ## Equipment
 A smooth, flat table that is as long as possible. A retort stand that is as high as possible, with clamps and two pulleys; a hanger with slotted masses; a thin cord that is twice as long as the table; two spring-balances. A cart. Power source and electromotor; two more retort stands each with a clamp and a pulley.
@@ -64,7 +53,7 @@ In a prototype version of the demonstration, studying the at-rest situation was 
 ```
 
 ## Follow-up
-Students often start raising objections after a short while: “Yes but, surely the forces are not equal at the beginning, when the cart starts to move?” Be alert to note and respond to these remarks, because this is precisely where students’ views do accord with Newton’s. From a science educational perspective, our aim is that students come to distinguish conceptually between situations where the cart is accelerating, and those where the speed is constant. Rather than exposing ‘misconceptions’, pay a great deal of attention to this conceptual differentiation, once students express it. Encourage the idea that physics does accord with what they already know about motion and its causes but express that knowledge more precisely and accurately. 
+Students often start raising objections after a short while: “Yes but, surely the forces are not equal at the beginning, when the cart starts to move?” Be alert to note and respond to these remarks, because this is precisely where students’ views do accord with Newton’s. From a science educational perspective, our aim is that students come to distinguish conceptually between situations where the cart is accelerating, and those where the speed is constant. Rather than exposing ‘misconceptions’, pay a great deal of attention to this conceptual differentiation, when students express it. Encourage the idea that physics does accord with what they already know about motion and its causes. But express that knowledge more precisely and accurately. 
 Obviously, a single experiment will not cause students to expand and differentiate their understandings of force and motion to become fully Newtonian. Many students will still speak of the ‘force of motion’ when they explain why a skater or cyclist keep on moving beyond the finish line, after they stop propelling themselves. In developing Newtonian descriptions and explanations, students need to know when and why something is called a force in physics, and develop the concept of ‘interaction’ {cite}`dekkers1998`, and distinguish force from momentum.
 
 ## References
