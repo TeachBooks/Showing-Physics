@@ -1,23 +1,20 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Infra-red investigations and surprises
 
 
-Author:     Unknown\
+Author: Norbert van Veen\
 Time:	  	10 minutes\
 Age group:	12 - 18\
 Concepts:	infrared, visible light, absorption, transparency
+
+```{figure} demo22_figure1.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Introduction
 Infrared radiation is a well-known subject in physics. Students get acquainted with it in junior secondary and learn about the properties of this kind of radiation in senior secondary. This demonstration is suitable for both junior and senior secondary physics. With the help of the IR- camera (FLIR) which can take photos and video, we can show the world in visible light and IR on an interactive white board or screen.
@@ -30,6 +27,15 @@ Infrared radiation is a well-known subject in physics. Students get acquainted w
 ## Preparation
 Provide a garbage bag and a glass plate. Connect the IR-camera to the computer and set it to streaming mode so that you can use the live streaming feature of the software. Show the video on a digibord or screen.
 
+
+```{figure} demo22_figure2.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
+
 ## Procedure
 1.	Ask students to mention differences between IR and visible light.
 2.	What similarities do students know between IR and visible light?
@@ -40,6 +46,13 @@ Provide a garbage bag and a glass plate. Connect the IR-camera to the computer a
 7.	Use this experiment to discuss transparency, opacity or absorption of objects for electromagnetic radiation. For example, UV radiation and glass.
  
 
+```{figure} demo22_figure3.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 ## Physics background
 Visible light is not absorbed by the glass, but is absorbed by the black garbage bag. The opposite is true for IR radiation. Glass reflects infrared like a mirror.
 

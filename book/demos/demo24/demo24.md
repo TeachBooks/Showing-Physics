@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Writing with a Laser using Phosphorescence
 
@@ -21,7 +10,7 @@ Concepts:	Phosphorescence, laser, photon energy, excitation, emission
 ## Introduction
 Phosphorescence (luminescence) is a familiar phenomenon for many students. They recognize this from various "Glow in the Dark" stickers and objects. What they do not know is that a threshold energy is needed to make phosphorescence possible. We do this experiment using several lasers, each with different wavelengths. The intensity (or output power) of the laser makes no difference whether or not the surface will illuminate. We show this by using a He-Ne laser and by spreading the beam using a concave lens.
 
-```{figure} demo24_figure1.jpg
+```{figure} demo24_figure1.JPG
 ---
 width: 50%
 align: center

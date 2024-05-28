@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Center of mass demo’s, feeling Physics with your own body!
 
@@ -17,6 +6,15 @@ Author:     Ed van den Berg\
 Time:	  	10 minutes\
 Age group:	6 and up (elementary and secondary)\
 Concepts:	center of mass, distribution of mass, stability
+
+
+```{figure} demo25_figure1.jpg
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Introduction
 Learning to recognize Physics in the everyday environment, visualizing Physics and “feeling” it with your own body, and then thinking back-and-forth between phenomena and concepts, that is the object of this series of demonstrations. That is possible with a class of 30 students, but also with a conference room of 500 students and parents. And it is fun! 
@@ -30,6 +28,14 @@ Learning to recognize Physics in the everyday environment, visualizing Physics a
 
 ## Preparation
 At the location (classroom or auditorium), think briefly about maximizing visibility and how to create just enough movement space for the participating audience. 
+
+```{figure} demo25_figure2.png
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Procedure
 The description is for a demo during an event with a large audience. For a demo in the classroom the teacher will include more interaction. 
@@ -45,9 +51,24 @@ The description is for a demo during an event with a large audience. For a demo 
 9. A Powerpoint is available with some spectacular slides such as a [bicycling bird](https://www.youtube.com/watch?v=nrbvx17Ql-c), a flying donkey, a truck, and a tractor missing a wheel and ask for each slide how the center of mass concept can be used to explain the situation. 
 10. Show the photo of the child and the man on the see-saw. *Is this possible? Is something wrong? Using the center of mass concept or the law of moments of force, how can you explain?*
 
+```{figure} demo25_figure3.tif
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Physics background
 For definitions and background, see the physics textbooks. 
+
+```{figure} demo25_figure4.png
+---
+width: 50%
+align: center
+---
+CAPTION
+```
 
 ## Follow-up
 There are many interesting phenomena around us which illustrate the power of the center of mass concept. Students could collect such examples like: 
