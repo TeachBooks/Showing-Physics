@@ -41,13 +41,13 @@ sphinx:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     thebe_config:
       use_thebe_lite: true
-      exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
+      exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb", "**/*.jpg", "**/*.JPG", "**/*.docx", "**/*.cma7", "**/*.cmr7", "**/*.MP4", "**/*.jpeg","**/*.ai","**/*.psd","**/*.png","**/*.doc","**/*.bmp","**/*.tif","**/*.pdf","**/*.PNG","**/*.xlsx","**/*.mp4"]
     html_theme_options:
       repository_url: https://github.com/TeachBooks/Showing-Physics #"https://gitlab.tudelft.nl/fpols/showing-physics"  # Online location of your book
-      #path_to_book: docs  # Optional path to your book, relative to the repository root
-      #branch: HEAD  # Which branch of the repository should be used when creating links (optional)
-      #use_repository_button: false
-      #use_issues_button: false
+      path_to_book: docs  # Optional path to your book, relative to the repository root
+      branch: HEAD  # Which branch of the repository should be used when creating links (optional)
+      use_repository_button: false
+      use_issues_button: false
       use_multitoc_numbering: true
       launch_buttons:
         thebe: true
