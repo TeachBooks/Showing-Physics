@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Roll and Stop
 
@@ -23,7 +12,10 @@ Concepts:
 This is one of the 'Black Box' activities suitable for addressing how science works. Students observe, infer, devise hypotheses, and then test them. They need to be creative because figuring out what exactly is happening is not simple. We may even never know...
 
 ## Equipment
-Cylindrical container such as a paint can or PVC pipe with caps; viscous liquid (glycerol); a piece of (fish) lead that fits well inside the cylinder; plank set at a slight angle.
+-Cylindrical container such as a paint can or PVC pipe with caps
+- Viscous liquid (glycerol)
+- A piece of (fish) lead that fits well inside the cylinder
+- Plank set at a slight angle
 
 ## Preparation
 Fill the cylinder completely with the liquid and add the lead (wash your hands afterward). Set up the plank at an angle so that the cylinder just starts rolling by itself.
@@ -34,7 +26,7 @@ Fill the cylinder completely with the liquid and add the lead (wash your hands a
 3. Discuss the different ideas centrally and write them on the board.
 4. Have students come up with an experiment for each of the ideas (hypotheses) to test them. Remember, you cannot open the cylinder.
 5. Perform the experiments, when possible. Is the hypothesis confirmed or not? Are there other hypotheses that are also ruled out as a result of the devised and performed experiment?
-6. Control question. Instead of testing students' knowledge, you can use metacognitive reflection here. Reflection should make it clearer for them what they have learned and why it is relevant.
+6. Control question: instead of testing students' knowledge, you can use metacognitive reflection here. Reflection should make it clearer for them what they have learned and why it is relevant.
 7. Note down what you now know more about science and how science works. Ask for the answers and try to categorize them together.
 
 

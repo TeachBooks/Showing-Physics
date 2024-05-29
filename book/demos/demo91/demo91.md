@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Mysterious fountain
 Author: Peter Dekkers\
@@ -43,11 +32,11 @@ Construct the setup according to the sketch. Place the bottles in the large enve
 ## Procedure
 Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
 
-The discussion during the experiment is more interesting than the execution and the events. Obvious questions and tasks (see a possible 'scenario' in the {ref}`worksheet`):
+The discussion during the experiment is more interesting than the execution and the events. Obvious questions and tasks (see a possible 'scenario' in the {ref}`worksheet<worksheet>`):
 * How do you think it works? (Draw it and explain, compare with your neighbor.)
 * Will the tap run forever? Why or why not?
 * Nothing goes through the connecting tube. Will it still work if we remove it?
-* What do you think will happen if... (see the {ref}`worksheet` for possibilities)
+* What do you think will happen if... (see the {ref}`worksheet<worksheet>` for possibilities)
 With dyes, the experiment becomes more visible and more interesting. After all, could the explanation involve chemical processes?
 
 
@@ -76,8 +65,8 @@ If it does not 'work,' check if the stoppers are securely fastened and the long 
 :filter: docname in docnames
 ```
 
-(worksheet)=
 ```{admonition} Worksheet
+:name: worksheet
 
 **Overview**
 
@@ -97,9 +86,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 **Teacher:** "As you can see, the tap begins to flow. What's going on here?"
 
-**Teacher:** "Do you think it will stop if I hold my finger against the end?"
-
-*And if I let go, does it start again or not?*
+**Teacher:** "Do you think it will stop if I hold my finger against the end? And if I let go, does it start again or not?"
 
 *(The tap stops when you hold it closed with your finger but starts again when you let go.)*
 
@@ -115,9 +102,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 *(The flow stops when the right bottle is empty, or the difference in height difference is zero.)*
 
-**Teacher:** "What's the purpose of that connecting tube? It looks like nothing is going through."
-
-*Does it still work if we disconnect it?*
+**Teacher:** "What's the purpose of that connecting tube? It looks like nothing is going through. Does it still work if we disconnect it?"
 
 *(No, then it stops. If you reconnect it and add some water to the funnel, it starts again.)*
 
@@ -125,7 +110,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 *(Nothing.)*
 
----
+***
 
 **Assignments**
 
@@ -137,7 +122,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 *Possible extension: try to make such a device at home / with your group.*
 
----
+<hr size="3" color ="black">
 
 **Comparison of Answers**
 

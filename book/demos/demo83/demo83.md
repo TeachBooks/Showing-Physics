@@ -1,25 +1,14 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Bouncing Ball in a Tube
 
-Author:     \
+Author: Norbert van Veen\
 Time:	30 minutes\
-Age group:	14 - 18\
-Concepts:	
+Age group:	all\
+Concepts:	Frequency, amplitude
 
 ## Introduction
-A demonstration likely to be suitable for both lower and upper-level students. In lower levels, it helps illustrate sound as vibration and explains concepts like frequency and amplitude. In upper levels, it serves as an analogy for the photoelectric effect, making quantities like threshold energy, kinetic energy, and cutoff frequency tangible.
+A demonstration likely to be suitable for both lower and upper-level students. In lower levels, it helps to illustrate sound as vibration and explains concepts like frequency and amplitude. In upper levels, it serves as an analogy for the photoelectric effect, making quantities like threshold energy, kinetic energy, and cutoff frequency tangible.
 
 ```{figure} demo83_figure1.PNG
 ---
@@ -29,25 +18,27 @@ align: center
 Bouncing ball in a tube above a JBL speaker.
 ```
 
-
 ## Equipment
-Bead or ping pong ball; transparent tube; speaker (e.g., a JBL variant); tone generator.
+* Bead or ping pong ball
+* Transparent tube
+* Speaker (e.g., a JBL variant)
+* Tone generator (e.g. phyphox app)
 
 ## Preparation
 Place the transparent tube over the speaker and connect a sound source to the speaker. Ensure that the tube does not make contact with the speaker's cone.
 For lower levels, choose a song that starts calmly and where the bass gradually builds up. Then, use the tone generator with a frequency that results in a nice bounce of the ball.
-In preparation for upper levels (analogy with the photoelectric effect), you need to set multiple frequencies. Note the sound intensity where the ball bounces fairly high at 100 Hz
+In preparation for upper levels (analogy with the photoelectric effect), you need to set multiple frequencies. Note at which sound intensity the ball bounces fairly high for a frequency of 100 Hz.
 
 ## Procedure
 ### Lower level - Sound is a vibration with frequency and amplitude.
 1. Place the ball in the transparent tube on the speaker. Play music. Let the students observe.
-2. What causes the ball to bounce?
+2. Question: *What causes the ball to bounce?*
 3. Play a pure frequency through the speaker. Observe the ball in the tube. Change the frequency higher or lower and have students note differences and similarities.
-4. Choose a frequency where the ball bounces well and increase or decrease the amplitude (sound intensity) of the speaker. Have the students predict what they will see.
+4. Choose a frequency where the ball bounces well and increase or decrease the volume (sound intensity) of the speaker. Have the students predict what they will see.
 5. Control question: What happens to the ball if the speaker vibrates at a very high (inaudible) frequency?
 
 ### Higher level - Photoelectric effect analogy
-1. Choose several frequencies (at a constant sound intensity) and mark the maximum height the ball or bead reaches.
+1. Choose several frequencies (at a constant volume) and mark the maximum height the ball or bead reaches.
 2. Record the measurements in a table and plot the graph in a diagram with height on the vertical axis and frequency on the horizontal axis.
 3. Discuss the analogy with the photoelectric effect. See the physics background.
 4. Control question: Why doesn't the analogy hold if the sound intensity is not constant per frequency?
@@ -69,10 +60,10 @@ align: center
 Diagram according to {cite:t}`barretto2022physical`: an analogous graph to the photoelectric effect. Point out to the students the intercepts on the axes and the analogous intercepts on the diagram of the photoelectric effect. Also, indicate where the analogy no longer holds.
 ```
 
-
-## Tips
-• Pay attention to the ratio of bead/ball to tube diameter. The tube should be reasonably narrow so that the bead or ball jumps as vertically as possible.
-• It's an analogy with the photoelectric effect, but note where the analogy deviates from the concept.
+```{tip}
+- Pay attention to the ratio of bead/ball to tube diameter. The tube should be reasonably narrow so that the bead or ball jumps as vertically as possible.
+- It's an analogy with the photoelectric effect, but note where the analogy deviates from the concept.
+```
 
 ## References
 ```{bibliography}

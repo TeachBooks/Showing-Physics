@@ -1,27 +1,16 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Rollin' in the deep
 
-Deze proef is eerder gepubliceerd in NVOX (Dekkers en Van Rens, 1999)
+This demonstration has been published in the Dutch magazin for science teachers {cite:t}`dekkers1999drogen`.
 
 
-Author:     \
+Author: Peter Dekkers\
 Time:	30-50 minutes\
-Age group:	Grade 10\
+Age group: Grade 10\
 Concepts:	potential and kinetic energy, moment of inertia, translational energy
 
-## Introduction
+# Introduction
 If you roll a bunch of round objects down a slope, the mass and size do not matter, but the shape does. This is difficult to understand or infer from observations, which encourages students to propose systematic investigations to establish order. In the demonstration, the teacher can manage planning, execution and interpretation. The test is inspired by an old science quiz question: do a boiled and a raw egg roll at the same rate? 
 
 ## Equipment
@@ -51,7 +40,7 @@ Some suggestions:
 width: 50%
 align: center
 ---
-Welk rollend voorwerp is het eerst beneden? 
+Which rolling object reachers the bottom first?
 ```
 
 ```{figure} demo92_figure2.jpg
@@ -62,14 +51,17 @@ align: center
 some caption
 ```
 
-
-
 ## Physics background
 When rolling, potential energy is converted into partly translational partly rotational energy, according to: 
- Ep = Ek,r + Ek,t <=> m.g.h = ½ I.ω2 + ½ m.v2 .
+
+ $E_p = E_{k,r} + E_{k,t} <=> mgh = ½Iω^2 + ½mv^2$ .
+
 Moment of inertia I is proportional to mass m and radius R squared for simple shapes (see table):
- I = C.m.R2, where C is determined by the shape. 
-So (with v = ω.R): v(h) = √(2gh/(1+C))
+ $I = CmR^2$, where $C$ is determined by the shape. 
+So (with $v = ωR$): 
+
+$v(h) = √(\frac{2gh}{1+C})$
+
 In short: the speed at given height, i.e. also the average speed after descent over that height, does not depend on mass or radius, only on the 'shape'. The object whose mass is closest to the axis of rotation receives relatively the most translational energy and 'wins'. All spheres roll equally fast, so do all tubes , all discs and all balls. But spheres roll faster than discs, discs faster than balls, and tubes are last down.
 
 ## Follow-up

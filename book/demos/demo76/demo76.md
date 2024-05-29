@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # A Balloon that Can Do Everything: Sinking, Floating, and Hovering Balloon
 
@@ -19,7 +8,7 @@ Age group:	14-16\
 Concepts:	
 
 ## Introduction
-Students learn about density in the second grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
+Students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
 
 ```{figure} demo76_figure1.JPG
 ---
@@ -30,7 +19,9 @@ The balloon is on its way up and hovers for a while in the warm water.
 ```
 
 ## Equipment
-Aquarium tank (large); balloons; warm (approximately 35 °C) and cold water.
+- Aquarium tank (large)
+- Balloons
+- Warm (approximately 35 °C) and cold water.
 
 ## Preparation
 Pour warm water into the aquarium. Fill a balloon with cold water and a little air, then tie it closed. For better results, you can also cut off the nozzle.
@@ -45,10 +36,10 @@ You can have a student who chose that prediction explain each of the three pheno
 3. *Why does the balloon sink first?*
 4. *When does the balloon start to hover?*
 5. *Why does the balloon eventually float?*
-6. Control question: *What can you say about the (average) temperature of the water inside the balloon when it hovers?* \
-A. It is higher than the temperature of the water surrounding the balloon.\
-B. It is approximately equal to the temperature of the water surrounding the balloon.\
-C. It is lower than the temperature of the water surrounding the balloon.
+6. Control question: *What can you say about the (average) temperature of the water inside the balloon when it hovers?* 
+    1. It is higher than the temperature of the water surrounding the balloon.
+    2. It is approximately equal to the temperature of the water surrounding the balloon.
+    3. It is lower than the temperature of the water surrounding the balloon.
 
 ## Physics background
 The balloon filled with cold water has an average density greater than that of warm water and will therefore sink. The water inside the balloon gradually heats up. The water balloon will have precisely the average density of the warm water for a while. Then the balloon hovers. If the water inside the balloon continues to increase in temperature, the average density decreases and the balloon floats.

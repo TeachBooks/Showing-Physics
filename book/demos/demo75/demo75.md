@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Cooling Metal Spheres
 
@@ -25,57 +14,69 @@ To let students experience the process of cooling solid objects, we observe the 
 ---
 width: 50%
 align: center
+name: fig:demo75_setup1
 ---
 The setup with a plastic test tube rack to place the balls on.
 ```
 
 
-```{figure} demo75_figure2.jpg
----
-width: 50%
-align: center
----
-Screenshot of the FLIR C5 measurement. The temperature range is set manually.
-```
 
+
+## Equipment
+- Setup with tripod and clamp or a camera tripod
+- IR camera
+- Non-conductive construction to place the metal spheres on (plastic test tube rack)
+- Several metal spheres (of the same material) differing in diameter
+- Kettle
+- Ladle
+- Tea towel.
+This description uses Coach 7 as measurement software. The required Coach 7 file is available on the website. LINK NEEDED?
+
+## Preparation
+1. Set up a measurement setup as shown in Figures {numref}`{number}<fig:demo75_setup1>` and {numref}`{number}<fig:demo75_setup2>`.
 
 ```{figure} demo75_figure3.jpeg
 ---
 width: 50%
 align: center
+name: fig:demo75_setup2
 ---
-Some caption
+Another view of the setup looking at the test tube rack to place the balls on and an IR camera filming.
 ```
+2. Set the IR camera to the correct IR distance and visual distance. Set up a measurement with a measuring spot or, if desired, a measurement with a 'hottest spot rectangle' (drag it to the desired size on the touchscreen). Set the emissivity to around 0.95 (for iron), look up the value of this emissivity for other metals if spheres of other materials are used.
+3. When using Coach 7, set up 'measurement with synchronized display'. You can also film the setup with any camera app on your device, then select the FLIR C5 as the camera.
+
+## Procedure
+1. Show the spheres to the students and give them the diameters of the spheres. Let them calculate the mass using the material density.
+2. Let the students calculate how much thermal energy a sphere possesses when it heats up from room temperature to a certain temperature (for example, 60°C). They can find the specific heat of the material in BINAS.
+3. *Are the temperatures of the spheres at the start of the experiment the same or different?*
+4. *What do you expect to happen?* 
+    1. The largest sphere will cool down the fastest.
+    2. The smallest sphere will cool down the fastest.
+    3. Cooling will occur at the same rate for both spheres.
+    Preferably, have them write down their choice and come up with an explanation.
+5. Boil some water in the kettle, leave the lid of the kettle open and place the spheres in a ladle in the kettle. Wait a moment until the metal spheres are heated. Remove the ladle from the kettle and place them on a tea towel to quickly dry the spheres. Then place the spheres in the desired position in your measurement setup.
+6. Perform the measurement. After heating the spheres in boiling water, quickly place them in the setup. Start the measurement with the FLIR IR camera.
+```{figure} demo75_figure2.jpg
+---
+width: 50%
+align: center
+name: fig:FLIR_C5_measurement
+---
+Screenshot of the FLIR C5 measurement. The temperature range is set manually.
+```
+
+7. Discuss the results. *Which explanation fits best?*
+8. Optionally: Tell about George-Louis Leclerc and his determination of the age of the Earth (see website).
 
 ```{figure} demo75_figure4.jpg
 ---
 width: 50%
 align: center
 ---
-Some caption
+Painting of George-Louis Leclerc
 ```
 
-## Equipment
-Setup with tripod and clamp or a camera tripod; IR camera; non-conductive construction to place the metal spheres on (plastic test tube rack); several metal spheres (of the same material) differing in diameter; kettle; ladle and tea towel.
-This description uses Coach 7 as measurement software. The required Coach 7 file is available on the website.
-
-## Preparation
-Set up a measurement setup as shown in Figures 1 and 3. Set the IR camera to the correct IR distance and visual distance. Set up a measurement with a measuring spot or, if desired, a measurement with a 'hottest spot rectangle' (drag it to the desired size on the touchscreen). Set the emissivity to around 0.95 (for iron), look up the value of this emissivity for other metals if spheres of other materials are used.
-When using Coach 7, set up 'measurement with synchronized display'. You can also film the setup with any camera app on your device, then select the FLIR C5 as the camera.
-
-## Procedure
-1. Show the spheres to the students and give them the diameters of the spheres. Let them calculate the mass using the material density.
-2. Let the students calculate how much thermal energy a sphere possesses when it heats up from room temperature to a certain temperature (for example, 60°C). They can find the specific heat of the material in Binas.
-3. *Are the temperatures of the spheres at the start of the experiment the same or different?*
-4. *What do you expect to happen?* \
-A. The largest sphere will cool down the fastest.\
-B. The smallest sphere will cool down the fastest.\
-C. Cooling will occur at the same rate for both spheres.
-Preferably, have them write down their choice and come up with an explanation.
-5. Boil some water in the kettle, leave the lid of the kettle open and place the spheres in a ladle in the kettle. Wait a moment until the metal spheres are heated. Remove the ladle from the kettle and place them on a tea towel to quickly dry the spheres. Then place the spheres in the desired position in your measurement setup.
-6. Perform the measurement. After heating the spheres in boiling water, quickly place them in the setup. Start the measurement with the FLIR IR camera.
-7. Discuss the results. *Which explanation fits best?*
-8. Optionally: Tell about George-Louis Leclerc and his determination of the age of the Earth (see website).
 9. Control question: *Can you determine the age of the Earth with this method?*
 
 ## Physics background

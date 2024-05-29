@@ -1,15 +1,4 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Shadow of a flame: Visualisation of heat flow
 
@@ -19,7 +8,7 @@ Age group:	14 - 18\
 Concepts:	
 
 ## Introduction
-This is a demonstration that everyone must see because it contains so much beautiful physics. Depending on the purpose, you can emphasize different aspects.
+This is a demonstration everyone must see because it showcases such beautiful physics. Depending on the purpose, you can emphasize different aspects.
 
 ```{figure} demo74_fig1.JPG
 ---
@@ -30,10 +19,10 @@ The density current is visible
 ```
 
 ## Equipment
-* tea lights
-* dark room
-* strong lightsource (e.g. phone flashlight)
-* ice cream
+* Tea lights
+* Dark room
+* Strong lightsource (e.g. phone flashlight)
+* Ice cream
 
 ## Preparation
 None
@@ -52,7 +41,7 @@ It's nice to attach an ice cream to a stand. You can also feel the flow by holdi
 width: 50%
 align: center
 ---
-Some caption
+The shadow of a flame
 ```
 
 ## Physics background

@@ -1,16 +1,3 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
-
 # Spinning Circles in a Wine Glass
 
 
@@ -19,17 +6,17 @@ Time:	  10 minutes	\
 Age group:	14 - 18\
 Concepts:	
 
-<div style='text-align: center;'>
-
-```{code-cell} ipython3
-:tags: [remove-input]
-from IPython.display import YouTubeVideo
-VideoWidth=600
-YouTubeVideo("pENy-iNx1u4?si=lEsB0RblzxcJTe-C", width=VideoWidth, align='center')
-```
-
-</div>  
-
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/pENy-iNx1u4"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Introduction
 
@@ -44,7 +31,8 @@ A wine glass with a ball describing circles.
 ```
 
 ## Equipment
-Wine glass; plastic ball with a bright color.
+* Wine glass; 
+* plastic ball with a bright color.
 
 ## Preparation
 Practice the demonstration several times (see Execution 1). After some practice, it will even be possible to start the wine glass upright and flip it over without the ball falling.

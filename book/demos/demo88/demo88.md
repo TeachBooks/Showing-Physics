@@ -1,26 +1,15 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Cloud Formation
 
 
-Author:     \
+Author: Norbert van Veen\
 Time:	  10 minutes	\
 Age group:	12 - 18\
-Concepts:	
+Concepts:	Clouds, evaporation, condensation
 
 ## Introduction
-Clouds captivate children's imagination. They resemble cushions from an airplane or on a beautiful day. Often, students do not know how they form. This demonstration quickly and clearly illustrates this. The demonstration is well-suited for meteorology.
+Clouds captivate children's imagination. On a beautiful day, or when looking down from an airplane they resemble cushions. Often, students do not know how they form. This demonstration quickly and clearly illustrates this. The demonstration is well-suited for meteorology.
 
 ```{figure} demo88_figure1.jpg
 ---
@@ -30,20 +19,23 @@ align: center
 Vacuum bell jar, pump, match, and beaker with hot water
 ```
 
-## Requirements
-Vacuum pump and bell jar; beaker with hot water; box of matches; towel (to remove condensation from the bell jar after the demonstration).
+## Equipment
+- Vacuum pump connected to bell jar
+- Beaker with hot water
+- Box of matches
+- Towel (to remove condensation from the bell jar after the demonstration)
 
 ## Preparation
-Set up the apparatus visibly. Heat some water in a beaker or use hot tap water, ensuring it's not too hot (between 50 and 70°C).
+Set the bell jar and vacuum pump on a table clearly visible to all studens. Heat some water in a beaker or use hot tap water, ensuring it's not too hot (between 50 and 70°C).
 
 ## Execution
 1. Place a beaker of hot water under the bell jar. Strike a match and when it goes out, ensure that the smoke ends up under the bell jar by placing the jar over the match.
 2. Start the vacuum pump. The water will start to evaporate. Optionally, you can place a thermometer or temperature sensor under the jar to demonstrate that evaporation extracts energy from the liquid, thus lowering the water temperature.
 3. Clouds form under the jar at a certain air pressure. The jar is no longer transparent.
 4. Would clouds form if you hadn't used the match?
-  A. Yes, there would be more cloud formation;
-  B. No, there would be no cloud formation;
-  C. It makes no difference.
+   1. Yes, there would be more cloud formation;
+   2. No, there would be no cloud formation;
+   3. It makes no difference.
 5. Control question: In what practical situations does this type of cloud formation occur?
 
 ## Physics Background
@@ -53,5 +45,6 @@ At high altitudes, the air pressure is also lower, allowing water vapor to conde
 
 There are variations of this experiment, where a soda bottle with some alcohol or water drops in it is pressurized using, for example, a bicycle pump. The pressure is then rapidly decreased (by releasing the cap), after which a cloud becomes visible.
 
-## Tips:
+```{tip}
 Search for 'Cloud Bottle' for a student version of this experiment.
+```
