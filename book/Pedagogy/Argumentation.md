@@ -1,30 +1,31 @@
 # Argumentation 
 ## Development of inquiry skills through demonstrations
-Conducting scientific research is a matter of making targeted and careful observations, using your knowledge to understand them, and vice versa, adjusting your knowledge and determining with which subsequent observations you can test and substantiate claims. Demonstrations are an excellent opportunity to practice this with students. Many important questions can be asked and addressed:
-* What can I conclude from the observations? 
-* How confident am I in this, can the conclusion be strengthened? 
+Conducting scientific research is a matter of making targeted and careful observations, using your knowledge to understand them, and vice versa, adjusting your knowledge and determining with which subsequent observations you can test and substantiate claims. Demonstrations are an excellent opportunity to practice this with students. Examples of the many important questions that need to be addressed during inquiry are:
+* What can I conclude from these observations? 
+* How confident am I about this, can the conclusion be strengthened? 
 * If I change something, what will happen? 
-* And if it does or does not, what will I learn from it? 
+* And if the outcome  changes or not, what will I learn from that? 
 
-This back-and-forth thinking between practice and theory characterizes research (Van den Berg, 2012). *In demonstrations, you can stimulate that thinking, guide it, and help improve it in a pleasant, motivating and safe way.* As always, the trick here is to maintain the balance between challenging students, provide autonomy to think and do for themselves on the one hand, and supporting, scaffolding, encouraging and directing them on the other. What students know and can do themselves already should be done by them. But as a teacher you can take over, or help them, when students find it still too difficult. In between, choose the learning objectives for your demonstration. There should not be too many, and they should be achievable by the students with some effort. This will only succeed if you offer your students a route using targeted questions and assignments, but one in which they can also have their input and make their own contributions.
+This back-and-forth thinking between practice and theory characterizes research (Van den Berg, 2012). *In demonstrations, you can stimulate that thinking, guide it, and help improve it in a pleasant, motivating and safe way.* As always, the art here is in maintaining the balance between challenging students, providing them with the autonomy to think and do for themselves on the one hand, and supporting, scaffolding, encouraging and guiding their thought and action on the other. Allow  students to choose and  do by themselves what they are already capable of. But as a teacher provide examples and support  with what is still too difficult. Select the learning objectives for your demonstration where they show cognitive readiness. There should not be too many objectives, and these should be achievable by the students with some effort. Provide  your students with a route using guiding questions and assignments, but also with opportunities for their own input and personal contributions.
 
-Learn physics means doing physics. But can students participate in a demonstration? After all, scientific problems are not really solved and students do not manipulate the materials... Your students may assume that with a little effort they can eventually understand the surprising phenomena - a guarantee you don't get in normal physics research. You already know in advance "what must come out," you as a teacher need only reproduce (well, only) the observations, and you can suffice with giving the corresponding explanation. You can do it that way, but it doesn't have to stop there. Your demonstration can also contribute to the development of inquiry skills, and that is fairly easy to incorporate.
+Learning physics requires doing physics. Is it possible for  students to do so by participating in demonstrations? After all, in demonstrations scientific problems are not actually solved nor do students  manipulate the materials by themselves... They are meant to suggest to students  that with a little effort they can eventually understand the surprising phenomena - a guarantee that is not provided in real physics research. As a teacher you  know the outcome and conclusion in advance, all you have to do  as a teacher (difficult as that may be) is to produce the intended observations. It suffices to then present the accepted corresponding explanation, basically confirming what your students already (ought to) know. While this is a viable approach, it need not stop there. In your demonstration you may use the opportunity to  contribute to the development of inquiry skills which is not difficult at all.
 
-To that end, as a teacher, reduce the research problems and confront students with them. Reenact the solving of those problems, as it were, during your demonstration, because there is a lot to learn from that. The easiest way to do this is to ask your students questions like:
+To that end, make the research problems manageable before  confronting your students with them. Reenact the solving of those problems, as it were, during your demonstration, because there is a lot to learn from that. The easiest way to do this is to ask your students questions like:
 
 * What do you think will happen?
 * What do you know about the set up?
 * What exactly did you see? What did you notice?
 * How would you describe your observations as accurately as possible?
-* Did happen what you expected to happen?
-* If we would repeat the demonstration, what would we pay special attention to?
+* Was what happened what you expected to happen?
+* If we would repeat the demonstration, what would you pay special attention to?
 * How can we improve our observations?
 * Can you explain what happened and why it happened?
-* Did we learn something from it? How does that fit with what we already know? What do we not yet know and how can we find out?
+* Did we learn something from what was observed? How does that fit with what we already know? What remains unknown for now and how can we find out?
 
-By finding the answers together, valuing them, testing them where possible, students practice the skills they need when they "learn physics" and "do physics" on their own. The demonstrations in Part XXXX of this book focus explicitly on that, but you can work on those skills in this way in all the other demonstrations as well. Of course, you adapt them to your own needs, supplementing them with your own ideas. Furthermore, you don't ask all these questions in one demo, of course; that would be far too difficult (for students as well as for the teacher). A clear, defined goal is given some extra attention based on a few appropriate questions. Examples follow below.
+By finding the answers together, valuing them, testing them where possible, students practice the skills they need when they "learn physics" and "do physics" on their own later on. The demonstrations in Part XXXX of this book focus explicitly on these skills, but  in principle all the other demonstrations are suitable as well. Of course, you will have to adapt them to your own needs and include  your own ideas. Furthermore, you would not ask all of the questions suggested above in a single  demo as that would be far too strenuous for both students and teacher. Choose a clear, well-defined learning goal and give it  some extra attention using  a few appropriate questions. Examples follow below.
 
-You can distinguish three levels of difficulty, depending on what you want to achieve didactically. In the simplest demonstration, you show a surprising phenomenon and your students practice scientifically "observing" and "interpreting". It gets a little trickier when you not only make the connection between the observations and the interpretation but also substantiate it by describing, explaining and predicting the observations. The third type of demo involves skills associated with the limits of the knowledge found. *What assumptions have been made? In what situation is the conclusion no longer valid? Once your students have identified the limits to the found knowledge based on such questions, you can ask them if it is still valid beyond those limits. Can the conclusion be generalized? Does the conclusion raise new questions, and how can they be answered?* In the step that then follows, you need all the skills at once and, as a teacher, you can often run out of answers. After all, in this most beautiful but most difficult type, it becomes real physics research.
+We  distinguish three levels of difficulty that  depending on what learning we aim for. In the simplest demonstration,  a surprising phenomenon is shown and your students practice scientifically "observing" and "interpreting". At the second level, observations are not merely interpreted explicitly, a conclusion is drawn from that interpretation and substantiated through  arguments based on the observations. The third level demonstration involves skills that address the limits of the knowledge found. Guiding questions are, for example, *What assumptions have been made?’ Or: ‘In what situation is the conclusion no longer valid?” Part of exploring  the limits to the knowledge found knowledge is also a consideration of its extension beyond those limits. Can the conclusion be generalized? Does the conclusion raise new questions, and how can they be answered?* 
+In inquiry beyond these three levels  students need all their investigative skills combined.  As a teacher, you may realize that you no longer have all answers available. After all, at this most beautiful but most difficult level, students engage in real physics research.
 
 ## Argumentation
 In scientific research, an answer to the research question does not merely suffice. It should be an as scientifically convincing as possible answer. In the classroom setting, then, you have at least two different challenges. *First*, how do you get students to give the most convincing answer? And *second*, how do you teach what counts as convincing in the natural sciences, and more specifically in physics?<br>
@@ -66,7 +67,7 @@ Argumentation is not only important in drawing conclusions; it plays a central r
 
 ``` {figure} Figures/wheelvelocity.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 In the (v,t) diagram, the direction coefficient of upward motion is different from that of downward motion. 
@@ -107,10 +108,10 @@ Before you then start measuring, you can ask students: how are we going to do th
 
 ``` {figure} Figures/VariableTabels.png
 ---
-width: 50%
+width: 80%
 align: center
 ---
-Tables at 'controlling variables
+Tables at 'controlling variables' 
 ```
 
 With the tables shown, you can get students thinking about the interval between measurements, the range in the independent variable(s), and the concept of fair measurement. In this way, you get them thinking in advance about the consequences of their choices, and their impact on the quality of the answer yet to be found. You help them take a step they very easily skip in independent work. After the discussion, the class can prepare their own tables that will be used in the demonstration, and think together about why they are satisfactory. 

@@ -32,7 +32,7 @@ In most PEOEs, you are ready with step 7. With falling objects, you must also in
 ``` {figure} Figures/poe.png
 ---
 name: fig_poe
-width: 40%
+width: 70%
 ---
 Hier een beschrijving
 ```

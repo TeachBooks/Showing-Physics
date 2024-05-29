@@ -1,8 +1,7 @@
 # The pedagogy of physics demonstrations
 
-```{admonition} **Teaser**
 Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the beginnings. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveile the phenomenon. All this effort aims to ensure that your audience will never forget your demonstration! And, finally, cleaning up... Should you even bother? **Absolutely!!!** But when you do it, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience.
-```
+
 
 ```{figure} ../demos/demo12/demo12_figure2.jpg
 ---
@@ -12,8 +11,8 @@ align: center
 A teacher demonstrating [stability](../demos/demo12/demo12.md)
 ```
 
+## What can you accomplish with demonstrations?
 **Do we learn from demonstrations?**
-
 Almost everyone who is enthusiastic about STEM education remembers a great demonstration. One that sticks in the memory. One that you would like to share because you enjoyed it so much yourself. But did you learn anything from it? Are physics concepts better anchored? In an article in the *American Journal of Physics* ( {cite:t}`crouch2004classroom`):
 
 > Despite popular beliefs to the contrary, students learn little, if anything, from traditionally presented classroom demonstrations.
@@ -30,12 +29,11 @@ align: center
 A teacher demonstrating the [singing rod](../demos/demo81/demo81.md) to teach students about standing waves.
 ```
 
-## What can you accomplish with demonstrations?
 So what exactly can you accomplish with demonstrations? The overall learning goals can be categorized as follows (after {cite:t}`hodson1993re`):
 
 **Learning physics**
 
-*"Students learn to better understand theory by relating it to the world around them,"* we often hear. *"The students learn to better understand the world around them by linking it to theory"* we also consider very important. This is "learning physics". Our [Demonstrations for conceptual development](../demos/Conceptdemos.md) cover this learning objective. 
+*"Students learn to better understand theory by relating it to the world around them,"* we often hear. *"The students learn to better understand the world around them by linking it to theory"* we also consider very important. This is "learning physics". Our [Demonstrations for conceptual development](../demos/Conceptdemos1.md) cover this learning objective. 
 
 Most of our demonstrations  relate to conceptual development. These demonstrations have been chosen for their suitability to elucidate a physical phenomen or concept. They belong in the regular instruction lessons. The descriptions often include step-by-step suggestions for didactic implementation, including opportunities to get students thinking for themselves as much as possible. They stimulate physical thinking and help students build a physical concept network.
 
