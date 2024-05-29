@@ -1,16 +1,3 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
-
 # Collisions: Newton's Third Law 
 
 Author: Freek Pols    \
@@ -20,7 +7,7 @@ Concepts:
 
 ## Introduction
 Students find Newton's third law difficult to grasp. It is counterintuitive. This demonstration specifically addresses that aspect: in collisions, there are force pairs, where forces are equal (independent of masses) but opposite in direction. We use two didactic principles in this demonstration: think-pair-share and then P(E)OE.
-[End Framework]
+
 
 ```{figure} demo68_figure1.jpg
 ---
@@ -40,22 +27,28 @@ The forces on the IOlabs are equal in magnitude but opposite in direction. These
 
 
 ## Equipment
-2x IOlab; mass; double-sided tape; computer.
+- 2 IOlabs
+- Mass
+- Double-sided tape
+- Computer
 
 The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
 
 
-<div style='text-align: center;'>
-
-```{code-cell} ipython3
-:tags: [remove-input]
-from IPython.display import YouTubeVideo
-VideoWidth=600
-YouTubeVideo("PwPCHZAv_gs", width=VideoWidth, align='center')
-```
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/PwPCHZAv_gs"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Preparation
-Ensure that you are familiar with the IOlab, that you can read out sensors, and start and stop a measurement. Wind up the spring on one IOlab and attach the ring to the other. Weight one of the two IOlabs. Affix the weighting with double-sided tape. Create a track so that the motion of the IOlabs before and after the collision remains linear. The IOlab tends to go around the corner during collision.
+Ensure that you are familiar with the IOlab, that you can read out sensors, and start and stop a measurement. Wind up the spring on one IOlab and attach the ring to the other. Weight one of the two IOlabs. Affix the weight with double-sided tape. Create a track so that the motion of the IOlabs before and after the collision remains linear. The IOlab tends to go around the corner during collisions.
 
 ## Procedure
 1. Explain what happens in this demo: one of the carts collides while moving with the other cart. Measure the forces exerted by the carts on each other as a function of time and display them in a graph. Demonstrate the operation of the force sensor by compressing the spring while the measurement is running. 
@@ -67,13 +60,14 @@ Ensure that you are familiar with the IOlab, that you can read out sensors, and 
 7. Would it matter if the other cart was already moving before the collision? If so, why? Demonstrate it. 
 8. Build on students' responses, with some guiding questions, you can help students build a reasoning. Summarize Newton's third law with them. 
 9. Control question: A truck has broken down. Fortunately, a motorist is kind enough to push the truck to the nearest garage. Consider the following two situations: 
-  9.1) The car accelerates to a speed of 50 km/h 
-  9.2) The car travels at a constant speed of 50 km/h. 
-  F_auto is the force exerted by the car on the truck. F_v,w is the force exerted by the truck on the car. What applies to the force interaction between the car and the truck?: 
-  F_auto > F_v,w in both situations 
-  F_auto = F_v,w in both situations 
-  F_auto < F_v,w in both situations 
-  F_auto > F_v,w in situation 1 but not in situation 2 
+    1. The car accelerates to a speed of 50 km/h 
+    2. The car travels at a constant speed of 50 km/h. 
+     
+    $F_{\text{car}}$ is the force exerted by the car on the truck. ${F_{v,w}}$ is the force exerted by the truck on the car. What applies to the force interaction between the car and the truck?: 
+    - $F_{\text{car}}$ > ${F_{v,w}}$ in both situations 
+    - $F_{\text{car}}$ = ${F_{v,w}}$ in both situations 
+    - $F_{\text{car}}$ < ${F_{v,w}}$ in both situations 
+    - $F_{\text{car}}$ > ${F_{v,w}}$ in situation 1 but not in situation 2 
 
 ```{figure} demo68_figure3.jpg
 ---
