@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Introductie tot experimenteren
+title: ShowingPhysics
 author: Freek Pols
 date: today
 logo: logo.png
@@ -10,9 +10,11 @@ copyright: Delft University of Technology, CC BY 4.0
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: 'off' #force
+  execute_notebooks: off #force when python code needs to be run
 
+# only build those files that are in TOC
 only_build_toc_files: true
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
