@@ -1,2 +1,3 @@
-# nothing yet
-to be replace
+# Electricity, magnetism
+```{tableofcontents}
+```
