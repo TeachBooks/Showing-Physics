@@ -35,11 +35,11 @@ bibtex_bibfiles:
 sphinx:
   config:
     bibtex_reference_style: author_year # output style
-    html_js_files:
-    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
-    thebe_config:
-      use_thebe_lite: true
-      exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
+    #html_js_files:
+    #- https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    #thebe_config:
+    #  use_thebe_lite: true
+    #  exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       repository_url: https://github.com/TeachBooks/Showing-Physics #"https://gitlab.tudelft.nl/fpols/showing-physics"  # Online location of your book
       #path_to_book: docs  # Optional path to your book, relative to the repository root
@@ -47,5 +47,5 @@ sphinx:
       #use_repository_button: false
       #use_issues_button: false
       use_multitoc_numbering: true
-      launch_buttons:
-        thebe: true
+      #launch_buttons:
+      #  thebe: true
