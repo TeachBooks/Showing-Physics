@@ -4,7 +4,8 @@ Conducting scientific research is a matter of making targeted and careful observ
 * What can I conclude from these observations? 
 * How confident am I about this, can the conclusion be strengthened? 
 * If I change something, what will happen? 
-* And if the outcome  changes or not, what will I learn from that? 
+* And if the outcome  changes or not, what will I learn from that?
+* **This sentence should be deleted as it is only for illustrative purposes...**
 
 This back-and-forth thinking between practice and theory characterizes research (Van den Berg, 2012). *In demonstrations, you can stimulate that thinking, guide it, and help improve it in a pleasant, motivating and safe way.* As always, the art here is in maintaining the balance between challenging students, providing them with the autonomy to think and do for themselves on the one hand, and supporting, scaffolding, encouraging and guiding their thought and actionon the other. Allow  students to choose and  do by themselves where they are already capable. But as a teacher provide examples and support  with what is still too difficult. Select the learning objectives for your demonstration from the range where students show cognitive readiness. Limit the numberof objectives, and peg them at a level that  they can achieve  with some effort. Provide  your students with a route using guiding questions and assignments, but also with hallenges and opportunities for their own input and personal contributions.
 
