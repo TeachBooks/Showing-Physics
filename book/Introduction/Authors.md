@@ -1,6 +1,6 @@
 # About the authors
 
-```{figure} authors/auth_Leo.jpg
+```{figure} authors/auth_Leo.JPG
 :figclass: margin
 :width: 50%
 ```
