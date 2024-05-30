@@ -7,7 +7,7 @@ Age group:	16 - 18\
 Concepts:	Newton's first law; acceleration
 
 ## Introduction
-Students often find interpreting and connecting position, velocity, and acceleration in diagrams challenging. In this demonstration, we create a ($v,t$) graph during the motion, making it clear that the cart at the highest point does not have an acceleration of 0 m/s²! We use the didactic principles: think-pair-share.
+Students often find interpreting and connecting position, velocity, and acceleration in diagrams challenging. In this demonstration, we create a ($v,t$) graph during the motion, making it clear that the cart at the highest point does not have an acceleration of 0 m/s²! We use the didactic principles: think-pair-share. 
 
 
 ```{figure} demo69_figure1.jpg
