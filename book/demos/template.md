@@ -1,8 +1,9 @@
+# Chapter title
 
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../figures/open.png
 ---
 width: 35%
 align: right
@@ -12,7 +13,6 @@ align: right
 
 
 
-# Chapter title
 
 
 Author:     \
