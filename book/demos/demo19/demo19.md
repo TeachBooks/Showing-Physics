@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -71,8 +71,8 @@ generates a vertical field in the container or basin which is put on top of the 
     d.  Where would the candles experience the greatest force, near the
         center or near the edge of the circle and why, and how one could
         investigate this experimentally?\
-    e.  Does the Lorentz force have the same direction on moving Na^+^
-        and Cl^-^ ions? Explain.
+    e.  Does the Lorentz force have the same direction on moving Na$^+$
+        and Cl$^-$ ions? Explain.
 4.  Repeat the demonstration to check the answers to questions 3c and
     3d.
 

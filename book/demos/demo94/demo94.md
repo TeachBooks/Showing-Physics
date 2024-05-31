@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -61,7 +61,7 @@ align: center
 There is light with transformer
 ```
 
-```{figure} demo94_figure3.jpg
+```{figure} demo94_figure3.JPG
 ---
 width: 50%
 align: center

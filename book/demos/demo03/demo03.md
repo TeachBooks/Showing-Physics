@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right

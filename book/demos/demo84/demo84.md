@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
@@ -62,7 +62,7 @@ Students will likely answer that question based on the direction of the Lorentz 
 Control question: The teacher provides a sketch of the result and asks the students to figure out how to achieve that with these materials. Much back-and-forth thinking is guaranteed here.
 
 ## Physics background
-```{figure} demo84_figure3.PNG
+```{figure} demo84_figure3.png
 ---
 width: 50%
 align: center 

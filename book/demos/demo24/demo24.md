@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
@@ -42,7 +42,7 @@ Paint a wooden board (any size) a few times with "glow in the dark" paint. Make 
 * There are many sources for “glow-in-the-dark” paint, see internet.
 ```
 
-```{figure} demo24_figure2.jpg
+```{figure} demo24_figure2.JPG
 ---
 width: 50%
 align: center
