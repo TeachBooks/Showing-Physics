@@ -30,11 +30,11 @@ This book is published under the CC-BY-NC, what means that you are allowed to us
 ## How to use the book
 Demonstrations are fantastic. They offer so many wonderful possibilities to show the beauty of physics and amaze pupils, that we really should do at least one in every physics class. That may not always work out, but the objection "which demo then?" no longer applies. After all, this book provides 99 examples!
 
-Surely you can read this book from cover to cover, but that was not our intention. Our main idea was to help provide teachers with ample demonstrations that could be readily used in the classroom, thereby helping students to grasp physics. Therefore, we choose and developed the demonstrations that really add value to the physics lessons. 
+Surely you can read this book from cover to cover, but that was not our intention. Our main idea was to help provide teachers with ample demonstrations that could be readily used in the classroom, thereby helping students to grasp physics. Therefore, we choose and developed the demonstrations that really add value to the physics lessons. Hence, rather than reading the whole book, you can use the search function of the book and look for the topic that you are teaching next week to find a demonstration that suits well.
 
 ```{tip}
 :class: dropdown
-Rather than reading the whole book, you can use the search function of the book and look for the topic that you are teaching next week to find a demonstration that suits well.
+The different chapters on the pedagogy of physics demonstrations provide an excellent start as well!
 ```
 
 ```{figure} Figures/soapbells.jpg
