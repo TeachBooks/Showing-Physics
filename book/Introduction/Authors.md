@@ -1,10 +1,10 @@
 # About the authors
 
- <div style="clear: both;">
+<div style="clear: both;">
 
 ```{figure} ../figures/confirmed.png
 ---
-width: 5%
+width: 15%
 align: right
 ```
 
