@@ -1,5 +1,15 @@
 # The pedagogy of physics demonstrations
 
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the beginnings. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveile the phenomenon. All this effort aims to ensure that your audience will never forget your demonstration! And, finally, cleaning up... Should you even bother? **Absolutely!!!** But when you do it, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience.
 
 

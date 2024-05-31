@@ -1,5 +1,15 @@
 # Predict Explain Observe Explain
 
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 
 In many phenomena, students and laypeople come up with predictions in which they have a lot of confidence, yet turn out to be wrong. Our intuition is often off the mark. It is precisely in these cases that demonstrations can be extra motivating and useful, but then as a teacher, you must optimally emphasize the contrast between prediction and outcome and try to stimulate the thinking of all students instead of just a few smart ones.
 

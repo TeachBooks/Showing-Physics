@@ -1,4 +1,14 @@
 # Argumentation 
+
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
 ## Development of inquiry skills through demonstrations
 Conducting scientific research is a matter of making targeted and careful observations and applying your knowledge to understand them, and vice versa, of adjusting your knowledge and determining with which subsequent observations you can test and substantiate claims. Demonstrations are an excellent opportunity to practice this with students. Examples of the many important questions that need to be addressed during inquiry are:
 * What can I conclude from these observations? 

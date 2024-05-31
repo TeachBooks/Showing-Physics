@@ -1,4 +1,14 @@
 # Nature of Science 
+
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
 As a physics teacher, you are  responsible for imparting knowledge to your students, but also for conveying an idea of what natural sciences are and what scientists are trying to accomplish. In an era  when  (social) media sometimes spread nonsense about science, it is important that as a teacher you counterbalance that. Indeed, wrong ideas about science carry risks, as we saw during the recent corona crisis in which science was sometimes dismissed as "just another opinion" and scientists were even threatened. A good understanding of Ohm's law is important for  passing  a test, but a correct understanding of the meaning and purpose of science  are just as important.
 
 But what image of the natural sciences should you convey as a physics teacher? What characterizes science? How is science different from art or religion, for example? And how do you handle that in your physics lesson? Such questions are discussed in the professional literature under the label "*Nature of Science*" (NoS).

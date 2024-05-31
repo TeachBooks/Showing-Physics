@@ -1,4 +1,14 @@
 # Back-and-forth thinking at demonstrations
+
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
 In natural sciences, describing and explaining phenomena is central. Describing and explaining develops from everyday language to professional language, from an arrangement of concepts into a theory or model. From these, hypotheses and predictions emerge that we test by going back to the phenomenon. Our 'improved' theoretical understanding then make us see more than we did the first time. New observations raise new questions, and so understanding of the phenomenon develops in a process of observation, reflection/questioning, and experimentation. This iterative and dynamic process of back-and-forth thinking between empiricism and theory at each step of the process is a more accurate description of science than the often described "linear scientific method" from research question to experiment to conclusions.
 
 To properly define back-and-forth thinking, we distinguish between the domain of phenomena, objects and observations ('*hands-on*') and the domain of concepts and

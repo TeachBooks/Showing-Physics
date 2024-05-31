@@ -1,5 +1,15 @@
 # About this book
 
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 This book originated in the collaboration between physics teachers and physics teacher trainers, united in the Dutch Society for Science Teachers [(NVON)](https://nvon.nl). The three Dutch volumes of Show*de*Fysica cover over a 200 demonstrations for secondary school physics, along with additional text on the pedagogy of physics demonstrations. Each of these demonstrations are tested by various secondary school physics teachers and their technicians ensuring that these demonstrations have value in their description and are accessible by teacher. 
 
 ```{figure} Figures/metalballs.jpeg

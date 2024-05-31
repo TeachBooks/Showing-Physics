@@ -1,4 +1,14 @@
 # Preface from the editor
+
+<div style="clear: both;">
+
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
 ```{figure} Figures/pols.jpg
 :figclass: margin
 :width: 75%
