@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Spectacular Spectrum
 
 Author:     Ed van den Berg and Frank Schweickert\

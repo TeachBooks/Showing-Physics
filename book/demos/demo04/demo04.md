@@ -1,5 +1,15 @@
 # Making a slanting tower stacking blocks
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 Author:     Maarten van Woerkom\
 Time: 		20 minutes\
 Age group: 	12 and up\

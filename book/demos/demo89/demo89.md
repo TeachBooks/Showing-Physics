@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Optics with LEDs: LEDs Provide Fun and Insight.
 
 Author: Norbert van Veen\

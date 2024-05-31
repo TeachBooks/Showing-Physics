@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Magic Memory Balls: Density of Solids and Floating and Sinking
 
 Author:     Bart van Dalen\

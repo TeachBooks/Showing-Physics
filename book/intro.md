@@ -1,5 +1,7 @@
 # Showing Physics
 
+
+
 ```{figure} front.jpg
 ---
 width: 40%

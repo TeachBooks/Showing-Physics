@@ -1,5 +1,15 @@
 # Spinning Circles in a Wine Glass
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 
 Author:     \
 Time:	  10 minutes	\

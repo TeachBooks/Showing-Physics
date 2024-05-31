@@ -1,14 +1,6 @@
 # About the authors
 
-<div style="clear: both;">
 
-```{figure} ../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
-</div>
 
 ```{figure} authors/auth_Leo.JPG
 :figclass: margin

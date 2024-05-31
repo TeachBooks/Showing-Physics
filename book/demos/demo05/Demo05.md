@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # No Force Needed to Sustain Constant Speed: Newton’s First Law
 
 Author:     Peter Dekkers\

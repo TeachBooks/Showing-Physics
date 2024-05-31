@@ -1,5 +1,15 @@
 # Cappuccino and specific heat versus heat of vaporization
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 
 Author:     Frits Hidden, Jorn Boomsma, Anton Schins, Ed van den Berg\
 Time:	  	10 - 15 minutes, more if student computation work is integrated in the demo.\

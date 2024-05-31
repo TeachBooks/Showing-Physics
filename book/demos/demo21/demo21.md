@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Making Einstein young again with an overhead projector
 Author:     Maarten van Woerkom\
 Time:	  	15 minutes\

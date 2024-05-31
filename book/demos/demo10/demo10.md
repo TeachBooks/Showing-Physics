@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Does van de Graaff not like a shower? Testing statements about electrostatics with a Van de Graaff generator and soap bubbles
 
 Author:     Wouter Spaan\

@@ -1,5 +1,15 @@
 # Stick-slip motion, kinetic versus static friction
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 Author:     Ineke Frederik\
 Time:	  	  15 minutes\
 Age group:	16 - 18\

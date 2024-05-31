@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # A Balloon that Can Do Everything: Sinking, Floating, and Hovering Balloon
 
 Author:     \

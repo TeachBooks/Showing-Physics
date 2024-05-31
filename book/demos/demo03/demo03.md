@@ -1,5 +1,15 @@
 # Light in darkness
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 Author: Freek Pols\
 Time: 15-20 minuten\
 Age group: 12-18\

@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Falling magnet and Newton's Third Law: does the magnet challenge gravity?
 
 Author: Wouter Spaan\

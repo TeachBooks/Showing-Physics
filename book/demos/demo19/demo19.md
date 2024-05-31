@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Merry-go-around of floating candles, Lorentz force in liquids
 
 Author:     Onne Slooten en Ed van den Berg\

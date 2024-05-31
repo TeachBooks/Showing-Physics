@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Magic or Not? Nature of Science with a Siphon
 
 Author: Peter Dekkers    \

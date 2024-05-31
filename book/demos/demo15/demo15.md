@@ -1,5 +1,15 @@
 # Self-propelling car violates conservation of momentum?
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 Author:     Leo te Brinke\
 Time:	  	  15 minutes\
 Age group:	15 - 18\

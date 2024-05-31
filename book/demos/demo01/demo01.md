@@ -1,5 +1,15 @@
 # Developing Particle Explanations through Colouring Eggs 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 Author:     Peter Dekkers\
 Time:	  	30 + 30 + 30 min\
 Age group:	12-14\

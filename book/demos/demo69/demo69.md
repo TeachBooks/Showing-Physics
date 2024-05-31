@@ -1,5 +1,15 @@
 # Up and down the hill: Accelerating along a Slope
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 
 Author: Freek Pols    \
 Time:	20-30 minutes\

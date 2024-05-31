@@ -1,5 +1,15 @@
 
 
+<div style="clear: both;">
+
+```{figure} ../../figures/open.png
+---
+width: 35%
+align: right
+```
+
+</div>
+
 # Mysterious fountain
 Author: Peter Dekkers\
 Time:	10-15 minutes\
