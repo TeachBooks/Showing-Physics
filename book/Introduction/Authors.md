@@ -4,7 +4,7 @@
 
 ```{figure} ../figures/confirmed.png
 ---
-width: 15%
+width: 35%
 align: right
 ```
 
