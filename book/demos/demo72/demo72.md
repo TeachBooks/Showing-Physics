@@ -35,7 +35,7 @@ Fill the cylinder completely with the liquid and add the lead (wash your hands a
 2. Probably to everyone's surprise, the cylinder will roll, stop, roll again, and stop again. Discuss in pairs what might be happening here. Make a drawing of how you think the inside of the cylinder looks.
 3. Discuss the different ideas centrally and write them on the board.
 4. Have students come up with an experiment for each of the ideas (hypotheses) to test them. Remember, you cannot open the cylinder.
-5. Perform the experiments, when possible. Is the hypothesis confirmed or not? Are there other hypotheses that are also ruled out as a result of the devised and performed experiment?
+5. Perform the experiments, when possible. Is the hypothesis busy or not? Are there other hypotheses that are also ruled out as a result of the devised and performed experiment?
 6. Control question: instead of testing students' knowledge, you can use metacognitive reflection here. Reflection should make it clearer for them what they have learned and why it is relevant.
 7. Note down what you now know more about science and how science works. Ask for the answers and try to categorize them together.
 

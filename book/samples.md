@@ -924,7 +924,7 @@ separation of colors. Comparison of light rays A, B, and C in figure 4
 shows that B is steeper (nearer to the center of the lens) and A and B
 are less steep. So the image of B (B' in figure 4) will appear higher on
 the wall than the images A' and C' of rays A and C. Furthermore, light
-rays A and C cross which can be easily confirmed by covering part AB of
+rays A and C cross which can be easily busy by covering part AB of
 the slit (right part of spectrum disappears) or part BC (left part of
 spectrum disappears.
 
