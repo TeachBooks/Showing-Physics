@@ -27,6 +27,11 @@ The demonstrations are structured using the four categories:
 
 So, whether you want to deepen students' understanding of a specific topic, want to engage them in thorough thinking, or if you were asked to demonstrate physics on a festive occasion, you can find demonstrations and inspiriation in this book. 
 
+```{tip}
+:class: dropdown
+Your name can be amongst the list of contributors. If you have suggestions, you can open an issue using the git button at the top right of this page.
+```
+
 ## References
 ```{bibliography}
 :filter: docname in docnames

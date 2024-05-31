@@ -20,13 +20,10 @@ width: 60%
 The cooling of [two heated metal balls](../demos/demo75/demo75.md). Which one cools down fastest, the big or the small ball?
 ```
 
-Are our demonstrations original? Don't expect them to be so. Most demonstrations were inspired by earlier versions of the experiments - where possible referenced to earlier descriptions - and edited by the [Authors](Authors) to fit the didactic categories of this book.  
+Are our demonstrations original? Don't expect them to be so. Most demonstrations were inspired by earlier versions of the experiments - where possible referenced to earlier descriptions - and edited by the [authors](Authors) to fit the didactic categories of this book.  
 
 ```{tip}
-Your name can be amongst the list of contributors. If you have suggestions, you can open an issue using the git button at the top right of this page.
-```
-
-```{tip}
+:class: dropdown
 This book is published under the CC-BY-NC, what means that you are allowed to use and adapt the materials for non-comercial use and under the condition that you refer to the original work. 
 ```
 
@@ -36,6 +33,7 @@ Demonstrations are fantastic. They offer so many wonderful possibilities to show
 Surely you can read this book from cover to cover, but that was not our intention. Our main idea was to help provide teachers with ample demonstrations that could be readily used in the classroom, thereby helping students to grasp physics. Therefore, we choose and developed the demonstrations that really add value to the physics lessons. 
 
 ```{tip}
+:class: dropdown
 Rather than reading the whole book, you can use the search function of the book and look for the topic that you are teaching next week to find a demonstration that suits well.
 ```
 
@@ -46,10 +44,6 @@ width: 60%
 ---
 Why do soapbells behave strangely in the surrounding of a [vanderGraaf](../demos/demo10/demo10.md) generator?
 ```
-
-To further help you pick the right demonstration, we tried to specify the required student level (grade).
-
-Specifying exactly which student audience the demonstration is intended for proved to be difficult. If it is a matter of observing phenomena and the beginning of the development of vocabulary, many demonstrations can be used in elementary schools. In lower secondary schools, the demonstrations can usually be used for qualitative explanations at the phenomenon level. As soon as chains of concepts are needed for an explanation you end up in higher grades of secondary education. If you need to establish relationships between different areas of physics or if quantitative reasoning is necessary, the level will soon be upper secondary school.
 
 ```{Warning}
 We have carefully conceived, developed, described and tested each of the experiments. Moreover, we specified safety issues where necessary. However, we are not responsible for whatever accidents, or injuries when doing a demonstration described in this book. We want to emphasize as well the requirement to test a demonstration before doing it with public. 
