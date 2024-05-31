@@ -1,16 +1,16 @@
 
+# Rotating Balloon
+
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
 </div>
-
-# Rotating Balloon
 
 Author:     \
 Time:	  	10-20 minutes\

@@ -1,25 +1,14 @@
----
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
 </div>
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.10.3
-kernelspec:
-  display_name: Python 3 (ipykernel)
-  language: python
-  name: python3
----
+
 
 # Radioactive decay - A simulation
 
@@ -74,7 +63,9 @@ Do about 10 throws like this unless you run out of cubes before then.
 * Do the counts and check how well the graph fits the theoretical graph.
 
 Show a graph of the number of radioactive nuclei as a function of time. (Or of the radiation activity of a radioactive substance.) To that graph belongs the formula:
-$N(t)=N(0) (1/2)^{(t/τ)}$
+$$
+N(t)=N(0) (1/2)^{(t/τ)}
+$$
 or rather:
 *The shape of the graph is very similar to that of the graphs of the counts of the remaining cubes.*
 

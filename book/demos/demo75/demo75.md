@@ -1,16 +1,14 @@
-
+# Cooling Metal Spheres
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
 </div>
-
-# Cooling Metal Spheres
 
 Author:     \
 Time:	  	20-30 minutes\

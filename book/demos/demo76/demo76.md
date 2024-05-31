@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -20,7 +20,7 @@ Concepts:
 ## Introduction
 Students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
 
-```{figure} demo76_figure1.JPG
+```{figure} demo76_figure1.jpg
 ---
 width: 50%
 align: center

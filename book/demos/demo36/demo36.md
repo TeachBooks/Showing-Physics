@@ -1,16 +1,15 @@
+# Rich Boiling Phenomena
 
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
 </div>
-
-# Rich Boiling Phenomena
 
 Author: Ron Vonk \
 Time: 15 minutes \

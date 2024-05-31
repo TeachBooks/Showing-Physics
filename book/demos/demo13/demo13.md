@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -56,7 +56,9 @@ Neither here can the rope be pulled horizontal
 
 ## Physics background
 The boys exert a horizontal force. While the rope is horizontal, this force does not have a vertical component. When the rope is pressed downward by the finger, there will be a vertical component of the force of the boys, however, it is $2\cdot F_{boys on rope} \cdot sin(\theta) = -F_{lady on rope}$. Angle $\theta$ is the angle between rope and the horizontal and so very small. So 
-$$F_{boys on rope} = \frac{-F_{lady on rope}}{2·sin(\theta)} $$
+$$
+    F_{boys on rope} = \frac{-F_{lady on rope}}{2·sin(\theta)} 
+$$
 
 ## Follow up
 Use photographs of cable car and powerline set-ups to calculate the tension in the cables.

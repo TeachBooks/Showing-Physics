@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -20,7 +20,7 @@ Concepts:	  period, resonance
 ## Introduction
 5 or 6 pendulums are suspended from a rod (figure 1). Turn the rod slightly back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
 
-```{figure} demo07_figure1.JPG
+```{figure} demo07_figure1.jpg
 ---
 width: 50%
 align: center

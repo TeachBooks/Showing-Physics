@@ -2,13 +2,14 @@
 
 <div style="clear: both;">
 
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
 </div>
+
 # Two Springs, Series or Parallel?
 
 Author:     \
