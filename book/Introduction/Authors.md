@@ -2,11 +2,11 @@
 
  <div style="clear: both;">
 
-    ```{figure} ../figures/confirmed.png
-    ---
-    width: 5%
-    align: right
-    ```
+```{figure} ../figures/confirmed.png
+---
+width: 5%
+align: right
+```
 
 </div>
 
