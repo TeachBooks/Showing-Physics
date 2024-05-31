@@ -1,6 +1,14 @@
 # Showing Physics
 
+<div style="clear: both;">
 
+```{figure} ../figures/confirmed.png
+---
+width: 35%
+align: right
+```
+
+</div>
 
 ```{figure} front.jpg
 ---
@@ -9,15 +17,15 @@ align: center
 ---
 ```
 
-This book presents a selection of the 99 'best', most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:t}`showdefysica1,showdefysica2,showdefysica3` as published by the <a href="http://nvon.nl" target="_blank">Dutch Society of Science Teachers</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! 
+In this book we present a selection of the 99 'best', most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:t}`showdefysica1,showdefysica2,showdefysica3` as published by the <a href="http://nvon.nl" target="_blank">Dutch Society of Science Teachers</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! Moreover, we include videos and opportunities to live code and use python simulations without the need for any software installation.
 
 The demonstrations are structured using the four categories:
 * Demonstrations on nature of science
-* Demonstrations on teaching scientific inquiry
+* Demonstrations on scientific inquiry
 * Demonstrations for conceptual development
 * Demonstrations for special occassions
 
-So, whether you want to deepen students' understanding of a specific topic, want to engage them in thorough thinking or if you were asked to demonstrate physics on a festive occasion, you can find demonstrations and inspiriation in this book. 
+So, whether you want to deepen students' understanding of a specific topic, want to engage them in thorough thinking, or if you were asked to demonstrate physics on a festive occasion, you can find demonstrations and inspiriation in this book. 
 
 ## References
 ```{bibliography}

@@ -2,7 +2,7 @@
 
 <div style="clear: both;">
 
-```{figure} ../figures/busy.png
+```{figure} ../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -10,7 +10,7 @@ align: right
 
 </div>
 
-This book originated in the collaboration between physics teachers and physics teacher trainers, united in the Dutch Society for Science Teachers [(NVON)](https://nvon.nl). The three Dutch volumes of Show*de*Fysica cover over a 200 demonstrations for secondary school physics, along with additional text on the pedagogy of physics demonstrations. Each of these demonstrations are tested by various secondary school physics teachers and their technicians ensuring that these demonstrations have value in their description and are accessible by teacher. 
+This book originated in the collaboration between physics teachers and physics teacher trainers, united in the [Dutch Society for Science Teachers](https://nvon.nl) (NVON). The three Dutch volumes of Show*de*Fysica cover over a 200 demonstrations for secondary school physics, along with additional text on the pedagogy of physics demonstrations. Each demonstration has been tested by various secondary school physics teachers and their technicians, ensuring that they have value in their description and are accessible to teachers.
 
 ```{figure} Figures/metalballs.jpeg
 ---
@@ -20,18 +20,24 @@ width: 60%
 The cooling of [two heated metal balls](../demos/demo75/demo75.md). Which one cools down fastest, the big or the small ball?
 ```
 
-Are our demonstrations original? Don't expect them to be so. Most demonstrations were inspired by earlier versions of the experiments - where possible referenced to earlier descriptions - and edited by the [Authors](Authors) to fit the didactic categories of this book. They have been widely tested in Dutch physics education by large group of physics teachers and technicians who were willing to cooperate. You find a list of names of those who took the pictures, drew figures, tested the materials or helped in writing this version of the book. 
+Are our demonstrations original? Don't expect them to be so. Most demonstrations were inspired by earlier versions of the experiments - where possible referenced to earlier descriptions - and edited by the [Authors](Authors) to fit the didactic categories of this book.  
 
 ```{tip}
 Your name can be amongst the list of contributors. If you have suggestions, you can open an issue using the git button at the top right of this page.
 ```
 
+```{tip}
 This book is published under the CC-BY-NC, what means that you are allowed to use and adapt the materials for non-comercial use and under the condition that you refer to the original work. 
+```
 
 ## How to use the book
-Demonstrations are fantastic. They offer so many wonderful possibilities that we really should do at least one in every physics class. That may not always work out, but the objection "which demo then?" no longer applies. After all, you now have this book!
+Demonstrations are fantastic. They offer so many wonderful possibilities to show the beauty of physics and amaze pupils, that we really should do at least one in every physics class. That may not always work out, but the objection "which demo then?" no longer applies. After all, this book provides 99 examples!
 
-You can read this book, of course, but the main idea is to do the activities described yourself in your classroom and adapt them to your own needs. Therefore, in choosing and developing the demonstrations, we always had in mind a teacher who wants to realize in his or her class activities from which something valuable is learned.
+Surely you can read this book from cover to cover, but that was not our intention. Our main idea was to help provide teachers with ample demonstrations that could be readily used in the classroom, thereby helping students to grasp physics. Therefore, we choose and developed the demonstrations that really add value to the physics lessons. 
+
+```{tip}
+Rather than reading the whole book, you can use the search function of the book and look for the topic that you are teaching next week to find a demonstration that suits well.
+```
 
 ```{figure} Figures/soapbells.jpg
 ---
@@ -40,6 +46,8 @@ width: 60%
 ---
 Why do soapbells behave strangely in the surrounding of a [vanderGraaf](../demos/demo10/demo10.md) generator?
 ```
+
+To further help you pick the right demonstration, we tried to specify the required student level (grade).
 
 Specifying exactly which student audience the demonstration is intended for proved to be difficult. If it is a matter of observing phenomena and the beginning of the development of vocabulary, many demonstrations can be used in elementary schools. In lower secondary schools, the demonstrations can usually be used for qualitative explanations at the phenomenon level. As soon as chains of concepts are needed for an explanation you end up in higher grades of secondary education. If you need to establish relationships between different areas of physics or if quantitative reasoning is necessary, the level will soon be upper secondary school.
 

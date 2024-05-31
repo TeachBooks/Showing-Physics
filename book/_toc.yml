@@ -43,7 +43,7 @@ parts:
       - file: demos/demo72/demo72 #rollstop
       - file: demos/demo91/demo91 #mysterious fountain
  
-  - caption: Demos for scientific inquiry
+  - caption: Demos on scientific inquiry
     numbered: 2
     chapters:
     - file: demos/Inquirydemos
