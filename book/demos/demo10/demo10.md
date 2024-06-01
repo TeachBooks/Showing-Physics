@@ -5,7 +5,7 @@ align: right
 ```
 
 # Does van de Graaff not like a shower? 
-<span style="font-size: 20px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
+<span style="font-size: 25px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
 
 Author: Wouter Spaan\
 Time: 15 minutes\
