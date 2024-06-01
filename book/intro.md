@@ -1,14 +1,11 @@
-# Showing Physics
-
-<div style="clear: both;">
-
-```{figure} ../figures/confirmed.png
+```{figure} /figures/confirmed.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Showing Physics
+
 
 ```{figure} front.jpg
 ---
