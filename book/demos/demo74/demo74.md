@@ -1,16 +1,12 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Shadow of a flame 2: 
+<span style="font-size: 25px; color: gray;">Visualisation of heat flow</span>
 
-# Shadow of a flame: Visualisation of heat flow
 
 Author:     \
 Time:	  	15-20 minutes\
@@ -20,7 +16,7 @@ Concepts:
 ## Introduction
 This is a demonstration everyone must see because it showcases such beautiful physics. Depending on the purpose, you can emphasize different aspects.
 
-```{figure} demo74_fig1.JPG
+```{figure} demo74_fig1.jpg
 ---
 width: 50%
 align: center
@@ -46,7 +42,7 @@ It's nice to attach an ice cream to a stand. You can also feel the flow by holdi
 
 ***What direction does the flow have?***
 
-```{figure} demo74_fig2.JPG
+```{figure} demo74_fig2.jpg
 ---
 width: 50%
 align: center

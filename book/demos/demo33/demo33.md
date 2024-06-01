@@ -1,17 +1,11 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
-# Shadow of a Flame
-
+# Shadow of a Flame 1: 
+<span style="font-size: 25px; color: gray;">Spectral lines</span>
 
 Author:     \
 Time:	  	5 - 15 minutes\

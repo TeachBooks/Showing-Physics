@@ -40,7 +40,7 @@ The primary goal of this demonstration is to demonstrate the NTC behavior of gla
 * Carefully heat the glass in the roaring flame: dip it briefly into the flame and then remove it. After heating for a while, the bulb will light up. While continuing to heat in the flame, you can ask the class what will happen if you stop heating and place the fitting with glass down. This usually leads to lively discussion. When that discussion has lasted long enough and has been sufficiently in-depth, remove the glass from the flame. To the amazement of a large part of the class, the bulb remains on, no matter how long you wait.
 * Finally, demonstrate how to turn off the light bulb: blowing against the glass cools it down. Eventually, the bulb goes out. It takes effort, so you can pretend to run out of breath just before the piece of glass stops glowing (practice a few times). If you stop blowing at that moment and the power of the bulb is well chosen, the piece of glass will heat up again, and the bulb will slowly turn on again.
 
-```{figure} demo31_figure3.tiff
+```{figure} demo31_figure3.png
 ---
 width: 50%
 align: center
