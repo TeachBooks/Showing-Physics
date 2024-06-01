@@ -20,11 +20,12 @@ Previously published in the NVON series (titles translated from Dutch):
 8. Spacious and balanced: judgment formation in biology lessons 
 9. Learn about contexts in New Chemistry 
 10. Researching and designing with 4- to 14-year-olds 
-11. Showing physics 1: physics to show
+11. Show the physics 1
 12. More about contexts in New Chemistry
 13. Genetics in motion 
-14. Showing physics 2: physics to show
+14. Show the physics 2
 15. Learning & teaching ecology
 16. Better knowledge about food
 17. Plan Beta: STEM education for sustainable development
 18. Showing chemistry 3: effective demonstrations
+19. Show the Physics 3 

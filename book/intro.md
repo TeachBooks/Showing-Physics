@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Showing Physics
+# Show the Physics
 
 
 ```{figure} front.jpg

@@ -1,4 +1,4 @@
-```{figure} ../figures/busy.png
+```{figure} ../figures/open.png
 ---
 width: 35%
 align: right
