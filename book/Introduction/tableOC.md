@@ -1,13 +1,12 @@
-# Table of contents
-
-<div style="clear: both;">
-
-```{figure} ../figures/busy.png
+```{figure} ../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Table of contents
+
+
+
 ```{tableofcontents}
 ```

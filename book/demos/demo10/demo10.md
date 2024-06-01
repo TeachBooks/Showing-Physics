@@ -1,21 +1,16 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Does van de Graaff not like a shower? 
+<span style="font-size: 20px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
 
-# Does van de Graaff not like a shower? Testing statements about electrostatics with a Van de Graaff generator and soap bubbles
-
-Author:     Wouter Spaan\
-Time:	  	  15 minutes\
-Age group:	15 - 18\
-Concepts:	  observe and explain; reasoning with charge, electrostatic induction, and the Coulomb force.
+Author: Wouter Spaan\
+Time: 15 minutes\
+Age group: 15 - 18\
+Concepts: observe and explain; reasoning with charge, electrostatic induction, and the Coulomb force.
 
 ## Introduction
 The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below our focus is on the development of explanation and reasoning skills. 
