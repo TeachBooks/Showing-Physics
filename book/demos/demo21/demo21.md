@@ -1,14 +1,8 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
-
-</div>
 
 # Making Einstein young again with an overhead projector
 Author:     Maarten van Woerkom\
@@ -28,15 +22,7 @@ With a clever use of the overhead projector we can make the old Einstein young a
 
 Construct a box with a transparent top and bottom of Perspex or glass with a distance of about 6 cm between top and bottom. On the top put a transparency with the old Einstein and on the bottom the young Einstein. The sides of the box are opaque so the young Einstein is hidden from view. Surrounding the bottom of the box is a black mask (cut from black carton) which covers the remaining part of the overhead projector (figure 2). 
 
-```{figure} demo21_figure1a.jpg
----
-width: 50%
-align: center
----
-some caption
-```
-
-```{figure} demo21_figure1b.jpg
+```{figure} demo21_figure1.png
 ---
 width: 50%
 align: center
@@ -46,7 +32,7 @@ some caption
 
 ```{figure} demo21_figure2a.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 some caption

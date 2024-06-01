@@ -61,7 +61,7 @@ The description is for a demo during an event with a large audience. For a demo 
 9. A Powerpoint is available with some spectacular slides such as a [bicycling bird](https://www.youtube.com/watch?v=nrbvx17Ql-c), a flying donkey, a truck, and a tractor missing a wheel and ask for each slide how the center of mass concept can be used to explain the situation. 
 10. Show the photo of the child and the man on the see-saw. *Is this possible? Is something wrong? Using the center of mass concept or the law of moments of force, how can you explain?*
 
-```{figure} demo25_figure3.tif
+```{figure} demo25_figure3.png
 ---
 width: 50%
 align: center
