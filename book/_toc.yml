@@ -157,5 +157,17 @@ parts:
       - file: demos/demo90/demo90 #Wine Glass
       - file: demos/demo56/demo56 #spool
       - file: demos/demo98/demo98 #imploding can
+  
+  - caption: to be sorted
+    numbered: 2
+    chapters:
+    - file: demos/demos59/demos59
+    - file: demos/demos62/demos62
+    - file: demos/demos63/demos63
+    - file: demos/demos64/demos64
+    - file: demos/demos65/demos65
+    - file: demos/demos66/demos66
+    - file: demos/demos67/demos67
+
 
       
