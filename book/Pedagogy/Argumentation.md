@@ -1,22 +1,19 @@
-# Argumentation 
-
-<div style="clear: both;">
-
-```{figure} ../figures/busy.png
+```{figure} ../figures/confirmed.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Argumentation 
+
 ## Development of inquiry skills through demonstrations
 Conducting scientific research is a matter of making targeted and careful observations and applying your knowledge to understand them, and vice versa, of adjusting your knowledge and determining with which subsequent observations you can test and substantiate claims. Demonstrations are an excellent opportunity to practice this with students. Examples of the many important questions that need to be addressed during inquiry are:
 * What can I conclude from these observations? 
 * How confident am I about this, can the conclusion be strengthened? 
 * If I change something, what will happen? 
-* And if the outcome  changes or not, what will I learn from that?
+* And if the outcome changes or not, what will I learn from that?
 
-This back-and-forth thinking between practice and theory characterizes research (Van den Berg, 2012). *In demonstrations, you can stimulate that thinking, guide it, and help improve it in a pleasant, motivating and safe way.* As always, the art here is in maintaining the balance between challenging students, providing them with the autonomy to think and do for themselves on the one hand, and supporting, scaffolding, encouraging and guiding their thought and actionon the other. Allow  students to choose and  do by themselves where they are already capable. But as a teacher provide examples and support  with what is still too difficult. Select the learning objectives for your demonstration from the range where students show cognitive readiness. Limit the numberof objectives, and peg them at a level that  they can achieve  with some effort. Provide  your students with a route using guiding questions and assignments, but also with hallenges and opportunities for their own input and personal contributions.
+This thinking-back-and-forth between practice and theory characterizes research (Van den Berg, 2012). *In demonstrations, you can stimulate that thinking, guide it, and help improve it in a pleasant, motivating and safe way.* As always, the art here is in maintaining the balance between challenging students, providing them with the autonomy to think and do for themselves on the one hand, and supporting, scaffolding, encouraging and guiding their thought and actionon the other. Allow  students to choose and  do by themselves where they are already capable. But as a teacher provide examples and support  with what is still too difficult. Select the learning objectives for your demonstration from the range where students show cognitive readiness. Limit the numberof objectives, and peg them at a level that  they can achieve  with some effort. Provide  your students with a route using guiding questions and assignments, but also with hallenges and opportunities for their own input and personal contributions.
 
 Learning physics requires doing physics. But is that possible  by participating in demonstrations? After all, demonstrations do not serve to actually solve scientific problems, nor do students  manipulate the materials by themselves... They should suggest to students  that with a little effort they too can eventually understand the surprising phenomena - a guarantee that is not provided in real physics research. As a teacher you  know the outcome and conclusion in advance, all you have to do  (difficult as that may be) is to produce the intended observations. It suffices to then present the accepted corresponding explanation, basically confirming what scientists already know. While this is a viable approach, it need not stop there. In your demonstration you may use the opportunity to  contribute to the development of inquiry skills which is not difficult at all.
 

@@ -74,7 +74,7 @@ We have found the following questions of value:
 
 In physics research, all of these questions are important but in demonstrations not always. And certainly not all of them at the same time. Demonstrations play a role in a learning process and so there you have to offer questions in steps and gradually shift the emphasis over the course of the learning process to more complex questions. That gives the viewer an opportunity for processing and of developing skills that ultimately add up to an inquisitive attitude.
 
-Questions like the first question encourage [back-and-forth thinking between theory and practice](../Pedagogy/BackAndForthThinking.md). This includes demonstrations in which something happens that you don't expect and that raises questions. With this you can illustrate how in physical research you are constantly testing theory and practice against each other. Students experience this with the support of the teacher in the demonstrations. 
+Questions like the first question encourage [thinking-back-and-forth between theory and practice](../Pedagogy/BackAndForthThinking.md). This includes demonstrations in which something happens that you don't expect and that raises questions. With this you can illustrate how in physical research you are constantly testing theory and practice against each other. Students experience this with the support of the teacher in the demonstrations. 
 
 Questions like question two focus on [argumentation](../Pedagogy/Argumentation.md). Students seem satisfied with any answer, whereas only the most *convincing* answer possible is good enough.
 But what do we find convincing, and why? Demonstrations can develop scientific understanding of this in students. 

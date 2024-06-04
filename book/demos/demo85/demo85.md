@@ -19,7 +19,7 @@ Concepts:	Elektricity, PTC, series circuit,
 
 ## Introduction
 
-This surprising demonstration makes the PTC (Positive Temperature Coefficient) behavior of light bulbs visible. Explaining the observations requires a lot of [back-and-forth thinking](../../Pedagogy/BackAndForthThinking.md). The demonstration you can be conducted  at various levels. It is especially suitable for checking students' understanding of resistance, current and voltage in series circuits.
+This surprising demonstration makes the PTC (Positive Temperature Coefficient) behavior of light bulbs visible. Explaining the observations requires a lot of [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md). The demonstration you can be conducted  at various levels. It is especially suitable for checking students' understanding of resistance, current and voltage in series circuits.
 
 FILMPJE NODIG
 
@@ -55,7 +55,7 @@ name: demo85_2
 The situation just after moving the connection. The third bulb is barely visible and needs some time to become as bright as the other two.
 ```
 
-Then, a discussion follows about possible explanations. The third and fourth observations are the most interesting; you can use the explanation for the first two to retrieve prior knowledge. Explaining all these observations requires back-and-forth thinking, and it is important to pose probing questions and let students use technical language. 
+Then, a discussion follows about possible explanations. The third and fourth observations are the most interesting; you can use the explanation for the first two to retrieve prior knowledge. Explaining all these observations requires thinking-back-and-forth, and it is important to pose probing questions and let students use technical language. 
 
 ```{tip}
 For explaining the third observation is to ask about what happens to the resistance of a light bulb when the bulb lights up. If the fourth observation hasn't been made yet, it offers an opportunity for a prediction. Students can also predict what happens to the current during the slow brightening of the last connected bulb. It will decrease; visible with a current meter.
