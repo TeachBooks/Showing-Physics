@@ -17,6 +17,12 @@ Time:	10 minutes\
 Age group:	Grade 9\
 Concepts:	magnetic field, potential well, energy conservation, Lenz's law
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/eDrtZ4TBE9k?si=MK_jp_gyosU5suBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
 ## Introduction
 A steel ball rolls off on row of bullets. The row starts with a magnetic bullet. 
 The rear bullet shoots off at a much greater speed than the original bullet. A 'cannonball'? Have the laws of mechanics been defied? What about the laws of conservation? 
