@@ -17,7 +17,11 @@ Time:	10-20 minutes\
 Age group: 12 - 18\
 Concepts:	Elektricity, PTC, series circuit, 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uR8OAaPxcOc?si=9oiqfgcw83XOB3O3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/uR8OAaPxcOc?si=9oiqfgcw83XOB3O3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 ## Introduction
 
@@ -68,7 +72,19 @@ The explanation is best linked to the third and fourth observations in the situa
 
 After connecting, the temperature (and thus the resistance) of bulb 3 increases, so it receives more and more voltage (and bulbs 1 and 2 receive less, but the decrease in brightness is not visible to the naked eye). The fourth observation: as more bulbs are in series, the total resistance is greater, and thus the current is smaller, causing the temperature of the last bulb to increase more slowly. This leads to a slower increase in voltage across it and thus a slower increase in brightness. Finally, what happens to the current: the resistance of the last connected bulb increases, so the total resistance in the circuit increases and the current decreases.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jCy5vrm7AQo?si=KC8J0k-dzFOa_lHe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The following video shows how the temperature changes. You might want to play the video at double speed. 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jCy5vrm7AQo?si=KC8J0k-dzFOa_lHe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 ## Follow up
 The demonstration is suitable for further investigations, especially when senors (or an oscilloscope) are available. In the picture below one can observe [hysteresis](https://en.wikipedia.org/wiki/Hysteresis) when applying a AC signal to a series circuit with an Ohmic resistor and a light bulb.
+
+``` {figure} demo85_figure3.png
+---
+width: 50%
+---
+Hysteresis shown with an oscilloscope, signal 1 from the function generator set to 5 Hz, signal 2 from the measurement over the resistor (which is in series with the light bulb). Oscilloscope set to (X-Y)-mode.
+```

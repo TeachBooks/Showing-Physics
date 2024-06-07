@@ -87,7 +87,7 @@ parts:
       - file: demos/demo47/demo47 #measuring charge
       - file: demos/demo48/demo48 #AC
       - file: demos/demo84/demo84 #lorentz
-      - file: demos/demo85/demo85 #slow bulbs
+      - file: demos/demo85/demo85.ipynb #slow bulbs
       - file: demos/demo86/demo86 #induction      
       - file: demos/demo94/demo94 #High Voltage
       
