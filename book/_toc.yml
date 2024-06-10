@@ -24,7 +24,7 @@ parts:
     - file: Pedagogy/Argumentation
     - file: Pedagogy/BackAndForthThinking  
     - file: Pedagogy/PoE
-    - file: Pedagogy/Conceptcartoons
+    
          
   - caption: Demos on Nature of Science
     numbered: 2
