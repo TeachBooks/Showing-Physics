@@ -1,14 +1,10 @@
-# The pedagogy of physics demonstrations
-
-<div style="clear: both;">
-
 ```{figure} ../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# The pedagogy of physics demonstrations
 
 Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveile the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience.
 
@@ -49,7 +45,7 @@ Most of our demonstrations  relate to conceptual development. These demonstratio
 
 **Learning to do physics**
 
-Teaching students how to investigate the world around them for themselves as scientists oght to include teaching them to ask scientific questions like
+Teaching students how to investigate the world around them for themselves as scientists ought to include teaching them to ask scientific questions like
 1. What does *"It is scientifically proven"* mean? 
 2. What makes this *"scientifically proven"* valuable? 
 3. What do you have to do to prove something scientifically, and how sure are you then of your case?
@@ -58,9 +54,14 @@ It also involves answering these questions based on observations, with whatever 
 
 The demonstrations described here revolve around the skills that are indispensable in scientific research on the one hand and about the characteristics of doing science on the other. These skills include carefully observing, critically analyzing a problem, developing a model to explain observations, or testing expectations with an experiment ({cite:t}`pols2022defining`). The knowledge created in the process is man-made. That knowledge is as certain as knowledge ever gets and yet will always be open to improvement. 
 
-**Affective goal**
+**Learning about physics**
 
-Demonstrations motivate students, evoke pleasure in physics, arouse interest in the subject, develop fascination with the phenomena. They contribute to an understanding of the motivations of physicists and an appreciation of their achievements. This is called "learning about physics". [Demonstrations for special occassions](../demos/Specialdemos.md), well, needs no further explanation.
+
+
+
+
+**Affective goal**
+There might be a fourth reason why we include demonstrations in our teaching. Demonstrations motivate students, evoke pleasure in physics, arouse interest in the subject, develop fascination with the phenomena. They contribute to an understanding of the motivations of physicists and an appreciation of their achievements. This is called "learning about physics". [Demonstrations for special occassions](../demos/Specialdemos.md), well, needs no further explanation.
 
 Demonstrations also play a role at special occasions: at an open day, at an anniversary, at a farewell. In this book you  will find examples of demonstrations that stimulate thought, but which also have a surprising or playful twist, making them suitable to show at such special occasions. The topics are by no means always part of the school physics curriculum. However they all appeal to common sense and the outcome is often counterintuitive. Of the charm of physics is taken full advantage in this section!
 
