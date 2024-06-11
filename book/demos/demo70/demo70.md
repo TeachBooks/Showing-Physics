@@ -1,14 +1,9 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
 
 # Cylinder Puzzle: Exploring the Nature of Science
 
@@ -16,6 +11,8 @@ Author: Peter Dekkers     \
 Time:	  15-30 minutes	\
 Age group:	14 - 18\
 Concepts:	
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pe9XzsuTeQ8?si=Op1m-3NHUNfRt31o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Introduction
 This activity does not involve physics but demonstrates a model for how physicists (and other scientists) work and what they try to achieve. Students take on the role of scientists to describe and explain confusing and astonishing observations. Then, they reflect on them.
