@@ -25,10 +25,10 @@ The setup.
 ```
 
 ## Equipment
-- Balloon
-- Unwound cord
-- Dark-colored liquid
-- Hanging point
+* Balloon
+* Unwound cord
+* Dark-colored liquid
+* Hanging point
 
 ## Preparation
 Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie it closed. Attach a cord to the balloon and hang the balloon freely. An example of a setup is shown in the figure.
