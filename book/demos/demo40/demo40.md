@@ -55,6 +55,8 @@ Attach the weight or stone to one side of the ring.<br>
 Close the lid.<br>
 Carefully but firmly roll the can away, then it will stop and return after a few meters. Try it with a smaller or larger weight and a tighter or looser elastic until you get the optimal effect. In the returning can of {numref}`Figure {number} <demo40_fig1>`, the weight is the heaviest cap from my socket set.
 
+
+
 ## Procedure
 Roll the can away on a horizontal, smooth surface. Catch it upon return. Repeat this a few times. Also, stand at the other end to show that the floor doesn't slope. Or demonstrate that with a spirit level if your students are as critical as those of tester Karin Zeeuwen: standing at the other end doesn't help "because then you also turn the can around."
 Try not catching it once: the can will roll back and forth several times before stopping. If you roll it away too hard, you usually hear a few bangs in the can, and it doesn't come back.
@@ -72,6 +74,14 @@ The best solutions fit what is observable and measurable. For example, it would 
 
 Scientists are never entirely sure of their solutions. Your class is when you open the can and see the solution. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity is. That's why physics knowledge is never entirely certain; in principle, there could always be a better solution that will replace the old one.
 
+```{figure} demo40_figure3.jpg
+---
+width: 50%
+align: center
+name: demo40_fig3
+---
+Explanation - torque explains the return.
+```
 
 
 ## Physics background
