@@ -1,20 +1,19 @@
-```{figure} ../../figures/cconfirmed.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
 ```
 
+# Air or not?
+<span style="font-size: 25px; color: gray;">reasoning about flames and vapor</span>
 
-# Air or not, reasoning about flames and vapor
-
-
-Author:     \
-Time:	  	  5-10 minutes\
-Age group:	12 - 14\
-Concepts:	  phases of water, evaporation, condensation, combustion, air, oxygen
+Author: Peter Dekkers\
+Time: 5-10 minutes\
+Age group: 12 - 14\
+Concepts: phases of water, evaporation, condensation, combustion, air, oxygen
 
 ## Introduction
-Just above the bubbling surface of boiling water, nothing unusual seems to happen. Slightly higher, however, a kind of fog is rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could you we know?
+Just above the bubbling surface of boiling water, nothing unusual seems to happen. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?
 
 ```{figure} demo09_figure1.jpg
 ---
@@ -27,7 +26,8 @@ The required materials
 ## Equipment
 * Electric boiler
 * water
-* tea light with container (for example a spaghetti spoon)
+* tea light 
+* a spaghetti spoon
 * matches 
 * webcam and screen to make a candle visible in the holder for the whole class.
 
@@ -44,7 +44,7 @@ Working with boiling water has risks. Do not let students come too close; if pos
 Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it, you see 'nothing'. What is actually there? Most students will say '(hot) air'. That idea can be tested, because if it is 'just' air, like the air we breath, there must be oxygen in it. So if we hold a burning candle in the kettle, it would just keep burning.
  
 Bring the burning candle down into the kettle, and note that the flame dies. Summarize the observations: 
-* the flame dies: above the water is a substance that looks like air but is not;
+* the flame dies: above the water is a substance that looks like air but apparently is not;
 * bubbles come out of the water;
 * water droplets float above the kettle.
 
@@ -53,7 +53,7 @@ Bring the burning candle down into the kettle, and note that the flame dies. Sum
 width: 50%
 align: center
 ---
-a) Above the kettle, the flame burns somewhat weaker. b) Inside the kettle, above the water, the flame extinguishes
+a) Above the kettle, the flame burns somewhat weaker.<br> b) Inside the kettle, above the water, the flame extinguishes
 ```
 
 Draw a conclusion together. It may well be that the conclusion is not: *there is water vapor above the liquid*. After all, that has not been proven. What we can agree on is: 
