@@ -91,7 +91,7 @@ A smaller sphere has a relatively larger surface area, allowing the sphere to re
 ```
 
 ## Follow-up
-Use a temperature sensor attached to the large and a slightly smaller sphere, perform the measurement in Coach 7. Ask questions like:
+Use a temperature sensor attached to the large and a slightly smaller sphere, perform the measurement using appropriate software. Ask questions like:
 * How meaningful is the measurement this way? 
 * How quickly do they both cool down? 
 * What influence does the temperature sensor itself have? <br>
