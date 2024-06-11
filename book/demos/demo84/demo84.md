@@ -1,22 +1,17 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
 # Lorentz Force on Charged Particles
 
-
-Author:     \
+Author: Wouter Spaan    \
 Time:	 10 - 15 minutes\
 Age group:	12 - 18\
 Concepts:	
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NFaxzS9x4OU?si=KtAj052A9xX0u6e3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Introduction
 The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, you make the Lorentz force on ions in a solution convincingly visible. The Lorentz force is already known, so students can engage in robust thinking-back-and-forth in this situation.

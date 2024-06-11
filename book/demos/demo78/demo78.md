@@ -1,21 +1,17 @@
-
-# Rotating Balloon
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Rotating Balloon
 
 Author:     \
 Time:	  	10-20 minutes\
 Age group:	16 - 18\
 Concepts:	
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmkfJLrHSOE?si=SS2Ue0taTSUeXmge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Introduction
 Many students find centripetal force difficult to grasp. The misconception of a 'centrifugal force' is constantly looming. This experiment challenges students to seek an explanation for the displayed situation. By using the correct scientific terminology, you can encourage students to move away from the possible misconception of centrifugal force. This experiment can contribute to a 'conceptual change.'
