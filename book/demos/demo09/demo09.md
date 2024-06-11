@@ -15,9 +15,9 @@ Concepts: phases of water, evaporation, condensation, combustion, air, oxygen
 ## Introduction
 Just above the bubbling surface of boiling water, nothing unusual seems to happen. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?
 
-```{figure} demo09_figure1.jpg
+```{figure} demo09_figure1.jpgd
 ---
-width: 50%
+width: 80%
 align: center
 ---
 The required materials
