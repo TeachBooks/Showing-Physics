@@ -1,14 +1,8 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
-
-</div>
 
 # Magic or Not? Nature of Science with a Siphon
 
@@ -16,6 +10,8 @@ Author: Peter Dekkers    \
 Time:	  30 minutes	\
 Age group:	14 - 18\
 Concepts:	
+
+An idea from {cite:t}`lederman1998avoiding`.
 
 ## Introduction
 You demonstrate a surprising phenomenon and use it to work on the understanding of the Nature of Science. It's about the journey, not the answer.
@@ -77,4 +73,3 @@ Completely emptying a siphon remains peculiar, of course. Feel free to turn the 
 ```{bibliography}
 :filter: docname in docnames
 ```
-Lederman, N. G. and Abd-El-Khalick, F. (1998) Avoiding De-natured Science - Activities That Promote Understandings of the Nature of Science. In W.F. McComas (Ed.) The nature of science in science education: Rationales and strategies. Dordrecht, Netherlands: Kluwer Academic Publishers. pp. 243-254.
