@@ -1,17 +1,12 @@
 
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
 
 # Roll and Stop
-
 
 Author: Freek Pols    \
 Time:	  15 - 20 minutes	\
@@ -22,10 +17,10 @@ Concepts:
 This is one of the 'Black Box' activities suitable for addressing how science works. Students observe, infer, devise hypotheses, and then test them. They need to be creative because figuring out what exactly is happening is not simple. We may even never know...
 
 ## Equipment
--Cylindrical container such as a paint can or PVC pipe with caps
-- Viscous liquid (glycerol)
-- A piece of (fish) lead that fits well inside the cylinder
-- Plank set at a slight angle
+* Cylindrical container such as a paint can or PVC pipe with caps
+* Viscous liquid (glycerol)
+* A piece of (fish) lead that fits well inside the cylinder
+* Plank set at a slight angle
 
 ## Preparation
 Fill the cylinder completely with the liquid and add the lead (wash your hands afterward). Set up the plank at an angle so that the cylinder just starts rolling by itself.

@@ -13,7 +13,7 @@ align: right
 # Tension in a Pendulum
 
 
-Author:     \
+Author:     Norbert van Veen\
 Time:	  	20-30 minutes\
 Age group:	14 - 18\
 Concepts:	Tension, centripedal force
@@ -36,14 +36,15 @@ The setup with a ball attached to the force sensor.
 - Mass block (or ball)
 - Measurement interface
 
-This description uses Coach 7 as the measurement program. The required files are available on the NVON site (NEEDS LINK). Coach 7 automatically recognizes another measurement interface.
+For this experiment we used Coach 7 to read out our device, however, many force measurement devices can be used. 
 
 ## Preparation
-1. Start Coach 7 and open the measurement activity.
+1. Start the software to read out your force sensor.
 2. Connect the force sensor to an interface and set it to the correct range. 
 3. Attach the string to the force sensor and zero the sensor. 
 4. Attach the mass block (or ball) to the string. See  `Figure {number} <fig:setup>` for the total setup.
 5. The force sensor will show a negative value. For didactic reasons, it is better to display this as a positive value. Create a new variable in a data table in which you multiply the force sensor value by -1.
+
 ## Procedure
 1. Let students calculate the mass based on the measured force of the stationary block.
 2. Optionally, show a graph of a harmonic oscillation (displacement versus time).

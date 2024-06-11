@@ -160,7 +160,7 @@ parts:
   
   - caption: to be sorted
     numbered: 2
-    chapters:
+    sections:
     - file: demos/demos59/demos59
     - file: demos/demos62/demos62
     - file: demos/demos63/demos63

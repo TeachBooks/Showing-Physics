@@ -1,22 +1,17 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
 
 # Boiling by Cooling
 
 
 Author:  Ed van den Berg   \
 Time: 15 minutes	  	\
-Age group:	\
-Concepts:	
+Age group:	Grade 8 and above\
+Concepts: Boiling, 	
 
 
 ## Introduction
