@@ -62,9 +62,9 @@ Draw a conclusion together. It may well be that the conclusion is not: *there is
 *	it is not air, because a candle does not keep burning in it;
 *	this substance turns into water droplets when it rises higher.
  
-The substance concerned has a name: "steam". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
+The substance concerned has a name: "[steam](https://en.wikipedia.org/wiki/Steam)". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
 
 
 ## Physics background
-The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 $^o$C. The water vapor only condenses above the kettle, where temperature is lower. Due to lack of oxygen, the flame dies (some prior knowledge about burning is prerequisite).
+The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 $\degree$C. The water vapor only condenses above the kettle, where temperature is lower. Due to lack of oxygen, the flame dies (some prior knowledge about burning is prerequisite).
 

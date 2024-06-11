@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -10,29 +10,29 @@ align: right
 Author: Wouter Spaan\
 Time: 15 minutes\
 Age group: 15 - 18\
-Concepts: observe and explain; reasoning with charge, electrostatic induction, and the Coulomb force.
+Concepts: charge, electrostatic induction,Coulomb force.
 
 ## Introduction
-The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below our focus is on the development of explanation and reasoning skills. 
+The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below, our focus is on the development of reasoning skills. 
 
 ## Equipment
 * Van de Graaff generator
 * soap bubble gun
-* video recording equipment (e.g. Cell phone)
+* camera
 
 ```{figure} demo10_figure1.jpg
 ---
 width: 50%
 align: center
 ---
-The soap bubble gun and the Van de Graaff generator. In this image, most bubbles move away from the generator. 
+The soap bubble gun and the Van de Graaff generator. In this picture, most bubbles move away from the generator. 
 ```
 
 ## Preparation
-Make sure you can blow the bubbles from above to the Van de Graaff generator for best visibility.
+For the best visibility, the bubbles should be blown from above to the Van de Graaf generator. Try this out.
 
 ## Procedure
-Blow the bubbles from above to the Van de Graaff generator or let a student do this. Ask the students to observe and write down their observations. You will probably get remarks such as 'the bubbles move away from the generator'. A good observer may have seen that initially the bubbles are moving towards the generator.
+Blow the bubbles from above to the Van de Graaff generator (or let a student do this). Ask the students to write down their observations. You will probably get remarks such as 'the bubbles move away from the generator'. A good observer may have seen that initially the bubbles are moving towards the generator.
 
 ```{figure} demo10_figure2.jpg
 ---
@@ -43,10 +43,16 @@ The bubbles on the left move towards the Van de Graaff generator, while the bubb
 ```
 
 
-Then you start the process of developing explanations and testing them with better observations. The concept cartoon (figure 3) can be helpful as a start. It is important to determine the observable consequences of the proposed explanations in a classroom discussion first, so that you can investigate which explanation is the best one:
+Then you start the process of developing explanations and testing them with better observations. The concept cartoon ({numref}`Figure {number} <demo10_fig3>`) can be helpful as a start. It is important to determine the observable consequences of the proposed explanations in a classroom discussion first, so that you can investigate which explanation is the best one:
 1.	The bubbles are neutral (not charged) throughout the process: the bubbles will move towards the Van de Graaff generator just like small pieces of paper.
 2.	The bubbles are charged from the start: depending on the charge of the bubbles they will move towards the generator or away from it.
 3.	The bubbles acquire charge on the way: the bubbles will change their behavior halfway. First they move towards the generator (as in explanation 1) and then their behavior depends on the charge of the bubbles (as in explanation 2).
+
+``` {figure} demo10_figure3.png
+---
+width: 70%
+name: demo10_fig3
+```
 
 You can then record the experiment on video and play it on a screen. Blow several series of bubbles so that you will have enough video recordings. First the students can improve their own observations and then discuss which explanation best fits the observations. The film can be played more slowly and then you will see clearly that the bubbles initially move towards the Van de Graaff generator, only to turn around and move away eventually (or burst). Obviously, number 3 (the bubbles acquire charge on the way) is the correct conclusion, although some students will probably persevere in a different opinion. For a complete explanation it is important to focus on the moment the bubbles change their behavior, since there is no explanation to the crucial question how these bubbles get charged, yet. It turns out the bubbles change their behavior just after one of them hits the generator and pops. Sometimes it can also be seen that the bubbles move away from each other, but this is not always visible.
 
