@@ -1,22 +1,18 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
 # Singing Rod: Tones, Overtones, Waves and Vibrations 
 
 
-Author:     \
+Author: Norbert van Veen\
 Time:	 10 minutes\
 Age group:	14 - 18\
 Concepts:	
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ni2hIB_J7vQ?si=P3MzNVL-vzd1Y5q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Introduction
 This demonstration consists of two parts, and, if executed properly, the second part generates a lot of noise at an irritating pitch; it's a demonstration that students will certainly not forget. By choosing the correct positions on the rod, you can even 'play' two overtones. Frequency measurements are straightforward, and the link to the physics of musical instruments is quickly established.
