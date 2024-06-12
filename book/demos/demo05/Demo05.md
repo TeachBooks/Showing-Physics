@@ -27,10 +27,16 @@ align: right
 </table><br>
 
 ## Introduction
-In this demonstration of Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a students' practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
+In this demonstration on Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a students' practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
 
 ## Equipment
-A smooth, flat table that is as long as possible. A retort stand that is as high as possible, with clamps and two pulleys; a hanger with slotted masses; a thin cord that is twice as long as the table; two spring-balances. A cart. Power source and electromotor; two more retort stands each with a clamp and a pulley.
+* A smooth, flat table that is as long as possible. A retort stand that is as high as possible, with clamps and two pulleys; 
+* a hanger with slotted masses; 
+* a thin cord that is twice as long as the table; 
+* two spring-balances. 
+* A cart. 
+* Power source and electromotor; 
+* two more retort stands each with a clamp and a pulley.
 
 ```{figure} demo05_figure1.JPG
 ---
