@@ -12,7 +12,7 @@ Time:	 10 minutes\
 Age group:	14 - 18\
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
         <td style="text-align: left; padding: 3px; border: none;">NAME</td>
     </tr>
     <tr style="background-color: white;">

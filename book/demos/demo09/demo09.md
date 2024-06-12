@@ -7,7 +7,6 @@ align: right
 # Air or not?
 <span style="font-size: 25px; color: gray;">reasoning about flames and vapor</span>
 
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
@@ -26,7 +25,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none;">phases of water, evaporation, condensation, combustion, air, oxygen</td>
     </tr>
 </table><br>
-
 
 ## Introduction
 Just above the bubbling surface of boiling water, nothing unusual seems to happen. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?
