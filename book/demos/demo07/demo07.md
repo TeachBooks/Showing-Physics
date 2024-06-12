@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -26,11 +26,11 @@ align: right
 </table><br>
 
 ## Introduction
-Five or six pendulums are suspended from a rod ({numref}`Figure {number} <demo07_fig1>`). Turn the rod slightly back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
+Five or six pendulums are suspended from a rod ({numref}`Figure {number} <demo07_fig1>`). Gently move the rod back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
 
 ```{figure} demo07_figure1.jpg
 ---
-width: 50%
+width: 40%
 align: center
 name: demo07_fig1
 ---
@@ -38,10 +38,12 @@ A rod with some balls suspended using strings.
 ``` 
 
 ## Equipment
-Use a 70 cm piece of broomstick as a rod. The strings should have a thickness of several mm. Use wooden balls with a diameter of approximately 7 cm (available from toy or hobby websites). Give each ball a different color. Drill a narrow hole through each ball and through the broom stick. The string can be secured on either side with a knot. 
+* A 70 cm piece of broomstick as a rod,
+* Several strings with a thickness of several mm,
+* Wooden colored balls with a diameter of approximately 7 cm. 
 
 ## Preparation
-Practice several times with the rod and balls until your fingers know the resonant frequencies of each ball.
+Drill a narrow hole through each ball and through the broom stick. The string can be secured on either side with a knot. Practice several times so that you know the resonant frequencies of each ball.
 
 ```{figure} demo07_figure2.jpg
 ---
@@ -53,12 +55,12 @@ The red ball starts to move.
 ``` 
 
 ## Procedure
-Hold the rod on the two ends ({numref}`Figure {number} <demo07_fig2>) in such a way that the balls will be in front of your face and body so the attention of the students will not be on the hands but on the colored balls. Now play a game about which ball will start moving. For example, ask students to concentrate on the red ball. Then make the red ball move with almost invisible turns of the rod at resonant frequency of the red ball. Same for other colors, ask the audience which ball should move and tell them that you can do this through your will power. But of course you make clever use of the different resonance frequencies. 
+Hold the rod on the two ends ({numref}`Figure {number} <demo07_fig2>`) in such a way that the balls will be in front of your face and body so the attention of the students will not be on the hands but on the colored balls. Now play a game about which ball will start moving. For example, ask students to concentrate on the red ball. Then make the red ball move with almost invisible turns of the rod at resonant frequency of the red ball. Same for other colors, ask the audience which ball should move and tell them that you can do this through your will power. Of course you make clever use of the different resonance frequencies. 
 
 ```{tip}
 *	For a large audience it is better to use a large set-up with long pendulums then the resonant frequency is not too high.
-*	Refer to other examples of resonance such as the Tacoma Narrows Bridge which collapsed in 1940.
+*	Refer to other examples of resonance.
 ```
-## Physics background
-Each pendulum has its unique resonance frequency dependent on its length. Even turning the rod a few mm is sufficient to achieve a large amplitude of the ball if the resonance frequency is used. By practicing you can find the proper frequencies quickly.
 
+## Physics background
+Each pendulum has its unique resonance frequency dependent on its length. Even turning the rod a few mm is sufficient to achieve a large amplitude of the ball if the resonance frequency is used. 

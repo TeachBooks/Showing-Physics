@@ -33,9 +33,7 @@ parts:
     - file: demos/NOSdemos
       title: Demos on NoS
       sections:
-      - file: demos/demo01/demo01 #particle      
-      - file: demos/demo06/demo06 #Spectacular Spectrum
-
+      - file: demos/demo01/demo01 #particle     
       - file: demos/demo08/demo08 #Memory Balls
       - file: demos/demo40/demo40 #cancancan
       - file: demos/demo70/demo70 #Cylinder Puzzle
@@ -148,6 +146,7 @@ parts:
     - file: demos/Specialdemos
       title: Demos for special occasions
       sections:
+      - file: demos/demo06/demo06 #Spectacular Spectrum
       - file: demos/demo04/demo04 #slanting tower
       - file: demos/demo07/demo07 #Magic with pendulums
       - file: demos/demo54/demo54 #vacuum
