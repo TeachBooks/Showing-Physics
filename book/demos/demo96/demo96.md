@@ -1,39 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Falling spring
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Maarten van Woerkom</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 11</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Force, gravity, acceleration</td>
     </tr>
 </table><br>
-# Falling spring
-
-Author: Maarten van Woerkom     \
-Time:	15 minutes  	\
-Age group:	Grade 11\
-Concepts:	Force, gravity, acceleration
 
 ## Introduction
 Everyone is familiar with the falling motion of an object. When you drop an object, all parts of the object undergo the same movement. Then we are talking about so-called rigid objects. But what about an object where the parts can move relative to each other? A so-called large slinky, for sale in toy shops, shows an unexpected effect.

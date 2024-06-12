@@ -1,39 +1,28 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
-
-</div>
+# Implosion
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Ineke Frederik</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">From grade 8 onwards</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">pressure, vapour pressure, forces</td>
     </tr>
 </table><br>
-# Implosion
-
-Author: Ineke Frederik\
-Time:	15 minutes\
-Age group:	From grade 8 onwards\
-Concepts:	pressure, vapour pressure, forces
 
 ## Introduction
 Here you demonstrate the force that can be exerted by the outside air. As a bit of water just is evaporated in a vessel and is then cooled down, an enormous force acts on the outside resulting in a spectacular implosion. A classic and spectacular demonstration! 

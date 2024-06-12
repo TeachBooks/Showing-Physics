@@ -1,40 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# DNA
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 11 & 12E</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Diffraction, interference, DNA-structure</td>
     </tr>
 </table><br>
-# Chapter title
-
-
-Author:     \
-Time:	10 minutes  	\
-Age group:	Grade 11 & 12\
-Concepts:	Diffraction, interference, DNA-structure,
 
 ## Introduction
 This demonstration allows you to bridge the gap between biology and physics. The demonstration optically duplicates (using a laser and a ballpoint pen spring) a photo of the X-ray diffraction pattern of DNA that has been used in unravelling DNA structure. As a pure physics demonstration, it is valuable to show the use of diffraction to unravel patterns. In addition, this diffraction pattern is more complex than that of a lattice, but still simple enough to calculate.
