@@ -31,29 +31,32 @@ In this demonstration on Newton’s First Law you can direct students’ thought
 
 ## Equipment
 * A smooth, flat table that is as long as possible. A retort stand that is as high as possible, with clamps and two pulleys; 
-* a hanger with slotted masses; 
-* a thin cord that is twice as long as the table; 
-* two spring-balances. 
+* A hanger with slotted masses; 
+* A thin cord that is twice as long as the table; 
+* Two spring-balances. 
 * A cart. 
 * Power source and electromotor; 
-* two more retort stands each with a clamp and a pulley.
+* Two more retort stands each with a clamp and a pulley.
 
-```{figure} demo05_figure1.jpg
+```{figure} demo05_figure1.png
 ---
-width: 50%
+width: 70%
 align: center
+name: demo05_fig1
 ---
 A schematic of the experimental setup
 ```
 
 ## Preparation
-Build the set-up, see figure 1. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses so that friction is negligible up to speeds of about 1 m/s, and choose matching spring-balances.
+Build the set-up, see {numref}`Figure {number} <demo05_fig1>`. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses so that friction is negligible up to speeds of about 1 m/s, and choose matching spring-balances.
 
 ## Procedure
-The cord is revolving uniformly, so a knot in the cord moves along at constant speed. So if you pull along the cart, with a hand that moves along with the knot, that cart has the same constant speed as the knot. The hand and cart take a moment to attain that speed, but then the spring-balances can be read. 
-*How does the pulling force compare to the opposing force, during that part of the movement? What changes if we select a greater constant speed?* Answering these questions is the aim of the demonstration.
+The cord is revolving uniformly, so a knot in the cord moves along at constant speed. So if you pull along the cart, with a hand that moves along with the knot, that cart has the same constant speed as the knot. The hand and cart take a moment to attain that speed, but then the spring-balances can be read.
+1. *How does the pulling force compare to the opposing force, during that part of the movement?* 
+2. *What changes if we select a greater constant speed?* 
+Answering these questions is the aim of the demonstration.
 
-A Predict-Observe-Explain approach is appropriate here. An example is presented in the worksheet below. Students predict in advance, in writing, what they expect will be measured in answering the two questions. Then the experiment is carried out. A (slightly) larger speed is realised by increasing the potential difference driving the electric motor. A conclusion is formulated on the basis of the observations. It is applied in similar contexts to explore whether it is generally applicable. 
+A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here. An example is presented in this [worksheet](demo05worksheet.doc). Students provide an answer to the two questions above, that is, they write down their prediction. Then the experiment is carried out. A (slightly) larger speed is realised by increasing the voltage over the electric motor. A conclusion is formulated on the basis of the observations. It is applied in similar contexts to explore whether it is generally applicable. 
 
 ```{figure} demo05_figure2.jpg
 ---
