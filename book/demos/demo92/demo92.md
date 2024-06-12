@@ -10,20 +10,20 @@ This demonstration has been published in the Dutch magazin for science teachers 
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr style="background-color: white;">
-        <td style="text-align: left; padding: 8px;">Author:</td>
-        <td style="text-align: left; padding: 8px;">Peter Dekkers</td>
+        <td style="text-align: left; padding: 5px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 5px; border: none;">Peter Dekkers</td>
     </tr>
     <tr style="background-color: white;">
-        <td style="text-align: left; padding: 8px;">Time:</td>
-        <td style="text-align: left; padding: 8px;">30-50 minutes</td>
+        <td style="text-align: left; padding: 5px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 5px; border: none;">30-50 minutes</td>
     </tr>
     <tr style="background-color: white;">
-        <td style="text-align: left; padding: 8px;">Age group:</td>
-        <td style="text-align: left; padding: 8px;">Grade 10</td>
+        <td style="text-align: left; padding: 5px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 5px; border: none;">Grade 10</td>
     </tr>
     <tr style="background-color: white;">
-        <td style="text-align: left; padding: 8px;">Concepts</td>
-        <td style="text-align: left; padding: 8px;">potential and kinetic energy, moment of inertia, translational energy</td>
+        <td style="text-align: left; padding: 5px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 5px; border: none;">potential and kinetic energy, moment of inertia, translational energy</td>
     </tr>
 </table>
 
