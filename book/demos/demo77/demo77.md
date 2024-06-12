@@ -1,39 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Standing Wave with an Electric Toothbrush
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Karel Langendonck</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">20-40 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">17 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Frequency, standing waves</td>
     </tr>
 </table><br>
-# Standing Wave with an Electric Toothbrush
-
-Author: Karel Langendonck\
-Time:	20-40 minutes\
-Age group:	17 - 18\
-Concepts:	Frequency, standing waves
 
 ## Introduction
 When a vibration is applied to the end of a taut cord, under certain conditions, a standing wave can arise in the cord. The frequency of the vibration, the wave speed of the resulting wave in the cord, and the length of the cord must be in the correct proportions to each other. In the standard classroom experiment, you often vary the frequency. But what if you keep the frequency constant and take the wave speed and the length of the cord as variables? We use an electric toothbrush as the vibration source.

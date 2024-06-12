@@ -1,40 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Fluorescent Olive Oil
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Rutger Ockhorst</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">12 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Quantum, lumoniscence, fluoresces</td>
     </tr>
 </table><br>
-# Fluorescent Olive Oil
-
-
-Author:  Rutger Ockhorst   \
-Time:	15 minutes  	\
-Age group:	12 - 18\
-Concepts:	
 
 ## Introduction
 
@@ -64,9 +53,11 @@ A darkened room is not required but works better, and a digital camera is also h
 ## Procedure
 
 Your initial question is: Can you see light when looking at it from the side? Shine the red laser pointer on the wall. You'll only see a spot until you spray water mist into the light beam. You then see not the light itself but light entering your eye due to the scattering of water droplets. 
+
 ```{warning}
 Directly shining laser light into your eye is harmful.
 ```
+
 Then, place a bottle of water, a bottle of olive oil, and another bottle of water in the beam in succession. Shine the red laser pointer. You'll notice a red beam of light visible in the olive oil and that the laser spot on the wall is now less intense. Scattering of light by the olive oil explains why you see the beam from the side and why there is less light falling on the wall than before. Emphasize: like before, the light reaching the wall is not scattered in the olive oil.
 
 Tell them that you're going to do the same with a green laser pointer. Let students predict what they will see. Have them write down, describe, and compare their observations. Now perform the experiment. You'll observe an orange beam of light in the bottle of olive oil and that the spot on the wall is still green. With water mist, you'll see a green beam before and after the bottle.

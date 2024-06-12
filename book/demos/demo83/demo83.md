@@ -1,39 +1,30 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Bouncing Ball in a Tube
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Norbert van Veen</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">30 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">all</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Frequency, amplitude</td>
     </tr>
 </table><br>
-# Bouncing Ball in a Tube
 
-Author: Norbert van Veen\
-Time:	30 minutes\
-Age group:	all\
-Concepts:	Frequency, amplitude
 
 ## Introduction
 A demonstration likely to be suitable for both lower and upper-level students. In lower levels, it helps to illustrate sound as vibration and explains concepts like frequency and amplitude. In upper levels, it serves as an analogy for the photoelectric effect, making quantities like threshold energy, kinetic energy, and cutoff frequency tangible.

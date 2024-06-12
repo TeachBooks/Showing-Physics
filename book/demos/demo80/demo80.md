@@ -1,39 +1,30 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Measuring 'Stars'
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">30-40 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Observing, luminosity, stars, measurement</td>
     </tr>
 </table><br>
-# Measuring 'Stars'
 
-Author: Wouter Spaan\
-Time: 30-40 minutes\
-Age group:	15 - 18\
-Concepts:	Observing, luminosity
 
 ## Introduction
 In this activity, astronomical observations are simulated in the classroom. By observing light bulbs using various methods, the goal is to make students understand how to obtain temperature information from stars. This method can also lead to information about the luminosity of a star and therefor to information about their distance to the observer. Using [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md) student can infer such 'conclusions' themselves.

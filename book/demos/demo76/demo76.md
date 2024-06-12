@@ -1,14 +1,11 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# A Balloon that Can Do Everything
+<span style="font-size: 25px; color: gray;">Sinking, Floating, and Hovering Balloon</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
@@ -28,12 +25,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-# A Balloon that Can Do Everything: Sinking, Floating, and Hovering Balloon
 
-Author:     \
-Time:	  	10 minutes\
-Age group:	14-16\
-Concepts:	
 
 ## Introduction
 Students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.

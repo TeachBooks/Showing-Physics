@@ -7,13 +7,10 @@ align: right
 # Shadow of a flame 2: 
 <span style="font-size: 25px; color: gray;">Visualisation of heat flow</span>
 
-
-Author:     \
-Time:	  	15-20 minutes\
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Freek Pols</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
@@ -28,8 +25,7 @@ Time:	  	15-20 minutes\
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-Age group:	14 - 18\
-Concepts:	
+
 
 ## Introduction
 This is a demonstration everyone must see because it showcases such beautiful physics. Depending on the purpose, you can emphasize different aspects.
