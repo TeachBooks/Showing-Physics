@@ -1,7 +1,3 @@
-# Chapter title
-
-
-<div style="clear: both;">
 
 ```{figure} ../figures/open.png
 ---
@@ -9,16 +5,27 @@ width: 35%
 align: right
 ```
 
-</div>
+# Chapter title
 
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+    </tr>
+</table>
 
-
-
-
-Author:     \
-Time:	  	\
-Age group:	14 - 18\
-Concepts:	
 
 ## Introduction
 

@@ -27,13 +27,6 @@ This demonstration has been published in the Dutch magazin for science teachers 
     </tr>
 </table>
 
-
-
-Author: Peter Dekkers\
-Time:	30-50 minutes\
-Age group: Grade 10\
-Concepts:	potential and kinetic energy, moment of inertia, translational energy
-
 ## Introduction
 If you roll a bunch of round objects down a slope, the mass and size do not matter, but the shape does. This is difficult to understand or infer from observations. It, however, may encourage students to propose systematic investigations to establish order. In this demonstration, the teacher can manage planning, execution and interpretation. The test is inspired by an old science quiz question: do a boiled and a raw egg roll at the same rate? 
 

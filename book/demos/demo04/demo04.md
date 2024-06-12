@@ -1,19 +1,29 @@
-# Making a slanting tower stacking blocks
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Making a slanting tower stacking blocks
 
-Author:     Maarten van Woerkom\
-Time: 		20 minutes\
-Age group: 	12 and up\
-Concepts: 	center of mass, stable equilibrium
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Maarten van Woerkom</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">20 minutes</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">12 and up</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">center of mass, stable equilibrium</td>
+    </tr>
+</table>
 
 ```{figure} demo04_figure6.jpg
 ---

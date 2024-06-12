@@ -1,19 +1,29 @@
-# Light in darkness
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Light in darkness
 
-Author: Freek Pols\
-Time: 15-20 minuten\
-Age group: 12-18\
-Concepts: Light, light matter interaction
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Freek Pols</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">15-20 minutes</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">12 - 18</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Light, light matter interaction</td>
+    </tr>
+</table>
 
 ## Introduction
 What is light? Why is it dark at night while there are so many stars? Why do we (not) see objects? These are relevant questions that we can ask ourselves. But these are also interesting questions from a physics perspective. This demo, adapted from {cite}`demircioglu2019`, lets students consider answers to these questions in an inquisitive way.
