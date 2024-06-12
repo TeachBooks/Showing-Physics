@@ -31,7 +31,7 @@ width: 50%
 align: center
 name: demo06_fig1
 ---
-some caption
+An aquarium filled with water is put on an overheadprojector 
 ``` 
 
 ## Introduction
@@ -54,7 +54,7 @@ width: 50%
 align: center
 name: demo06_fig2
 ---
-some caption
+
 ``` 
 
 ```{figure} demo06_figure3.png
@@ -63,7 +63,7 @@ width: 50%
 align: center
 name: demo06_fig3
 ---
-some caption
+The aquarium is slightly rotated resulting in two spectacular spectra.
 ``` 
 
 ```{figure} demo06_figure4.png
@@ -72,7 +72,7 @@ width: 50%
 align: center
 name: demo06_fig4
 ---
-some caption
+The light rays move from A, B and C to A', B' and C'.
 ``` 
 
 ```{figure} demo06_figure5.jpg
@@ -80,7 +80,7 @@ some caption
 width: 50%
 align: center
 ---
-some caption
+The setup. The rainbows appear on the left and right walls.
 ``` 
 
 ## Procedure
