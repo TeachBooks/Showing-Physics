@@ -1,6 +1,3 @@
-# Up and down the hill: Accelerating along a Slope
-
-<div style="clear: both;">
 
 ```{figure} ../../figures/ready.png
 ---
@@ -8,31 +5,27 @@ width: 35%
 align: right
 ```
 
-</div>
+# Up and down the hill: Accelerating along a Slope
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">
+Author: </td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">20-30 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">16 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Newton's first law; acceleration, IOLab, Mechanics</td>
     </tr>
 </table><br>
-
-Author: Freek Pols    \
-Time:	20-30 minutes\
-Age group:	16 - 18\
-Concepts:	Newton's first law; acceleration
 
 ## Introduction
 Students often find interpreting and connecting position, velocity, and acceleration in diagrams challenging. In this demonstration, we create a ($v,t$) graph during the motion, making it clear that the cart at the highest point does not have an acceleration of 0 m/s²! We use the didactic principles: think-pair-share. 

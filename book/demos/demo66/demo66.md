@@ -1,16 +1,12 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
 
 # Tension in a Pendulum
+
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>

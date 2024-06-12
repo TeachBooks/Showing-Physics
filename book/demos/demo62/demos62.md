@@ -1,15 +1,12 @@
-# Speed of light in a liquid
-
-
-<div style="clear: both;">
-
 ```{figure} ../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Speed of light in a liquid
+
+
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>

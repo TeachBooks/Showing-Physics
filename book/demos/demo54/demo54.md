@@ -1,14 +1,10 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Chapter title
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
@@ -28,13 +24,8 @@ align: right
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-# Chapter title
 
 
-Author:     \
-Time:	  	\
-Age group:	14 - 18\
-Concepts:	
 
 ## Introduction
 

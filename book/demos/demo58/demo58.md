@@ -1,13 +1,8 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
-
 # Rotating cubes
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -28,8 +23,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-
-
 
 ## Introduction
 Students often find concepts linked to circular motion difficult. Examples include the difference between orbital velocity and angular velocity and understanding the centripetal force. In this demonstration, you combine these concepts with the frictional force to create a situation where only one force provides the centripetal force. 

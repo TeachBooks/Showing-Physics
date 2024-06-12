@@ -1,13 +1,11 @@
-# Chapter title
-
-
-<div style="clear: both;">
-
 ```{figure} ../figures/open.png
 ---
 width: 35%
 align: right
 ```
+
+# Chapter title
+
 
 </div>
 <table style="width: 100%; border-collapse: collapse; border: none;">

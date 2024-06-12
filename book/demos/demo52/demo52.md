@@ -1,19 +1,15 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# A light bulb as hot as the sun?
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wim Sonneveld</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
@@ -28,13 +24,9 @@ align: right
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-# Chapter title
 
 
-Author:     \
-Time:	  	\
-Age group:	14 - 18\
-Concepts:	
+
 
 ## Introduction
 

@@ -1,35 +1,29 @@
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-
 # Roll and Stop
 
-Author: Freek Pols    \
-Time:	  15 - 20 minutes	\
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Freek Pols</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 - 20 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">14 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Nature of Science</td>
     </tr>
 </table><br>
-Age group:	14 - 18\
-Concepts:	
 
 ## Introduction
 This is one of the 'Black Box' activities suitable for addressing how science works. Students observe, infer, devise hypotheses, and then test them. They need to be creative because figuring out what exactly is happening is not simple. We may even never know...

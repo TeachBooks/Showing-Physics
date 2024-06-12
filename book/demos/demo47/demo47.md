@@ -1,19 +1,16 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Chapter title
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Norbert van Veen</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
@@ -28,13 +25,8 @@ align: right
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-# Chapter title
 
 
-Author: Norbert van Veen    \
-Time:	  	\
-Age group:	14 - 18\
-Concepts:	
 
 ## Introduction
 

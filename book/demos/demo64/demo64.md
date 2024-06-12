@@ -4,32 +4,27 @@ width: 35%
 align: right
 ```
 
-
 # Boiling by Cooling
 
 
-Author:  Ed van den Berg   \
-Time: 15 minutes	  	\
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Ed van den Berg</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 8 and above</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Boiling, </td>
     </tr>
 </table><br>
-Age group:	Grade 8 and above\
-Concepts: Boiling, 	
 
 
 ## Introduction

@@ -1,21 +1,15 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
 # Flamecooler
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Kirsten Stadermann</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>

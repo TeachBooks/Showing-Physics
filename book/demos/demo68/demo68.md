@@ -1,37 +1,31 @@
-# Collisions: Newton's Third Law 
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Colliding with Newton's Third Law 
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Freek Pols</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15-20 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">16 - 18E</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Force, Newton, Third law, IOLab</td>
     </tr>
 </table><br>
-Author: Freek Pols    \
-Time:	 15-20 minutes\
-Age group:	16 - 18\
-Concepts:	
+
 
 ## Introduction
 Students find Newton's third law difficult to grasp. It is counterintuitive. This demonstration specifically addresses that aspect: in collisions, there are force pairs, where forces are equal (independent of masses) but opposite in direction. We use two didactic principles in this demonstration: think-pair-share and then P(E)OE.
