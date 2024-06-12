@@ -1,14 +1,9 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
 
 # Mysterious fountain
 Author: Peter Dekkers\
@@ -16,13 +11,7 @@ Time:	10-15 minutes\
 Age group:	12\
 Concepts:	Siphon, gravitational energy, conservation of energy
 
-```{figure} demo91_figure1.jpg
----
-width: 50%
-align: center
----
-The mysterious fountain.
-```
+INCLUDE VIDEO HERE
 
 ## Introduction
 In this 'black box' demonstration, the 'tap' continues to flow once you pour some liquid into the funnel and then keeps flowing for a long time. The challenge is to think together about what might be inside the bottles. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
@@ -35,6 +24,14 @@ In this 'black box' demonstration, the 'tap' continues to flow once you pour som
 * glass tubes or rubber hoses.
 
 The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water with different colors to contribute to the mystery. Also needed: a cup with some extra liquid.
+
+```{figure} demo91_figure1.jpg
+---
+width: 50%
+align: center
+---
+The mysterious fountain.
+```
 
 ## Preparation
 Construct the setup according to the sketch. Place the bottles in the large envelopes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible.

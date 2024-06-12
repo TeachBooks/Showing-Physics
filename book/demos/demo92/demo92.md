@@ -8,24 +8,25 @@ align: right
 
 This demonstration has been published in the Dutch magazin for science teachers {cite:t}`dekkers1999drogen`.
 
-<table>
-    <tr>
-        <td>Author:/td>
-        <td>Peter Dekkers</td>
+<table style="width: 100%; border-collapse: collapse;">
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 8px;">Author:</td>
+        <td style="text-align: left; padding: 8px;">Peter Dekkers</td>
     </tr>
-    <tr>
-        <td>Time:</td>
-        <td>30-50 minutes</td>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 8px;">Time:</td>
+        <td style="text-align: left; padding: 8px;">30-50 minutes</td>
     </tr>
-    <tr>
-        <td>Age group:</td>
-        <td>Grade 10</td>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 8px;">Age group:</td>
+        <td style="text-align: left; padding: 8px;">Grade 10</td>
     </tr>
-    <tr>
-        <td>Concepts</td>
-        <td>potential and kinetic energy, moment of inertia, translational energy</td>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 8px;">Concepts</td>
+        <td style="text-align: left; padding: 8px;">potential and kinetic energy, moment of inertia, translational energy</td>
     </tr>
 </table>
+
 
 
 Author: Peter Dekkers\
