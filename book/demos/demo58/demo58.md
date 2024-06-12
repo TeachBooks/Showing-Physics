@@ -8,52 +8,49 @@ width: 35%
 align: right
 ```
 
-</div>
+# Rotating cubes
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Karel Langendonck</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10-30 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 10 and higher</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
     </tr>
 </table><br>
-# Rotating cubes
 
-Author: Karel Langendonck    \
-Time: 10 - 30 minutes	  	\
-Age group:	Grade 10 and higher\
-Concepts:	
+
 
 ## Introduction
-Students often find concepts linked to circular motion difficult. Examples include the difference between orbital velocity and angular velocity and understanding the centripetal force. In this demonstration, combine these concepts with the frictional force to create a situation where only one force provides the centripetal force. 
+Students often find concepts linked to circular motion difficult. Examples include the difference between orbital velocity and angular velocity and understanding the centripetal force. In this demonstration, you combine these concepts with the frictional force to create a situation where only one force provides the centripetal force. 
 
 ```{figure} demo58_figure1.JPG
 ---
 width: 50%
 align: center
+name: fig:turntable
 ---
 The turntable with LEGO bricks
 ```
 
 ## Equipment
-Turntable; 
-cubes of not too large mass (e.g. LEGO bricks or DUPLO dolls); 
-scales; 
-ruler.
+- Turntable 
+- Cubes of not too large mass (e.g. LEGO bricks or DUPLO dolls)
+- Scales
+- Ruler
 
 ## Preparation
-Place a cube with a not too large mass on the turntable of a record player, as shown in the picture opposite. LEGO bricks have been used as mass cubes in this setup. Determine the distance from the centre at which the cube will just slide.
+Place a cube on the turntable of a record player, as shown in `Figure {number} <fig:turntable>`. LEGO bricks have been used as mass cubes in this setup. Determine the distance from the centre at which the cube will just slide when the turntable is turned on.
 
 ## Procedure
 1.	Place a cube at a not too large distance from the centre of the turntable and measure this distance (r).
@@ -62,14 +59,14 @@ Place a cube with a not too large mass on the turntable of a record player, as s
 4.	Have students calculate the sliding friction force acting on the cube.
 5.	Stop the turntable again, place the cube slightly further from the centre of the turntable, measure the radius of the circular path again and turn the turntable on again. 
 6.	Have students again calculate the orbital velocity, angular velocity and working sliding friction force.
-7.	Repeat the above step as many times as necessary until the point is reached at which the cube swings off the turntable. At that point, the point is reached where the maximum sliding friction force on the cube is at issue. You can now calculate (or have calculated) the maximum value for the static coefficient of friction (and hence the dynamic coefficient of friction).
-8.	Control question: Can you get a coefficient of friction greater than 1?
+7.	Repeat the above step as many times as necessary until the point is reached at which the cube swings off the turntable. At that point, the point is reached where the maximum sliding friction force on the cube is an issue. You can now calculate (or have calculated) the maximum value for the static coefficient of friction (and hence the dynamic coefficient of friction).
+8.	Control question: *Can you get a coefficient of friction greater than 1?*
 
 ## Physics background
-Three forces act on the cube (see figure 2): the gravitational force $F_z$, the normal force $F_N$ and the shear friction force $F_w$. At the moment the cube is on the turntable of the record player, it is the sliding friction force that provides the centripetal force. The following then applies:
-$$F_w=F_{c}=\frac{mv^2}{r}$$
+Three forces act on the cube (see `Figure {number}<fig:force_balance>`): the gravitational force $F_G$, the normal force $F_N$ and the shear friction force $F_F$. At the moment the cube is on the turntable of the record player, it is the sliding friction force that provides the centripetal force. The following then applies:
+$$F_F=F_{c}=\frac{mv^2}{r}$$
 
-Also, $F_w = μ_s \cdot F_N$ 
+Also, $F_F = μ_s \cdot F_N$ 
 From this, a formula for the static coefficient of friction μs can be derived.
 For a derivation of this, REFERENCE TO WEBSITE.
 
@@ -77,12 +74,13 @@ For a derivation of this, REFERENCE TO WEBSITE.
 ---
 width: 50%
 align: center
+name: fig:force_balance
 ---
 Three forces on the cube
 ```
 
 ```{tip}
-- A few testers reported that the turntable was not smooth enough. Without the rubber mat or with a plastic cover around the mat or smeared with oil, it went well.
+- A few testers reported that the turntable was not smooth enough. Without a rubber mat or with a plastic cover around the mat or smeared with oil, it went well.
 - This experiment is not very exciting in its execution, so it is important to involve the students well in the execution and collection of the measurement results. You can then let the students calculate some things in between. 
 - Calculating the orbital period of the cube (and thus the orbital and angular velocity) will not be as simple and logical for all pupils. Pay explicit attention to this.
 ```
