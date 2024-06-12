@@ -1,39 +1,30 @@
 
-
-<div style="clear: both;">
-
-```{figure} ../../figures/open.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Gauss' rifle
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Ineke Frederik & Maarten van Woerkom</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 9</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">magnetic field, potential well, energy conservation, Lenz's law</td>
     </tr>
 </table><br>
-# Gauss' rifle
-
-Author:  Ineke Frederik\
-Time:	10 minutes\
-Age group:	Grade 9\
-Concepts:	magnetic field, potential well, energy conservation, Lenz's law
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -42,13 +33,12 @@ Concepts:	magnetic field, potential well, energy conservation, Lenz's law
 </div>
 
 ## Introduction
-A steel ball rolls off on row of bullets. The row starts with a magnetic bullet. 
-The rear bullet shoots off at a much greater speed than the original bullet. A 'cannonball'? Have the laws of mechanics been defied? What about the laws of conservation? 
+A steel ball rolls towards a set of neatly lined up similar looking balls. When the rolling ball touches the set of balls, the reat shoots off at high speed. A 'cannonball'? Have the laws of mechanics been defied? What about the laws of conservation? 
 
 ## Equipment
-* Strong magnetic balls;
-* at least 4 steel balls of approximately the same dimensions; 
-* a plastic or wooden gutter
+* A strong magnetic balls;
+* At least 4 steel balls of approximately the same dimensions; 
+* A plastic or wooden gutter
 
 ## Preparation
 Place three steel balls on the gutter.
@@ -64,12 +54,18 @@ Do the test again. But look very carefully at the colliding balls. What do you s
 
 ```{figure} demo95_figure1.jpg
 ---
-width: 50%
+width: 80%
 align: center
 ---
 A steel ball rolls down a row of balls; one of them is a magnetic ball
 ```
 
+
+## Physics background
+Ball **B** is on the ground. To bring ball **B** up the little hill on the right, you have to make some effort. Either tap ball **B** so that it gains speed and rolls up the little hill.<br>
+Ball **A** is on a little hill, on the left. If it gets a little push, it rolls down, gaining considerable speed.<br>
+Ball **A** rolls against **B**, **A** comes to a halt, **B** takes over speed and rolls up the hill on the right. Arriving at the top, he even has energy left and rolls on.
+(A loses more gravitational energy than **B** needs to get out of the pit).
 ```{figure} demo95_figure2.jpg
 ---
 width: 50%
@@ -83,22 +79,15 @@ align: center
 width: 50%
 align: center
 ---
-some caption
 ```
 
-## Physics background
-Ball **B** is on the ground. To bring ball **B** up the little hill on the right, you have to make some effort. Either tap ball **B** so that it gains speed and rolls up the little hill.
-Ball **A** is on a little hill, on the left. If it gets a little push, it rolls down, gaining considerable speed.
-Ball **A** rolls against **B**, **A** comes to a halt, **B** takes over speed and rolls up the hill on the right. Arriving at the top, he even has energy left and rolls on.
-(A loses more gravitational energy than **B** needs to get out of the pit).
-
-On a rail, there are three balls and a magnet M. That magnet attracts the blue ball firmly, because the blue ball is close to the magnet. Ball **B** is less strongly attracted, because it lies further away from the magnet.
-To loosen ball **B**, you have to make some effort. Either give ball **B** a tap so that it gains speed and gets loose.
+On a rail, there are three balls and a magnet M. That magnet attracts the blue ball firmly, because the blue ball is close to the magnet. Ball **B** is less strongly attracted, because it lies further away from the magnet.<br>
+To loosen ball **B**, you have to make some effort. Either give ball **B** a tap so that it gains speed and gets loose.<br>
 If you give ball **A** a push, it rolls towards M. It is attracted considerably, accelerates and collides with M with momentum. **A** comes to a standstill and the impulse is transmitted via the blue ball to ball **B**. That ball **B** takes over the speed and rolls away to the right. Once detached from the magnet, it still has energy left and rolls on with considerable speed.
 (A loses more magnetic energy than **B** needs to get loose).
 
 ## Follow-up
-Does it matter where the magnetic bullet is? Place the magnetic ball on the other side of the row and see what happens. What happens if the magnetic bullet is in the middle? Can you shoot to the moon with this 'cannon'? 
+Does it matter where the magnetic bullet is? Place the magnetic ball on the other side of the row and see what happens. What happens if the magnetic bullet is in the middle? Can you shoot to the moon with this 'cannon'? <br>
 This demo is easy to expand into a practical assignment. In it, you can measure the speed before and after the collision. Is there a relationship between the speed of the bullet before the collision and the speed of the bullet after the collision? 
 
 ## References
