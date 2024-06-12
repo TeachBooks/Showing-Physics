@@ -48,7 +48,8 @@ parts:
       title: Demos on scientific inquiry
       sections:
       - file: demos/demo09/demo09 #vapor
-      - file: demos/demo10/demo10 #vdgraaf      
+      - file: demos/demo10/demo10 #vdgraaf   
+      - file: demos/demo27/demo27 #air and balloon         
       - file: demos/demo39/demo39 #inquiring rotational flame
       - file: demos/demo41/demo41 #emptying a bottle
       - file: demos/demo73/demo73 #determining g
@@ -124,11 +125,11 @@ parts:
 
     - file: demos/Conceptdemos5 #else
       sections:      
-      - file: demos/demo27/demo27 #air and balloon      
+      
       - file: demos/demo29/demo29 #candle
       - file: demos/demo30/demo30 #weighing air
       - file: demos/demo32/demo32 #two spring      
-      - file: demos/demo35/demo35 #falling candle      
+       
       - file: demos/demo43/demo43 #falling?
       - file: demos/demo44/demo44 #omhoog druppelen
       - file: demos/demo57/demo57 #bernoulli
@@ -149,6 +150,7 @@ parts:
       - file: demos/demo06/demo06 #Spectacular Spectrum
       - file: demos/demo04/demo04 #slanting tower
       - file: demos/demo07/demo07 #Magic with pendulums
+      - file: demos/demo35/demo35 #falling candle     
       - file: demos/demo54/demo54 #vacuum
       - file: demos/demo55/demo55 #stick and glass
       - file: demos/demo88/demo88 #cloud formation

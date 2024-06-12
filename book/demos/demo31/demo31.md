@@ -1,38 +1,30 @@
 
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Blowing out a Light Bulb
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">13+</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">NTC (Negative Temperature Coefficient), series circuit, power, heat generation</td>
     </tr>
 </table><br>
-# Blowing out a Light Bulb
-Author:     \
-Time:	  	15 minutes\
-Age group:	12+\
-Concepts:	NTC (Negative Temperature Coefficient), series circuit, power, heat generation
 
 ## Introduction
 The primary goal of this demonstration is to demonstrate the NTC behavior of glass. With this demo, you can discuss concepts from electrical engineering at many levels. You can prompt students to think about heating due to current flow.

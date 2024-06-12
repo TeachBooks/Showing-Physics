@@ -1,38 +1,28 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
-
-</div>
+# Reflection
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Ineke Frederik</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">12 - 15</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">laws of reflection, Snell’s law, reversibility of light rays</td>
     </tr>
 </table><br>
-# Reflection
-Author:     Ineke Frederik\
-Time:	  	10 minutes\
-Age group:	12 - 15\
-Concepts:	laws of reflection, Snell’s law, reversibility of light rays
 
 ## Introduction
 The start of a new topic should be somewhat exciting, stimulating curiosity. We describe a start for optics in which all students participate. This way of starting is also a model for physics itself: students make predictions which are then investigated with experiments.\
@@ -44,6 +34,12 @@ The students receive stickers which they have to paste on the wall at the spot w
 * Classroom which can be darkened
 * Round colored stickers (at least one for each student, the stickers could also be small post-its)
 
+``` {figure} demo20_figure1.JPG
+---
+width: 50%
+---
+SOME CAPTION
+```
 
 ## Procedure
 1.	Each student writes his/her initials on the sticker(s). 
@@ -53,6 +49,13 @@ The students receive stickers which they have to paste on the wall at the spot w
 5.	When all stickers are on the wall, ask the class to predict which one of the stickers will be the closest.
 6.	Switch on the laser. Discuss the results using Snell’s Law of Reflection and the reversibility of light rays. Use three rods: one for the incident ray, one for the normal, and one for the reflected ray. Show clearly that angles of incidence and reflection are equal AND that incident and reflected rays and the normal are in one plane.
 7.	You may repeat the whole procedure, but now with two mirrors. 
+
+``` {figure} demo20_figure2.JPG
+---
+width: 50%
+---
+SOME CAPTION
+```
 
 ## Physics background
 The spot on the wall from which you can see the laser through the mirror is the spot where the laser ray will land after reflection. You use the principle of reversibility of light rays. 

@@ -1,41 +1,32 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Falling Candle
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">5 - 10 minutesE</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">heat transfer by convection, buoyancy, weightlessness, combustion</td>
     </tr>
 </table><br>
-# Falling Candle
 
-Author:     \
-Time:	  	5 - 10 minutes\
-Age group:	15 - 18\
-Concepts:	heat transfer by convection, buoyancy, weightlessness, combustion
 
-This demonstration is based on experiment 62 from part 2 of Walravens (n.d.), also published in NVOX (Walravens, 2011).
+This demonstration is based on experiment 62 from {cite:t}`Walravens2011`.
 
 ## Introduction
 This experiment combines combustion with force and movement in a surprising way. The experiment lasts only a few seconds; the interesting part is predicting what will happen and finding an explanation.

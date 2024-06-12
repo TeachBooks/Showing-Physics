@@ -1,40 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Air is not nothing: weighing air
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15-30 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">10-12</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">properties of matter, weight, buoyant force, gravity</td>
     </tr>
 </table><br>
-# Air is not nothing: weighing air
-
-
-Author:     \
-Time:	15-30 minutes  	\
-Age group:	10-12\
-Concepts:	properties of matter, weight, buoyant force, gravity
 
 ## Introduction
 For young children, 'air' is not really a concept they can grasp. After all, an empty glass contains: nothing. By comparing the weight of air to that of matches, air becomes more tangible. In higher grades, you can involve the effect of buoyant force. The setup is deceptively simple; making a correct prediction and explanation is not trivial.

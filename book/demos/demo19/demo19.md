@@ -1,42 +1,34 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Merry-go-around of floating candles, 
+<span style="font-size: 25px; color: gray;">Lorentz force in liquids</span>
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Onne Slooten en Ed van den Berg</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">electromagnetism, Lorentz force, ions, current, magnetic field</td>
     </tr>
 </table><br>
-# Merry-go-around of floating candles, Lorentz force in liquids
-
-Author:     Onne Slooten en Ed van den Berg\
-Time:	  	10 minutes\
-Age group:	15 - 18\
-Concepts:	electromagnetism, Lorentz force, ions, current, magnetic field
 
 
- Original idea by {cite:t}`Biezeveld`.
+Original idea by {cite:t}`Biezeveld`.
 
 ```{figure} demo19_figure1.JPG
 ---

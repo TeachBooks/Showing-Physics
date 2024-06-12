@@ -1,39 +1,28 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
-
-</div>
+# Why does the water rise?
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15-30 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 10 and up</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">heating and expansion of air, pressure, combustion</td>
     </tr>
 </table><br>
-# Why does the water rise?
-
-Author:     \
-Time:	15-30 minutes  	\
-Age group:	Grade 10 and up\
-Concepts:	heating and expansion of air, pressure, combustion
 
 
 ```{figure} demo27_figure1.JPG
@@ -117,8 +106,8 @@ Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 :filter: docname in docnames
 ```
 
-
-## Worksheet
+``` {admonition} Worksheet
+:name: demo27_worksheet
 
 Bijlage van ShowdeFysica, demo03, Waardoor stijgt het water?
 Aanvulling op demonstratie nr 03
@@ -203,3 +192,4 @@ Het valt te overwegen sensoren in het glas aan te brengen, het temperatuur- en
 drukverloop gaandeweg het proces te registreren, en met videometen het volumeverloop
 vast te stellen. Zo is misschien kwantitatief vast te stellen welke vorm van de algemene
 gaswet het best dit proces beschrijft. Dit is (nog) niet uitgeprobeerd.
+```

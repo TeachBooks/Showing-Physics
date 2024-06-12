@@ -1,40 +1,31 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Dropping balls and bottles, 
+<span style="font-size: 25px; color: gray;">elasticity versus gravity</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wim Sonneveld</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">gravity and elastic force, acceleration of gravity</td>
     </tr>
 </table><br>
-# Dropping balls and bottles, elasticity versus gravity
 
-
-Author:     Wim Sonneveld\
-Time:	  	10 minutes\
-Age group:	15 - 18\
-Concepts:	gravity and elastic force, acceleration of gravity
 
 ## Introduction
 When a rigid body is dropped, all parts have the same acceleration. However, when you drop a body where the parts can move with respect to each other you get unexpected results!

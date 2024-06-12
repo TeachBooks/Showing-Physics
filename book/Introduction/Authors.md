@@ -114,4 +114,8 @@ Suzanne Schuurman<br>
 Frank Schweickert<br>
 Luuk Froling<br>
 Oda Warringa<br>
-Tom van Woudenberg  
+Ron Vonk<br>
+Tom van Woudenberg<br>
+Ella van Leeuwen<br>  
+Liliane Bouma en Maria<br>
+Antonia Jiminez Ruiz<br>

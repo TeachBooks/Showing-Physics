@@ -1,40 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# The returning can
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">5-15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">14 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">torque, spring energy, kinetic energy, equilibriumS</td>
     </tr>
 </table><br>
-# The returning can
-
-
-Author: Peter Dekkers\
-Time: 5-15 minutes\
-Age group:	14 - 18\
-Concepts: torque, spring energy, kinetic energy, equilibrium
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1V6Y9DVfD0g?si=RkpwUQ2hLUdFN4js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

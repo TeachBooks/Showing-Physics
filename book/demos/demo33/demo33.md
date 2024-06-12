@@ -7,28 +7,25 @@ align: right
 # Shadow of a Flame 1: 
 <span style="font-size: 25px; color: gray;">Spectral lines</span>
 
-Author:     \
-Time:	  	5 - 15 minutes\
-Age group:	16-18\
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">5 - 15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">16-18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">absorption spectra, emission spectra, formation of Fraunhofer lines, stellar atmospheres</td>
     </tr>
 </table><br>
-Concepts:	absorption spectra, emission spectra, formation of Fraunhofer lines, stellar atmospheres
+
 
 ## Introduction
 This demonstration is highly suitable for clarifying the paradox surrounding the formation of absorption spectra: a gas indeed absorbs certain radiation, but then emits exactly the same wavelength. So how do the dark Fraunhofer lines arise? This demonstration clarifies that those lines arise due to scattering.

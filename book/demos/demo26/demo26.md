@@ -1,37 +1,29 @@
-# Upward and downward force
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Upward and downward force
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Ed van den Berg</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 10</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">weight, buoyant force, action/reaction, pressure</td>
     </tr>
 </table><br>
-Author:     \
-Time:	15 minutes  	\
-Age group:	Grade 10\
-Concepts:	weight, buoyant force, action/reaction, pressure
 
 The demo is derived from the demo "the-bolt-in-the-beaker" from the York Science Education Center.
 
@@ -75,8 +67,6 @@ What will happen to the mass indicated on the balance?
 5. Have students write down a complete explanation before the discussion starts. *If we rest the screw on the bottom, what will the scale indicate? Why?*
 6. The teacher writes down some student explanations on the board, after which the discussion begins. Don't forget to conclude the discussion with a brief but complete explanation on the board including a force diagram.
 7. Repeat with string attached to the spring balance instead of the stand.
-
-
 
 ## Physics background
 The screw experiences an buoyant force equal to the weight of the displaced liquid. Therefore, there is an buoyant force from the water on the screw ($F_{\text{water on screw}}$) and hence, according to Newton's 3^{rd}^ law, a downward force from the screw on the water ($F_{\text{screw on water}}$). The latter force acts on the scale. An alternative explanation is that the water level rises, increasing the pressure on the bottom ($p = F/A = ρgh$) and thus increasing the force on the scale.<br>

@@ -34,6 +34,14 @@ This demonstration demonstrates the stability of an equilibrium when the center 
 * Extra bottle-opener (of any design)
 * Cleaning utensils (if desirable) 
 
+```{figure} demo17_fig1.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
+
 ## Preparation
 None, except gathering the equipment. The performance is more convincing if you prepare the set-up in front of the students instead of before the lesson.
 
@@ -41,6 +49,14 @@ None, except gathering the equipment. The performance is more convincing if you 
 In my experience it is best to set up the bottles while the students are watching, emphasizing the importance of the upper bottle by very diligently placing it on top of the opener while pushing the opener down demonstratively. You could provide a cleaning cloth or a mop in plain sight, warning the students that whoever makes a mess should clean it himself.
 
 Presumably you will have everyone’s attention by now, so it is time to put up the challenge: drink from the upper bottle without touching the lower bottle or the bottle opener and without using any other equipment except for one extra bottle opener (only to be used to open the top bottle). Pretty soon a student will say something like: ‘you can just grab it’. The teacher’s challenge than becomes to test this student’s self-assurance. Is he or she sure enough about this possibility to try it? Is the student willing to clean up the mess he might make? Of course, you also ask why the student thinks he can take the top bottle without breaking anything. When you feel the time is appropriate, the student can actually try his solution (and thus collect his reward).
+
+```{figure} demo17_fig2.jpg
+---
+width: 50%
+align: center
+---
+some caption
+``` 
 
 If no student suggests the correct solution, you can play a little trick with your class. Take another bottle from below your desk with some other drink than is in the upper bottle (in the pictured case something else than coke). Now you slowly change this bottle with the original top bottle, lifting the original one clearly, saying something like: ‘perhaps you do not like coke?’
 

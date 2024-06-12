@@ -1,39 +1,30 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Playing with Density
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Oda Warringa</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 - 15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">13</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">density, floating, sinking, suspension</td>
     </tr>
 </table><br>
-# Playing with Density
-
-Author:     Oda Warringa \
-Time:	  	10 - 15 minutes\
-Age group:	13\
-Concepts:	density, floating, sinking, suspension
 
 ## Introduction
 This demonstration can be performed as an introduction to or as practice with the concept of density. Students will observe that liquids can float on other liquids and that the mass/quantity of the liquid does not play a role. Students will also see that liquids do not automatically mix (when poured slowly). The materials used are familiar to students. Additionally, there is a good color contrast, so even students at the back of the class can see it well.

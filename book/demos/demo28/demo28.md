@@ -1,40 +1,34 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Warm & cold, salty & fresh, and ocean currents
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Ed van den Berg, Liliane Bouma en Maria
+Antonia Jiminez Ruiz</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">14 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">temperature, density, convection, salt concentration</td>
     </tr>
 </table><br>
-# Warm & cold, salty & fresh, and ocean currents
+
 
 **REFERENTIES ONTBREKEN, FILMPJE MIST**
-Author:     \
-Time:	15 minutes  	\
-Age group:	14 - 18\
-Concepts:	temperature, density, convection, salt concentration
+
 
 ## Introduction
 The Gulf Stream flows like a 100 – 200 km wide river across the Atlantic Ocean from the Caribbean to Europe. In the far north of the Atlantic Ocean, the water becomes so cold at the surface that it has a greater density than slightly warmer underlying water, it sinks and is carried back to the tropics at depths of several kilometers. This Atlantic conveyor belt is maintained by differences in temperature and salinity, wind, and the rotation of the earth (Coriolis force). A series of demonstrations will sequentially show that warm water 'floats' on cold water, fresh water on salt water, and that differences in temperature and salt concentration can cause currents. In the aquarium, we see the beginning of such a conveyor belt system that can transport a lot of energy due to the high specific heat capacity of water.
