@@ -1,46 +1,37 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
+# Does the magnet challenge gravity?
 
-</div>
+<span style="font-size: 25px; color: gray;">Falling magnet and Newton's Third Law: n</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10-15 minutes, extendable</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">16+</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Newton's First, Second and Thirs Law; constant velocity</td>
     </tr>
 </table><br>
-# Falling magnet and Newton's Third Law: does the magnet challenge gravity?
-
-Author: Wouter Spaan\
-Time:	10-15 minutes, extendable\
-Age group: 16+\
-Concepts:	Newton's First, Second and Thirs Law; constant velocity
 
 ```{figure} demo16_figure1.jpg
 ---
 width: 50%
 align: center
 ---
-CAPTION
+The experimental setup with the copper tube attached to the force sensor. The tube can be both closed and open. In this picture the tube is open ended.
 ```
 
 ## Introduction
@@ -61,7 +52,7 @@ Build the experimental set-up as pictured in figures 1 and 2.
 width: 50%
 align: center
 ---
-CAPTION
+The force-time diagram when the magnet falls through the tube. The blue line is the closed tube, the red the open tube. The 'additional' measured force is in both cases the same and equal to the gravitational force acting on the magnet.
 ```
 
 ## Procedure

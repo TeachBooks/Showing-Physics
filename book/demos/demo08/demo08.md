@@ -5,7 +5,8 @@ width: 35%
 align: right
 ```
 
-# Magic Memory Balls: Density of Solids and Floating and Sinking
+# Magic Memory Balls
+<span style="font-size: 25px; color: gray;">Density of Solids and Floating and Sinking</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 

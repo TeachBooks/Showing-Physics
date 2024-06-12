@@ -4,7 +4,8 @@ width: 35%
 align: right
 ```
 
-# No Force Needed to Sustain Constant Speed: Newton’s First Law
+# No Force Needed to Sustain Constant Speed 
+<span style="font-size: 25px; color: gray;">Newton’s First Law</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 

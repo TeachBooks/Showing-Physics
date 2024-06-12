@@ -1,40 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Who Dares? Stable equilibrium using small bottles
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">5 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">14+</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">(Stable) equilibrium, gravity, normal force, line of force</td>
     </tr>
 </table><br>
-# Who Dares? Stable equilibrium using small bottles
-
-
-Author:     Wouter Spaan\
-Time:	  	5 minutes\
-Age group:	14+\
-Concepts:	(Stable) equilibrium, gravity, normal force, line of force
 
 ## Introduction
 This demonstration demonstrates the stability of an equilibrium when the center of mass is directly below its support. You can present this experiment as a challenge to the students, engaging them meaningfully. 
