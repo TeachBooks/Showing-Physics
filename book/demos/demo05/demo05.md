@@ -38,7 +38,7 @@ In this demonstration on Newton’s First Law you can direct students’ thought
 * Power source and electromotor; 
 * two more retort stands each with a clamp and a pulley.
 
-```{figure} demo05_figure1.JPG
+```{figure} demo05_figure1.jpg
 ---
 width: 50%
 align: center
@@ -55,7 +55,7 @@ The cord is revolving uniformly, so a knot in the cord moves along at constant s
 
 A Predict-Observe-Explain approach is appropriate here. An example is presented in the worksheet below. Students predict in advance, in writing, what they expect will be measured in answering the two questions. Then the experiment is carried out. A (slightly) larger speed is realised by increasing the potential difference driving the electric motor. A conclusion is formulated on the basis of the observations. It is applied in similar contexts to explore whether it is generally applicable. 
 
-```{figure} demo05_figure2.JPG
+```{figure} demo05_figure2.jpg
 ---
 width: 50%
 align: center
@@ -69,16 +69,17 @@ If an object moves along at constant velocity, with both a propelling force and 
 ```{tip}
 :class: dropdown
 Teachers sometimes tend to omit the revolving cord, but then how do you know or verify that the speed is constant?  
+
 The electric motor might be attached directly to the cart, to pull it along. However, especially if you involve students in carrying out the measurements, there is added value in students feeling in their hands that maintaining a higher speed does not require a greater pull. 
 
 Both pulling forces must be made to act at the same height on the cart, or torque may affect and disturb the measurements. If during testing the forward force turns out to be greater than the opposing force, check if the cord did not fall off a pulley. If not, increase the hanging mass. Using about 0.3 kg is normally enough to make friction negligible.  
 
-It is not so easy to maintain a constant speed, (let your assistants) practice a few times before measuring. 
-In a prototype version of the demonstration, studying the at-rest situation was included. This turned out to be (1) distracting, because friction can no longer be neglected, and (2) unnecessary, because students are well aware that the forces should be equal in that case.
+It is not so easy to maintain a constant speed, (let your assistants) practice a few times before measuring. In a prototype version of the demonstration, studying the at-rest situation was included. This turned out to be (1) distracting, because friction can no longer be neglected, and (2) unnecessary, because students are well aware that the forces should be equal in that case.
 ```
 
 ## Follow-up
 Students often start raising objections after a short while: “Yes but, surely the forces are not equal at the beginning, when the cart starts to move?” Be alert to note and respond to these remarks, because this is precisely where students’ views do accord with Newton’s. From a science educational perspective, our aim is that students come to distinguish conceptually between situations where the cart is accelerating, and those where the speed is constant. Rather than exposing ‘misconceptions’, pay a great deal of attention to this conceptual differentiation, when students express it. Encourage the idea that physics does accord with what they already know about motion and its causes. But express that knowledge more precisely and accurately. 
+
 Obviously, a single experiment will not cause students to expand and differentiate their understandings of force and motion to become fully Newtonian. Many students will still speak of the ‘force of motion’ when they explain why a skater or cyclist keep on moving beyond the finish line, after they stop propelling themselves. In developing Newtonian descriptions and explanations, students need to know when and why something is called a force in physics, and develop the concept of ‘interaction’ {cite}`dekkers1998`, and distinguish force from momentum.
 
 ## References
