@@ -38,7 +38,9 @@ align: center
 The context of this demonstration: A cappuccino
 ```
 
-This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a worksheet and practise their computation skills. The answer: {ref}`122 g<demo02_solt>`. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
+This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a worksheet and practise their computation skills. The answer: {ref}`122 g <demo02_sol>`. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
+
+What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
 ``` {admonition} solution
 :class: dropdown
@@ -53,7 +55,6 @@ With the assumption the specific heat is the same, $m_w$ can be calculated:
 $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
 
 ```
-
 
 ## Equipment
 * A large erlenmeyer flask
@@ -114,33 +115,39 @@ Steam can cause bad burns. So watch out with the steam coming through the rubber
 ```{admonition} Worksheet
 
 The following formulas may be of help:
+Specific heat:
 
-$$ Q = m ∙ c_w ∙ ∆T & Q = L · m $$
+$$ Q = m ∙ c_w ∙ ∆T $$
+
+Heat of evaporation:
+
+$$  Q = L · m $$
 
 In this experiment: 
 
 $$ Q_{absorbed} = Q_{emitted} $$
 
-$$ 50 [g] ∙ 4.2 [J/g°C] ∙ (65[°C] – 5[°C]) = m_{hot} ∙ 4.2 [J/g°C] ∙ (T_{hot} – 65°C)
+$$ 50 [g] ∙ 4.2 [J/g°C] ∙ (65[°C] – 5[°C]) = m_{hot} ∙ 4.2 [J/g°C] ∙ (T_{hot} – 65°C)$$
 
-$$ ρ_{water} ≈ 1,0 g/ml ; cmelk ≈ cwater = 4,18.103 J/g°C ; L = 2,26 . 106 J/kg (verdampingswarmte)$$
+$ ρ_{water} ≈ 1.0$ [g/ml];<br>
+$c_{melk} ≈ c_{water} = 4.18·10^3$ [J/g°C];<br>
+$L = 2.26·10^6$ [J/kg] (heat of evaporation)
 
-**Attempt 1:** water van 90°C (Theet is 90°C)
-Bereken hoeveel gram water van 90° C we bij 50 g ‘melk’ (hier ook water) van 5° C moeten voegen opdat temperatuur van de ‘melk’ 65°C wordt.
-Antwoord: 
+**Attempt 1:** hot water ($T_{hot} = 90$°C)<br>
+Calculate the amount of hot water $T_{hot} = 90$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.
+Answer: 
 
-**Attempt 2:**  water van 100°C (Theet is 100°C)
-Bereken hoeveel gram water van 100°C we bij 50 g ‘melk’ van 5°C moeten voegen opdat de temperatuur van de ‘melk’ 65° C wordt.
-Antwoord: 
+**Attempt 2:** boiling water ($T_{hot} = 100$°C)<br>
+Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.
+Answer:
 
-**Attempt 3:** heel heet water als het geen stoom zou worden
-Bereken Theet als we besluiten om 5 g heel heet water-niet-stoom bij 50 g ‘melk’ van 5°C voegen opdat de temperatuur van de ‘melk’ 65°C wordt (mheet is dus 5 g).
-Antwoord: 
+**Attempt 3:** Very hot water<br>
+Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.
+Answer: 
  
-**Attempt 4:** stoom van 100°C
-Bereken hoeveel gram stoom van 100°C we bij 50 g ‘melk’ van 5°C moeten voegen opdat de temperatuur van de ‘melk’ 65°C wordt.
-Antwoord: 
-
+**Attempt 4:** steam ($T=100$°C)<br>
+Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘melk’ with a temperature of 5°C to reach a temperature of 65°C.
+Answer: 
 ```
 
 ## References
