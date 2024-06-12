@@ -1,14 +1,10 @@
-# Developing Particle Explanations through Colouring Eggs 
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Developing Particle Explanations through Colouring Eggs 
 
 Author:     Peter Dekkers\
 Time:	  	30 + 30 + 30 min\
@@ -17,7 +13,6 @@ Concepts:	particle model, membranes
 
 ## Introduction
 The activity challenges students to explain what they observe, which is that some substances do, while others do not penetrate the membrane surrounding a raw egg, after its shell is removed. A simple particle model is introduced as a potentially viable explanation. The demonstration presents an example of the way in which models in science arise, and of their value and status. Difficult about particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, colour), properties that the particles themselves do not possess. The particles themselves, for example, (are thought to) consist of a point with mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. The demonstration attempts to show that the power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.
-
 
 ## Equipment
 * 10 eggs or more
