@@ -1,21 +1,29 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/open.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
 # No Force Needed to Sustain Constant Speed: Newton’s First Law
 
-Author:     Peter Dekkers\
-Time:	  	  15-45 minutes\
-Age group:	15 - 16\
-Concepts:	  Force, speed, acceleration, Newton’s first law
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;"> 
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">15-45 minutes</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">15 - 16E</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Force, speed, acceleration, Newton’s first lawS</td>
+    </tr>
+</table><br>
 
 ## Introduction
 In this demonstration of Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a students' practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.

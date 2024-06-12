@@ -1,31 +1,40 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
 # Magic with pendulums 
 
-Author:     Maarten van Woerkom\
-Time:	  	  20 minutes\
-Age group:	12 and up\
-Concepts:	  period, resonance
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;"> 
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Maarten van Woerkom</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">20 minutes</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">12 and up</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">period, frequency, resonance</td>
+    </tr>
+</table><br>
 
 ## Introduction
-5 or 6 pendulums are suspended from a rod (figure 1). Turn the rod slightly back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
+Five or six pendulums are suspended from a rod ({numref}`Figure {number} <demo07_fig1>`). Turn the rod slightly back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
 
 ```{figure} demo07_figure1.jpg
 ---
 width: 50%
 align: center
+name: demo07_fig1
 ---
-some caption
+A rod with some balls suspended using strings.
 ``` 
 
 ## Equipment
@@ -34,8 +43,17 @@ Use a 70 cm piece of broomstick as a rod. The strings should have a thickness of
 ## Preparation
 Practice several times with the rod and balls until your fingers know the resonant frequencies of each ball.
 
+```{figure} demo07_figure2.jpg
+---
+width: 50%
+align: center
+name: demo07_fig2
+---
+The red ball starts to move.
+``` 
+
 ## Procedure
-Hold the rod on the two ends (figure 2) in such a way that the balls will be in front of your face and body so the attention of the students will not be on the hands but on the colored balls. Now play a game about which ball will start moving. For example, ask students to concentrate on the red ball. Then make the red ball move with almost invisible turns of the rod at resonant frequency of the red ball. Same for other colors, ask the audience which ball should move and tell them that you can do this through your will power. But of course you make clever use of the different resonance frequencies. 
+Hold the rod on the two ends ({numref}`Figure {number} <demo07_fig2>) in such a way that the balls will be in front of your face and body so the attention of the students will not be on the hands but on the colored balls. Now play a game about which ball will start moving. For example, ask students to concentrate on the red ball. Then make the red ball move with almost invisible turns of the rod at resonant frequency of the red ball. Same for other colors, ask the audience which ball should move and tell them that you can do this through your will power. But of course you make clever use of the different resonance frequencies. 
 
 ```{tip}
 *	For a large audience it is better to use a large set-up with long pendulums then the resonant frequency is not too high.

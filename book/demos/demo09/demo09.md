@@ -7,10 +7,26 @@ align: right
 # Air or not?
 <span style="font-size: 25px; color: gray;">reasoning about flames and vapor</span>
 
-Author: Peter Dekkers\
-Time: 5-10 minutes\
-Age group: 12 - 14\
-Concepts: phases of water, evaporation, condensation, combustion, air, oxygen
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;"> 
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">5-10 minutes</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">12 - 14</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">phases of water, evaporation, condensation, combustion, air, oxygen</td>
+    </tr>
+</table><br>
+
 
 ## Introduction
 Just above the bubbling surface of boiling water, nothing unusual seems to happen. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?

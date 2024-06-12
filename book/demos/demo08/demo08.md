@@ -1,21 +1,30 @@
 
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
-
 # Magic Memory Balls: Density of Solids and Floating and Sinking
 
-Author:     Bart van Dalen\
-Time:	  	  10 minutes\
-Age group:	11-18\
-Concepts:	  density, floating, sinking, buoyant force (Archimedes Law)
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;"> 
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none;">Bart van Dalen</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">11-18</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">density, floating, sinking, buoyant force (Archimedes Law)</td>
+    </tr>
+</table><br>
 
 ## Introduction
 In this demonstration metal balls change into ping-pong balls. Of course that is impossible, but the initial explanation of the presenter also does not make sense. So how does it work? The observations challenge the students to find explanations. A very simple demo which challenges the audience to think about the concepts density, floating, and sinking.

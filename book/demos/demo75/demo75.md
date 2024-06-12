@@ -10,6 +10,24 @@ Author:     \
 Time:	  	20-30 minutes\
 Age group:	15 - 18\
 Concepts:	
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="background-color: white;"> 
+        <td style="text-align: left; padding: 3px; border: none;">Author:</td
+        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+    </tr>
+    <tr style="background-color: white;">
+        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+    </tr>
+</table><br>
 
 ## Introduction
 To let students experience the process of cooling solid objects, we observe the cooling of iron spheres with different diameters using a FLIR camera (C5). It is clearly visible that the smallest sphere cools down faster than the larger spheres. An experiment also conducted in the 18th century by George-Louis Leclerc to determine the age of the Earth.

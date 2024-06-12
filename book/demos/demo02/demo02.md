@@ -38,11 +38,12 @@ align: center
 The context of this demonstration: A cappuccino
 ```
 
-This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a worksheet and practise their computation skills. The answer: [122 g](demo02_sol). This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
+This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a worksheet and practise their computation skills. The answer: {ref}`122 g<demo02_solt>`. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
-(demo02_sol)=
 ``` {admonition} solution
 :class: dropdown
+:name: demo02_sol
+
 The absorbed heat by the milk is the emitted heat by the water:
 
 $$ |c_m m_m \Delta T_m| = |c_w m_w \Delta T_w| $$
