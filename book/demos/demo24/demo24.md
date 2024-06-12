@@ -1,39 +1,30 @@
-
-
-<div style="clear: both;">
-
 ```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-</div>
+# Writing with a Laser using Phosphorescence
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Norbert van Veen</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">14 - 18</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Phosphorescence, laser, photon energy, excitation, emission</td>
     </tr>
 </table><br>
-# Writing with a Laser using Phosphorescence
 
-Author:     Norbert van Veen\
-Time:	  	10 minutes\
-Age group:	14 - 18\
-Concepts:	Phosphorescence, laser, photon energy, excitation, emission
 
 ## Introduction
 Phosphorescence (luminescence) is a familiar phenomenon for many students. They recognize this from various "Glow in the Dark" stickers and objects. What they do not know is that a threshold energy is needed to make phosphorescence possible. We do this experiment using several lasers, each with different wavelengths. The intensity (or output power) of the laser makes no difference whether or not the surface will illuminate. We show this by using a He-Ne laser and by spreading the beam using a concave lens.
