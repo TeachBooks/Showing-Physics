@@ -10,24 +10,6 @@ align: right
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
         <td style="text-align: left; padding: 3px; border: none;">Maarten van Woerkom</td>
-<table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: white;"> 
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
-    </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
-    </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
-    </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
-    </tr>
-</table><br>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
@@ -61,6 +43,7 @@ If you put two blocks on top of each other, then the upper one remains stable if
 ---
 width: 50%
 align: center
+name: demo04_fig1
 ---
 The demo requires only some blocks.
 ```
@@ -73,18 +56,22 @@ Is it possible that the back of the top block passes the front of the bottom blo
 ---
 width: 50%
 align: center
+name: demo04_fig2
 ---
 We can try to use the approach that first comes into mind... but probably won't succeed.
 ```
 
-Usually blocks are stacked one by one. See the 4 blocks in figure 2. First the green block (1), then the orange block (2) that sticks out 1/3 of the block length, then another orange block (3) that also sticks out 1/3 of the block length.<br>
+Usually blocks are stacked one by one. See the 4 blocks in {numref}`Figure {number} <demo04_fig2>`. First the green block (1), then the orange block (2) that sticks out 1/3 of the block length, then another orange block (3) that also sticks out 1/3 of the block length.<br>
+
 The center of mass of the orange blocks together is now exactly above the left side of the green block at the bottom. So if you would place another block sticking out, the red one, the pile would tip over...<br>
+
 It is also possible to arrange the pile in reversed order: from top to bottom (figure 3). Put block one on top of block 2 (counting from above), then blocks 1 and 2 on top of block 3, etc.
 
 ```{figure} demo04_figure5.jpg
 ---
 width: 50%
 align: center
+name: demo04_fig5
 ---
 Building the pile in reversed order requires to find the center of mass each time.
 ```
@@ -100,19 +87,21 @@ All of that above block 5 and the overhang is already more than one block length
 ---
 width: 50%
 align: center
+name: demo04_fig3
 ---
 The physics (and mathematics) behind stacking blocks
 ```
 
 ```{Tip}
 * Instead of blocks of wood you can also use CD cases or big Lego blocks.
-* If you google with the term “markthal Rotterdam”, then you will see on the photographs that the 228 apartments were stacked in a way you will now understand. Teacher Eline Bijker actually started her demonstration of stacking blocks with a photograph of the market hall in Rotterdam (figure 4) and asked her students which construction principle was used. The Rotterdam “markthal” is an indoor market with apartments stacked into an arch shape overhead. It was opened in 2014.
+* If you google with the term “markthal Rotterdam”, then you will see on the photographs that the 228 apartments were stacked in a way you will now understand. Teacher Eline Bijker actually started her demonstration of stacking blocks with a photograph of the market hall in Rotterdam ({numref}`Figure {number} <name: demo04_fig3>`) and asked her students which construction principle was used. The [Rotterdam “markthal”](https://en.wikipedia.org/wiki/Market_Hall_(Rotterdam)) is an indoor market with apartments stacked into an arch shape overhead. It was opened in 2014.
 ```
 
 ```{figure} demo04_figure4.jpg
 ---
 width: 50%
 align: center
+name: demo04_fig4
 ---
 The market hall in Rotterdam is stacked accourding to the principle above. Figure obtained from: https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg
 ```

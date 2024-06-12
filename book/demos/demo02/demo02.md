@@ -67,11 +67,19 @@ $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
 * Heat resistant gloves (to handle the hot rubber tube) or tongs
 * Access to refrigerator for cold water or milk
 
+```{figure} demo02_figure1.jpg
+---
+width: 50%
+align: center
+---
+The experimental setup
+```
+
 ## Preparation
 Fill the Erlenmeyer with water, preferably boiling water to prevent waiting by students. Connect the rubber tube with the stopper. Fill the measuring cylinder with about 50 ml water from the refrigerator (5 ml). This water functions as “milk”. Using real milk is fine too. 
 
 ## Procedure
-The first part of the execution consists of computations. 
+The first part of the execution consists of calculations. 
 
 A cappuccino is made by ...... (here follows the text of the introduction but **without the information that a cappuccino machine uses steam**)...... but what can you do if there is no time to heat the milk slowly like in a restaurant or coffee shop? A cappuccino machine adds “hot water” to heat the milk. The maximum dilution that is acceptable for the taste is 10%. Such a small dilution does not matter as expresso is strong coffee with a small amount of water. 
 
@@ -85,17 +93,10 @@ A cappuccino is made by ...... (here follows the text of the introduction but **
 
 > *That is very high, 665°C, that is not going to work. Let’s now look at what happens if we use steam, which is what we get when we heat water above 100°C.*
 
-```{figure} demo02_figure1.jpg
----
-width: 50%
-align: center
----
-The experimental setup
-```
 
 The teacher explains the set-up and asks a student to come to the front to measure the volume of “milk” and its temperature (should be about 5°C). 
 
-Start the experiment. Light the burner. First get the pre-heated water in the Erlenmeyer to boil. Wait until steam comes out of the rubber tube. Then put the end of the rubber tube into the “milk”. The student measurer reads the temperature every 10 seconds. Another student does general observations and is asked to look for bubbles. At about 62°C the burner is removed. At about 65°C the tube is removed using insulation gloves or a biceps. Do not wait too long removing the tube because after turning off the burner the remaining steam will condense and reverse the flow in the tube (suction). The observer student measures the final temperature (about 65°C) and estimates how much water was added to the “milk” (about 7 g).
+Start the experiment. Light the burner. First get the pre-heated water in the Erlenmeyer to boil. Wait until steam comes out of the rubber tube. Then put the end of the rubber tube into the “milk”. The student measurer reads the temperature every 10 seconds. Another student does general observations and is asked to look for bubbles. At about 62°C, the burner is removed. At about 65°C, the tube is removed using insulation gloves. Do not wait too long removing the tube because after turning off the burner the remaining steam will condense and reverse the flow in the tube (suction). The observer student measures the final temperature (about 65°C) and estimates how much water was added to the “milk” (about 7 g).
 
 > *The milk is now 65°C and we only needed about 7 g of steam! Not 86 g!  And we did not heat up to 665°C either. How is that possible, where did the energy come from?*
 
@@ -104,8 +105,6 @@ The experiment clearly shows that much less steam of 100°C is needed than water
 
 ```{tip}
 See the comment on withdrawing the tube timely from the milk before suction appears. 
-A worksheet is available on the site. 
-It is possible to do this experiment as student practical work, but watch out with the steam. 
 ```
 
 ```{warning}
@@ -117,7 +116,7 @@ Steam can cause bad burns. So watch out with the steam coming through the rubber
 The following formulas may be of help:
 Specific heat:
 
-$$ Q = m ∙ c_w ∙ ∆T $$
+$$ Q = m · c_w · ∆T $$
 
 Heat of evaporation:
 
@@ -127,27 +126,27 @@ In this experiment:
 
 $$ Q_{absorbed} = Q_{emitted} $$
 
-$$ 50 [g] ∙ 4.2 [J/g°C] ∙ (65[°C] – 5[°C]) = m_{hot} ∙ 4.2 [J/g°C] ∙ (T_{hot} – 65°C)$$
+$$ 50 \text{[g]} · 4.2 \text{[J/g°C]} · (65\text{[°C]} – 5\text{[°C]}) = m_{hot} · 4.2 \text{[J/g°C]} · (T_{hot} – 65\text{°C)}$$
 
 $ ρ_{water} ≈ 1.0$ [g/ml];<br>
 $c_{melk} ≈ c_{water} = 4.18·10^3$ [J/g°C];<br>
 $L = 2.26·10^6$ [J/kg] (heat of evaporation)
 
 **Attempt 1:** hot water ($T_{hot} = 90$°C)<br>
-Calculate the amount of hot water $T_{hot} = 90$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.
-Answer: 
+Calculate the amount of hot water $T_{hot} = 90$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.<br>
+Answer: ...
 
 **Attempt 2:** boiling water ($T_{hot} = 100$°C)<br>
-Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.
-Answer:
+Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.<br>
+Answer: ...
 
 **Attempt 3:** Very hot water<br>
-Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.
-Answer: 
+Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.<br>
+Answer: ...
  
 **Attempt 4:** steam ($T=100$°C)<br>
-Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘melk’ with a temperature of 5°C to reach a temperature of 65°C.
-Answer: 
+Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘melk’ with a temperature of 5°C to reach a temperature of 65°C.<br>
+Answer: ...
 ```
 
 ## References
