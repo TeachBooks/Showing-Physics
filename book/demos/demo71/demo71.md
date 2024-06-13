@@ -27,15 +27,17 @@ align: right
 
 An idea from {cite:t}`lederman1998avoiding`.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V96T3VjjuIc?si=4srWF8VcXYkpJ9mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Introduction
 You demonstrate a surprising phenomenon and use it to work on the understanding of the Nature of Science. It's about the journey, not the answer.
 
-```{figure} demo71_figure1.jpg
+```{figure} demo71_figure1.png
 ---
 width: 50%
 align: center
 ---
-Magic box. Photo: Aike Stortelder.
+The Magic box, note that the tubes used here are not long enough, see {numref}`Figure {number} <demo71_fig2>`.
 ```
 
 ## Equipment
@@ -75,6 +77,7 @@ See Figure 2. Initially, the siphon is almost filled to the top (left). With the
 ---
 width: 50%
 align: center
+name: demo71_fig2
 ---
 Diagram of the siphon, connected to one of the funnels. At the start, the siphon is almost completely filled with water and some dye.
 ```
