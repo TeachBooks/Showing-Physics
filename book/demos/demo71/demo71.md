@@ -29,6 +29,10 @@ An idea from {cite:t}`lederman1998avoiding`.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V96T3VjjuIc?si=4srWF8VcXYkpJ9mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+``` {note}
+The video is a little different from the performance described below. In the actual demonstration pooring a little more water should start the water flow. Moreover, the larger the bottle inside, the more surprising the effect as the water keeps on comming!
+```
+
 ## Introduction
 You demonstrate a surprising phenomenon and use it to work on the understanding of the Nature of Science. It's about the journey, not the answer.
 
