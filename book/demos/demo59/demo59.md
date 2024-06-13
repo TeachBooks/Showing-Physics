@@ -53,7 +53,7 @@ Lay out all the  supplies.
 2.	In pairs, write what a reasoned explanation (= hypothesis) for this phenomenon is. 
 3.	Collect all the ideas and then ask, again in pairs, to devise an experiment to test the hypothesis. For this, all the objects that are ready may be used. Other proposals are also fine, as long as the student can explain what makes the proposal bring you closer to an answer.
 4.	Take the opportunity to stimulate learning to investigate. To do so, structure the investigation. For instance by
-    -	Systematically applying PEOE (Predict-Explain , Observe-Explain) at each step, see ShowdePhysics1 p.16 LINK NEEDED.
+    -	Systematically applying [PEOE](../../Pedagogy/PoE.md) at each step.
     -	To make the difference between observation and conclusion (or interpretation) clear, you can put a table on the board with the headings:  Experiment, Observation, Interpretation/Conclusion 
 (= next testable hypothesis)	
 5.	In case no one suggests it: predict what happens when you use ice cubes to cool the light mill. 
@@ -85,10 +85,9 @@ It is fun to carry out this experiment when discussing Examination Problem VWO P
 ```
 
 ## Further investigation
-The English-language explanation on Wikipedia (Crookes radiometer) shows the whole history of the different possible explanations.
+The English-language explanation on [Wikipedia](https://en.wikipedia.org/wiki/Crookes_radiometer) (Crookes radiometer) shows the whole history of the different possible explanations.
 
 ## References
 ```{bibliography}
 :filter: docname in docnames
 ```
-https://en.wikipedia.org/wiki/Crookes_radiometer
