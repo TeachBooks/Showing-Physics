@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -71,7 +71,7 @@ Select questions for the follow-up discussion:
 2. Is it necessary to test if your explanation is correct? Why or why not? How can you test your explanation?
 3. Different explanations have been suggested in class. If you have to find the best explanation, what will you pay attention to?
 
-### On the site
+### On the side
 You can elucidate the following aspects of Nature of Science based on these questions. See also the introduction.
 1. Curiosity is a key driver for scientists. If they don't understand something, it's not disappointing but rather interesting and exciting.
 2. What you observe depends on what exists, but also on how you look. Scientists often only see something when they know what to look for.
@@ -79,7 +79,7 @@ You can elucidate the following aspects of Nature of Science based on these ques
 4. Explanations are not simply accepted. Scientists will thoroughly test them first. There are various ways to do this. For example, what should happen according to your explanation if you pour another cup of water into the box now? See the introduction for a further discussion of the characteristics of a good scientific explanation.
 
 ## Physics background
-See Figure 2. Initially, the siphon is almost filled to the top (left). With the little extra liquid from the small beaker, the liquid at A turns the corner. The tube goes up and down but remains completely filled all the time. The force that drives the water out of the siphon and into the tube is due to the pressure difference between A (1 bar) and B (liquid pressure at depth AB). This becomes smaller as it empties, but is zero only when the siphon is completely empty.
+See {numref}`Figure {number} <demo71_fig2>`. Initially, the siphon is almost filled to the top (left). With the little extra liquid from the small beaker, the liquid at A turns the corner. The tube goes up and down but remains completely filled all the time. The force that drives the water out of the siphon and into the tube is due to the pressure difference between A (1 bar) and B (liquid pressure at depth AB). This becomes smaller as it empties, but is zero only when the siphon is completely empty.
 
 ```{figure} demo71_figure2.png
 ---
