@@ -27,7 +27,11 @@ align: right
 
 An idea from {cite:t}`lederman1998avoiding`.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V96T3VjjuIc?si=4srWF8VcXYkpJ9mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/V96T3VjjuIc?si=4srWF8VcXYkpJ9mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 ``` {note}
 The video is a little different from the performance described below. In the actual demonstration pooring a little more water should start the water flow. Moreover, the larger the bottle inside, the more surprising the effect as the water keeps on comming!
@@ -79,7 +83,7 @@ See Figure 2. Initially, the siphon is almost filled to the top (left). With the
 
 ```{figure} demo71_figure2.png
 ---
-width: 50%
+width: 70%
 align: center
 name: demo71_fig2
 ---
