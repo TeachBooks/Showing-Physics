@@ -76,7 +76,7 @@ Familiarize yourself with the IOlab, find out hot to read out sensors and start 
 6. Ask students to reflect on the similarities and differences between their predicted graph and the measured graph. Provide, when necessary, the correct interpretation of the measurement results, explicitly link the three graphs ((a,t);(v,t);(s,t)) to each other and to the motion of the cart. This way, you can address: 
     1. At which point in the graph does the cart reach the highest point? 
     2. What does negative velocity mean? 
-7. Control question. A fun children's game is shooting a ball and then catching it. Draw the (v,t) graph of the ball from the moment you shoot it until you catch it.
+7. Question to check students' understanding: A fun children's game is shooting a ball and then catching it. Draw the ($v,t$) graph of the ball from the moment you shoot it until you catch it.
 
 ```{figure} demo69_figure3.jpg
 ---
@@ -88,7 +88,7 @@ Shooting a ball
 
 
 ## Physics background
-The kink in the ($v,t$) graph at $v$=0m/s (see {numref}`Figure {number} <demo69_fig4>` occurs because the friction force changes direction at the highest point reached.
+The kink in the ($v,t$)-graph at $v$=0m/s (see {numref}`Figure {number} <demo69_fig4>` occurs because the friction force changes direction at the highest point reached.
 
 ```{figure} demo69_figure4.jpg
 ---
@@ -96,11 +96,8 @@ width: 50%
 align: center
 name: demo69_fig4
 ---
-Shooting a ball
+The ($v,t$)-graph shows a kink at $v$=0m/s.
 ```
-
-
-
 
 ```{tip}
 - Graphically predicting velocity and acceleration is an essential part of this demonstration. Students must realize that the shpae they expected may not match the graphs in the measurements, which they may not be able to understand. If such a 'cognitive conflict' is followed up appropriately it can result in learning.
