@@ -28,7 +28,7 @@ align: right
 
 
 ## Introduction
-This is a demonstration everyone must see because it showcases such beautiful physics. Depending on the purpose, you can emphasize different aspects.
+This is a demonstration that must be seen by everyone because it showcases such beautiful physics. Depending on the purpose you choose you can emphasize different aspects.
 
 ```{figure} demo74_fig1.jpg
 ---
@@ -52,7 +52,7 @@ Start this demo with the rotating spiral (https://www.nvon.nl/leswerk/proevenboe
 
 ***Provide an explanation for why the flow is visible.***
 
-It's nice to attach an ice cream to a stand. You can also feel the flow by holding your hand in the airflow
+It's nice to attach an ice cream to a stand. It also creates an airflow that you can feel by holding your hand close
 
 ***What direction does the flow have?***
 
@@ -65,5 +65,5 @@ The shadow of a flame
 ```
 
 ## Physics background
-"The flame heats the air. The density of the warm air is now lower than that of the surroundings, causing it to rise. Due to the density difference in the air, light passes through different media and undergoes refraction. This can be seen as 'the shadow of the flame'. The flow visible here is an example of this. Initially, there is laminar flow, but it becomes turbulent at a certain point. Gently wave your hand and you'll see the laminar flow immediately become turbulent.
+"The flame heats the air. The density of the warm air is now lower than that of the surroundings, causing it to rise. Due to the density difference in the air, light passes through different media and undergoes refraction. This can be seen as 'the shadow of the flame'. The density differences and fluctuations in the flow are made visible here. Initially, there is laminar flow, but it becomes turbulent at a certain point. Gently wave your hand and you'll see the laminar flow immediately become turbulent.
 
