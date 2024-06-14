@@ -10,25 +10,25 @@ align: right
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none;">Norbert van Veen</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">10 min</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">Grade 8</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none;">Sinking, hovering, floating</td>
     </tr>
 </table><br>
 
 
 ## Introduction
-Students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
+Dutch students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
 
 ```{figure} demo76_figure1.jpg
 ---
@@ -49,10 +49,10 @@ Pour warm water into the aquarium. Fill a balloon with cold water and a little a
 ## Procedure
 You can start this demonstration with a discussion about sinking and floating. What causes something to float or sink? Then the concept of density comes up. What happens when an object has the same density as the liquid? Hovering.
 So, three possibilities. Students can usually come up with these themselves. Then move on to the demonstration.
-1. Explain what you are going to do (see steps 2 and 3) and have students note down what they think will happen to the balloon: sink, float, hover (or something else?).
+1. Explain what you are going to do (see steps 2 and 3) and have students write down what they think will happen to the balloon: sink, float, hover (or something else?).
 Place the balloon filled with cold water in the tank with warm water.
 2. Wait patiently until the balloon begins to hover and after a few minutes, it will eventually start floating.\
-You can have a student who chose that prediction explain each of the three phenomena.
+For each prediction, ask a student that made it to explain, and do so for each of the three phenomena.
 3. *Why does the balloon sink first?*
 4. *When does the balloon start to hover?*
 5. *Why does the balloon eventually float?*
@@ -65,6 +65,6 @@ You can have a student who chose that prediction explain each of the three pheno
 The balloon filled with cold water has an average density greater than that of warm water and will therefore sink. The water inside the balloon gradually heats up. The water balloon will have precisely the average density of the warm water for a while. Then the balloon hovers. If the water inside the balloon continues to increase in temperature, the average density decreases and the balloon floats.
 
 ```{tip}
-*	To prolong the process, you can put some ice in the balloon or leave the balloon with water in a refrigerator or freezer for a while. (Note: the water in the balloon should not be frozen, otherwise the demonstration will not work.) This way, you can reuse the water balloon in another class.
+*	To prolong the process, you can put some ice in the balloon or place the balloon with water in a refrigerator or freezer for a while. (Note: the water in the balloon should not be frozen, in that case the demonstration will not work.) This way, you can reuse the water balloon in another class.
 *	 If you cut off the nozzle of the balloon, the balloon will nestle nicely on the bottom.
 ```
