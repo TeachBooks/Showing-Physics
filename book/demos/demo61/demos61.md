@@ -1,13 +1,12 @@
-```{figure} ../figures/open.png
+```{figure} ../figures/ready.png
 ---
 width: 35%
 align: right
 ```
 
-# Chapter title
+# Trapped candles
 
 
-</div>
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
@@ -15,11 +14,11 @@ align: right
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none;">5-10 minutes</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none;">12-14</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
@@ -27,35 +26,55 @@ align: right
     </tr>
 </table><br>
 
-
-
-
-
-Author:     \
-Time:	  	\
-Age group:	14 - 18\
-Concepts:	
-
 ## Introduction
+Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar (see ShowdeFysica part 1, A03). The demonstration becomes much more interesting when you place two burning candles of different lengths under a bell jar. One option is to explain the demonstration and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg to do the experiment in the same lesson. 
 
-## Equipment
-
-## Preparation
-
-## Procedure
-
-```{figure} demo02_figure2.JPG
+```{figure} NV14_figuur_1_300dpi.jpg
 ---
 width: 50%
 align: center
-name: demo02_figX
 ---
-some caption
+Two burning candles of different lengths inside a sealed glass jar.
 ```
 
-## Physics background
+## Equipment
+- Two candles of different lengths in a stand
+- Matches
+- Glass bell jar or glass jar
+- Cloth to remove the condensed water from the bell jar
 
-## Follow-up
+## Preparation
+Set up the candles so they can easily fit under the bell jar and the bell jar can be placed easily.
+
+## Execution
+1. Light one candle first.
+2. What will happen to the candle when I place it under the bell jar?
+3. Place the candle under the bell jar.
+    - *Why does the candle go out?*
+5. Explain that oxygen is consumed during combustion, producing carbon dioxide and water vapor.
+    - *How did you observe both effects inside the bell jar?* 
+7. Ensure the bell jar has a proper oxygen ratio again by blowing into it or moving it back and forth.
+
+You can choose to perform steps 7, 8, and 9 in the same lesson or the next lesson.
+
+8. Tell the students that you will now place two candles of different lengths. Ask them which one will go out first and to explain why they think so.
+9. Perform the experiment.
+    - *What is the explanation?*
+11. Control question: *Explain why a wood stove has a chimney.*
+
+## Physics Background
+There are two plausible explanations:
+1. **Without Flow:** During combustion, warm water vapor and carbon dioxide are produced. The water vapor condenses on the wall of the glass bell jar. The carbon dioxide has a high temperature and therefore a temporarily low density, causing it to rise. It accumulates at the top, forming a layer at the top, so the upper candle goes out first. Oxygen is thus more concentrated in the lower part of the bell jar.
+2. **With Flow:** The hot carbon dioxide rises in the bell jar due to its low density, cools down, and sinks after cooling, creating a flow. This flow first reaches the lower candle, which consumes oxygen, so the higher candle gets relatively oxygen-poor air. The upper candle will therefore go out earlier.
+
+You can investigate which explanation is more accurate using CO2 sensors and temperature sensors under the bell jar. The height of the candles relative to the top of the bell jar may also affect the process.
+
+```{tip}
+- For better visibility, place the setup on a raised platform.
+- After burning the first candle, dry the inside of the bell jar due to condensed water vapor.
+- Students associate the smoke from the candle when it goes out with the production of carbon dioxide. However, this is gaseous candle wax that sublimates. The evaporation of candle wax continues for a while. Only if you look very closely can you see the flow in the beginning, when the 'bell jar' is not yet over both candles. You see the flame of the upper candle move. At the top of the bell jar, you don't see condensed water vapor because the temperature of the top of the bell jar is very high.
+- You can also time the demonstrations twice and ask what causes the time difference.
+```
 
 ## References
 ```{bibliography}
