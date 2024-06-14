@@ -9,8 +9,7 @@ align: right
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
         <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">
-Author: </td>
+        <td style="text-align: left; padding: 3px; border: none;">Freek Pols</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
@@ -22,7 +21,7 @@ Author: </td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Newton's first law; acceleration, IOLab, Mechanics</td>
+        <td style="text-align: left; padding: 3px; border: none;">Newton's first law; acceleration, IOLab, mechanics</td>
     </tr>
 </table><br>
 
@@ -51,8 +50,7 @@ Position, velocity, and acceleration
 - Slope ~15 cm wide, 50 cm long
 - Computer and projection.
 
-The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are to be borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
-
+Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
