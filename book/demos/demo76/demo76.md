@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
