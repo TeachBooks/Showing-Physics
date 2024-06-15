@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Air or not?
+# Can It Be Air?
 <span style="font-size: 25px; color: gray;">reasoning about flames and vapor</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -27,7 +27,7 @@ align: right
 </table><br>
 
 ## Introduction
-Just above the bubbling surface of boiling water, nothing unusual seems to happen. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?
+Just above the bubbling surface of boiling water, nothing unusual seems to be happening. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?
 
 ```{figure} demo09_figure1.jpg
 ---
@@ -40,22 +40,22 @@ The required materials
 ## Equipment
 * Electric boiler
 * water
-* tea light 
+* tealight 
 * a spaghetti spoon
 * matches 
-* webcam and screen to make a candle visible in the holder for the whole class.
+* webcam and screen to make the candle in the spoon visible to the whole class.
 
 ## Preparation
-* Pore some water in the kettle and let it come to a boil.
-* Leave the lid open so that the kettle does not turn itself off.
-* Put the candle in the holder and light the candle.
+* Pour some water in the kettle and let it come to a boil.
+* Leave the lid open so that the kettle does not automatically switch off.
+* Place the tealight in the spoon and light it.
 
 ```{warning}
 Working with boiling water has risks. Do not let students come too close; if possible, use a camera and projector to give everyone a good view.
 ```
 
 ## Procedure
-Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it, you see 'nothing'. What is actually there? Most students will say '(hot) air'. That idea can be tested, because if it is 'just' air, like the air we breath, there must be oxygen in it. So if we hold a burning candle in the kettle, it would just keep burning.
+Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it, you see 'nothing'. What is actually there? Most students will probably say '(hot) air'. That idea can be tested, because if it is 'just' air, like the air we breathe, there must be oxygen in it. So if we hold a burning candle in the kettle, it would then just keep on burning.
  
 Bring the burning candle down into the kettle, and note that the flame dies. Summarize the observations: 
 * the flame dies: above the water is a substance that looks like air but apparently is not;
@@ -80,5 +80,5 @@ The substance concerned has a name: "[steam](https://en.wikipedia.org/wiki/Steam
 
 
 ## Physics background
-The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 $\degree$C. The water vapor only condenses above the kettle, where temperature is lower. Due to lack of oxygen, the flame dies (some prior knowledge about burning is prerequisite).
+The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 $\degree$C. Water vapor or steam fills the space immediately above the boiling surface, it condenses only a bit higher up above the kettle, where the temperature is lower. Due to lack of oxygen, the flame dies in the steam (some prior knowledge about burning is prerequisite).
 
