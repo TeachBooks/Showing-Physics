@@ -165,13 +165,13 @@ parts:
     - file: demos/template
       title: to be sorted
       sections:
-      - file: demos/demo59/demos59
-      - file: demos/demo62/demos62
-      - file: demos/demo63/demos63
-      - file: demos/demo64/demos64
-      - file: demos/demo65/demos65
-      - file: demos/demo66/demos66
-      - file: demos/demo67/demos67
+      - file: demos/demo59/demo59
+      - file: demos/demo62/demo62
+      - file: demos/demo63/demo63
+      - file: demos/demo64/demo64
+      - file: demos/demo65/demo65
+      - file: demos/demo66/demo66
+      - file: demos/demo67/demo67
       - file: demos/test.ipynb 
 
 
