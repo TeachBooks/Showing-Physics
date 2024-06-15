@@ -8,21 +8,21 @@ align: right
 <span style="font-size: 25px; color: gray;">free fall with rotation</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: white;"> 
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">NAME</td>
+    <tr style="background-color: var(--background-color);">  
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">NAME</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">5 minutes</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5 minutes</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">15 and up</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 and up</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">acceleration of gravity g (=9.81 m/s2), free fall, rotationS</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">acceleration of gravity g (=9.81 m/s2), free fall, rotationS</td>
     </tr>
 </table><br>
 

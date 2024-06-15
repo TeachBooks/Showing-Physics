@@ -8,21 +8,21 @@ align: right
 <span style="font-size: 25px; color: gray;">Falling magnet and Newton's Third Law: n</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: white;"> 
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
+    <tr style="background-color: var(--background-color);">  
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">10-15 minutes, extendable</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-15 minutes, extendable</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">16+</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16+</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Newton's First, Second and Thirs Law; constant velocity</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Newton's First, Second and Thirs Law; constant velocity</td>
     </tr>
 </table><br>
 

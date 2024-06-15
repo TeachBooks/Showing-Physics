@@ -7,21 +7,21 @@ align: right
 # Cappuccino and specific heat versus heat of vaporization
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Frits Hidden, Jorn Boomsma, Anton Schins, Ed van den Berg</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Frits Hidden, Jorn Boomsma, Anton Schins, Ed van den Berg</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">10 - 15 minutes, more if student computation work is integrated in the demo</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 - 15 minutes, more if student computation work is integrated in the demo</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">14 - 18</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Heat of vaporization and condensation, specific heat</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heat of vaporization and condensation, specific heat</td>
     </tr>
 </table><br>
 

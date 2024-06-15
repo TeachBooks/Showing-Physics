@@ -7,21 +7,21 @@ align: right
 # Lorentz Force on Charged Particles
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: white;"> 
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;"> Wouter Spaan</td>
+    <tr style="background-color: var(--background-color);">  
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)"> Wouter Spaan</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">10 - 15 minutes</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 - 15 minutes</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">12 - 18</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12 - 18</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Lorentz, Force, Magnetic field, charge</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Lorentz, Force, Magnetic field, charge</td>
     </tr>
 </table><br>
 

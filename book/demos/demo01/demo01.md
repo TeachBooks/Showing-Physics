@@ -7,21 +7,21 @@ align: right
 # Introducing a Particle Model to Explanain the Colouring of Eggs 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Peter Dekkers</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">30 + 30 + 30 min</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 + 30 + 30 min</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">12-14</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">particle model, membranes</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">particle model, membranes</td>
     </tr>
 </table><br>
 

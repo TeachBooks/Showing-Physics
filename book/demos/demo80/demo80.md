@@ -8,28 +8,28 @@ align: right
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
 <<<<<<< Updated upstream
-    <tr style="background-color: white;"> 
+    <tr style="background-color: var(--background-color);">  
 =======
-    <!-- <tr style="background-color: white;"> 
+    <!-- <tr style="background-color: var(--background-color);">  
 >>>>>>> Stashed changes
         <td style="text-align: left; padding: 3px; border: none; color: black">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
     </tr> -->
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none;">30-40 minutes</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30-40 minutes</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none;">15 - 18</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
     </tr>
-    <tr style="background-color: white;">
-        <td style="text-align: left; padding: 3px; border: none;">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none;">Observing, luminosity, stars, measurement</td>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Observing, luminosity, stars, measurement</td>
     </tr>
 </table><br>
 
