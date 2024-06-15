@@ -70,7 +70,7 @@ Start the Phyphox app and load the Jupyter Notebook.
 Blow over the short tube to confirm.
 2. Explain that you want to determine the relationship between the length of the tube and the pitch (resonant frequency). Then measure the corresponding frequencies for all tube lengths using the Phyphox app for frequency measurements.
 3. Record the data in the Notebook. You can ask the students to determine the speed of sound themselves, assuming L = λ/4. They will then see that the calculated wave speed increases each time. This is strange! You can exploit this experience of 'strangeness' to make it plausible that it is useful to analyze the results with the computer/graphically. Then run the cells so that you see the graphs. *Is it true that the frequency decreases as the tube length increases?*
-4. Pay attention during the explanation to the linear relationship between the frequency of the fundamental tone f and the reciprocal of the tube length l. The slope coefficient gives the speed of sound.\
+4. During the explanation pay attention to the linear relationship between the frequency of the fundamental tone f and the reciprocal of the tube length l. From the slope coefficient find the speed of sound.\
 *But does the value actually match when using only one measurement? Why not?*
 5. Blow hard over the tube. You will clearly hear an overtone that you can measure. Check: *Make a drawing of a possible overtone in the tube. Calculate the resonant frequency based on that drawing.*\
 Verify this frequency with a measurement.
