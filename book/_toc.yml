@@ -172,6 +172,7 @@ parts:
       - file: demos/demo65/demos65
       - file: demos/demo66/demos66
       - file: demos/demo67/demos67
+      - file: demos/Test.ipynb 
 
 
       
