@@ -25,7 +25,9 @@ align: right
 </table><br>
 
 ## Introduction
-The start of a new topic should be somewhat exciting, stimulating curiosity. We describe a start for optics in which all students participate. This way of starting is also a model for physics itself: students make predictions which are then investigated with experiments.\
+The start of a new topic should be somewhat exciting, stimulating curiosity. This demonstration can be used as a start on the topic of optics, all students can participate. 
+
+The demonstration may illustrate how physics works as well though in a very simplified manner: students make predictions first and the actual experiment will 'proof' whether there predection is correct.\
 The students receive stickers which they have to paste on the wall at the spot where they expect the laser dot will appear after the laser light is reflected by the mirror.  
 
 ## Equipment
@@ -38,7 +40,7 @@ The students receive stickers which they have to paste on the wall at the spot w
 ---
 width: 50%
 ---
-SOME CAPTION
+The laser and mirror are at large distance from each other, pupils stick their stickers where they think the laser will hit the wall.
 ```
 
 ## Procedure
