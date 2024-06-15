@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Developing Particle Explanations through Colouring Eggs 
+# Introducing a Particle Model to Explanain the Colouring of Eggs 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;">
@@ -26,7 +26,7 @@ align: right
 </table><br>
 
 ## Introduction
-The activity challenges students to explain what they observe, which is that some substances do, while others do not penetrate the membrane surrounding a raw egg, after its shell is removed. A simple particle model is introduced as a potentially viable explanation. The demonstration presents an example of the way in which models in science arise, and of their value and status. Difficult about particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, colour), properties that the particles themselves do not possess. The particles themselves, for example, (are thought to) consist of a point with mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. The demonstration attempts to show that the power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.
+In this activity the shell of a raw egg is removed without boiling it. Next, students observe that some substances do penetrate the remaining membrane (without damaging it) while others do not. Students are challenged to explain these observations giving rise to the introduction of a simple particle model as a potentially viable explanation. The demonstration presents an example of how models in science arise, and of their function, value and status. One difficulty with particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, colour), while these are properties that the particles themselves do not possess. The particles themselves (are imagined to) consist of, for example, bouncing pointlike objects that have mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. The demonstration attempts to show that the power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.
 
 ## Equipment
 * 10 eggs or more
@@ -37,10 +37,10 @@ The activity challenges students to explain what they observe, which is that som
 * syringe without needle 
 * salt
 * various food colourings (try an Asian food shop). 
-* A choice of other ‘test substances’ from the kitchen: tea, milk, salad oil, instant coffee; coloured soft drinks. 
+* A choice of other ‘test substances’ from the kitchen: tea, milk, salad oil, instant coffee, coloured soft drinks. 
 
 ## Preparation
-Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organic vinegar for about 3-4 days , to remove the shells. Replace the vinegar halfway when no more bubbles are formed, while some of the shells of the eggs remain. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
+Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organic vinegar for about 3-4 days, to remove the shells. Replace the vinegar halfway if no more bubbles are formed, in case some of the shell of the eggs remain attached. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
 
 ## Procedure
 ### 1. Oriëntation (30 min)
@@ -52,7 +52,7 @@ Students often come up with the following ideas.
 ***Explanation 1. The egg shell kept the egg together, it has ‘sagged’ while losing its shell.***
 
 Test: if this is correct, it should be possible to compress the material in the egg. Is that the case?
-Cut one of the eggs, fill the syringe with it, remove the air, close the syringe and try to compress it. Conclusion?
+Cut one of the eggs in a bowl, fill the syringe with its contents, remove the air, close the syringe and try to compress it. Conclusion?
 
 ```{figure} demo01_figure1.JPG
 ---
@@ -65,10 +65,10 @@ An unboiled egg in vinegar.
 ***Explanation 2. ‘Water’ has entered the egg.***
 
 Test: place one of the eggs in a pan of water, boil it slowly until it is reasonably firm (about 15 min should do). Open the egg and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
-Conclusion: vinegar goes through the outer ‘skin’ or membrane of an egg, but egg white does not. How do other substances behave?
+Conclusion: vinegar enters the egg through its outer ‘skin’ or membrane, but egg white does not emerge. How do other substances behave, can they move trough the 'skin' of an egg?
 
 ***Research plan***
-Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly and cook the egg for a long time, then open it and investigate the contents.
+Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly (to avoid breakage) and cook the egg (it may take a long time to solidify), then open it and investigate the contents.
 
 ```{figure} demo01_figure2.JPG
 ---
@@ -79,7 +79,7 @@ Unboiled egg without its shell.
 ```
 
 ### 2. Collecting and presenting observations (30 min)
-The second session continues after the plan has been carried out, and the eggs with test substances have been boiled. The observations of the contents by watching and tasting will lead to the following conclusions, among others:
+The second session continues after the plan has been carried out, and the eggs with test substances have been boiled. The observations of the contents by watching and tasting should lead to the following conclusions, among others:
 - the egg contains a second membrane that surrounds the yolk;
 - egg white and yolk do not penetrate the membrane that surround them;
 - salt and vinegar penetrate both membranes;
@@ -108,7 +108,7 @@ align: center
 Food coloring penetrates the outer but not the inner membrane.
 ```
 
-Subsequently suggest, (if the suggestion has not been made): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the fleeces are not entirely closed but have tiny holes, similar to the pores in your skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about to and fro. It is impossible, however, to see the swarming or shaking of the particles, they are much too small for that, but there are nice simulations to visualize the particles: https://phet.colorado.edu 
+Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming or shaking of the particles. They are much too small for that, but there are nice simulations to visualize the particles' behaviour: https://phet.colorado.edu 
 
 Questions for discussion (to be used for example in a think-pair-share activity)
 Answer the questions below by trying to use the ideas presented above.
