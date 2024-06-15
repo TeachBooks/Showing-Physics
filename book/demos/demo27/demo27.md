@@ -109,87 +109,41 @@ Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 ``` {admonition} Worksheet
 :name: demo27_worksheet
 
-Bijlage van ShowdeFysica, demo03, Waardoor stijgt het water?
-Aanvulling op demonstratie nr 03
-Waardoor stijgt het water?
-Een nieuwe kijk op een oud proefje
-Scenario bij een POE-aanpak
-**Predict**
-Giet wat (gekleurd) water in het schoteltje, zet de kaars erin en steek
-die aan. Zet het glas gereed. Leg uit dat je zo meteen het glas over
-de kaars gaat zetten.
-Vraag om een voorspelling van wat er gaat gebeuren. Zelfs heel jonge kinderen weten
-dat de kaars na een tijdje uit zal gaan. Oudere leerlingen weten misschien ook al dat de
-vloeistof op zal stijgen in het glas.
-(Het is mooi als voorspellingen door leerlingen wel deels, maar niet helemáál waar zijn.
-Dan is het waarnemingsresultaat niet deprimerend maar ontstaat toch ruimte tot leren.)
-Observe.
-Geef de opdracht om zorgvuldig waar te nemen wat er gebeurt vanaf het moment dat je
-het glas over de kaars zet, en dat zo precies mogelijk op te schrijven. Plaats dan het glas
-en wacht af.
-Vergelijk daarna de waarnemingen. Iedereen zal gezien hebben dat de kaars uit gaat en
-sommigen, dat er aan het begin luchtbellen ontsnappen. Meestal ziet niet iedereen, dat
-het vlammetje geleidelijk aan kleiner wordt, niet plotseling. Bijna iedereen ziet dat het
-water stijgt in het glas, maar het valt niet altijd op dat dit pas echt begint als de vlam uit
-is. Sommigen merken op dat de pit nog een tijdje rookt als hij al uit is, en een enkeling
-zelfs, dat er wat condens op het glas neerslaat.
-Vrijwel altijd blijkt dat niet iedereen hetzelfde waarneemt. De docent kan opmerken dat
-dergelijke verschillen ook bij wetenschappers heel gewoon, soms zelfs noodzakelijk zijn.
-Bijvoorbeeld, omdat ze geïnteresseerd zijn in verschillende aspecten van de gebeurtenis:
-voor een bioloog, scheikundige of natuurkundige zijn verschillende aspecten van het
-dovende kaarsje interessant.
-Explain.
-Leerlingen leren dat zuurstof nodig is voor verbranding. Is de zuurstof op dan gaat het
-kaarsje uit. In sommige biologie-schoolboeken staat deze proef met als uitleg: het water
-neemt de plaats van de verdwenen zuurstof in. Daarom stijgt het op. Het water vult vaak
-inderdaad een deel van het glas dat ruwweg past bij het percentage zuurstof in de
-atmosfeer volgens Binas: 21%.
-Maar dat is vreemd: volgens de scheikunde zijn de zuurstofatomen er gewoon nog,
-alleen in andere verbindingen dan in het begin. Als er nog precies evenveel atomen zijn,
-hoe kan er dan ruimte ontstaan voor het water om te vullen? Wat denken de leerlingen
-daarvan?
-Tot dusver zijn we drie verklaringen tegen gekomen, maar er kunnen er nog wel meer
-zijn:
-1. Het water neemt de plaats in van de zuurstof die bij verbranding opgebruikt is.
-2. Als de vlam dooft daalt de temperatuur. Volgens de algemene gaswet nemen dan de
-druk en/of het volume af. De atmosferische druk duwt water naar binnen tot een
-nieuw evenwicht is ontstaan.
-3. In de vlam ontstaat gasvormig water. Als de vlam dooft slaat het water neer. Dan
-neemt het aantal moleculen in het gas af, dus ook de druk. De atmosfeer duwt water
-naar binnen tot een nieuw evenwicht ontstaat.
-Jampot wordt over
-brandende kaars geplaatst.
-In het schoteltje zit water.
-Bijlage van ShowdeFysica, demo03, Waardoor stijgt het water?
-Laat leerlingen de verklaring kiezen die hen het beste lijkt en argumenten voor de eigen
-verklaring en tegen die van de anderen bedenken. Argumenten zijn aannemelijker
-naarmate ze beter passen bij al bekende theorie, en naarmate ze beter passen bij de
-waarnemingen. Op basis van die criteria kunnen de groepjes hun visies vergelijken.
-Afsluitend kan besproken worden: het is helemaal niet vreemd voor wetenschappers om
-het oneens te zijn. Ook zij kunnen verschillende waarnemingen belangrijk vinden en
-verschillende verklaringen accepteren. De slimste en creatiefste wetenschappers vinden
-de beste waarnemingen en argumenten voor hun eigen gelijk en tegen dat van anderen.
-Dit is daarom een uitstekende aanpak gebleken voor de snelle ontwikkeling van
-betrouwbare wetenschappelijke kennis.
+Supplement to demonstration No. 03
 
-### Follow-up
-**Observe**
-Zet, om een keer goed het waarnemen te oefenen, een webcam bij het experiment en
-speel de gebeurtenissen opnieuw af. Laat leerlingen opnieuw hun kwalitatieve
-waarnemingen noteren, en tijdstippen daarbij aangeven. Bouw op het bord een
-beschrijving van de gebeurtenissen en tijdstippen op. Vervolgens kan de discussie van
-verklaringen steeds gekoppeld worden aan directe verwijzingen naar de observaties. Zo
-komt het wetenschappelijk gehalte van de activiteiten al op een wat hoger niveau.
+Why Does the Water Rise?
+A New Look at an Old Experiment
 
-**Explain**
-In plaats van leerlingen mogelijke verklaringen voor te schotelen kun je ze die ook zelf
-laten bedenken, en daarbij een praktische manier om die zelf te testen. Dat gaat wel
-(veel) meer tijd kosten.
-Doe je deze proef met drie kaarsen in plaats van één, dan komt het uiteindelijke water
-niveau hoger (Liem, 1987, p. 37). Met welke van de verklaringen stemt deze
-waarneming overeen?
-Het valt te overwegen sensoren in het glas aan te brengen, het temperatuur- en
-drukverloop gaandeweg het proces te registreren, en met videometen het volumeverloop
-vast te stellen. Zo is misschien kwantitatief vast te stellen welke vorm van de algemene
-gaswet het best dit proces beschrijft. Dit is (nog) niet uitgeprobeerd.
+Scenario for a POE (Predict-Observe-Explain) Approach
+
+Predict
+Pour some (colored) water into the dish, place the candle in it, and light it. Get the glass ready. Explain that you are about to place the glass over the candle.
+Ask for a prediction of what will happen. Even very young children know that the candle will go out after a while. Older students may also know that the liquid will rise in the glass.
+(Ideally students' predictions are partially, but not entirely, accurate. This way, the observation result is not discouraging, but there is still room for learning.)
+
+Observe
+Instruct the students to carefully observe what happens from the moment you place the glass over the candle, and to write down their observations as precisely as possible. Then place the glass and wait.
+Afterward, compare the observations. Everyone will have seen that the candle goes out, and some will have noticed air bubbles escaping at the beginning. Usually, not everyone notices that the flame gradually gets smaller rather than going out suddenly. Almost everyone sees the water rising in the glass, but it’s not always apparent that this only starts in earnest once the flame is out. Some note that the wick smokes for a while after the flame is out, and a few even observe condensation on the glass.
+It almost always turns out that not everyone sees exactly the same things. The teacher can point out that such differences are also very common among scientists and sometimes even necessary. This happens, for example, because they are interested in different aspects of the event: a biologist, chemist, or physicist might find different aspects of the extinguishing candle interesting.
+
+Explain
+
+The water replaces the oxygen consumed by combustion.
+Students learn that oxygen is necessary for combustion. When the oxygen is depleted, the candle goes out. Some biology textbooks explain the rising liquid level in this experiment by saying that the water rises to replace the disappeared oxygen. The water often does indeed fill a part of the glass that roughly corresponds to the percentage of oxygen in the atmosphere according to Binas (a Dutch reference book): 21%.
+But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct afyer all or can they think of an alternative?
+
+So far, our audiences have forwarded the following three possible explanations (but there may be others);
+1. The water replaces the oxygen consumed by combustion.
+2. When the flame goes out, the temperature drops. According to the ideal gas law, the pressure and/or volume then decreases. Atmospheric pressure pushes water in until a new equilibrium is reached.
+3. Gaseous water forms in the flame. When the flame goes out, the water condenses. This decreases the number of gas molecules, and thus the pressure. The atmosphere pushes water in until a new equilibrium is reached.
+
+Have students choose the explanation they think is best and come up with arguments for their own explanation and against those of others. Arguments are more plausible if they fit better with known theory and observations. Based on these criteria, groups can compare their views.
+In conclusion, the teacher may explain that it is not unusual for scientists to disagree. They can also find different observations important and accept different explanations. The smartest and most creative scientists find the best observations and arguments in favour of some claims (often their own) and against others (usually those of competitors). This has proven to be an excellent approach for the rapid development of reliable scientific knowledge.
+
+Further options
+To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
+Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
+If you do this experiment with three candles instead of one, the final water level rises higher (Liem, 1987, p. 37). Which of the explanations does this observation agree with?
+It might be worth considering placing sensors in the glass to record the temperature and pressure changes during the process, and using video measurement to establish the volume changes. This might quantitatively determine which form of the ideal gas law best describes this process. This has not (yet) been tested.
+
 ```
