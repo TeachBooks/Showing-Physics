@@ -8,7 +8,7 @@ align: right
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: white;"> 
-        <td style="text-align: left; padding: 3px; border: none; text-color: black">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: black">Author:</td>
         <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
