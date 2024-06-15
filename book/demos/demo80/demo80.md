@@ -7,9 +7,17 @@ align: right
 # Measuring 'Stars'
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
+<<<<<<< Updated upstream
     <tr style="background-color: white;"> 
+=======
+    <!-- <tr style="background-color: white;"> 
+>>>>>>> Stashed changes
         <td style="text-align: left; padding: 3px; border: none; color: black">Author:</td>
         <td style="text-align: left; padding: 3px; border: none;">Wouter Spaan</td>
+    </tr> -->
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
     </tr>
     <tr style="background-color: white;">
         <td style="text-align: left; padding: 3px; border: none;">Time:</td>
