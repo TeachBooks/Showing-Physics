@@ -72,7 +72,7 @@ Blow over the short tube to confirm.
 3. Record the data in the Notebook. You can ask the students to determine the speed of sound themselves, assuming L = λ/4. They will then see that the calculated wave speed increases each time. This is strange! You can exploit this experience of 'strangeness' to make it plausible that it is useful to analyze the results with the computer/graphically. Then run the cells so that you see the graphs. *Is it true that the frequency decreases as the tube length increases?*
 4. During the explanation pay attention to the linear relationship between the frequency of the fundamental tone f and the reciprocal of the tube length l. From the slope coefficient find the speed of sound.\
 *But does the value actually match when using only one measurement? Why not?*
-5. Blow hard over the tube. You will clearly hear an overtone that you can measure. Check: *Make a drawing of a possible overtone in the tube. Calculate the resonant frequency based on that drawing.*\
+5. Blow hard over the tube. You will clearly hear an overtone that you can measure. Check: *Make a sketch showing how the waves of possible overtones can fit in the tube. Calculate the resonant frequency based on that drawing.*\
 Verify this frequency with a measurement.
 
 ```{figure} demo79_figure2.jpg
@@ -90,8 +90,8 @@ $$f=\frac{v}{\lambda}=\frac{v}{4 l^{\prime}}$$
 Here, we note l' because the node does not lie exactly at the opening of the tube but just outside it. So:
 $$l^{\prime}=l+\Delta l$$
 
-Where ∆l is a systematic deviation. This also explains why you need measurements at multiple lengths.
+Where ∆l is a systematic deviation. It is because of this deviation that you need measurements at multiple lengths.
 
 ```{tip}
-*	When blowing hard on the tube, you clearly hear one of the overtones. The HAVO exam 2017-2 (question 1) also addresses this demonstration and can be used for further practice. Instead of using tubes of different lengths, you can also submerge one end in a tall measuring cylinder. The effective length of the tube is then easily adjustable. An interesting variant of this demonstration can be seen here: (https://youtu.be/eaeyIJAYsvo).
+*	When blowing hard on the tube, you clearly hear one of the overtones. The Dutch national HAVO exam 2017-2 (question 1) also addresses this demonstration and can be used for further practice. Instead of using tubes of different lengths, you can also submerge one end in a tall measuring cylinder. The effective length of the tube is then easily adjustable. An interesting variant of this demonstration can be seen here: (https://youtu.be/eaeyIJAYsvo).
 ```
