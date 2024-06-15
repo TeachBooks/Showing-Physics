@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Introducing a Particle Model to Explanain the Colouring of Eggs 
+# Introducing a Particle Model to Explain the Colouring of Eggs 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 
@@ -108,10 +108,10 @@ align: center
 Food coloring penetrates the outer but not the inner membrane.
 ```
 
-Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming or shaking of the particles. They are much too small for that, but there are nice simulations to visualize the particles' behaviour: https://phet.colorado.edu 
+Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are nice simulations to visualize the particles' behaviour: https://phet.colorado.edu 
 
 Questions for discussion (to be used for example in a think-pair-share activity)
-Answer the questions below by trying to use the ideas presented above.
+Answer the questions below by trying to use the ideas about particles presented above.
 1a. Which membrane then has bigger holes, the outer or the inner one?
 1b. Can you show in column 4 of the observations table which substances have large particles, which have medium size, and which have small particles?
 1c. Can you explain the observations with these ideas? 
@@ -125,9 +125,9 @@ We have carried out a kind of investigation into the properties of substances an
 2c. What did we not do, that a scientist would definitely do?
 2d. Can we call what we did a scientific investigation?
 
-Can we now be certain that substances consist of particles, and that fleeces have holes?
+Can we now be certain that substances consist of particles, and that egg membranes have holes?
 3a. Can you come up with a different explanation for the observations? 
-3b. Did you see particles or holes in fleeces? In that case can you be sure they exist?
+3b. Did you see particles or holes in the membranes? In that case can you be sure they exist?
 3c. Do you think scientists can see the particles? Can they be sure that they really exist? 
 We used a model to explain the observations. The model consists of ideas about the composition of substances and materials. We do not know for certain whether our model is entirely correct, but it does help us to figure out what is happening. People often use a model to make it easier to do or understand something. Examples: Google Maps, temperature graphs in the weather forecast, map of the school, X-ray photo at the dentist, sheet music, etc.
 
