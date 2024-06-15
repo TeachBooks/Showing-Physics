@@ -34,12 +34,12 @@ Place the jam jar over the burning candle.
 ```
 
 ## Introduction
-Everyone knows that, when placing a glass over a burning candle, the candle extinguishes when oxygen in the glass runs out. But is that the whole story? What exactly are you observing in this demonstration? Even when we're all looking at the same thing, we often see very different things.
+Everyone knows that, when placing a glass over a burning candle, the candle extinguishes when oxygen in the glass runs out. If the candle is standing in a container with some liquid, the liquid is partially pulled up into the glass in the process. But is that the whole story? What exactly are you observing in this demonstration? Even when we're all looking at the same event, we often see very different things.
 
-What causes the liquid level in the glass to rise? This can be explained in different ways. What are the arguments for and against each explanation? Do those arguments fit all observations?
+What causes the liquid level in the glass to rise? People tend to come up with different plausible explanations. What are the arguments for and against each explanation? Do those arguments fit all observations?
 
 From observation alone, no scientific insight follows, especially not when more than one explanation seems plausible. The result of research is often the conclusion that more research is needed. Sometimes even for an old and stale problem like this...
-The teacher performs the experiment but mainly directs the discussion to generate these insights.
+The teacher performs the experiment but is meant to mainly direct the discussion aimed at generating these insights.
 
 ## Equipment
 * Candle
@@ -50,35 +50,35 @@ The teacher performs the experiment but mainly directs the discussion to generat
 * Matches
 
 ## Preparation
-Pour some water into the plate, if possible with coloring, and place the candle in the middle and light it. Have the glass ready. It must be large enough that it does not touch the candle or flame when placed over it.
+Pour some water into the plate, if possible with coloring, and place the candle in the middle and light it. Have the glass ready. It must be large enough for it not to touch the candle or flame when placed over it.
 
 ## Procedure
-A detailed scenario for a Predict-Observe-Explain approach for this demo can be found at the bottom of this page. You will find here an outlined, hypothetical lesson plan, with suggestions for questions and assignments. 
+A detailed scenario for a Predict-Observe-Explain approach for this demo can be found below. You will find there an outlined, hypothetical lesson plan, with suggestions for questions and assignments. 
 
-If you place the glass over the burning candle, it will extinguish after a while, causing the water level in the glass to rise. At least three explanations are plausible for this:
+If you place the glass over the burning candle, it will extinguish after a while, causing the water level in the glass to rise. At least three explanations are plausible for explaining this:
 1. The water takes the place of the oxygen that is consumed during combustion.
 2. When the flame goes out, the temperature drops. According to the general gas law, the pressure and/or volume decrease. Atmospheric pressure pushes water inward until a new equilibrium is reached.
-3. Water is formed in the flame, which precipitates when the flame goes out. Then the number of particles in the gas decreases, so does the pressure. The atmosphere pushes water inward until a new equilibrium is reached.
+3. Water is formed in the flame, which precipitates when the flame goes out. Then the number of particles in the gas decreases, and therefore so does the pressure. The atmosphere pushes water inward until a new equilibrium is reached.
 
-Let students brainstorm arguments for and against each explanation, exchange them, and come to a conclusion. The teacher can also ultimately contribute their own input.
+Let students brainstorm arguments for and against each explanation, exchange them, and come to a conclusion. The teacher can also ultimately contribute his or her own input.
 
 ```{figure} demo27_figure2.JPG
 ---
 width: 50%
 align: center
 ---
-The candle is extinguished. Why did the liquid level rise?
+The candle is extinguished. What made the liquid level rise?
 ```
 
 
 ## Physics background
-(For explanation 3). With complete combustion of candle wax (mainly paraffin or stearin), roughly for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
+(For explanation 3). With complete combustion of candle wax (mainly paraffin or stearin), roughly speaking, for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
 
-(For explanation 2). Heat release to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
+(For explanation 2). Heat released to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
 
-(For explanation 1). For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the resulting space can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
+(For explanation 1). For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the 'resulting space' can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
 
-More important than the 'correct' explanation here is that students themselves come up with, defend, and evaluate arguments for the explanations. Another important aspect is that a need arises for empirical evidence.
+More important than the 'correct' explanation here is that students themselves come up with, defend, and evaluate arguments for and against the explanations. Another important aspect is that a need arises for empirical evidence.
 
 ```{figure} demo27_figure3.jpg
 ---
@@ -92,7 +92,7 @@ The balloon on the bottle inflates when you place the bottle in hot water.
 Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water (Liem, 1989, p. 36). **REFERENCE!!!!** Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
 ```
 
-Illustration of explanation 3: bring some water in an empty soda can to a boil, then quickly invert it in a bowl of cold water, with the opening below the water surface. The can collapses because the water vapor condenses.
+Illustration of explanation 3: bring some water in an empty soda can to a boil, then quickly invert it and place it in a bowl of cold water, with the opening below the water surface. The can collapses with a bang because the water vapor condenses.
 
 ## Follow-up
 With three candles instead of one, the final water level is higher (Liem, 1987, p. 37). Which of the explanations does this observation correspond to?
