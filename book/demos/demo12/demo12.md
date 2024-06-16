@@ -13,7 +13,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutesE</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutes</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
@@ -21,7 +21,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">acceleration, mass, inertia, rotational acceleration, rotational inertia (= moment of inertia), center of gravity, mass distributionS</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">acceleration, mass, inertia, rotational acceleration, rotational inertia (= moment of inertia), center of gravity, mass distribution</td>
     </tr>
 </table><br>
 

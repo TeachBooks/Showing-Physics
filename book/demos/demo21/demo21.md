@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -42,7 +42,7 @@ Construct a box with a transparent top and bottom of Perspex or glass with a dis
 width: 50%
 align: center
 ---
-some caption
+The old and the young Einstein to be scanned, enlarged and then printed on transparencies. The pictures can be dowloaded from ..... for printing. [NOTE: site needs to be included]
 ```
 
 ```{figure} demo21_figure2a.jpg
@@ -50,7 +50,7 @@ some caption
 width: 70%
 align: center
 ---
-some caption
+Box with a transparent Perspex or glass plate as top and bottom and opaque sides and with a black carton mask surrounding the bottom. The box is on top of the overhead projector.
 ```
 
 ```{figure} demo21_figure2b.jpg
@@ -58,17 +58,17 @@ some caption
 width: 50%
 align: center
 ---
-some caption
+The projection that is created by the setup when placing old Einstein over young Einstein.
 ```
 
 ## Preparation
 Put the box on top of the overhead projector (figure 4). At the start adjust the overhead projector such that the old Einstein is on the screen.
-```{figure} demo21_figure3.jpg
+```{figure} demo21_figure3.png
 ---
 width: 50%
 align: center
 ---
-some caption
+The old Einstein is on the screen; the young one appears by moving the white screen toward the OHP. Object distances are $o_1$ and $o_2$, and image distances are $i_1$ and $i_2$.
 ```
 
 
@@ -78,12 +78,12 @@ some caption
 
 2.	Again start with the old Einstein. Then move the head of the OHP (with mirror and lens) downward. The old Einstein fades away and the young Einstein appears. Moving the head of the OHP up again shows the reverse process, the old Einstein reappears at the expense of the young Einstein. 
 
-```{figure} demo21_figure4.jpg
+```{figure} demo21_figure4.png
 ---
 width: 50%
 align: center
 ---
-some caption
+The old Einstein is on the screen, the young one appears when moving the OHP head (mirror + lens) downward.
 ```
 
 ```{tip}
