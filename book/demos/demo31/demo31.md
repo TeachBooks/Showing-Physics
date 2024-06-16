@@ -1,5 +1,5 @@
 
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -38,7 +38,7 @@ The primary goal of this demonstration is to demonstrate the NTC behavior of gla
 * Gas burner
 
 ## Preparation
-* Completely break the glass of one of the light bulbs. This works best with a hammer while the light bulb is completely wrapped in a layer of paper. Then remove the filament from the light bulb. Also remove any support for the filament, for example, with a glass saw. The former lamp will then look like in figure 3 (without it glowing).
+* Completely break the glass of one of the light bulbs. This works best with a hammer while the light bulb is completely wrapped in a layer of paper. Then remove the filament from the light bulb. Also remove any support for the filament, for example, with a glass saw. The former lamp will then look like in {numref}`Figure {number} <demo31_fig3>`  (without it glowing).
 * Place the modified bulb and the intact bulb in a suitable socket, which is not too high on the rim (due to later heating). Connect these lamps in series with a switch.
 
 ```{warning}
@@ -54,24 +54,27 @@ The primary goal of this demonstration is to demonstrate the NTC behavior of gla
 ---
 width: 50%
 align: center
+name: demo31_fig1
 ---
-Figure 1. Circuit diagram of the setup. The resistor consists of a piece of glass (see figure 3).
+Circuit diagram of the setup. The resistor consists of a piece of glass (see {numref}`Figure {number} <demo31_fig3>`).
 ```
 
 ```{figure} demo31_figure1.jpg
 ---
 width: 50%
 align: center
+name: demo31_fig2
 ---
-Figure 2. If you (carefully!) heat the piece of glass, the resistance value decreases and the light bulb lights up.
+If you (carefully!) heat the piece of glass, the resistance value decreases and the light bulb lights up.
 ```
 
 ```{figure} demo31_figure2.jpg
 ---
 width: 50%
 align: center
+name: demo31_fig3
 ---
-Figure 3. The piece of glass continues to conduct even after it is removed from the flame. By blowing against this glass, you can cool it down and turn off the light bulb.
+The piece of glass continues to conduct even after it is removed from the flame. By blowing against this glass, you can cool it down and turn off the light bulb.
 ```
 
 

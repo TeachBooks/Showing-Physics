@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -34,7 +34,7 @@ Phosphorescence (luminescence) is a familiar phenomenon for many students. They 
 width: 50%
 align: center
 ---
-some caption
+The phosphorescent surface without excitation.
 ``` 
 
 ## Equipment
@@ -56,7 +56,7 @@ Paint a wooden board (any size) a few times with "glow in the dark" paint. Make 
 width: 50%
 align: center
 ---
-some caption
+The phosphorescent surface after illumination with a laser (405 nm). 
 ``` 
 
 
@@ -75,7 +75,7 @@ some caption
 width: 50%
 align: center
 ---
-some caption
+Different energy schemes to explain the experiment, only one is correct.
 ``` 
 
 ```{admonition} Possible explanations of emission with the energy schemes
