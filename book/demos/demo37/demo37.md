@@ -46,7 +46,7 @@ Set up the apparatus as shown in {numref}`Figure {number} <demo37_fig1>`. Connec
 Place the setup clearly on the lectern.
 ```
 
-```{figure} A05_NvV02_fig1_opstelling - site.jpeg
+```{figure} A05_NvV02_fig1_opstelling_site.jpg
 ---
 width: 50%
 align: center
@@ -61,12 +61,31 @@ The experimental setup, with a syringe and a pressure sensor.
 3.	Now the teacher shows the setup with a syringe with volume indication and a pressure sensor. *What should I do now to verify Boyle's Law?* Let the students think for a moment.
 4.	Short discussion... Outcome: set different volumes and measure the pressure to see if it matches the formula.
 5.	Then measure. Compare measured results with theoretical results.
+
+```{figure} A05_NvV02_fig2_metingen_site.jpg
+---
+width: 50%
+align: center
+name: demo37_fig2
+---
+Measurements of gas pressure against volume.
+```
+
 6.	*The measured result don't match, what could be the reason?* (brief student discussion in pairs).
 7.	*How can we adjust our model* $p \cdot V = \text{constant}$? (add constant term to $V$, the residual volume).
 8.	*How can we determine its size? Is there a clever way to transform our graph and extract it from there?* (from the deviation of the graph).
 Plot the graph of $\frac{1}{p}$ against $V$ by creating a variable $\frac{1}{p}$ in the Data Table. Show the graph of $\frac{1}{p}$ against $V$ to the students. Ask the students why it doesn't go through the origin. Have them read the residual volume from the graph.
 9.	Save the measurements as a result file. Open and execute the corresponding graphical model and examine the result.
 10.	Import the graph of the measurements as a background graph. Have students indicate where the differences are and try to get explanations from them.
+
+```{figure} A05_NvV02_fig4_resultaat_voor_en_na_volumecorrectie_site.jpg
+---
+width: 50%
+align: center
+name: demo37_fig4
+---
+Model comparison Boyle (orange) versus Van der Waals (green).
+```
 
 ```{tip}
 * Clearly show the value of the pressure sensor on the digital board. 
@@ -75,6 +94,7 @@ Plot the graph of $\frac{1}{p}$ against $V$ by creating a variable $\frac{1}{p}$
 
 ## Physics background
 The pressure and volume of a closed quantity of ideal gas behave according to Boyle's Law. Due to the residual volume of the hose and the pressure sensor, the hyperbola of the measurements will deviate slightly from the volume that is read from the syringe. If we call the residual volume $\Delta V$, then Boyle's Law can be written as:
+
 $$ P \cdot (V + \Delta V) = \text{constant} ( = n \cdot R \cdot T)$$
 
 The ideal gas law assumes that the attraction between molecules is zero and that the molecules themselves are point particles that occupy no volume. Van der Waals took into account the attraction and volume of molecules:
@@ -83,6 +103,14 @@ $$ (p + \frac{n^2a}{V^2})(V-n \cdot b) = n \cdot R \cdot T $$
 
 The pressure is corrected for attraction in it, and the volume of molecules is taken into account. These corrections become important at a higher density. The constant b is then roughly the volume of 1 mole, and the constant a depends on the attraction between molecules. These constants are determined empirically. For details, we refer to well-known textbooks such as {cite}`young2014`, chapter 17. Coach models for Boyle's Law and for the Van der Waals version are available on the site [**include link to the coach files**].
 
+```{figure} A05_NvV02_fig3_site.jpg
+---
+width: 50%
+align: center
+name: demo37_fig3
+---
+Graphical model of Van der Waals gas law. 
+```
 
 ## Follow-up
 What influence does a lower or higher temperature have on gas pressure measurements?
