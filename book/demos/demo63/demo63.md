@@ -13,11 +13,11 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-30 minutes</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14-18</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -25,12 +25,6 @@ align: right
     </tr>
 </table><br>
 
-
-
-Author:     \
-Time:	10-30 minutes  	\
-Age group:	14 - 18\
-Concepts:	
 
 ## Introduction
 In this demonstration, you make a nanoscale process visible in a simple way. Due to continuous evaporation water in a cup has a lower temperature than the room its in, even after hours of being in that room. We follow the temperature of a sheet of paper as evaporated water condenses on it. With the measured temperature rise, we estimate the number (layers) of water molecules needed for this increase.
