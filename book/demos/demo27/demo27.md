@@ -28,7 +28,7 @@ align: right
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/iiqLECiDG5w?si=_WJuqOQgLj-QJd-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-</div>df
+</div>
 
 ## Introduction
 Everyone knows that, when placing a glass over a burning candle, the candle extinguishes when oxygen in the glass runs out. If the candle is standing in a container with some liquid, the liquid is partially pulled up into the glass in the process. But is that the whole story? What exactly are you observing in this demonstration? Even when we're all looking at the same event, we often see very different things.
@@ -107,12 +107,9 @@ With three candles instead of one, the final water level is higher {cite:t}`liem
 Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 ```
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```
+## Worksheet
 
-``` {admonition} Worksheet Why Does the Water Rise?
+``` {admonition} Why Does the Water Rise?
 :name: demo27_worksheet
 
 **Scenario for a [POE Approach](../../Pedagogy/PoE.md)**
