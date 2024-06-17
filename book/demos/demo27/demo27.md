@@ -24,14 +24,11 @@ align: right
     </tr>
 </table><br>
 
-
-```{figure} demo27_figure1.JPG
----
-width: 50%
-align: center
----
-Place the jam jar over the burning candle.
-```
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iiqLECiDG5w?si=_WJuqOQgLj-QJd-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 ## Introduction
 Everyone knows that, when placing a glass over a burning candle, the candle extinguishes when oxygen in the glass runs out. If the candle is standing in a container with some liquid, the liquid is partially pulled up into the glass in the process. But is that the whole story? What exactly are you observing in this demonstration? Even when we're all looking at the same event, we often see very different things.
@@ -48,6 +45,14 @@ The teacher performs the experiment but is meant to mainly direct the discussion
 * Some water 
 * (optionally) coloring 
 * Matches
+
+```{figure} demo27_figure1.JPG
+---
+width: 50%
+align: center
+---
+Place the jam jar over the burning candle.
+```
 
 ## Preparation
 Pour some water into the plate, if possible with coloring, and place the candle in the middle and light it. Have the glass ready. It must be large enough for it not to touch the candle or flame when placed over it.
@@ -109,26 +114,23 @@ Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 ``` {admonition} Worksheet
 :name: demo27_worksheet
 
-Supplement to demonstration No. 03
-
-Why Does the Water Rise?
+Why Does the Water Rise?<br>
 A New Look at an Old Experiment
 
-Scenario for a POE (Predict-Observe-Explain) Approach
+**Scenario for a [POE (Predict-Observe-Explain)](../../Pedagogy/PoE.md) Approach**
 
-Predict
+**Predict**<br>
 Pour some (colored) water into the dish, place the candle in it, and light it. Get the glass ready. Explain that you are about to place the glass over the candle.
 Ask for a prediction of what will happen. Even very young children know that the candle will go out after a while. Older students may also know that the liquid will rise in the glass.
 (Ideally students' predictions are partially, but not entirely, accurate. This way, the observation result is not discouraging, but there is still room for learning.)
 
-Observe
+**Observe**<br>
 Instruct the students to carefully observe what happens from the moment you place the glass over the candle, and to write down their observations as precisely as possible. Then place the glass and wait.
 Afterward, compare the observations. Everyone will have seen that the candle goes out, and some will have noticed air bubbles escaping at the beginning. Usually, not everyone notices that the flame gradually gets smaller rather than going out suddenly. Almost everyone sees the water rising in the glass, but it’s not always apparent that this only starts in earnest once the flame is out. Some note that the wick smokes for a while after the flame is out, and a few even observe condensation on the glass.
 It almost always turns out that not everyone sees exactly the same things. The teacher can point out that such differences are also very common among scientists and sometimes even necessary. This happens, for example, because they are interested in different aspects of the event: a biologist, chemist, or physicist might find different aspects of the extinguishing candle interesting.
 
-Explain
-
-The water replaces the oxygen consumed by combustion.
+**Explain**<br>
+*The water replaces the oxygen consumed by combustion.*<br>
 Students learn that oxygen is necessary for combustion. When the oxygen is depleted, the candle goes out. Some biology textbooks explain the rising liquid level in this experiment by saying that the water rises to replace the disappeared oxygen. The water often does indeed fill a part of the glass that roughly corresponds to the percentage of oxygen in the atmosphere according to Binas (a Dutch reference book): 21%.
 But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct afyer all or can they think of an alternative?
 
@@ -140,7 +142,7 @@ So far, our audiences have forwarded the following three possible explanations (
 Have students choose the explanation they think is best and come up with arguments for their own explanation and against those of others. Arguments are more plausible if they fit better with known theory and observations. Based on these criteria, groups can compare their views.
 In conclusion, the teacher may explain that it is not unusual for scientists to disagree. They can also find different observations important and accept different explanations. The smartest and most creative scientists find the best observations and arguments in favour of some claims (often their own) and against others (usually those of competitors). This has proven to be an excellent approach for the rapid development of reliable scientific knowledge.
 
-Further options
+**Further options**<br>
 To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
 Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
 If you do this experiment with three candles instead of one, the final water level rises higher (Liem, 1987, p. 37). Which of the explanations does this observation agree with?
