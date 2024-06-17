@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -25,8 +25,13 @@ align: right
     </tr>
 </table><br>
 
-
 This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0SCfQsfwF6s?si=OwK5stIdVeMOO4zI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 ## Introduction
 This experiment combines combustion with force and movement in a surprising way. The experiment lasts only a few seconds; the interesting part is predicting what will happen and finding an explanation.
@@ -80,6 +85,10 @@ In free fall, the gravitational downard pull on both is zero, and thus the diffe
 
 ## Follow-up
 For further exploration: Will the tealight candle also be extinguished if you don't drop the jar but throw it (straight) up and catch it before it comes down? Does a flame tilt when going around a corner, and if so, in which direction (towards the inside or the outside of the curve)? How does a flame react to deceleration and acceleration?
+
+```{tip}
+There are some marvelous movie clips on [candles burning in space](https://www.youtube.com/watch?v=9zdD7lfB0Fs).
+```
 
 ## References
 ```{bibliography}
