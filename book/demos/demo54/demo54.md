@@ -32,7 +32,7 @@ Expanding shaving cream or balloons, boiling water without heat supply, and more
 
 
 
-```{figure} demo54_figure3.JPG
+```{figure} demo54_figure3.jpg
 ---
 width: 50%
 align: center
