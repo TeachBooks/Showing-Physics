@@ -94,13 +94,13 @@ The balloon on the bottle inflates when you place the bottle in hot water.
 ```
 
 ```{tip}
-Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water (Liem, 1989, p. 36). **REFERENCE!!!!** Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
+Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water {cite:t}`liem1991invitations` Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
 ```
 
 Illustration of explanation 3: bring some water in an empty soda can to a boil, then quickly invert it and place it in a bowl of cold water, with the opening below the water surface. The can collapses with a bang because the water vapor condenses.
 
 ## Follow-up
-With three candles instead of one, the final water level is higher {cite:t}`liem1991invitations, p. 37`. Which of the explanations does this observation correspond to?
+With three candles instead of one, the final water level is higher {cite:t}`liem1991invitations`. Which of the explanations does this observation correspond to?
 
 
 ```{warning}
@@ -119,12 +119,16 @@ Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 
 **Predict**<br>
 Pour some (colored) water into the dish, place the candle in it, and light it. Get the glass ready. Explain that you are about to place the glass over the candle.
+
 Ask for a prediction of what will happen. Even very young children know that the candle will go out after a while. Older students may also know that the liquid will rise in the glass.
+
 (Ideally students' predictions are partially, but not entirely, accurate. This way, the observation result is not discouraging, but there is still room for learning.)
 
 **Observe**<br>
 Instruct the students to carefully observe what happens from the moment you place the glass over the candle, and to write down their observations as precisely as possible. Then place the glass and wait.
+
 Afterward, compare the observations. Everyone will have seen that the candle goes out, and some will have noticed air bubbles escaping at the beginning. Usually, not everyone notices that the flame gradually gets smaller rather than going out suddenly. Almost everyone sees the water rising in the glass, but it’s not always apparent that this only starts in earnest once the flame is out. Some note that the wick smokes for a while after the flame is out, and a few even observe condensation on the glass.
+
 It almost always turns out that not everyone sees exactly the same things. The teacher can point out that such differences are also very common among scientists and sometimes even necessary. This happens, for example, because they are interested in different aspects of the event: a biologist, chemist, or physicist might find different aspects of the extinguishing candle interesting.
 
 **Explain**<br>
@@ -143,7 +147,11 @@ In conclusion, the teacher may explain that it is not unusual for scientists to 
 **Further options**<br>
 To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
 Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
-If you do this experiment with three candles instead of one, the final water level rises higher (Liem, 1987, p. 37). Which of the explanations does this observation agree with?
+If you do this experiment with three candles instead of one, the final water level rises higher {cite:t}`liem1991invitations`. Which of the explanations does this observation agree with?
 It might be worth considering placing sensors in the glass to record the temperature and pressure changes during the process, and using video measurement to establish the volume changes. This might quantitatively determine which form of the ideal gas law best describes this process. This has not (yet) been tested.
+```
 
+## References
+```{bibliography}
+:filter: docname in docnames
 ```
