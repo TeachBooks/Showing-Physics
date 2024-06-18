@@ -13,7 +13,6 @@ parts:
     - file: Introduction/Preface2     # checked
     - file: Introduction/Authors      #checked, add subauthors
     - file: Introduction/NVON
-    - file: Introduction/Contribute
     - file: Introduction/tableOC
   
   - caption: Pedagogy

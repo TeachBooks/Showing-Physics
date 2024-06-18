@@ -12,8 +12,8 @@ align: right
 3. [Preface from the editor](/introduction/Preface2.md)
 4. [About the authors](/Introduction/Authors.md))
 5. [NVON](/Introduction/Foreword.md)
-6. [Contribute](/Introduction/Contribute.md)
-7. [Table of contents](/Introduction/tableOC.md)
+6. [Table of contents](/Introduction/tableOC.md)
+7. 
 
 **Pedagogy**
 8. [Introduction](/Pedagogy/Introduction.md)
