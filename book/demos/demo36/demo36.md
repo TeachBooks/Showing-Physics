@@ -29,7 +29,13 @@ Earlier described in {cite:t}`Vonk2015`.
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe width="688" height="387" src="https://www.youtube.com/embed/Y9JK9J6-CUA" title="bellen 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe
+            src="https://www.youtube.com/embed/Y9JK9J6-CUA"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
     </div>
 </div>
 

@@ -25,7 +25,18 @@ align: right
     </tr>
 </table><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmkfJLrHSOE?si=SS2Ue0taTSUeXmge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/jmkfJLrHSOE?si=SS2Ue0taTSUeXmge"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 
 ## Introduction
 For many students the centripetal force is difficult to grasp. The misconception of a 'centrifugal force' is constantly looming. This experiment challenges students to seek an explanation for the displayed situation. By using the correct scientific terminology, encourage students to move away from the possible misconception of centrifugal force. This experiment can contribute to a 'conceptual change.'
