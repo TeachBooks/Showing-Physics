@@ -117,6 +117,7 @@ Oda Warringa<br>
 Ron Vonk<br>
 Tom van Woudenberg<br>
 Ella van Leeuwen<br>  
-Liliane Bouma en Maria<br>
+Liliane Bouma<br>
+Maria Antonia Jiminez Ruiz<br>
 Antonia Jiminez Ruiz<br>
 Rutger Ockhorst

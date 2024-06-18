@@ -1,4 +1,2 @@
 # Contribute
-{fa}github
-
-{fa}lightbulb
+An absolute advantages of Jupyter Online Books is the ability to have readers contribute. If you see a typo, if something is not clear, or anything needs to be adjusted, click the {fa}`github` button at the top of the screen and open an issue by clicking on the {fa}`lightbulb` button. (You need to have a github account though). 

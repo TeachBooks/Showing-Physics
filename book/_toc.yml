@@ -15,9 +15,7 @@ parts:
     - file: Introduction/NVON
     - file: Introduction/Contribute
     - file: Introduction/tableOC
-
-    
-
+  
   - caption: Pedagogy
     numbered: 2
     chapters:  
@@ -26,8 +24,7 @@ parts:
     - file: Pedagogy/Argumentation
     - file: Pedagogy/BackAndForthThinking  
     - file: Pedagogy/PoE
-    
-         
+           
   - caption: Demos on Nature of Science
     numbered: 2
     chapters:

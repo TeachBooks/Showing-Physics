@@ -4,8 +4,7 @@ width: 35%
 align: right
 ```
 
-#  Thinking-Back-and-Forth in demonstrations
-
+#  Thinking-Back-and-Forth 
 In all natural sciences, describing and explaining phenomena is key. A scientific description of a phenomenon evolves from everyday language to professional language, and from an arrangement of concepts into a coherent theory or model. These models and theories (in the world of ideas) allow us to develop hypotheses and predictions that can be tested by going back to the phenomenon (in the world of observations). When returning to the world of observations, our 'improved' theoretical understanding allows us to see more than we did when first observing the phenomenon. With 'new' observations come new questions, and so our understanding of the natural world develops in a process of observing, reflecting/questioning, and experimenting. This iterative and dynamic process of thinking-back-and-forth (TBF) {cite:t}`spaan2022analysing` between the empirical and the theory at each step of the process is a more accurate description of science than describing the scientific method as a linear process, from research question to experiment to conclusion.
 
 ```{figure} Figures/stacked_liquids.jpg
