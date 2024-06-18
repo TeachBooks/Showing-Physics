@@ -105,7 +105,7 @@ parts:
       - file: demos/demo26/demo26 
       - file: demos/demo45/demo45 #twice as much
       - file: demos/demo46/demo46 #parabolic trajectory
-      
+      - file: demos/demo66/demo66
       - file: demos/demo78/demo78 #rotational balloon      
       - file: demos/demo68/demo68 #collissions
       - file: demos/demo69/demo69 #hill
@@ -117,9 +117,11 @@ parts:
       - file: demos/demo34/demo34 #density bottle
       - file: demos/demo28/demo28 # cold and salt water
       - file: demos/demo36/demo36 #boiling water
+      - file: demos/demo64/demo64
       - file: demos/demo37/demo37 #boyle
       - file: demos/demo38/demo38 #pressure
       - file: demos/demo42/demo42 #cooling cans
+      - file: demos/demo63/demo63
       - file: demos/demo75/demo75 #cooling spheres
       - file: demos/demo99/demo99 #black or white
 
@@ -167,10 +169,10 @@ parts:
       sections:
       - file: demos/demo59/demo59
       - file: demos/demo62/demo62
-      - file: demos/demo63/demo63
-      - file: demos/demo64/demo64
+      
+      
       - file: demos/demo65/demo65
-      - file: demos/demo66/demo66
+      
       - file: demos/demo67/demo67
       
 
