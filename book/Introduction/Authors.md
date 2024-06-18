@@ -28,7 +28,7 @@ Ed van den Berg (1951) studied physics at the VU and received his PhD in Science
 :figclass: margin
 :width: 50%
 ```
-**Peter Dekkers**
+**Peter Dekkers** *(editor)*
 
 Peter Dekkers (1960) worked as a physics teacher, teacher trainer and physics education teacher in Botswana, South Africa and The Netherlands, at TU Delft since 2014. He did his Master in Foundations of Physics in Utrecht and received his PhD in Physics Education from the Vrije Universiteit Amsterdam. He did research on conceptual development, the role of practical work and Nature of Science. 
 
@@ -54,7 +54,7 @@ Karel Langendonck (1974) studied technical physics in Eindhoven. He worked in se
 :figclass: margin
 :width: 50%
 ```
-**Freek Pols**
+**Freek Pols** *(editor)*
 
 Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has been working as a practicum coordinator at TU Delft's Engineering Physics program. In 2023 he obtained his PhD on practicum education, specifically on teaching scientific inquiry. He now is an assistant professor at the Science & Engineering Education department. His research remains directed at the development of  experimental physics education, but now with a focus on university level. 
 
