@@ -25,7 +25,11 @@ align: right
     </tr>
 </table><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1V6Y9DVfD0g?si=RkpwUQ2hLUdFN4js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1V6Y9DVfD0g?si=RkpwUQ2hLUdFN4js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
 
 ## Introduction
 The originator of this demonstration is unknown. You can evoke fascination and amazement with it and illustrate the nature of science. Physics in school may seem like a subject where all the answers are already known, and where you can't express much imagination or creativity. But in this demonstration, it's about the suggestions, ideas, and solutions that the students come up with, and the correct answer is less important.
