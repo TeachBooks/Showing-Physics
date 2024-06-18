@@ -1,4 +1,4 @@
-```{figure} ../../figures/open.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -46,6 +46,14 @@ Light bulb and hand.
 ### Preparation
 Connect the light bulb to the mains.
 
+```{figure} demo52_figure1.JPG
+---
+width: 50%
+align: center
+---
+Feel with your hand at what distance the 100W lamp appears as hot as the sun.
+```
+
 ### Procedure
 Step 2 of the procedure is only carried out if it is summer and sunny; otherwise, students must rely on their memory of the sun's warmth on the beach (step 3). Work with groups of two students who come forward one by one. Student 1 performs the measurement and monitors blindfolded student 2 to ensure they do not burn their hand on the hot lamp. Emphasize this important task!
 1. Ask students how to easily estimate the power of the sun. Partially answer this by turning on the 100 W lamp, holding your hand near it, and asking how powerful a lamp would need to be at 150 million km to achieve the same warming effect. Then explain the basic measurement method, including the inverse square law. Alternatively, you could let students partially figure out the inverse square law themselves in step 6. The inverse square law can also be verified with a light sensor (see Follow-up).
@@ -55,10 +63,10 @@ Step 2 of the procedure is only carried out if it is summer and sunny; otherwise
 5. Students calculate the ratio between the distance to the sun and the average distance to the lamp.
 6. Students use the inverse square law or devise their own method to calculate the sun's power based on the lamp's power.
 7. There is a way to improve the estimate. The hand primarily feels the infrared radiation. For the light bulb, this is 90-95% of the radiation. For the sun, it is 52% of the radiation. What correction must be applied to get a better estimate of the sun's power?
-8. Look up the sun's power in Binas (table 32C). Was our experimental estimate reasonable (within a factor of 10)?
+8. Look up the sun's power. Was our experimental estimate reasonable (within a factor of 10)?
 
 ### Physics Background
-```{figure} B49_PF_fig2_ENG.jpg
+```{figure} demo52_figure2.JPG
 ---
 width: 50%
 align: center
