@@ -25,6 +25,14 @@ align: right
     </tr>
 </table><br>
 
+Earlier described in {cite:t}`Vonk2015`.
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe width="688" height="387" src="https://www.youtube.com/embed/Y9JK9J6-CUA" title="bellen 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
 ## Introduction
 
 Boiling might seem ordinary at first glance, but there's a lot to observe and explain physically in this seemingly mundane situation.
@@ -66,10 +74,15 @@ The setup of the experiment.
 
 The experiment demonstrates several physical phenomena, such as expansion of air upon heating, condensation of water vapor, and the behavior of bubbles formed by boiling water. The process of heating causes air expansion seen as large bubbles, which are then replaced by water vapor that condenses in the cooler environment of the beaker. This leads to a fascinating observation of the water boiling again after the heat source is removed due to the rapid condensation of water vapor and resultant pressure change.
 
-## References
+```{tip}
+A complete description (Ducht) can be found [here](https://www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c).
+```
 
-    Vonk, R. (2015). Dutch Journal of Physics, December 2016.
-    A very complete description is available at: www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c
-    YouTube video demonstration
+
+## References
+```{bibliography}
+:filter: docname in docnames
+```
+
 
 Further investigation ideas and safety precautions such as the use of safety goggles are also suggested due to the potential for the Erlenmeyer flask to burst when in contact with cold water after heating.

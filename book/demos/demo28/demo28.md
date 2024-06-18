@@ -92,6 +92,7 @@ align: center
 ---
 Cold above and warm below do mix.
 ```
+
 ## Physics background
 Water expands when heated, except between 0 and 4 degrees (anomaly of water). So, cold water has a greater density than warm water and will sink while warm water will rise. The same applies to salty versus fresh water. These mechanisms play a role in ocean currents, alongside the influence of wind and the rotation of the earth. Ponce de Leon, a successor of Columbus, had already noticed the Gulf Stream. As head of the American postal service, Benjamin Franklin became interested in the time differences between postal ships taking different routes (Winchester, 2010), and through interviews with captains, he mapped out the Gulf Stream. Because of the large specific heat capacity of water and the huge amount, the effect of the Gulf Stream on the climate in Western Europe is significant.
 
