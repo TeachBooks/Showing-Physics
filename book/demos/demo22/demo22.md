@@ -29,7 +29,7 @@ align: right
 width: 50%
 align: center
 ---
-CAPTION
+The person is standing behind a garbage bag but is still clearly visible in infrared.
 ```
 
 ## Introduction
@@ -44,12 +44,12 @@ Infrared radiation is a well-known subject in physics. Students get acquainted w
 Provide a garbage bag and a glass plate. Connect the IR-camera to the computer and set it to streaming mode so that you can use the live streaming feature of the software. Show the video on a digibord or screen.
 
 
-```{figure} demo22_figure2.jpg
+```{figure} demo22_figure2.png
 ---
 width: 50%
 align: center
 ---
-CAPTION
+The person is not visible in infrared behind glass, though visible in the visible light spectrum.
 ```
 
 ## Procedure
@@ -62,13 +62,6 @@ CAPTION
 7.	Use this experiment to discuss transparency, opacity or absorption of objects for electromagnetic radiation. For example, UV radiation and glass.
  
 
-```{figure} demo22_figure3.jpg
----
-width: 50%
-align: center
----
-CAPTION
-```
 ## Physics background
 Visible light is not absorbed by the glass, but is absorbed by the black garbage bag. The opposite is true for IR radiation. Glass reflects infrared like a mirror.
 

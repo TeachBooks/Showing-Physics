@@ -38,7 +38,7 @@ The students receive stickers which they have to paste on the wall at the spot w
 
 ``` {figure} demo20_figure1.JPG
 ---
-width: 50%
+width: 60%
 ---
 The laser and mirror are at large distance from each other, pupils stick their stickers where they think the laser will hit the wall.
 ```
@@ -51,13 +51,6 @@ The laser and mirror are at large distance from each other, pupils stick their s
 5.	When all stickers are on the wall, ask the class to predict which one of the stickers will be the closest.
 6.	Switch on the laser. Discuss the results using Snell’s Law of Reflection and the reversibility of light rays. Use three rods: one for the incident ray, one for the normal, and one for the reflected ray. Show clearly that angles of incidence and reflection are equal AND that incident and reflected rays and the normal are in one plane.
 7.	You may repeat the whole procedure, but now with two mirrors. 
-
-``` {figure} demo20_figure2.JPG
----
-width: 50%
----
-SOME CAPTION
-```
 
 ## Physics background
 The spot on the wall from which you can see the laser through the mirror is the spot where the laser ray will land after reflection. You use the principle of reversibility of light rays. 
