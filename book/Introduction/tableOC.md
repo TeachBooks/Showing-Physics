@@ -10,22 +10,21 @@ align: right
 1. [About this book](/Introduction/About.md)
 2. [Preface](/Introduction/Foreword.md)
 3. [Preface from the editor](/introduction/Preface2.md)
-4. [About the authors](/Introduction/Authors.md))
+4. [About the authors](/Introduction/Authors.md)
 5. [NVON](/Introduction/Foreword.md)
 6. [Table of contents](/Introduction/tableOC.md)
-7. 
 
 **Pedagogy**
-8. [Introduction](/Pedagogy/Introduction.md)
-9. [Nature of Science](/Pedagogy/Nos.md)
-10. [Argumentation](/Pedagogy/Argumentation.md)
-11. [Thinking-Back-and-Forth](/Pedagogy/BackAndForthThinking.md)
-12. [Predict Explain Observe Explain](/Pedagogy/PoE.md)
+7. [Introduction](/Pedagogy/Introduction.md)
+8. [Nature of Science](/Pedagogy/Nos.md)
+9. [Argumentation](/Pedagogy/Argumentation.md)
+10. [Thinking-Back-and-Forth](/Pedagogy/BackAndForthThinking.md)
+11. [Predict Explain Observe Explain](/Pedagogy/PoE.md)
 
 **Demos on Nature of Science**
-12.	[Introducing a Particle Model to Explain the Colouring of Eggs](demos\demo01\demo01.md)
-21.	[Magic Memory Balls](demos\demo08\demo08.md)
-
+1.	[Introducing a Particle Model to Explain the Colouring of Eggs](demos\demo01\demo01.md)
+2.	[Magic Memory Balls](demos\demo08\demo08.md)
+3.	[The returning can](demos\demo40\demo40.md)
 
 **Demos on scientific inquiry**
 
@@ -84,7 +83,7 @@ align: right
 50.	[Boyle's Law](demos\demo37\demo37.md)
 51.	[Communicating Vessels](demos\demo38\demo38.md)
 52.	[Investigating a devastating Flame](demos\demo39\demo39.md)
-53.	[The returning can](demos\demo40\demo40.md)
+
 54.	[A battle between two bottles](demos\demo41\demo41.md)
 55.	[Chapter title](demos\demo42\demo42.md)
 56.	[Chapter title](demos\demo43\demo43.md)

@@ -31,8 +31,7 @@ parts:
     - file: demos/NOSdemos
       title: Demos on NoS
       sections:
-      - file: demos/demo01/demo01 #particle     
-      - file: demos/demo08/demo08 #Memory Balls
+      - file: demos/demo01/demo01 #particle           
       - file: demos/demo40/demo40 #cancancan
       - file: demos/demo70/demo70 #Cylinder Puzzle
       - file: demos/demo71/demo71 #magic siphon
@@ -45,6 +44,7 @@ parts:
     - file: demos/Inquirydemos
       title: Demos on scientific inquiry
       sections:
+      
       - file: demos/demo09/demo09 #vapor
       - file: demos/demo10/demo10 #vdgraaf   
       - file: demos/demo27/demo27 #air and balloon         
@@ -126,7 +126,7 @@ parts:
 
     - file: demos/Conceptdemos5 #else
       sections:      
-      
+      - file: demos/demo08/demo08 #Memory Balls
       - file: demos/demo29/demo29 #candle
       - file: demos/demo30/demo30 #weighing air
       - file: demos/demo32/demo32 #two spring      
