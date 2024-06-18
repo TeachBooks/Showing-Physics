@@ -70,7 +70,7 @@ The stick breaking into two pieces constructed from high-speed recordings by Mam
 ```
 
 ## Follow-up
-Students can investigate this phenomenon further, for example, using an iPhone 6 as a high-speed camera. You can also experiment with slow hits, which will likely go wrong, and with thicker and thinner sticks. VandeGrift's (1997) article has a lot of math, but it contains literature references to the analysis of karate chops; these will undoubtedly provide interesting ideas for research. A link to the article can be found at www.nvon.nl/showdefysica2.
+Students can investigate this phenomenon further, for example, using an iPhone 6 as a high-speed camera. You can also experiment with slow hits, which will likely go wrong, and with thicker and thinner sticks. {cite:t}`vandegrift1997transverse` article has a lot of math, but it contains literature references to the analysis of karate chops; these will undoubtedly provide interesting ideas for research.
 
 ```{tip}
 For several years, this demo was a staple at school visits and events at our center in the Philippines. It was usually the highlight of the show, which may have shown that physics is very spectacular, but not always understandable.

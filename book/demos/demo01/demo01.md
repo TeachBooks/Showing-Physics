@@ -108,17 +108,14 @@ align: center
 Food coloring penetrates the outer but not the inner membrane.
 ```
 
-Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are [nice simulations to visualize the particles' behaviour](https://phet.colorado.edu/en/simulations/membrane-channels).
+Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are [nice simulations to visualize the particles' behaviour](https://phet.colorado.edu/en/simulations/membrane-channels) (embedded below).
 
-<div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe src="https://phet.colorado.edu/sims/cheerpj/membrane-channels/latest/membrane-channels.html?simulation=membrane-channels"
-        width="800"
-        height="600"
+
+<iframe src="https://phet.colorado.edu/sims/cheerpj/membrane-channels/latest/membrane-channels.html?simulation=membrane-channels"
+        width="50%"
+        height="50%"
         allowfullscreen>
-        </iframe>
-    </div>
-</div>
+</iframe>
 
 
 Questions for discussion (to be used for example in a think-pair-share activity)
