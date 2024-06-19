@@ -83,13 +83,13 @@ The next step is about student thinking - do not yet open the can but ask:
 * What do you think is inside this can? Make a drawing of its insides.
 * Explain (to each other) how you think it works, or what make it come back.
 
-Next discuss the solutions they came up with. Some solutions will be creative, some simpler, others more technical. Which one solution is the best one rom a  scientific point of view? It's likely that each student thinks his or her own solution is the best. But what makes it better, objectively? Which arguments count? Students are often much better at judging the quality of someone else's solution than at judging their own - that is what makes peer review such a powerful tool in science.
+Next discuss the solutions they came up with. Some solutions will be creative, some simpler, others more technical. Which one solution is the best one rom a  scientific point of view? It's likely that each student thinks his or her own solution is the best. But what makes it better, objectively? Which arguments count? Students are often much better at judging the quality of someone else's solution than at judging their own - but in the end it's the arguments that count.
 
-Next, you may want to adress the role of amazement, imagination, and creativity in science. It's strange that the can comes back. Scientists get excited because if you don't understand something, there's something to learn! That's why they do research, starting by coming up with all sorts of solutions and thinking about how it might work. They usually think their own solutions are the best too, and they evaluate others' work to find the best solutions. Often, they conduct new research for that as well.
+Next, you may want to adress the role of amazement, imagination, and creativity in science. It's quite strange that the can comes back. Scientists get excited when something odd happens because that means you don't understand it, so there's something to be learned! That's why research is done, which starts with coming up with all sorts of solutions and ideas about how things might work. Scientists usually think their own solutions are the best ones too, and they evaluate each others' work to find the best solutions. Often, they conduct new research as a result of that as well.
 
-The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor because there's no button or plug on the can. It also helps if the solution is recognizable. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up. The solution can also be replicated to see if it works. Scientists use these and other methods to find the best solutions.
+The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor since the can has no on/off switch or plug. It also helps if the solution is familiar somehow. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up and then unwinds. The solution can also be built as a model to see if it works. Scientists use these and other methods to find the best solutions.
 
-Scientists are never entirely sure of their solutions. Your class is sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity is. That's why physics knowledge is never entirely certain; in principle, there could always be a better solution that will replace the old one.
+Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. Physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one.
 
 ```{figure} demo40_figure3.jpg
 ---
@@ -101,16 +101,16 @@ Explanation - torque explains the return.
 ```
 
 ## Physics background
-Inside the can, there is an elastic band with a weight attached to one end (left in {numref}`Figure {number} <demo40_fig3>`). When you roll the can away, the sides of the elastic band wind around each other because the weight doesn't rotate but hangs at the bottom. The elastic band tightens, causing the weight to be pulled upward and backward. When the can stops, the elastic band is wound up, and the weight hangs behind the point where the can touches the ground (right in {numref}`Figure {number} <demo40_fig3>`). This creates a backward torque relative to that pivot point. Thus, the can begins to move back.
+Inside the can an elastic band is suspended with a weight attached to one side (on the left in {numref}`Figure {number} <demo40_fig3>`). When rolling the can forward, the two sides of the elastic band wind up around each other because the weight doesn't rotate along but remains hanging in the middle. The elastic band tightens, causing the weight to be pulled upward and backward. When the can reaches the farthest point, the elastic band is wound up, and the weight hangs behind the point where the can touches the ground (on the right in {numref}`Figure {number} <demo40_fig3>`). This creates a backward torque relative to that pivot point. Thus, the can begins to roll back.
 
-If you don't catch the can, this process repeats in the opposite direction. If you roll it away too hard, the weight will jump over the elastic band, the elastic won't wind up further, and the can won't roll back (completely).
+If you don't catch the can, this process repeats in the opposite direction. If you roll it away too hard, the weight will be pulled over the elastic band a couple of times (banging against the can's sides), the elastic band unwinds partially, and the can won't roll back (completely).
 
 ```{tip}
-Store the can for reuse. Release the tension from the elastic for that.
+Store the can for reuse. Releasing the tension from the elastic band slows its deterioration.
 ```
 
 ## Follow-up
-Possible homework assignment: try making such a thing yourself / with your group. It's advisable to provide cans with holes for that.
+Possible homework assignment before discussing the actua solution: try to make a can that rolls back yourself / with your group. It's advisable to provide cans with holes for that.
 
 ## References
 ```{bibliography}
