@@ -6,7 +6,6 @@ align: right
 
 # Playing with Density
 
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
@@ -28,6 +27,14 @@ align: right
 
 ## Introduction
 This demonstration can be performed as an introduction to or as practice with the concept of density. Students will observe that liquids can float on other liquids and that the mass/quantity of the liquid does not play a role. Students will also see that liquids do not automatically mix (when poured slowly). The materials used are familiar to students. Additionally, there is a good color contrast, so even students at the back of the class can see it well.
+
+```{figure} demo34_figure2.jpg
+---
+width: 50%
+align: center
+---
+Various liquids stacked upon each other.
+```
 
 ## Equipment
 * Transparent sealable bottle of approximately 1 L with a large opening
@@ -73,8 +80,6 @@ Below are step-by-step instructions with tasks and questions that can be adjuste
 
 10.	Turn the bottle slowly, the liquids and objects rearrange (Figure 2).
 
-
-
 ```{figure} demo34_figure1.jpg
 ---
 width: 50%
@@ -88,10 +93,20 @@ Due to the difference in density, the substances will arrange themselves in the 
 
 After just a few minutes, it is visible that the water changes color. This is because substances (sugars) from the honey slowly dissolve in the water. This increases the density of this layer and the tomato will rise a layer. Solubility is a concept that students probably do not yet know well because it is often taught after the concept of density.
 
+```{figure} demo34_figure3.jpg
+---
+width: 50%
+align: center
+---
+A schematic of the various liquids and 'objects'
+```
+
 ```{tip}
 * Measure equal (small) amounts of honey, water, and oil in three measuring cylinders and weigh them. Write down the result on the board and refer to it in the explanation. Can this demonstration be made even more spectacular? Yes, it can! See below for the sources.
 
 * Leave the bottle for a few hours and then show it to the students again. If all goes well, some of the substances from the honey will have dissolved in the water by then, and the tomato will have floated on this 'sugar water' layer.
+
+* A beautiful follow-up demonstration on density is described [here](../demo28/demo28.md).
 ```
 ## Follow-up
 It is possible to make sugar solutions in water with different densities. When using cold water (from the refrigerator), you can neatly layer them on top of each other. This offers many possibilities for experimenting with density.
