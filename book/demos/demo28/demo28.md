@@ -105,7 +105,7 @@ name: demo28_figure1
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
-            src="https://www.youtube.com/embed/tyTaVhSfJmU?si=nf7662lzHDcqZL_N"
+            src="https://www.youtube.com/embed/tyTaVhSfJmU?si=Y-vRbuGPwtVRGO8h"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -113,6 +113,8 @@ name: demo28_figure1
         ></iframe>
     </div>
 </div>
+
+
 
 ## Physics background
 Water expands when heated, except between 0 and 4 degrees (anomaly of water). So, cold water has a greater density than warm water and will sink while warm water will rise. The same applies to salty versus fresh water. These mechanisms play a role in ocean currents, alongside the influence of wind and the rotation of the earth. Ponce de Leon, a successor of Columbus, had already noticed the Gulf Stream. As head of the American postal service, [Benjamin Franklin became interested in the time differences between postal ships taking different routes](https://blog.scistarter.org/2022/04/ben-franklin-founding-father-citizen-scientist/), and through interviews with captains, he mapped out the Gulf Stream ({cite:t}`winchester2010qualitative`). Because of the large specific heat capacity of water and the huge amount, the effect of the Gulf Stream on the climate in Western Europe is significant.

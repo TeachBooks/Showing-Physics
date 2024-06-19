@@ -6,10 +6,9 @@ align: right
 
 # Show the Physics
 
-
 ```{figure} cover.jpg
 ---
-width: 60%
+width: 90%
 align: center
 ---
 ```
