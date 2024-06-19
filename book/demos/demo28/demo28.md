@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -42,9 +42,9 @@ Antonia Jiminez Ruiz</td>
 The Gulf Stream flows like a 100 – 200 km wide river across the Atlantic Ocean from the Caribbean to Europe, see {numref}`Figure {number} <demo28_figure4>`. In the far north of the Atlantic Ocean, the water becomes so cold at the surface that it has a greater density than the slightly warmer underlying water. As a result, it sinks and is carried back to the tropics at depths of several kilometers. This Atlantic conveyor belt is maintained by differences in temperature and salinity, wind, and the rotation of the earth (Coriolis force). A series of demonstrations will sequentially show that warm water 'floats' on cold water, fresh water on salt water, and that differences in temperature and salt concentration can cause currents. In the aquarium, we see the beginning of such a conveyor belt system that can transport a lot of energy due to the high specific heat capacity of water.
 
 ```{figure} demo28_figure4.jpg
+name: demo28_figure4
 width: 50%
 align: center
-name: demo28_figure4
 ---
 Gulfstream, figure obtained from https://www.flickr.com/photos/gridarendal/31551868273
 ```
@@ -66,7 +66,7 @@ Watch the videos how to put the two jars on top of each other, and practice a fe
 3. Draw the situation on the board and ask for a prediction: *If I remove the card, what will happen to the water and why?*
 4. Teacher removes the plastic card. The water does not mix ({numref}`Figure {number} <demo28_figure1>` at the right).
 5. Repeat with cold water on top and warm water below. *What will happen, why?*
-6. Teacher removes plastic card. The water changes color (figure 3).
+6. Teacher removes plastic card. The water changes color (see movie clip below).
 7. Discussion about explanation.
 8. Optionally, measure exactly equal volumes of warm and cold water in graduated cylinders and weigh them on a digital scale with an accuracy of 0.1 g. Is there a difference?
 9. Conclusion: *temperature differences can cause currents.*
@@ -86,13 +86,17 @@ name: demo28_figure1
 **right:** Warm above and cold below do not mix.
 ```
 
-```{figure} demo28_figure3.jpg
----
-width: 50%
-align: center
----
-Cold above and warm below do mix.
-```
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/dSOxXviVAdc?si=Bu1dMkUsVuYNYAfW"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Physics background
 Water expands when heated, except between 0 and 4 degrees (anomaly of water). So, cold water has a greater density than warm water and will sink while warm water will rise. The same applies to salty versus fresh water. These mechanisms play a role in ocean currents, alongside the influence of wind and the rotation of the earth. Ponce de Leon, a successor of Columbus, had already noticed the Gulf Stream. As head of the American postal service, [Benjamin Franklin became interested in the time differences between postal ships taking different routes](https://blog.scistarter.org/2022/04/ben-franklin-founding-father-citizen-scientist/), and through interviews with captains, he mapped out the Gulf Stream {cite:t}`winchester2010qualitative`. Because of the large specific heat capacity of water and the huge amount, the effect of the Gulf Stream on the climate in Western Europe is significant.
