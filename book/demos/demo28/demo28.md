@@ -26,8 +26,19 @@ Antonia Jiminez Ruiz</td>
     </tr>
 </table><br>
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/k7ladspvMBc?si=cef2XD3-7jDIwIJT"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
-**REFERENTIES ONTBREKEN, FILMPJE MIST**
+**REFERENTIES ONTBREKEN**
 
 
 ## Introduction
@@ -51,7 +62,7 @@ YouTubeVideo("v=bN7E6FCuMbY", width=VideoWidth, align='center')
 * Ice cubes colored blue, saltwater and tap water both colored (each 2 glasses)
 
 ## Preparation
-Watch videos in this document and practice once. **1 VIDEO ONTBREEKT**
+Watch the videos how to put the two jars on top of each other, and practice a few times.
 
 ## Procedure
 1. Teacher: *In the oceans, there are cold and warm ocean currents. The Gulf Stream brings so much warmth from the Caribbean to Europe that Northern Europe is habitable. In contrast, while corresponding parts of Eastern Canada are barely inhabited. Today we study how such a current arises.*
