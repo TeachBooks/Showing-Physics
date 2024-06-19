@@ -112,8 +112,8 @@ Subsequently suggest, (if the suggestion has not been made yet): imagine that a 
 
 
 <iframe src="https://phet.colorado.edu/sims/cheerpj/membrane-channels/latest/membrane-channels.html?simulation=membrane-channels"
-        width="300px"
-        height="300px"        
+        width="800px"
+        height="800px"        
         allowfullscreen>
 </iframe>
 

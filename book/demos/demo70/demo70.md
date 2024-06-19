@@ -4,8 +4,8 @@ width: 35%
 align: right
 ```
 
-
-# Cylinder Puzzle: Exploring the Nature of Science
+# Cylinder Puzzle: 
+<span style="font-size: 25px; color: gray;">Exploring the Nature of Science</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -18,7 +18,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18\</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -38,39 +38,40 @@ align: right
     </div>
 </div>
 
+This demonstration is described earlier in {cite:t}`lederman1998avoiding`.
 ## Introduction
 This activity involves no physics but demonstrates a model of how physicists (and other scientists) work and what they try to achieve. Students take on the role of scientists to describe and explain confusing and astonishing observations. Then, they reflect on them.
 
+## Equipment
+* Opaque cylinder with opaque lids on both sides; 
+* about 50 cm of sturdy rope or cord.
+
 ```{figure} demo70_figure1.jpg
 ---
-width: 50%
+width: 40%
 align: center
 name: fig:cylinder_puzzle1
 ---
 The cylinder puzzle - A model of the universe
 ```
 
-##Equipment
-Opaque cylinder with opaque lids on both sides; about 50 cm of sturdy rope or cord.
-
 ## Preparation
 Make four holes in the cylinder. Use two pieces of cord, thread them through the holes, with one passing over the other inside the cylinder, for example as shown at the top left of figure 2. Adjust them: both strings should loosely fit inside the cylinder. Tie knots at the ends and cut to size. Then, pull on one of the knots: this should result in something like figure 1. Each time a knot is pulled, a few centimeters of rope should come out there, while the protruding piece is pulled inward.
 ```{figure} demo70_figure2.png
 ---
-width: 50%
+width: 80%
 align: center
 ---
 All these models of the contents of the cylinder are consistent with all observations.
 ```
 
-
 ## Procedure
 Explain that the cylinder you have is not meant to be opened, but is a model of the universe. The task for the class is to study this universe in a scientific manner. So, observing carefully what happens is important!
-Successively, pull on three knots with a short, firm tug, for example, A-B-D-B. Repeat it a few times. Also, try A-D-B-D-A-B. At first leave knot C alone. Meanwhile students carry out the following tasks and answer these questions:
+Successively, pull on three knots with a short, firm tug, for example, **A**-**B**-**D**-**B**. Repeat it a few times. Also, try **A**-**D**-**B**-**D**-**A**-**B**. At first leave knot **C** alone. Meanwhile students carry out the following tasks and answer these questions:
 
 1. **Observing and recording.** Carefully and systematically document your observations.
 2. **Explaining.** What do you think is inside the cylinder and explains that the strings behave as we have seen? Explain, use a sketch. An explanation that could be correct but still needs testing is called a hypothesis.
-3. **Predicting.** What will happen if you pull on knot C? Collect predictions. Then, pull on knot C. Make a drawing. Also, perform other actions suggested by students and test their hypotheses. They may adjust their hypotheses to match the new observations.
+3. **Predicting.** What will happen if you pull on knot **C**? Collect predictions. Then, pull on knot **C**. Make a drawing. Also, perform other actions suggested by students and test their hypotheses. They may adjust their hypotheses to match the new observations.
 4. **Comparing answers.** Discuss the results together.
     - *Did you manage to come up with a good explanation? Why do you believe it to be good?*\
    'Good' explanations match the observations, and with them you can make accurate predictions. (But several explanations may be equally good.)
@@ -102,4 +103,3 @@ By making more observations and adjusting their models, scientists gain more ins
 ```{bibliography}
 :filter: docname in docnames
 ```
-Lederman, N. G. and Abd-El-Khalick, F. (1998) Avoiding De-natured Science - Activities That Promote Understandings of the Nature of Science. In W.F. McComas (Ed.) The nature of science in science education: Rationales and strategies. Dordrecht, Netherlands: Kluwer Academic Publishers. pp. 243-254

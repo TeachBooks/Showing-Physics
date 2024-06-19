@@ -47,14 +47,6 @@ The video is a little different from the performance described below. In the act
 ## Introduction
 Demonstrate a surprising phenomenon and use it to develop understanding of the Nature of Science. It's about the journey, not the destination.
 
-```{figure} demo71_figure1.png
----
-width: 50%
-align: center
----
-The Magic box (using longer tubes and elevating the box would produce a more impressive result, see {numref}`Figure {number} <demo71_fig2>`.
-```
-
 ## Equipment
 - 2 large beakers
 - 1 small beaker
@@ -68,7 +60,17 @@ The Magic box (using longer tubes and elevating the box would produce a more imp
 - Empty bottle
 
 ## Preparation
-Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a hose directly from one funnel to the outside through a hole on the side. Place a large beaker underneath. Do the same for the other funnel, except that there is a siphon between the inlet and outlet. Cut the bottom of the plastic bottle you will use as a siphon. Drill a hole in the cap of a bottle, attach a long piece of hose, glue the hose securely, and put the cap back on the bottle. Attach the bottle upside down inside the box, with the outlet of the second funnel guiding into the (removed) bottle bottom. The hose coming out of the cap is made to go up, and to turn back down just below the top edge of the inverted bottle. Then out of the second hole on the side. The outlet of the hose ideally is situated lower than the lowest point of the inverted bottle (so that it empties all the way).  A large beaker should fit under the outlets. Secure everything well. Make the hoses on the outside of equal length. Ideally, the box looks symmetrical from the outside. Fill the siphon with water and some food coloring up to e height just below the height where the hose turns back down. Fill the small beaker with some water, not too much but enough for the fluid to reach that height and start the siphon.
+Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a hose directly from one funnel to the outside through a hole on the side. Place a large beaker underneath. 
+
+```{figure} demo71_figure1.png
+---
+width: 50%
+align: center
+---
+The Magic box (using longer tubes and elevating the box would produce a more impressive result, see {numref}`Figure {number} <demo71_fig2>`).
+```
+
+Do the same for the other funnel, except that there is a siphon between the inlet and outlet. Cut the bottom of the plastic bottle you will use as a siphon. Drill a hole in the cap of a bottle, attach a long piece of hose, glue the hose securely, and put the cap back on the bottle. Attach the bottle upside down inside the box, with the outlet of the second funnel guiding into the (removed) bottle bottom. The hose coming out of the cap is made to go up, and to turn back down just below the top edge of the inverted bottle. Then out of the second hole on the side. The outlet of the hose ideally is situated lower than the lowest point of the inverted bottle (so that it empties all the way).  A large beaker should fit under the outlets. Secure everything well. Make the hoses on the outside of equal length. Ideally, the box looks symmetrical from the outside. Fill the siphon with water and some food coloring up to e height just below the height where the hose turns back down. Fill the small beaker with some water, not too much but enough for the fluid to reach that height and start the siphon.
 
 ## Procedure
 Ask students to pay close attention so they can later describe exactly what they saw. Then pour the water carefully through the first funnel. Collect it in the large beaker. Pour it back into the small one. Have students write down their observations. Expected statements: you pour water into the funnel on one side and it flows out through the hose on that side. Next pour the liquid from the small beaker into the second funnel. If properly adjusted, nothing will happen at first, but then the liquid will start flowing out of the hose. Soon students will notice that the color is different. Then they'll see that the outflow goes on for a long time, filling the large beaker almost completely. Does it stop? Yes, eventually it does. What's in the box? Ask the students to come up with an explanation and make a sketch of what they tink is in the box and explains what they saw. Discuss with each other: do the sketches explain the observations? 
