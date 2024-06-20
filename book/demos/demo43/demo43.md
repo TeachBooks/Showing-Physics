@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Chapter title
+# Lekkende flesjes in vrije val
 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -24,12 +24,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
     </tr>
-
-
-Author:     \
-Time:	  	\
-Age group:	14 - 18\
-Concepts:	
 
 ## Introduction
 
