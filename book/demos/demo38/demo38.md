@@ -26,7 +26,7 @@ align: right
 </table><br>
 
 
-```{figure} A08_PD12_fig1_ubuisje - site.jpg
+```{figure} A08_PD12_fig1_ubuisje_site.jpg
 ---
 width: 50%
 align: center
@@ -62,7 +62,7 @@ Conduct a conversation with the students along the following lines:
 
 Once it's clear what the class thinks, remove the stopper. The liquid level rises on the side where the stopper was, and it decreases on the other side. In communicating vessels, the liquid levels are at unequal heights!
 
-```{figure} A08_PD12_fig2_ubuisje - site.jpg
+```{figure} A08_PD12_fig2_ubuisje_site.jpg
 ---
 width: 50%
 align: center
