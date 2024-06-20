@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -83,35 +83,11 @@ $$ \frac{\Delta Q} {\Delta t} = \frac{\lambda \cdot A \cdot \Delta T}{d} $$
 
 with:
 
-<!-- ΔQ/Δt	the heat removed per second;
-λ   	the thermal conductivity;
-A 	the surface area;
-ΔT 	the temperature difference;
-d 	the thickness. -->
-
-<table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">$\frac{\Delta Q}{\Delta t}$</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">The heat removed per second</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">$\lambda$</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">The thermal conductivity</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">$A$</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">The surface area</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">$\Delta T$</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">The temperature difference</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">$d$</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">The tickness</td>
-    </tr>
-</table><br>
-
+$\frac{\Delta Q}{\Delta t}$	the heat removed per second;\
+$\lambda$ the thermal conductivity;\
+$A$ the surface area;\
+$\Delta T$ the temperature difference;\
+$d$ the thickness.
 
 ## Follow-up
 Isolation contests are often held to keep hot water warm for as long as possible. Following this demonstration, ask students how they would cool down a hot liquid as quickly as possible. How would you design such a cooler, and what requirements would it need to meet?
