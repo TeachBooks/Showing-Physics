@@ -28,7 +28,7 @@ align: right
 
 ## Introduction
 The pendulum experiment is often performed to determine the acceleration due to gravity $g$  using the relationship between the length and the period of the pendulum. This demonstration is a variant of that. Students observe the measured force varying over time. To determine the oscillation period, students need to think about how the tension varies and how the position of the mass affects the magnitude of this tension.
-```{figure} demo66_figure1.JPG
+```{figure} demo66_figure1.jpg
 ---
 width: 50%
 align: center
@@ -63,7 +63,7 @@ For this experiment we used Coach 7 to read out our device, however, many force 
 5. Display the measured diagram ($F_{\text{tension}}$ versus $t$) enlarged on the digital board.
     - *In which position of the block is the tension minimal? And in which position is the tension maximal?*
     - *How can you read the oscillation period of this pendulum from the diagram and why does it need to be done this way?*
-    ```{figure} demo66_figure2.JPEG
+    ```{figure} demo66_figure2.jpeg
     ---
     width: 60%
     align: center
