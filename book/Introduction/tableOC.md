@@ -114,7 +114,7 @@ align: right
 81.	[Colliding with Newton's Third Law](demos\demo68\demo68.md)
 82.	[Up and down the hill: Accelerating along a Slope](demos\demo69\demo69.md)
 83.	[Cylinder Puzzle: Exploring the Nature of Science](demos\demo70\demo70.md)
-84.	[Magic or Trick?](demos\demo71\demo71.md)
+84.	[Magic, trick or physics?](demos\demo71\demo71.md)
 85.	[Roll and Stop](demos\demo72\demo72.md)
 86.	[Shadow of a flame 2:](demos\demo74\demo74.md)
 87.	[Cooling Metal Spheres](demos\demo75\demo75.md)

@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Magic or Trick? 
+# Magic, Trick or Physics? 
 <span style="font-size: 25px; color: gray;">Nature of Science with a Siphon</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
