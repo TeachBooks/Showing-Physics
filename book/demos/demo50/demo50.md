@@ -62,16 +62,16 @@ You make it clear that the mentioned variables play a role. You show that the ma
 
 
 ## Follow-up
-The demonstration can be further extended with three colored 10 mm LEDs (RGB) on a board. By using two hinges, you can also fold the board into a triangle with the LEDs in the center. This makes it easier to achieve white light. Hold the cardboard above the LEDs again and show that you have different areas. Ensure that in the first instance, the three areas do not overlap, so no white light is visible. Draw the setup schematically on the board and ask what can be done to get white light. This helps students learn to reason. Then, implement one of the solutions suggested by the students.
-Hold the board with LEDs in front of a student and show that their shadow is colored!
-See further demo B46, Strange shadows.
-
-## References
-```{bibliography}
-:filter: docname in docnames
+The demonstration can be further extended with three colored 10 mm LEDs (RGB) on a board. By using two hinges, you can also fold the board into a triangle with the LEDs in the center. This makes it easier to achieve white light. Hold the cardboard above the LEDs again and show that you have different areas. Ensure that in the first instance, the three areas do not overlap, so no white light is visible. Draw the setup schematically on the board and ask what can be done to get white light. This helps students learn to reason. Then, implement one of the solutions suggested by the students. Hold the board with LEDs in front of a student and show that their shadow is colored! For more information, see [demo 14.18](#-Strange-shadows) below. 
+```{figure} demo50_figure2.jpg
+---
+width: 50%
+align: center
+name: demo50_fig2
+---
 ```
 
-# Strange shadows
+# Strange shadows 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -96,8 +96,19 @@ See further demo B46, Strange shadows.
 Mixing colors can be done in two different ways: subtractive and additive. When you illuminate an object with colored lights, it is called additive mixing.
 
 ## Equipment
-A panel with three lamps, blue, green, and red (these can be bright LEDs or incandescent bulbs with filters). In front of the panel is a transparent plexiglass plate with a black cardboard mask that has a square cutout. Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
+* A panel with three lamps, blue, green, and red (these can be bright LEDs or incandescent bulbs with filters). 
+* In front of the panel is a transparent plexiglass plate with a black cardboard mask that has a square cutout. 
+* Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. 
+* The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
 
+```{figure}B47_MW04_fig1_Opstelling_tekening-site_translated.jpg
+---
+width: 50%
+align: center
+name: demo50_fig4
+---
+A schematic of the setup. 
+```
 ## Preparation
 The demonstration should be conducted in a well-darkened room. The better the room is darkened, the more vivid the colors will be. The distance between the panel and the holder, as well as the distance between the holder and the screen, should be determined experimentally. Here are some guidelines:
 
@@ -105,21 +116,30 @@ The demonstration should be conducted in a well-darkened room. The better the ro
 * The distance between the panel and the holder with the mask is about 20 cm.
 * The distance between the holder and the screen varies between 0 cm and 50 cm.
 
+```{figure}B47_MW04_fig2_Opstelling_foto-site.jpg
+---
+width: 70%
+align: center
+name: demo50_fig3
+---
+The setup.
+```
+
 ## Procedure
 This setup can reveal a large number of surprising effects from color mixing. When you place an opaque figure in the mask, it will cause a shadow. 
 
-As an example, in the drawing above, a small black triangle is placed. Almost the entire screen is illuminated by the three lamps. The combined light from the three lamps is white. However, the black triangle blocks the light from the red lamp higher on the screen. Only blue and green light can reach that area, creating cyan. 
+As an example, in {numref}`Figure {number}<demo50_fig4>`, a small black triangle is placed between the lamps and the screen. Almost the entire screen is illuminated by the three lamps. The combined light from the three lamps is white. However, the black triangle blocks the light from the red lamp higher on the screen. Only blue and green light can reach that area, creating cyan. 
 
 In the lower left of the screen, green is blocked, allowing only blue and red to reach that spot; together, they form purple.
 In the lower right, blue is blocked, allowing only green and red to reach that spot; together, they form yellow.
 
 
-```{figure} demo51_figure1.jpg
+```{figure} B47_conceptcartoon_translated.jpg
 ---
-width: 50%
 align: center
+name: demo50_fig5
 ---
-some caption
+An example to make students think about the additive qualities of light. 
 ```
 
 ## Physics background
@@ -151,22 +171,21 @@ Table 2 shows the results of combining different light sources.
 | Blue + YEllow      | WHIte     |
 | Green + MAgenta    | WHIte     |
 
+<!-- Tekst hieronder gaat over een figuur die nu mist, die moet nog even toegevoegd en dan daarna de tekst linken aan de figuur. -->
 
-In the series of figures 1a to 8a, various masks are shown.
+*In the series of figures 1a to 8a, various masks are shown.*
 
-In figure 1a, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.
+*In figure 1a, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.*
 
-In figure 2a, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.
+*In figure 2a, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.*
 
-The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
+*The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
 In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.
 And also figures 5a and 6a, and their corresponding figures 5b and 6b.
-Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.
+Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.*
 
-The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
-The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.
-
-## Follow-up
+*The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
+The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.*
 
 ## References
 ```{bibliography}
