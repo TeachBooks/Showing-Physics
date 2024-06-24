@@ -1,11 +1,11 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
 ```
 
-# Crookes' radiometer:
-<span style="font-size: 25px; color: gray;">Not colliding photons but:... crawling gas molecules</span> 
+# Crookes' radiometer
+<span style="font-size: 25px; color: gray;">Not colliding photons but ... crawling gas molecules</span> 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -20,16 +20,12 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 11</td>
     </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
-    </tr>
 </table><br>
 
 ## Introduction
 A Crookes radiometer, or light mill, can be found in many physics cabinets. If you put it in front of the window it will start to spin, but what makes it do that? Turn this beautiful phenomenon into a research project showing how science works.
 
-```{figure} demo59_figure1.JPG
+```{figure} demo59_figure1.jpg
 ---
 width: 50%
 align: center
