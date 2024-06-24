@@ -101,13 +101,13 @@ Mixing colors can be done in two different ways: subtractive and additive. When 
 * Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. 
 * The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
 
-```{figure}B47_MW04_fig1_Opstelling_tekening-site_translated.jpg
+```{figure}demo50_figure4_site.jpg
 ---
 width: 50%
 align: center
 name: demo50_fig4
 ---
-A schematic of the setup. 
+ A schematic of the setup. 
 ```
 ## Preparation
 The demonstration should be conducted in a well-darkened room. The better the room is darkened, the more vivid the colors will be. The distance between the panel and the holder, as well as the distance between the holder and the screen, should be determined experimentally. Here are some guidelines:
@@ -116,9 +116,9 @@ The demonstration should be conducted in a well-darkened room. The better the ro
 * The distance between the panel and the holder with the mask is about 20 cm.
 * The distance between the holder and the screen varies between 0 cm and 50 cm.
 
-```{figure}B47_MW04_fig2_Opstelling_foto-site.jpg
+```{figure}demo50_Opstelling_foto-site.jpg
 ---
-width: 70%
+width: 50%
 align: center
 name: demo50_fig3
 ---
@@ -179,13 +179,13 @@ Table 2 shows the results of combining different light sources.
 
 *In figure 2a, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.*
 
-*The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
-In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.
-And also figures 5a and 6a, and their corresponding figures 5b and 6b.
-Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.*
+*The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)*
+*In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.*
+*And also figures 5a and 6a, and their corresponding figures 5b and 6b.*
+*Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.*
 
-*The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
-The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.*
+*The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.*
+*The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.*
 
 ## References
 ```{bibliography}
