@@ -126,25 +126,31 @@ some caption
 The primary colors in additive mixing are Red, Blue, and Green.
 These three names are written with a capital letter each.
 Their complementary colors are Cyan, Yellow, and Magenta. Each of these is made up of two primary colors, which is why they are written with two capital letters.
-The combination of all three primary colors results in WHITE. Written with three capital letters!
-In Scheme 1, you can see the primary colors and their corresponding complementary colors.
-Scheme 2 shows the results of combining different light sources.
+The combination of all three primary colors results in WHIte. Written with three capital letters!
+In Table 1, you can see the primary colors and their corresponding complementary colors.
 
-| Primary Color | Complementary Color | Together     |
-|---------------|----------------------|--------------|
-| Red           | CYan                 | WHITE        |
-| Blue          | YEllow               | WHITE        |
-| Green         | MAgenta              | WHITE        |
-| **Scheme 1**  |                      |              |
+**Table 1**
 
-| Blue + Green  | CYan                 |
-| Red + Green   | YEllow               |
-| Red + Blue    | MAgenta              |
-| Red + Blue + Green | WHITE           |
-| Red + CYan    | WHITE                |
-| Blue + YEllow | WHITE                |
-| Green + MAgenta | WHITE              |
-| **Scheme 2**  |                      |              |
+| Primary color  | Complementary color | Together |
+|----------------|---------------------|----------|
+| Red            | CYan                | WHIte    |
+| Blue           | YEllow              | WHIte    |
+| Green          | MAgenta             | WHIte    |
+
+
+Table 2 shows the results of combining different light sources.
+
+ **Table 2** 
+|                    |           |
+|--------------------|-----------|
+| Blue + Green       | CYan      |
+| Red + Green        | YEllow    |
+| Red + Blue         | MAgenta   |
+| Red + Blue + Green | WHIte     |
+| Red + CYan         | WHIte     |
+| Blue + YEllow      | WHIte     |
+| Green + MAgenta    | WHIte     |
+
 
 In the series of figures 1a to 8a, various masks are shown.
 
@@ -159,9 +165,6 @@ Increasing the distance between the mask and the screen makes the colored strip 
 
 The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
 The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.
-
-[If there is enough space, insert B46_MW04_Strange shadows here.]
-
 
 ## Follow-up
 
