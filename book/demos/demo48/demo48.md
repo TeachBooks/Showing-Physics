@@ -3,24 +3,6 @@
 width: 35%
 align: right
 ```
-
-## Procedure
-
-```{figure} demo48_figure1.JPG
----
-width: 50%
-align: center
----
-some caption
-```
-
-## Physics background
-
-## 
-
-
-
-
 # Alternating Voltage over a Lamp
 
 <span style="font-size: 25px; color: gray;">Quick computer measurements to measure alternating voltage and luminosity</span>
