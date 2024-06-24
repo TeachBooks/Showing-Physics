@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Cylinder Puzzle: 
+# Cylinder Puzzle
 <span style="font-size: 25px; color: gray;">Exploring the Nature of Science</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
