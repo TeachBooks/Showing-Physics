@@ -101,7 +101,7 @@ Mixing colors can be done in two different ways: subtractive and additive. When 
 * Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. 
 * The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
 
-```{figure}demo50_figure4_site.jpg
+```{figure} demo50_figure4_site.jpg
 ---
 width: 50%
 align: center
@@ -116,7 +116,7 @@ The demonstration should be conducted in a well-darkened room. The better the ro
 * The distance between the panel and the holder with the mask is about 20 cm.
 * The distance between the holder and the screen varies between 0 cm and 50 cm.
 
-```{figure}demo50_Opstelling_foto-site.jpg
+```{figure} demo50_Opstelling_foto-site.jpg
 ---
 width: 50%
 align: center
