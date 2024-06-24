@@ -51,7 +51,7 @@ Students often come up with the following ideas.
 
 ***Explanation 1. The egg shell kept the egg together, it has ‘sagged’ while losing its shell.***
 
-Test: if this is correct, it should be possible to compress the material in the egg. Is that the case?
+*Test:* if this is correct, it should be possible to compress the material in the egg. Is that the case?
 Cut one of the eggs in a bowl, fill the syringe with its contents, remove the air, close the syringe and try to compress it. Conclusion?
 
 ```{figure} demo01_figure1.JPG
@@ -64,10 +64,11 @@ An unboiled egg in vinegar.
 
 ***Explanation 2. ‘Water’ has entered the egg.***
 
-Test: place one of the eggs in a pan of water, boil it slowly until it is reasonably firm (about 15 min should do). Open the egg and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
+*Test:* place one of the eggs in a pan of water, boil it slowly until it is reasonably firm (about 15 min should do). Open the egg and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
 Conclusion: vinegar enters the egg through its outer ‘skin’ or membrane, but egg white does not emerge. How do other substances behave, can they move trough the 'skin' of an egg?
 
 ***Research plan***
+
 Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly (to avoid breakage) and cook the egg (it may take a long time to solidify), then open it and investigate the contents.
 
 ```{figure} demo01_figure2.JPG
@@ -118,29 +119,30 @@ Subsequently suggest, (if the suggestion has not been made yet): imagine that a 
 </iframe>
 
 
-Questions for discussion (to be used for example in a think-pair-share activity)
-Answer the questions below by trying to use the ideas about particles presented above.
-1a. Which membrane then has bigger holes, the outer or the inner one?
-1b. Can you show in column 4 of the observations table which substances have large particles, which have medium size, and which have small particles?
+*Questions for discussion (to be used for example in a think-pair-share activity)*
+Answer the questions below by trying to use the ideas about particles presented above.<br>
+1a. Which membrane then has bigger holes, the outer or the inner one?<br>
+1b. Can you show in column 4 of the observations table which substances have large particles, which have medium size, and which have small particles?<br>
 1c. Can you explain the observations with these ideas? 
 
 **Modelling in science**
 By further discussion of the questions below, the teacher may clarify, e.g., what the nature is of scientific models, how they are used, and that there are always limits to their validity.
 
-We have carried out a kind of investigation into the properties of substances and eggs. 
-2a. What did we do that a scientist would definitely do as well?
-2b. What did we do that a scientist would never do? 
-2c. What did we not do, that a scientist would definitely do?
+We have carried out a kind of investigation into the properties of substances and eggs. <br>
+2a. What did we do that a scientist would definitely do as well?<br>
+2b. What did we do that a scientist would never do? <br>
+2c. What did we not do, that a scientist would definitely do?<br>
 2d. Can we call what we did a scientific investigation?
 
-Can we now be certain that substances consist of particles, and that egg membranes have holes?
-3a. Can you come up with a different explanation for the observations? 
-3b. Did you see particles or holes in the membranes? In that case can you be sure they exist?
-3c. Do you think scientists can see the particles? Can they be sure that they really exist? 
+Can we now be certain that substances consist of particles, and that egg membranes have holes?<br>
+3a. Can you come up with a different explanation for the observations? <br>
+3b. Did you see particles or holes in the membranes? In that case can you be sure they exist?<br>
+3c. Do you think scientists can see the particles? Can they be sure that they really exist? <br>
 We used a model to explain the observations. The model consists of ideas about the composition of substances and materials. We do not know for certain whether our model is entirely correct, but it does help us to figure out what is happening. People often use a model to make it easier to do or understand something. Examples: Google Maps, temperature graphs in the weather forecast, map of the school, X-ray photo at the dentist, sheet music, etc.
 
 ## Physics background
-The shell of an egg is removed by placing it in vinegar for a few days. Bubbles (of carbon dioxide) and water start forming immediately, as calcium ions go into solution, because the calciumcarbonate of the shells slowly disintegrates due to the acid (CaCO$_3$ + 2H$^+$ &rarr; Ca$_2^+$(aq) + CO$_2$ (gas) + H$_2$O). 
+The shell of an egg is removed by placing it in vinegar for a few days. Bubbles (of carbon dioxide) and water start forming immediately, as calcium ions go into solution, because the calciumcarbonate of the shells slowly disintegrates due to the acid (CaCO$_3$ + 2H$^+$ &rarr; Ca$_2^+$(aq) + CO$_2$ (gas) + H$_2$O). <br>
+
 Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein's theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with (Feynman et al., 1963, p. 1-2) 
 
 ```{warning} Safety and environment
