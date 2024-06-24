@@ -29,7 +29,7 @@ align: right
 ## Introduction
 The power emitted by the sun can be reasonably well determined using a regular 100 W light bulb and the inverse square law.
 
-```{figure} B49_PF_fig1.jpg
+```{figure} demo52_figure1.JPG
 ---
 width: 50%
 align: center
@@ -66,7 +66,7 @@ Step 2 of the procedure is only carried out if it is summer and sunny; otherwise
 8. Look up the sun's power. Was our experimental estimate reasonable (within a factor of 10)?
 
 ### Physics Background
-```{figure} demo52_figure2.JPG
+```{figure} demo52_figure2.jpg
 ---
 width: 50%
 align: center

@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -9,7 +9,7 @@ align: right
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Ineke Frederik</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
@@ -53,28 +53,28 @@ None
 
 ## Procedure
 1. If the wire spool is on a rod, it simply rotates when you pull the wire. But now place the spool on the ground. Which way does it move when you unwind the wire?
-2. Hold one end of the wire in your fingers; keep the wire horizontal. Which way does the spool move (*Predict*) when you gently pull the wire?
-    1. To the left
-    2. To the right
-    3. Does not move
-    4. I don't know
+2. Hold one end of the wire in your fingers; keep the wire horizontal. *Which way does the spool move* (*Predict*) *when you gently pull the wire?*
+    * To the left
+    * To the right
+    * Does not move
+    * I don't know
 3. Ask the students to discuss with their neighbor. They explain their choice to each other and why they chose their answer (*Explain*). Do they agree? Collect the answers.
 4. Perform the demonstration (*Observe*).
 5. Did the predictions come true? Why or why not? (*Explain*)
-6. Hold one end of the wire in your fingers and ensure the wire is now vertical. Which way does the spool move (*Predict*) when you pull the wire?
-    1. To the left
-    2. To the right
-    3. Does not move
-    4. I don't know
+6. Hold one end of the wire in your fingers and ensure the wire is now vertical. *Which way does the spool move* (*Predict*) *when you pull the wire?*
+    * To the left
+    * To the right
+    * Does not move
+    * I don't know
 7. Ask the students to discuss with their neighbor again. They explain their choice to each other (*Explain*). Collect the answers again.
 8. Perform the demonstration again (*Observe*).
 9. Did the predictions come true? Why or why not? (*Explain*)
-10. To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? Can only a teacher perform such magic, or can students do it too?
+10. *To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? Can only a teacher perform such magic, or can students do it too?*
 
 ## Physics Background
-The wire spool can move to the left or right depending on the pull direction (`Figure {number}<fig:schematic>`). Logically, it seems that if you pull to the right on a horizontal wire, the wire spool will also move to the right. Doesn't an object always move in the direction of the force?
+The wire spool can move to the left or right depending on the pull direction ({numref}`Figure {number}<fig:schematic>`). Logically, it seems that if you pull to the right on a horizontal wire, the wire spool will move to the right as well. Doesn't an object always move in the direction of the force?
 
-For a simple explanation of the movement direction, look at the torque that the pulling force $F$ creates relative to the pivot point $D$. This torque depends on the angle the wire makes with the horizontal. A clockwise torque causes the spool to roll to the right, a counterclockwise torque causes it to roll to the left. The critical angle that determines whether the spool will move left or right is determined by checking if the extension of the force lies to the left or right of the pivot point $D$ (see `Figure {number}<fig:schematic>`).
+For a simple explanation of the movement direction, look at the torque that the pulling force $F$ creates relative to the pivot point $D$. This torque depends on the angle the wire makes with the horizontal. A clockwise torque causes the spool to roll to the right, a counterclockwise torque causes it to roll to the left. The critical angle that determines whether the spool will move left or right is determined by checking if the extension of the force lies to the left or right of the pivot point $D$ (see {numref}`Figure {number}<fig:schematic>`).
 
 ```{figure} demo56_figure4.png
 ---
