@@ -4,7 +4,8 @@ width: 35%
 align: right
 ```
 
-# Captured Laser Beam: Total Internal Reflection in a Water Jet
+# Captured Laser Beam
+<span style="font-size: 25px; color: gray;">Total Internal Reflection in a Water Jet</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
