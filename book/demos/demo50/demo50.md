@@ -4,12 +4,12 @@ width: 35%
 align: right
 ```
 
-# Shadows
+# Strang shadows
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Freek Pols</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Freek Pols & Maarten van Woerkom</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
@@ -17,24 +17,39 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 2</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 8</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">straight-line propagation, shadow, similar triangles.</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">straight-line propagation, shadow, similar triangles, light, Additive mixing of light, primary color, complementary color</td>
     </tr>
 </table><br>
 
-
 ## Introduction
-In the second class, you can conduct increasingly challenging and interesting light demonstrations with a simple piece of cardboard with a hole in it.
+When introducing students to the concepts of light, you can conduct increasingly challenging and interesting light demonstrations with a simple tools. Students are introduced to the ideas of mixing colors which can be done in two different ways: subtractive and additive. When you illuminate an object with colored lights, it is called additive mixing.
 
 ## Equipment
 * A piece of cardboard the size of an A4 sheet with a hole in it
 * Three lamps on a board.
+* A panel with three lamps, blue, green, and red (these can be bright LEDs or incandescent bulbs with filters). 
+* In front of the panel is a transparent plexiglass plate with a black cardboard mask that has a square cutout. 
+* Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. 
+* The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
+
+
+## Part 1
 
 ## Preparation
 Connect three lamps in parallel. For convenience, you can use a switch to turn each lamp on/off individually. Ensure there is a 5 to 10 cm space between the lamps.
+
+```{figure} demo50_figure1.jpg
+---
+width: 70%
+align: center
+name: demo50_fig1
+---
+Core and penumbra of three lamps.
+```
 
 ## Procedure
 In this demonstration, you start by showing shadows. Hold a piece of cardboard with a (square) hole above a lamp. On the ceiling, you will see a bright area and a dark area. Shadow means that no light rays can reach that place.
@@ -44,14 +59,7 @@ An easy extension is to turn on a second lamp, creating multiple areas each with
 
 
 
-```{figure} B42-figuur1-site.jpg
----
-width: 50%
-align: center
-name: demo50_fig1
----
-Core and penumbra of three lamps.
-```
+
 
 ## Physics background
 Calculating magnification or the size of a shadow with a point light source is difficult for students. In this demonstration, you develop the formula:
@@ -60,6 +68,15 @@ $$N=\frac{L_B}{L_V} = \frac{b}{v} $$
 
 You make it clear that the mentioned variables play a role. You show that the magnification depends on these variables. The formula is also covered in math in the second class, but this often does not coincide with the time it is discussed in physics. Coordination is therefore advisable!
 
+
+```{figure} demo50_figure4_site.jpg
+---
+width: 50%
+align: center
+name: demo50_fig4
+---
+ A schematic of the setup. 
+```
 
 ## Follow-up
 The demonstration can be further extended with three colored 10 mm LEDs (RGB) on a board. By using two hinges, you can also fold the board into a triangle with the LEDs in the center. This makes it easier to achieve white light. Hold the cardboard above the LEDs again and show that you have different areas. Ensure that in the first instance, the three areas do not overlap, so no white light is visible. Draw the setup schematically on the board and ask what can be done to get white light. This helps students learn to reason. Then, implement one of the solutions suggested by the students. Hold the board with LEDs in front of a student and show that their shadow is colored! For more information, see [demo 14.18](#-Strange-shadows) below. 
@@ -71,44 +88,7 @@ name: demo50_fig2
 ---
 ```
 
-# Strange shadows 
-
-<table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Maarten van Woerkom</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 minutes</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 4</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Additive mixing of light, primary color, complementary color</td>
-    </tr>
-</table><br>
-
-## Introduction
-Mixing colors can be done in two different ways: subtractive and additive. When you illuminate an object with colored lights, it is called additive mixing.
-
 ## Equipment
-* A panel with three lamps, blue, green, and red (these can be bright LEDs or incandescent bulbs with filters). 
-* In front of the panel is a transparent plexiglass plate with a black cardboard mask that has a square cutout. 
-* Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. 
-* The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
-
-```{figure} demo50_figure4_site.jpg
----
-width: 50%
-align: center
-name: demo50_fig4
----
- A schematic of the setup. 
-```
 ## Preparation
 The demonstration should be conducted in a well-darkened room. The better the room is darkened, the more vivid the colors will be. The distance between the panel and the holder, as well as the distance between the holder and the screen, should be determined experimentally. Here are some guidelines:
 
