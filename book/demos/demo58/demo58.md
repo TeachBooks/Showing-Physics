@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -43,7 +43,7 @@ The turntable with LEGO bricks
 - Ruler
 
 ## Preparation
-Place a cube on the turntable of a record player, as shown in `Figure {number} <fig:turntable>`. LEGO bricks have been used as mass cubes in this setup. Determine the distance from the centre at which the cube will just slide when the turntable is turned on.
+Place a cube on the turntable of a record player, as shown in {numref}`Figure {number} <fig:turntable>`. LEGO bricks have been used as mass cubes in this setup. Determine the distance from the centre at which the cube will just slide when the turntable is turned on.
 
 ## Procedure
 1.	Place a cube at a not too large distance from the centre of the turntable and measure this distance (r).
@@ -56,13 +56,6 @@ Place a cube on the turntable of a record player, as shown in `Figure {number} <
 8.	Control question: *Can you get a coefficient of friction greater than 1?*
 
 ## Physics background
-Three forces act on the cube (see `Figure {number}<fig:force_balance>`): the gravitational force $F_G$, the normal force $F_N$ and the shear friction force $F_F$. At the moment the cube is on the turntable of the record player, it is the sliding friction force that provides the centripetal force. The following then applies:
-$$F_F=F_{c}=\frac{mv^2}{r}$$
-
-Also, $F_F = μ_s \cdot F_N$ 
-From this, a formula for the static coefficient of friction μs can be derived.
-For a derivation of this, REFERENCE TO WEBSITE.
-
 ```{figure} demo58_figure2.jpg
 ---
 width: 50%
@@ -71,6 +64,28 @@ name: fig:force_balance
 ---
 Three forces on the cube
 ```
+Three forces act on the cube (see {numref}`Figure {number}<fig:force_balance>`): the gravitational force $F_G$, the normal force $F_N$ and the shear friction force $F_F$. At the moment the cube is on the turntable of the record player, it is the sliding friction force that provides the centripetal force. The following then applies:
+
+$$F_F=F_{c}=\frac{mv^2}{r}$$
+
+In this equation, $F_F$ represents the friction force (in N), $F_c$ represents the centripetal force (in N), $m$ is the mass of the block (in kg), $v$ is the tangential velocity of the block (in m/s), and $r$ is the radius of the circular path (in m).
+
+The friction force can also be calculated by multiplying the normal force on the block by the static friction coefficient. The normal force is, of course, equal to the gravitational force. In formula form, this yields:
+
+$F_F = \mu _s \cdot F_N = \mu _s \cdot m  g$ 
+
+In this formula, $F_F$ again represents the kinetic friction force (in N),  is the static friction coefficient, $F_N$ represents the normal force (in N), $m$ is the mass of the block (in kg), and *g* is the acceleration due to gravity (9.81 m/s$^2$).
+
+By combining both expressions for the kinetic friction force, you can derive a formula for the static friction coefficient for this situation:
+
+$$ \mu _s \cdot m g = \frac{mv^2}{r} \quad \rightarrow \quad \mu _s = \frac{v^2}{rg} $$
+
+In the above expression, you can also substitute the formula for the tangential velocity ($v = \frac{2 \pi r}{T}$, with $T$ being the period (in s)). This gives:
+
+$$ \mu_ s = \frac{\left( \frac{2 \pi r}{T} \right)^2}{r g} = \frac{4 \pi^2 r}{T^2 \cdot g} $$ 
+
+From this expression, the directly proportional relationship between the static friction coefficient and the radius of the circular path can be recognized. At the point where the block is flung off the turntable, the maximum value for the static friction coefficient has been reached.
+
 
 ```{tip}
 - A few testers reported that the turntable was not smooth enough. Without a rubber mat or with a plastic cover around the mat or smeared with oil, it went well.
