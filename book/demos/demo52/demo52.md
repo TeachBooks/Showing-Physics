@@ -29,7 +29,7 @@ align: right
 ## Introduction
 The power emitted by the sun can be reasonably well determined using a regular 100 W light bulb and the inverse square law.
 
-```{figure} B49_PF_fig1.jpg
+```{figure} demo52_figure1.JPG
 ---
 width: 50%
 align: center
