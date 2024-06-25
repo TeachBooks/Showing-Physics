@@ -168,7 +168,7 @@ parts:
       sections:
       - file: demos/demo59/demo59
       - file: demos/demo62/demo62
-      
+      - file: demos/demo60/demo60
       
       - file: demos/demo65/demo65
       
