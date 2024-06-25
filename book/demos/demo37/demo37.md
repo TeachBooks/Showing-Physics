@@ -64,7 +64,7 @@ The experimental setup, with a syringe and a pressure sensor.
 
 ```{figure} A05_NvV02_fig2_metingen_site.jpg
 ---
-width: 50%
+width: 100%
 align: center
 name: demo37_fig2
 ---
@@ -80,7 +80,7 @@ Plot the graph of $\frac{1}{p}$ against $V$ by creating a variable $\frac{1}{p}$
 
 ```{figure} A05_NvV02_fig4_resultaat_voor_en_na_volumecorrectie_site.jpg
 ---
-width: 50%
+width: 100%
 align: center
 name: demo37_fig4
 ---
