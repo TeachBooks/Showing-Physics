@@ -26,30 +26,13 @@ align: right
 ## Introduction
 A burning candle is an everyday phenomenon, but the physical and chemical effects that contribute to the burning are complex. This demonstration is suitable for developing your students' physical reasoning. Without complicated equipment, you show a surprising phenomenon. Why does the flame of a candle disappear?
 
-```{figure} KS01_foto_1a.jpg
+```{figure} KS01_figure1.jpg
 ---
 width: 50%
 align: center
 ---
-Figure 1a. The visible flame of a candle disappears near a copper spiral.
+a. The visible flame of a candle disappears near a copper spiral. b. The visible flame of a candle disappears near a copper spiral. c. The visible flame of a candle disappears near a copper spiral.
 ```
-
-```{figure} KS01_foto_1b.jpg
----
-width: 50%
-align: center
----
-Figure 1b. The visible flame of a candle disappears near a copper spiral.
-```
-
-```{figure} KS01_foto_1c.jpg
----
-width: 50%
-align: center
----
-Figure 1c. The visible flame of a candle disappears near a copper spiral.
-```
-
 _Photos by Aike Stortelder._
 
 ## Materials Needed
