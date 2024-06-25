@@ -175,7 +175,7 @@ Increasing the distance between the mask and the screen makes the colored strip 
 The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
 The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.
 
-```{figure}demo50_figure6.jpg
+```{figure} demo50_figure6.jpg
 ---
 width: 100%
 name: demo50_fig6
