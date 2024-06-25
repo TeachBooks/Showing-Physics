@@ -91,14 +91,6 @@ name: demo50_fig4
  A schematic of the setup. 
 ```
 
-```{figure} demo50_figure2.jpg
----
-width: 50%
-align: center
-name: demo50_fig2
----
-```
-
 ## Equipment
 ## Preparation
 The demonstration should be conducted in a well-darkened room. The better the room is darkened, the more vivid the colors will be. The distance between the panel and the holder, as well as the distance between the holder and the screen, should be determined experimentally. Here are some guidelines:
@@ -168,28 +160,29 @@ Table 2 shows the results of combining different light sources.
 | Blue + Yellow      | White     |
 | Green + Magenta    | White     |
 
-<!-- Tekst hieronder gaat over een figuur die nu mist, die moet nog even toegevoegd en dan daarna de tekst linken aan de figuur. -->
 
-```{figure}
+Various masks are shown in {numref}`Figure {number}<demo50_fig6>`, with their image on the screen for a nearby screen and a far away screen.
+
+In figure 1a, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.
+
+In figure 2a, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.
+
+The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
+In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.
+And also figures 5a and 6a, and their corresponding figures 5b and 6b.
+Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.
+
+The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
+The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.
+
+```{figure}demo50_figure6.jpg
 ---
 figclass: margin
-width: 50%
+width: 100%
+name: demo50_fig6
 ---
-In this series of figures, various masks are shown.*
+In this series of figures, various masks are shown.
 ```
-
-
-*In figure 1a, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.*
-
-*In figure 2a, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.*
-
-*The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)*
-*In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.*
-*And also figures 5a and 6a, and their corresponding figures 5b and 6b.*
-*Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.*
-
-*The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.*
-*The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.*
 
 ## Follow up
 The demo [Optics with LEDs](../demo89/demo89.md) provides plenty of follow ups.
