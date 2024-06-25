@@ -4,7 +4,9 @@ width: 35%
 align: right
 ```
 
-# Colliding Balls: Conversion of kinetic energy to heat
+# Colliding Balls
+<span style="font-size: 25px; color: gray;">Conversion of kinetic energy to heat</span>
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -49,8 +51,8 @@ None
 
 ## Procedure
 1. As an introduction, strike the balls against each other without anything in between, at a speed similar to clapping. *Where does the energy go that I constantly put in by moving back and forth?* Students will likely mention sound; some may say that the energy disappears. Some students might also suggest that heat is generated. *How could you prove that?* There may be suggestions to measure the temperature of the steel balls, but that is very difficult. There is another way to plausibly demonstrate that heat is generated.
-2. Ask someone to assist and hold the A4 paper vertically between the balls and strike the balls against each other (see `Figure {number}<fig:preimpact>`). You can choose to do this once or repeatedly in different spots on the paper. You will see small holes in the paper (see `Figure {number}<fig:deformation>` top). Ask the assistant to smell the paper. They will clearly perceive a burnt smell.
-3. In the second part of the experiment, ask the assisting student to hold a sheet of aluminum foil vertically between the colliding balls. Using the same motion as in the first part, strike the metal balls against each other. At the point where the balls touch, a wave pattern can now be seen (`Figure {number}<fig:deformation>` bottom).
+2. Ask someone to assist and hold the A4 paper vertically between the balls and strike the balls against each other (see {numref}`Figure {number}<fig:preimpact>`). You can choose to do this once or repeatedly in different spots on the paper. You will see small holes in the paper (see {numref}`Figure {number}<fig:deformation>` top). Ask the assistant to smell the paper. They will clearly perceive a burnt smell.
+3. In the second part of the experiment, ask the assisting student to hold a sheet of aluminum foil vertically between the colliding balls. Using the same motion as in the first part, strike the metal balls against each other. At the point where the balls touch, a wave pattern can now be seen ({numref}`Figure {number}<fig:deformation>` bottom).
 ```{figure} WoS03_Balletje_Tik_SD_fig2.jpg
 ---
 width: 50%
