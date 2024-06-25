@@ -69,7 +69,7 @@ $$N=\frac{L_B}{L_V} = \frac{b}{v} $$
 You make it clear that the mentioned variables play a role. You show that the magnification depends on these variables. The formula is also covered in math in the second class, but this often does not coincide with the time it is discussed in physics. Coordination is therefore advisable!
 
 
-```{figure} demo50_figure4_site.jpg
+```{figure} demo50_figure2.jpg
 ---
 width: 50%
 align: center
@@ -96,7 +96,7 @@ The demonstration should be conducted in a well-darkened room. The better the ro
 * The distance between the panel and the holder with the mask is about 20 cm.
 * The distance between the holder and the screen varies between 0 cm and 50 cm.
 
-```{figure} demo50_Opstelling_foto-site.jpg
+```{figure} demo50_figure3.jpg
 ---
 width: 50%
 align: center
@@ -114,7 +114,7 @@ In the lower left of the screen, green is blocked, allowing only blue and red to
 In the lower right, blue is blocked, allowing only green and red to reach that spot; together, they form yellow.
 
 
-```{figure} B47_conceptcartoon_translated.jpg
+```{figure} demo50_figure4.jpg
 ---
 align: center
 name: demo50_fig5
