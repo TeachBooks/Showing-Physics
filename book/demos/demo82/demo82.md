@@ -4,7 +4,8 @@ width: 35%
 align: right
 ```
 
-# Transit of a Sphere: Simulating Planet Transits
+# Transit of a Sphere
+<span style="font-size: 25px; color: gray;">Simulating Planet Transits</span> 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -58,7 +59,7 @@ Setup to measure a transit.
 4. Ask the students to sketch how the transit curve would look if the planet moved slower/faster.
 5. Ask the students to sketch how the transit curve would look if the planet were larger/smaller.
 6. Provide the formula below and ask the students to apply it to the situation. Provide the diameter of the lamp. Here, $H$ represents the brightness or intensity of the received light. 
-    $H_{dip}/H_{star} =1-(r_{planet}/R_{star})^2$
+    $\frac{H_{dip}}{H_{star}} =1-(\frac{r_{planet}}{R_{star}})^2$
 7. Let students calculate the radius of the planet using the formula.
 8. Control question: In what way(s) does this demonstration deviate from the actual observation of exoplanets?
 
