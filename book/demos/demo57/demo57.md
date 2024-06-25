@@ -58,7 +58,7 @@ The light ball should fit inside the tube and have enough friction with the inne
    * Sketch the path you observe the ball taking. Sketch the ball at a point halfway along that path, and add the velocity, spin, and acceleration of the ball.
    * Can you make the curve go in the opposite direction? How? How can you make it curve upward so it travels further? And how can you make it hit the ground faster?
    * Name five sports where curve balls are used and explain the purpose of imparting spin in each case.
-6. To conclude, it might be interesting to show the spectacular [YouTube video of a basketball being thrown with spin into a canyon](https://www.youtube.com/watch?v=QtP_bh2lMXc), see the video below
+6. To conclude, it might be interesting to show the spectacular YouTube video of a basketball being thrown with spin into a canyon:
 
 
 <div style="display: flex; justify-content: center;">
