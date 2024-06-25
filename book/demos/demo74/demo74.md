@@ -1,10 +1,10 @@
-```{figure} ../../figures/open.png
+```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
 ```
 
-# Shadow of a flame 2: 
+# Shadow of a flame 2
 <span style="font-size: 25px; color: gray;">Visualisation of heat flow</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
