@@ -64,10 +64,10 @@ Bring the burning candle down into the kettle, and note that the flame dies. Sum
 
  ```{figure} demo09_figure2.png
 ---
-width: 50%
+width: 70%
 align: center
 ---
-<br> *left* Above the kettle, the flame burns somewhat weaker.<br> 
+<br> *left* Above the kettle, the flame burns somewhat weaker.
 <br> *right* Inside the kettle, above the water, the flame extinguishes
 ```
 
