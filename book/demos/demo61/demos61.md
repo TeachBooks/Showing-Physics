@@ -1,4 +1,4 @@
-```{figure} ../figures/ready.png
+```{figure} ../figures/checked.png
 ---
 width: 35%
 align: right
@@ -19,10 +19,6 @@ align: right
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14</td>
-    </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
     </tr>
 </table><br>
 
@@ -51,16 +47,16 @@ Set up the candles so they can easily fit under the bell jar and the bell jar ca
 2. What will happen to the candle when I place it under the bell jar?
 3. Place the candle under the bell jar.
     - *Why does the candle go out?*
-5. Explain that oxygen is consumed during combustion, producing carbon dioxide and water vapor.
+4. Explain that oxygen is consumed during combustion, producing carbon dioxide and water vapor.
     - *How did you observe both effects inside the bell jar?* 
-7. Ensure the bell jar has a proper oxygen ratio again by blowing into it or moving it back and forth.
+5. Ensure the bell jar has a proper oxygen ratio again by blowing into it or moving it back and forth.
 
-You can choose to perform steps 7, 8, and 9 in the same lesson or the next lesson.
+You can choose to perform steps 6, 7, and 8 in the same lesson or the next lesson.
 
-8. Tell the students that you will now place two candles of different lengths. Ask them which one will go out first and to explain why they think so.
-9. Perform the experiment.
+6. Tell the students that you will now place two candles of different lengths. Ask them which one will go out first and to explain why they think so.
+7. Perform the experiment.
     - *What is the explanation?*
-11. Control question: *Explain why a wood stove has a chimney.*
+8. Control question: *Explain why a wood stove has a chimney.*
 
 ## Physics Background
 There are two plausible explanations:
