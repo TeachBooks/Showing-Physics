@@ -67,7 +67,8 @@ Bring the burning candle down into the kettle, and note that the flame dies. Sum
 width: 50%
 align: center
 ---
-a) Above the kettle, the flame burns somewhat weaker.<br> b) Inside the kettle, above the water, the flame extinguishes
+<br> *left* Above the kettle, the flame burns somewhat weaker.<br> 
+<br> *right* Inside the kettle, above the water, the flame extinguishes
 ```
 
 Draw a conclusion together. It may well be that the conclusion is not: *there is water vapor above the liquid*. After all, that has not been proven. What we can agree on is: 
@@ -80,5 +81,5 @@ The substance concerned has a name: "[steam](https://en.wikipedia.org/wiki/Steam
 
 
 ## Physics background
-The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100 $\degree$C. Water vapor or steam fills the space immediately above the boiling surface, it condenses only a bit higher up above the kettle, where the temperature is lower. Due to lack of oxygen, the flame dies in the steam (some prior knowledge about burning is prerequisite).
+The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100°C. Water vapor or steam fills the space immediately above the boiling surface, it condenses only a bit higher up above the kettle, where the temperature is lower. Due to lack of oxygen, the flame dies in the steam (some prior knowledge about burning is prerequisite).
 
