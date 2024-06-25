@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -63,7 +63,7 @@ Top: the resulting hole in the paper with a singed edge. Bottom: the wave patter
 ```
 
 ## Physics Background
-Kinetic energy is converted into heat. This often occurs in inelastic collisions. Think of a meteorite crashing onto the Earth's surface. In the demonstration with paper, the heat is sufficient to reach the ignition temperature of the paper and thus burn it. This combustion quickly stops because the heat transfer to the surroundings is too small due to the short duration of the collision.
+Kinetic energy is converted into heat. This often occurs in inelastic collisions, e.g. when a meteorite crashes onto the Earth's surface. In the demonstration with paper, the heat is sufficient to reach the ignition temperature of paper and thus burn it. This combustion is only brief because the heat transfer to the surroundings is too small, due to the short duration of the collision.
 
 The formation of the shockwave in the aluminum is somewhat more difficult to explain. The most commonly given explanation online is that the aluminum briefly melts due to the heat and immediately solidifies again. This way, the running wave created during the collision is essentially frozen.
 
