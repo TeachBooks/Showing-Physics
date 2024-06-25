@@ -169,7 +169,7 @@ parts:
       - file: demos/demo59/demo59
       - file: demos/demo62/demo62
       - file: demos/demo60/demo60
-      
+      - file: demos/demo61/demo61
       - file: demos/demo65/demo65
       
       - file: demos/demo67/demo67
