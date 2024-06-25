@@ -177,7 +177,6 @@ The mask in figure 8a is the complement of figure 7a. Hence, its color effects a
 
 ```{figure}demo50_figure6.jpg
 ---
-figclass: margin
 width: 100%
 name: demo50_fig6
 ---
