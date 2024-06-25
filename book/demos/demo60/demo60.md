@@ -28,7 +28,7 @@ A burning candle is an everyday phenomenon, but the physical and chemical effect
 
 ```{figure} KS01_figure1.jpg
 ---
-width: 50%
+width: 100%
 align: center
 ---
 a. The visible flame of a candle disappears near a copper spiral. b. The visible flame of a candle disappears near a copper spiral. c. The visible flame of a candle disappears near a copper spiral.
