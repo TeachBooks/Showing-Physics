@@ -119,7 +119,7 @@ Considering that not all the heat is released at once, the rate of water vapor d
 
 ```{tip}
 - Place the setup visibly on the desk. Project the measurement via the computer onto a screen or digital board. Ensure the temperature is easy to follow by, for example, directing a temperature spot of the camera at the spot to be measured. 
-- A water droplet on the edge of the paper will also be clearly visible with a lower temperature due to evaporation (see {numref}`Figure {number}<demo63_fig2> a`). 
+- A water droplet on the edge of the paper will also be clearly visible with a lower temperature due to evaporation (see {numref}`Figure {number<demo63_fig2> a`). 
 - After a few hours, the setup shows the paper has a lower temperature. Paper is porous, and the water molecules evaporate again at the surface of the paper. Hold the paper vertically above the dish as well.
 ```
 
