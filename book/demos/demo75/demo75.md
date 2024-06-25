@@ -46,7 +46,7 @@ The setup with a plastic test tube rack to place the spheres on.
 - Kettle
 - Ladle
 - Tea towel.
-This description uses Coach 7 as measurement software. The required Coach 7 file is available on the website. LINK NEEDED?
+This description uses Coach 7 as measurement software. The required Coach 7 file is available on the website.**LINK NEEDED?**
 
 ## Preparation
 1. Set up a measurement setup as shown in Figures {numref}`{number}<fig:demo75_setup1>` and {numref}`{number}<fig:demo75_setup2>`.
@@ -67,9 +67,9 @@ Another view of the setup looking at the test tube rack to place the balls on an
 2. Let the students calculate how much thermal energy a sphere possesses when it heats up from room temperature to a certain temperature (for example, 60°C). Dutch students can find the specific heat of the material in BINAS.
 3. Ask and discuss briefly: *Are the temperatures of the spheres at the start of the experiment the same or different?*
 4. Ask and discuss: *Of the following options, what do you expect will happen?* 
-    1. The largest sphere will cool down the fastest.
-    2. The smallest sphere will cool down the fastest.
-    3. Cooling will occur at the same rate for both spheres.
+    - The largest sphere will cool down the fastest.
+    - The smallest sphere will cool down the fastest.
+    - Cooling will occur at the same rate for both spheres.
     Preferably, have them write down their choice and come up with an explanation.
 5. Boil some water in the kettle, leave the lid of the kettle open and place the spheres in a ladle in the kettle. Wait a moment until the metal spheres are heated up. Remove the ladle from the kettle and place the spheres on a tea towel to quickly dry them. Then place the spheres in the desired position in your measurement setup.
 6. Perform the measurement. After heating the spheres in boiling water, quickly position them in the setup. Start the measurement with the FLIR IR camera.
@@ -84,7 +84,7 @@ Screenshot of the FLIR C5 measurement. The temperature range is set manually.
 ```
 
 7. Discuss the results. *Which explanation fits best?*
-8. Optionally tell the tale of George-Louis Leclerc and his determination of the age of the Earth (see website).
+8. Optionally tell the tale of George-Louis Leclerc and his determination of the age of the Earth (see website **LINK? / admonition with story?**).
 
 ```{figure} demo75_figure4.jpg
 ---
@@ -107,8 +107,8 @@ A smaller sphere has a relatively larger ratio of surface area to volume, allowi
 
 ## Follow-up
 Use a temperature sensor attached to a large and a slightly smaller sphere, perform the measurement using appropriate software. Ask questions like:
-* How meaningful is the measurement this way? 
-* How quickly do they both cool down? 
-* What influence does the temperature sensor itself have? <br>
-The sensor also needs to heat up, in the case of a too small sphere, this will cost a lot of thermal energy from the sphere and therefore it will cool down even faster.
+* *How meaningful is the measurement this way?*
+* *How quickly do they both cool down?* 
+* *What influence does the temperature sensor itself have?* <br>
+*The sensor also needs to heat up, in the case of a too small sphere, this will cost a lot of thermal energy from the sphere and therefore it will cool down even faster.*
 
