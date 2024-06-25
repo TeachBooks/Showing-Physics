@@ -19,10 +19,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 8, extension from grade 11</td>
     </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
-    </tr>
 </table><br>
 
 
