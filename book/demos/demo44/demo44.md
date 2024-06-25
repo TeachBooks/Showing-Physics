@@ -28,52 +28,63 @@ align: right
 </table><br>
 
 
-```{figure} demo44_figure2.JPG
----
-width: 50%
-align: center
-name: demo44_fig2
----
-A view as the students will see it.
-```
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/C9cByXAXkRw?si=nm_BLzKo5BOkISQT"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 
 ## Introduction
 In movies and commercials, you see car wheels spinning backward while the car moves forward. How does that work exactly? And how many measurements do you need to sample an (analog) signal (digitally) so that you can reconstruct the signal?
 
 ## Equipment
-* Dropper
-* Stroboscope
+* Dropper (best with larger reservoir on top)
+* Stroboscope (or ledstrip and frequency generator with adjustable duty cycle)
 * Collection tray
 * Water
 * Darkened room
 * Pendulum
 
 ## Preparation
-Place a dropper, similar to the one used for pipetting, on the table. Position the collection tray underneath to catch the droplets. Place a stroboscope next to the setup. Also, prepare the pendulum setup, ensuring that the pendulum length is not too long (measure beforehand what the period is!).
+Place a dropper, similar to the one used for pipetting, on the table. Position the collection tray underneath to catch the droplets. Place a stroboscope next to the setup. Try beforehand what the dripping rate and frequency for the stroboscope should be. Also, prepare the pendulum setup, ensuring that the pendulum length is not too long (measure beforehand what the period is!).
 
 ```{figure} demo44_figure1.JPG
 ---
-width: 50%
+width: 70%
 align: center
 name: demo44_fig1
 ---
 The setup.
 ```
 
+```{warning}
+Some people are sensitive for flashing light... check beforehand!
+```
+
 ## Procedure
-demonstration. The flash of the stroboscope corresponds to one frame of the film. You are sampling the motion.
+Show your students the experimental setup. Turn on the stroboscope and open the faucet slightly so that waterdroplets fall quickly in succession. By varying the flash frequency, you can `freeze` the drops; let them fall slowly, or even rise upward.
 
-Turn on the stroboscope and open the faucet slightly so that drops fall quickly in succession. By varying the flash frequency, you can freeze the drops; let them fall slowly or rise upward.
-
-Replace the dropper with the pendulum. Set the flash frequency so that the pendulum is only visible in the extreme positions or at the equilibrium position. First, ask the students if they can tell whether the pendulum is moving back and forth or standing still. Then ask the students what they will see when you slightly increase the flash frequency and verify the answer by increasing the flash frequency.
-
+Replace the dropper with the pendulum. Set the flash frequency so that the pendulum is only visible in the extreme positions or at the equilibrium position. Ask the students if they can tell whether the pendulum is moving back and forth or standing still. Then ask the students what they will see when you slightly increase the flash frequency. Verify their answers by increasing the flash frequency.
 
 ## Physics background
+If the frequency of the stroboscope is the same as the frequency of dripping water, subsequent waterdroplets are seen at the same position. Hence, the waterdroplets are 'frozen' in air. If you increase the frequency slightly, the sequent waterdroplet is seen just above the earlier one. The waterdroplets then seem to move slowly upward.
+
+```{tip}
+Phyphox can be used to determine the frequency of the waterdroplets, you can use the acoustic chronometer for this. 
+```
+
+demonstration. The flash of the stroboscope corresponds to one frame of the film. You are sampling the motion.
+
 To be able to construct an analog signal by taking samples (digitally), you need at least 2 measurements per period. This is called the Nyquist criterion. If the sampling frequency is lower than this frequency, aliasing occurs; the effect is seen in the backward spinning wheels of cars in movies.
 
-```{warning}
-Some people are gevoelig for flashing light... check beforehand
-```
+
 
 ```{note}
 One of our testers stated: " 'Upward dripping' is a really fun demonstration which arouses amazement among students. Many students quickly realized the relationship between the flash frequency and the drop frequency in the way they saw the droplet moving.
