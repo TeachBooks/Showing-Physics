@@ -22,7 +22,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Boiling, </td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Boiling </td>
     </tr>
 </table><br>
 
@@ -50,7 +50,7 @@ The setup for this demonstration
 ```
 
 ## Preparation
-Set up the apparatus as shown in `Figure {number} <demo64_figure1>`. 
+Set up the apparatus as shown in `Figure {number}<demo64_figure1>`. 
 
 ## Procedure
 1. Fill the flask three-quarters full with water (preheated to save time). Heat until the water boils and let it boil for a while. If needed, hold a glass of cold water with a clamp near the flask opening to show that water vapor is coming out of the flask (the vapor condensates on the colder glass).
