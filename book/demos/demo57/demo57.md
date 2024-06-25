@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/ready.png
 ---
 width: 35%
 align: right
@@ -26,11 +26,17 @@ align: right
     </tr>
 </table><br>
 
-
-www.youtube.com/watch?v=23f1jvGUWJs
-
 ## Introduction
 You can demonstrate the important concept of a curve ball in sports using simple materials. This experiment provides a qualitative understanding of the Coandă effect. How does it work? It’s a challenge to predict the direction of the curve and to think of possible applications.
+
+```{figure} demo57_figure1whole.jpg
+---
+width: 100%
+align: center
+name: demo50_fig1
+---
+A paper tube rolls down a slope.
+```
 
 ## Equipment
 * A small plank
@@ -73,27 +79,45 @@ The light ball should fit inside the tube and have enough friction with the inne
     </div>
 </div>
 
+A bit more explanation can be found in the following video:
 
-```{figure} demo57_figure2.JPG
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="www.youtube.com/watch?v=23f1jvGUWJs"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
+
+## Physics background
+The observed phenomena can be explained by the Coandă effect {cite}`Veld2009`. Flowing water that runs along the convex side of a spoon adheres to the curved surface ({numref}`Figure {number}<demo57_fig2>`, left). The jet no longer goes straight but is drawn towards the convex surface. Conversely, and according to Newton's third law, the fluid jet also pulls on the spoon. Flowing water along one side of a table tennis ball follows the curved side of the ball. The water stream bends away from its original direction. According to Newton, the ball is then also pulled into the stream. A table tennis ball on a string will be drawn into a water jet ({numref}`Figure {number}<demo57_fig2>`, right). Similarly, a table tennis ball can be drawn into an airstream. 
+
+```{figure} demo57_figure23_together.jpg
+---
+width: 100%
+align: center
+name: demo57_fig2
+---
+Left: The water jet bends towards the convex surface. Right: A ping pong ball is pulled into the water jet.
+```
+
+The rolled-up A4 paper tube rolls down the plank. It leaves the plank with both velocity and rotation. Because of its speed, the cylinder experiences a kind of counter-wind, just like a cyclist feels the wind in their face when riding fast. The air flowing past is deflected more on the side of the paper cylinder that rotates with the air than on the other side. The air experiences an upward force, and the cylinder experiences an equal and opposite force downward. The cylinder experiences a force perpendicular to the axis of rotation downward. See {numref}`Figure {number}<demo57_fig3>`. The ball rolling down the slope also experiences this force. However, in comparison to the gravitational force on the rolling object, this force is too small to significantly alter its trajectory.
+
+```{figure} demo57_figures5.png
 ---
 width: 50%
 align: center
+name: demo57_fig3
 ---
-some caption
+The paper rotates counterclockwise in its fall, causing the effect to move downwards and to the right.
 ```
 
-## Physics background
-The observed phenomena can be explained by the Coandă effect. Flowing water that runs along the convex side of a spoon adheres to the curved surface (figure 2). The jet no longer goes straight but is drawn towards the convex surface. Conversely, and according to Newton's third law, the fluid jet also pulls on the spoon. Flowing water along one side of a table tennis ball follows the curved side of the ball. The water stream bends away from its original direction. According to Newton, the ball is then also pulled into the stream. A table tennis ball on a string will be drawn into a water jet (figure 3). Similarly, a table tennis ball can be drawn into an airstream. 
-
-The rolled-up A4 paper tube rolls down the plank. It leaves the plank with both velocity and rotation. Because of its speed, the cylinder experiences a kind of counter-wind, just like a cyclist feels the wind in their face when riding fast. The air flowing past is deflected more on the side of the paper cylinder that rotates with the air than on the other side. The air experiences an upward force, and the cylinder experiences an equal and opposite force downward. The cylinder experiences a force perpendicular to the axis of rotation downward. See figure 3. The ball rolling down the slope also experiences this force. However, in comparison to the gravitational force on the rolling object, this force is too small to significantly alter its trajectory.
-
-[Figure 2. The water jet bends towards the convex surface.]
-
-[Figure 3. A ping pong ball is pulled into the water jet.]
-
 The ball you throw with the tube will roll along the inner wall of the tube, gaining both forward speed along the tube's length and rotational motion. The same effect occurs here. Due to the Coandă effect, the airflow is deflected from its original direction. The effect is strongest where the airflow is fastest. The ball causes the airflow to bend. Conversely, according to Newton's third law, the ball experiences a force in the direction of the highest airflow speed.
-
-[Figure 4. The paper rotates counterclockwise in its fall, causing the effect to move downwards and to the right.]
 
 Applications of this effect are found mainly in ball sports. By imparting spin to a ball, you can create curved trajectories. A tennis ball with topspin drops faster, a golf ball with backspin drops slower and travels further, and a soccer corner kick can curl into the goal with the right spin.
 
