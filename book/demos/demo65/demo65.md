@@ -55,7 +55,7 @@ Turn on the balance with the stand for the balloon on it. Set the balance to 0.0
 
 ```{figure} demo65_figure2.jpg
 ---
-width: 50%
+width: 100%
 align: center
 ---
 Change in mass due to cooling of the balloon.
