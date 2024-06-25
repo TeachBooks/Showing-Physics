@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -40,6 +40,9 @@ You usually boil water by heating it. However, with this demonstration, you will
 - Beaker with cold water
 - Heat-resistant gloves
 
+## Preparation
+Set up the apparatus as shown in {numref}`Figure {number}<demo64_figure1>`. 
+
 ```{figure} demo64_figure1.JPG
 ---
 width: 50%
@@ -49,14 +52,12 @@ name: demo64_figure1
 The setup for this demonstration
 ```
 
-## Preparation
-Set up the apparatus as shown in `Figure {number}<demo64_figure1>`. 
 
 ## Procedure
 1. Fill the flask three-quarters full with water (preheated to save time). Heat until the water boils and let it boil for a while. If needed, hold a glass of cold water with a clamp near the flask opening to show that water vapor is coming out of the flask (the vapor condensates on the colder glass).
 2. While heating the water, ask: *What is boiling? Is it the same as evaporating? What is the difference? What do you see during boiling?*
 3. Secure the clamp. Turn off the burner. Seal the flask with the stopper and thermometer. Have a student read the temperature, which will be around 98 to 100°C.
-4. Invert the flask and hold it under a cold water tap or pour cold water over it from a beaker as shown in `Figure {number} <demo64_figure2>`
+4. Invert the flask and hold it under a cold water tap or pour cold water over it from a beaker as shown in {numref}`Figure {number}<demo64_figure2>`
 
 ```{figure} demo64_figure2.jpg
 ---
