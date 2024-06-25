@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -28,6 +28,7 @@ align: right
 
 ## Introduction
 The pendulum experiment is often performed to determine the acceleration due to gravity $g$  using the relationship between the length and the period of the pendulum. This demonstration is a variant of that. Students observe the measured force varying over time. To determine the oscillation period, students need to think about how the tension varies and how the position of the mass affects the magnitude of this tension.
+
 ```{figure} demo66_figure1.jpg
 ---
 width: 50%
@@ -50,7 +51,7 @@ For this experiment we used Coach 7 to read out our device, however, many force 
 1. Start the software to read out your force sensor.
 2. Connect the force sensor to an interface and set it to the correct range. 
 3. Attach the string to the force sensor and zero the sensor. 
-4. Attach the mass block (or ball) to the string. See  `Figure {number} <fig:setup>` for the total setup.
+4. Attach the mass block (or ball) to the string. See  {numref}`Figure {number}<fig:setup>` for the total setup.
 5. The force sensor will show a negative value. For didactic reasons, it is better to display this as a positive value. Create a new variable in a data table in which you multiply the force sensor value by -1.
 
 ## Procedure
@@ -65,7 +66,7 @@ For this experiment we used Coach 7 to read out our device, however, many force 
     - *How can you read the oscillation period of this pendulum from the diagram and why does it need to be done this way?*
     ```{figure} demo66_figure2.jpeg
     ---
-    width: 60%
+    width: 100%
     align: center
     ---
     Measurements of the tension of a pendulum with a length of 0.55 m. Use the reading option in the diagram window of Coach 7 to read off the extreme values.
@@ -74,7 +75,7 @@ For this experiment we used Coach 7 to read out our device, however, many force 
 6. Let the students draw or sketch the force construction in the equilibrium position and in the extreme position of the pendulum.
     ```{figure} demo66_figure3.png
     ---
-    width: 60%
+    width: 100%
     align: center
     ---
     Force construction in the extreme position and in the equilibrium position.
@@ -85,9 +86,10 @@ For this experiment we used Coach 7 to read out our device, however, many force 
 
 
 ## Physics background
-The length of the pendulum remains almost constant because the length of the strain gauge in the force sensor does not change for these tension values. The pendulum performs a harmonic oscillation if the displacement is small. The tension in the string is positive and does not change sign as the displacement does. In the extreme positions of the pendulum, the tension is minimal because the speed there is zero. In the equilibrium position, the tension is maximal because, in addition to compensating for gravity, it also provides the centripetal force. Through force constructions (equilibrium position and extreme position), students can see that the value of the tension changes as a function of the position of the block. Due to the symmetry of the pendulum, two minimal or two maximal values of the tension must be passed for one period of the pendulum. See also Pendrill (2023).
+The length of the pendulum remains almost constant because the length of the strain gauge in the force sensor does not change for these tension values. The pendulum performs a harmonic oscillation if the displacement is small. The tension in the string is positive and does not change sign as the displacement does. In the extreme positions of the pendulum, the tension is minimal because the speed there is zero. In the equilibrium position, the tension is maximal because, in addition to compensating for gravity, it also provides the centripetal force. Through force constructions (equilibrium position and extreme position), students can see that the value of the tension changes as a function of the position of the block. Due to the symmetry of the pendulum, two minimal or two maximal values of the tension must be passed for one period of the pendulum. See also {cite}`Pendrill2023`.
 
 For further research you can use energy conservation laws to calculate the speed in the equilibrium position. Verify this speed using the centripedal force determined from the measured graph. Make a video measurement of the swinging block and verify your calculations with video measurement in Coach 7.
+
 ```{tip}
 Ensure the hook of the force sensor is perpendicular to the loop of the string so that the block remains swinging in a plane.
 ```
