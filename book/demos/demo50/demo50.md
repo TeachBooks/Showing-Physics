@@ -43,6 +43,19 @@ Students are introduced to the ideas of mixing colors which can be done in two d
 ## Preparation
 Connect three lamps in parallel. For convenience, you can use a switch to turn each lamp on/off individually. Ensure there is a 5 to 10 cm space between the lamps.
 
+```{figure} demo50_figure5.png
+---
+align: center
+name: demo50_fig5
+---
+A schematic of the setup clearly showing the similar triangle.
+```
+
+## Procedure
+You start by showing shadows. Hold a piece of cardboard with a (square) hole above a lamp. On the ceiling, you will see a bright area and a dark area. Shadow is there where light rays can not reach.
+
+Then, ask what determines the size of the illuminated rectangle. The students will quickly suggest that the distance from the cardboard to the lamp is important. With a bit of reasoning, they can also figure out that the distance between the lamp and the ceiling is significant. From there, it is a small step to the formula for the magnification factor ($N=\frac{L_B}{L_V} = \frac{b}{v} $).
+
 ```{figure} demo50_figure1.jpg
 ---
 width: 70%
@@ -52,12 +65,10 @@ name: demo50_fig1
 Core and penumbra of three lamps.
 ```
 
-## Procedure
-You start by showing shadows. Hold a piece of cardboard with a (square) hole above a lamp. On the ceiling, you will see a bright area and a dark area. Shadow is there where light rays can not reach.
-
-Then, ask what determines the size of the illuminated rectangle. The students will quickly suggest that the distance from the cardboard to the lamp is important. With a bit of reasoning, they can also figure out that the distance between the lamp and the ceiling is significant. From there, it is a small step to the formula for the magnification factor ($N=\frac{L_B}{L_V} = \frac{b}{v} $).
-
 Then turn on a second lamp, creating multiple areas on the ceiling, each with a different shade of gray (penumbra). Let students explain how these different areas form. You can link the phenomenon to a stadium where a single person can have multiple shadows at the same time. Let the students predict what will happen if you turn on a third lamp, as shown in {numref}`Figure {number} <demo50_fig1>`. Now, turn on the third lamp. There will be areas that are completely dark and an area that is very bright. But there will also be intermediate areas that seem gray. These are the penumbra regions.
+
+## Part 2
+
 
 ```{tip}
 There are lovely simulations availble on mixing with light, for instance this [one from PHET](https://phet.colorado.edu/en/simulations/color-vision/about).
@@ -139,9 +150,9 @@ In Table 1, you can see the primary colors and their corresponding complementary
 
 | Primary color  | Complementary color | Together |
 |----------------|---------------------|----------|
-| Red            | CYan                | WHIte    |
-| Blue           | YEllow              | WHIte    |
-| Green          | MAgenta             | WHIte    |
+| Red            | Cyan                | White    |
+| Blue           | Yellow              | White    |
+| Green          | Magenta             | White    |
 
 
 Table 2 shows the results of combining different light sources.
@@ -149,17 +160,24 @@ Table 2 shows the results of combining different light sources.
  **Table 2** 
 |                    |           |
 |--------------------|-----------|
-| Blue + Green       | CYan      |
-| Red + Green        | YEllow    |
-| Red + Blue         | MAgenta   |
-| Red + Blue + Green | WHIte     |
-| Red + CYan         | WHIte     |
-| Blue + YEllow      | WHIte     |
-| Green + MAgenta    | WHIte     |
+| Blue + Green       | Cyan      |
+| Red + Green        | Yellow    |
+| Red + Blue         | Magenta   |
+| Red + Blue + Green | White     |
+| Red + Cyan         | White     |
+| Blue + Yellow      | White     |
+| Green + Magenta    | White     |
 
 <!-- Tekst hieronder gaat over een figuur die nu mist, die moet nog even toegevoegd en dan daarna de tekst linken aan de figuur. -->
 
-*In the series of figures 1a to 8a, various masks are shown.*
+```{figure}
+---
+figclass: margin
+width: 50%
+---
+In this series of figures, various masks are shown.*
+```
+
 
 *In figure 1a, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.*
 
