@@ -74,10 +74,11 @@ Experiment Observation Interpretation/conclusion
 
 
 A commonly found explanation is the following: The black-coloured side of the blade is warmer than the shiny side, so the gas molecules on the black-coloured side have a higher average speed. When these fast gas molecules collide with the dark side of the fins, the mill (on average) gets a bigger "kick" than the average "kick" of the shiny side, where the molecules move less fast, because it is less hot there. The recoil of these "kicks" pushes on the black side of the fins and is responsible for the observed rotation.
-Unfortunately, this is not the latest state of science: The currently accepted explanation was formulated by Osborne Reynolds in 1879. According to this explanation, an effect akin to thermal transpiration would be the cause of the movement: On average, gas molecules move from the hot side to the cold side. Due to the tangential force of the movement of the rarefied gas moving from the warmer to the colder side, you get a the pressure difference and the cold (reflective) side moves forward.
+
+Unfortunately, this is not the latest state of science: The currently accepted explanation was formulated by Osborne Reynolds in 1879 ({cite:t}`brush1969maxwell`). According to this explanation, an effect akin to thermal transpiration would be the cause of the movement: On average, gas molecules move from the hot side to the cold side. Due to the tangential force of the movement of the rarefied gas moving from the warmer to the colder side, you get a the pressure difference and the cold (reflective) side moves forward.
 
 ```{tip}
-It is fun to carry out this experiment when discussing Examination Problem VWO Physics 12 2006 Period I: Task 2 Solar sail with the students of vwo 6. Have students write down or explain exactly what the difference is between the two effects for rotation by light. Discuss whether you could still rotate Crookes radiometer in the other direction under certain conditions.
+There is a [Dutch National Exam Question](https://newsroom.nvon.nl/files/default/na12v061vb.pdf) that can be used when doing this demonstration. Have students write down or explain exactly what the difference is between the two effects for rotation by light. Discuss whether you could still rotate Crookes radiometer in the other direction under certain conditions.
 ```
 
 ## Further investigation
