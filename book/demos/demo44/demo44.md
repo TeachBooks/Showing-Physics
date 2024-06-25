@@ -71,6 +71,14 @@ Replace the dropper with the pendulum. Set the flash frequency so that the pendu
 ## Physics background
 To be able to construct an analog signal by taking samples (digitally), you need at least 2 measurements per period. This is called the Nyquist criterion. If the sampling frequency is lower than this frequency, aliasing occurs; the effect is seen in the backward spinning wheels of cars in movies.
 
+```{warning}
+Some people are gevoelig for flashing light... check beforehand
+```
+
+```{note}
+One of our testers stated: " 'Upward dripping' is a really fun demonstration which arouses amazement among students. Many students quickly realized the relationship between the flash frequency and the drop frequency in the way they saw the droplet moving.
+```
+
 ## References
 ```{bibliography}
 :filter: docname in docnames
