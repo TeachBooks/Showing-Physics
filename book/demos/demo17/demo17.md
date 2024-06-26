@@ -40,7 +40,7 @@ This demonstration demonstrates the stability of an equilibrium when the center 
 width: 50%
 align: center
 ---
-some caption
+The setup. Who can drink the contents of the top bottle without touching the bottle opener or the bottom bottle?
 ``` 
 
 ## Preparation
@@ -56,7 +56,7 @@ Presumably you will have everyone’s attention by now, so it is time to put up 
 width: 50%
 align: center
 ---
-some caption
+The top bottle is not necessary for balance. The lines of the normal force and the gravitational force can be aligned. In other words, the center of gravity is located below the support.
 ``` 
 
 If no student suggests the correct solution, you can play a little trick with your class. Take another bottle from below your desk with some other drink than is in the upper bottle (in the pictured case something else than coke). Now you slowly change this bottle with the original top bottle, lifting the original one clearly, saying something like: ‘perhaps you do not like coke?’
