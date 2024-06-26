@@ -35,7 +35,7 @@ This demonstration demonstrates the stability of an equilibrium when the center 
 * Extra bottle-opener (of any design)
 * Cleaning utensils (if desirable) 
 
-```{figure} demo17_fig1.jpg
+```{figure} demo17_figure1.jpg
 ---
 width: 50%
 align: center
@@ -51,7 +51,7 @@ In my experience it is best to set up the bottles while the students are watchin
 
 Presumably you will have everyone’s attention by now, so it is time to put up the challenge: drink from the upper bottle without touching the lower bottle or the bottle opener and without using any other equipment except for one extra bottle opener (only to be used to open the top bottle). Pretty soon a student will say something like: ‘you can just grab it’. The teacher’s challenge than becomes to test this student’s self-assurance. Is he or she sure enough about this possibility to try it? Is the student willing to clean up the mess he might make? Of course, you also ask why the student thinks he can take the top bottle without breaking anything. When you feel the time is appropriate, the student can actually try his solution (and thus collect his reward).
 
-```{figure} demo17_fig2.jpg
+```{figure} demo17_figure2.jpg
 ---
 width: 50%
 align: center
