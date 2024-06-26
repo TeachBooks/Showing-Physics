@@ -1,4 +1,4 @@
-```{figure} ../figures/checked.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
