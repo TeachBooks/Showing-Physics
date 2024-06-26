@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -20,7 +20,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">pressure, vapour pressure, forces</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Pressure, vapour pressure, forces</td>
     </tr>
 </table><br>
 
@@ -37,12 +37,12 @@ Heating a can with a layer of water.
 ```
 
 ## Equipment
-* Sealable metal container (slightly cleaned oil drum, a large paint can, an empty soft drink can); 
-* gas burner large enough to heat the container; 
-* room temperature water; 
-* wet cloth; 
-* cold water (possibly with ice cubes);
-* pair of gloves.
+* Sealable metal container (slightly cleaned oil drum, a large paint can, an empty soft drink can)
+* Gas burner large enough to heat the container
+* Room temperature water
+* Wet cloth
+* Cold water (possibly with ice cubes)
+* Pair of gloves
 
 ## Preparation
 Test the demonstration so that you know approximately how long it takes for the can to implode. 
