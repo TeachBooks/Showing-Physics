@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# B23 Floating Pearls
+# Floating Pearls
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">
@@ -26,9 +26,9 @@ align: right
 </table><br>
 
 
-```{figure} B24_PD11_figuur2-site.jpg
+```{figure} demo46_figure2.jpg
 ---
-width: 50%
+width: 80%
 align: center
 name: demo46_fig2
 ---
@@ -56,18 +56,18 @@ This demonstration beautifully shows the independence of the motion of an object
 * Ruler
 
 ## Preparation
-Place a stand on the table next to the faucet by the sink.
-Attach a hose to the faucet.
-Attach the overflow vessel to the stand at a considerable height, letting the hose from the faucet hang into it.
-Push one end of the valve tube over the spout of the vessel.
-Attach the ticker with a clamp to the second, securely clamped stand, slightly lower than the vessel.
-Normally, your ticker ticks with a point on carbon paper to make dots. You can place the hose under that point, but it might puncture it. The point is on a vibrating plate: detach it and turn it over, so the point is facing up. Place the hose underneath, and screw it back in place.
-Position the ticker and hose so that a stream of water flows horizontally out of the hose and falls from a considerable height into the sink.
-Finally, set up the stroboscope to illuminate the falling water stream from the side.
+* Place a stand on the table next to the faucet by the sink.
+* Attach a hose to the faucet.
+* Attach the overflow vessel to the stand at a considerable height, letting the hose from the faucet hang into it.
+* Push one end of the valve tube over the spout of the vessel.
+* Attach the ticker with a clamp to the second, securely clamped stand, slightly lower than the vessel.
+* Normally, your ticker ticks with a point on carbon paper to make dots. You can place the hose under that point, but it might puncture it. The point is on a vibrating plate: detach it and turn it over, so the point is facing up. Place the hose underneath, and screw it back in place.
+* Position the ticker and hose so that a stream of water flows horizontally out of the hose and falls from a considerable height into the sink.
+* Finally, set up the stroboscope to illuminate the falling water stream from the side.
 
-```{figure} B24_PD11_figuur1_de_opstelling-site_engels.jpg
+```{figure} demo46_figure1.jpg
 ---
-width: 50%
+width: 80%
 align: center
 name: demo46_fig1
 ---
@@ -90,7 +90,7 @@ Your demonstration might proceed as follows, starting from when the audience see
 *"The pattern seems regular. What is regular about it?"*
   Not only the time but also the horizontal distance between successive droplets is equal ({numref}`Figure {number}<demo46_fig3`). You can measure this. From this, the horizontal speed of each droplet follows. It remains nearly constant during the fall.
 
-  ```{figure} B24_PD11_figuur_3-site.jpg
+  ```{figure} demo46_figure3.JPG
 ---
 width: 50%
 align: center
@@ -103,7 +103,7 @@ Small initial speed.
   If you hang the overflow vessel higher, the outflow speed increases ({numref}`Figure {number}<demo46_fig4>`). The arc widens and initially descends less steeply.
 
   
-```{figure} B24_PD11_figuur4-site.jpg
+```{figure} demo46_figure4.JPG
 ---
 width: 50%
 align: center
@@ -131,6 +131,7 @@ If you can't use your own photos, you can use those from this article: the origi
 
 ## Physics Background
 Each droplet undergoes identical horizontal projectile motion. The droplets are launched at fixed time intervals. When illuminated at these same time intervals, each droplet precisely occupies the position of its predecessor at each subsequent flash. Thus, the parabola of droplets appears to hang still in the air.
+
 If illuminated at slightly longer intervals (higher frequency), the droplets appear to move slightly beyond where their predecessor was, appearing to move slowly downward. If illuminated at slightly shorter intervals, they appear to move upward, back into the faucet.
 In the beginning of the stream, you don’t see individual droplets; they form later as the accelerating pieces of water are pulled apart. The ticker apparently creates almost evenly sized droplets with equal intervals. Cohesion does the rest.
 
