@@ -26,7 +26,7 @@ align: right
 ## Introduction
 A burning candle is an everyday phenomenon, but the physical and chemical effects that contribute to the burning are complex. This demonstration is suitable for developing your students' physical reasoning. Without complicated equipment, you show a surprising phenomenon. Why does the flame of a candle disappear?
 
-```{figure} KS01_figure1.jpg
+```{figure} demo60_figure1.jpg
 ---
 width: 100%
 align: center
@@ -66,7 +66,7 @@ That the flame in the coil can turn blue is surprising to many because we know f
 
 In figures 2a and 2b, you see an attempt to measure the temperature by holding a thermocouple in different parts of the flame: The actual temperature of the flame will be higher than the indicated value because the temperature sensor itself also conducts heat and therefore causes cooling. It is clear that the yellow part of the flame is hotter than the transparent part.
 
-```{figure} KS_01_afb_2.jpg
+```{figure} demo60_figure2.jpg
 ---
 width: 50%
 align: center
