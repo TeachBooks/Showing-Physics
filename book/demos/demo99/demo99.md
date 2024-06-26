@@ -4,7 +4,9 @@
 width: 35%
 align: right
 ```
-# Black and white: Differences between heating and cooling
+# Black and white
+<span style="font-size: 25px; color: gray;">Differences between heating and cooling</span>
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

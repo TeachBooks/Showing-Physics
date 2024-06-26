@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Making Einstein young again with an overhead projector
+# Making Einstein young again 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

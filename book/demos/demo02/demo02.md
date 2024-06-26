@@ -4,7 +4,8 @@ width: 35%
 align: right
 ```
 
-# Cappuccino and specific heat versus heat of vaporization
+# Making a perfect cappuccino
+<span style="font-size: 25px; color: gray;">Specific heat versus heat of vaporization</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 

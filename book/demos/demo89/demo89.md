@@ -4,7 +4,9 @@ width: 35%
 align: right
 ```
 
-# Optics with LEDs: LEDs Provide Fun and Insight.
+# Optics with LEDs
+<span style="font-size: 25px; color: gray;">LEDs Provide Fun and Insight</span>
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

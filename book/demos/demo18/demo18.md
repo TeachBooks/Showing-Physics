@@ -4,8 +4,8 @@ width: 35%
 align: right
 ```
 
-# Dropping balls and bottles, 
-<span style="font-size: 25px; color: gray;">elasticity versus gravity</span>
+# Dropping balls and bottles 
+<span style="font-size: 25px; color: gray;">Elasticity versus gravity</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

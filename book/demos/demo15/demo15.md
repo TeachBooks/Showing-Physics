@@ -5,7 +5,8 @@ width: 35%
 align: right
 ```
 
-# Self-propelling car violates conservation of momentum?
+# Self-propelling car 
+<span style="font-size: 25px; color: gray;">Violating conservation of momentum?</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

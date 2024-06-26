@@ -4,8 +4,8 @@ width: 35%
 align: right
 ```
 
-# Tug-of-War: can one girl be stronger than four boys?
-
+# Tug-of-War
+<span style="font-size: 25px; color: gray;">can one girl be stronger than four boys?</span>
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
