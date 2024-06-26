@@ -25,7 +25,7 @@ Including NoS in education is meant to address the problem that customary educat
 :name: tab:undesirable_conclusions
 
 * - Messages that physics classes can unintentionally convey 
- - Unwanted conclusions students may draw from it
+  - Unwanted conclusions students may draw from it
 * - Scientists are not creative: they just follow set rules and methods.
   - Physics and other natural sciences are boring.
 * - Carefully collected evidence leads to unambiguous and certain knowledge

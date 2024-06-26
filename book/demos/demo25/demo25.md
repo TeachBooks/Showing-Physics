@@ -112,7 +112,7 @@ align: center
 some caption
 ``` 
 
-```{figure} demo25_figure3.tif
+```{figure} demo25_figure3.png
 ---
 width: 50%
 align: center

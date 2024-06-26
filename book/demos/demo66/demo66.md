@@ -33,7 +33,7 @@ The pendulum experiment is often performed to determine the acceleration due to 
 ---
 width: 50%
 align: center
-name: fig:setup
+name: demo66_fig1
 ---
 The setup with a ball attached to the force sensor.
 ```
@@ -51,7 +51,7 @@ For this experiment we used Coach 7 to read out our device, however, many force 
 1. Start the software to read out your force sensor.
 2. Connect the force sensor to an interface and set it to the correct range. 
 3. Attach the string to the force sensor and zero the sensor. 
-4. Attach the mass block (or ball) to the string. See  {numref}`Figure {number}<fig:setup>` for the total setup.
+4. Attach the mass block (or ball) to the string. See  {numref}`Figure {number}<demo66_fig1>` for the total setup.
 5. The force sensor will show a negative value. For didactic reasons, it is better to display this as a positive value. Create a new variable in a data table in which you multiply the force sensor value by -1.
 
 ## Procedure

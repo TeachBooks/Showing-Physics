@@ -123,7 +123,7 @@ Water expands when heated, except between 0 and 4 degrees (anomaly of water). So
 ---
 width: 50%
 align: center
-name: demo28_figure1
+name: demo28_figure5
 ---
 The aquarium after cooling with blue ice and warming with red hot water.
 ```

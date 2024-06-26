@@ -33,7 +33,7 @@ align: right
 
 ## Procedure
 
-```{figure} demo43_figure1.jpeg
+```{figure} demo43_figure1.png
 ---
 width: 50%
 align: center

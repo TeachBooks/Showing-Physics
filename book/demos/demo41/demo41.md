@@ -29,16 +29,7 @@ align: right
 ## Introduction
 This demonstration was inspired by a question from the National Science Quiz: Which bottle empties faster, one with a long spout or one with a short spout? The demonstration is excellent for encouraging students to articulate their thoughts or to explain Bernoulli's law.
 
-```{figure} demo41_figure1.JPG
----
-width: 90%
-align: center
-name: demo41_fig1
----
-a) The setup just before conducting the experiment.<br>
-b) Immediately after removing the fingers, the bottles start to empty.<br>
-c) As less water remains in the bottle, the differences become clearer.
-```
+
 
 ## Equipment
 * Two sturdy PET bottles without bottoms; 
@@ -57,7 +48,7 @@ Position the bucket or drip tray beneath the bottles to keep the classroom dry!
 Have students predict and explain which bottle they think will empty faster. Encourage them to explain their predictions thoroughly. Once enough ideas have been collected and no further ideas or explanations are forthcoming, have the student simultaneously release the tubes and let the bottles empty (see {numref}`Figure {number} <demo41_fig1>b`).
 The bottle with the longer tube empties first (see {numref}`Figure {number} <demo41_fig1>c`).
 
-```{figure} demo41_figure1.JPG
+```{figure} demo41_figure1.png
 ---
 width: 90%
 align: center

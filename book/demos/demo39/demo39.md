@@ -98,7 +98,7 @@ You can now conduct some of the suggested experiments and discuss them, emphasiz
 
 Finally, you can also pay attention to why we do science. In any case, two reasons have come up: curiosity and the importance of understanding the origin of such a fire tornado in relation to the safety of firefighters. Especially if the students have enthusiastically participated in providing suggestions, you can ask whether all (natural) science must be useful.
 
-``` {tips}
+``` {tip}
 The flame is very sensitive to drafts (for example, due to central extraction), so test the demo where you actually plan to perform it.
 
 The students quickly become very enthusiastic about this demonstration. Make sure you have prepared as many experiments and variations as possible. Then you get the most out of this experiment.

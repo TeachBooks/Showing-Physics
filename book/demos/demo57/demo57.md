@@ -33,7 +33,7 @@ You can demonstrate the important concept of a curve ball in sports using simple
 ---
 width: 100%
 align: center
-name: demo50_fig1
+name: demo57_fig1
 ---
 A paper tube rolls down a slope.
 ```

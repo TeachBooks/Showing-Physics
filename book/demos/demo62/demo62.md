@@ -25,7 +25,7 @@ align: right
 ## Introduction
 Modern smartphones have a LiDAR sensor, which allows you to measure the distance to objects. The LiDAR sensor is designed to measure only in air. The speed of light in a transparent substance is different, and thus the measured distance is different. You can use this 'measurement error' to determine the speed of light in a transparent liquid.
 
-```{figure} NV-25-LS-figuur1_sensor_300dpi.jpg
+```{figure} demo62_figure1.jpg
 ---
 width: 50%
 align: center
@@ -34,7 +34,7 @@ name: fig:phone
 LiDAR sensor on the phone.
 ```
 
-```{figure} NV-25-LS-figuur2_appscherm_300dpi.jpg
+```{figure} demo62_figure2.jpg
 ---
 width: 50%
 align: center
@@ -86,11 +86,11 @@ $$ c_{water} = \frac{S3}{t_{water}} $$
 
 Depending on the measurements, we find deviations from the literature value for $c_{water}$ between 0.5 – 10%.
 
-```{figure} NV-25-LS-figuur3_schematische_tekening_300dpi.jpg
+```{figure} demo62_figure3.jpg
 ---
 width: 50%
 align: center
-name: fig:schematic
+name: demo62_fig3
 ---
 S1 is the actual distance between the phone and the bottom of the pan, S2 is the distance between the phone and the water surface. S3 is the water depth. S4 is the distance measured by the app.
 ```

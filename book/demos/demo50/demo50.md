@@ -86,7 +86,7 @@ There are lovely simulations availble on mixing with light, for instance this [o
 ---
 width: 50%
 align: center
-name: demo50_fig4
+name: demo50_fig2
 ---
  A schematic of the setup. 
 ```
@@ -120,7 +120,7 @@ In the lower right, blue is blocked, allowing only green and red to reach that s
 ```{figure} demo50_figure4.jpg
 ---
 align: center
-name: demo50_fig5
+name: demo50_fig4
 ---
 An example to make students think about the additive qualities of light. 
 ```

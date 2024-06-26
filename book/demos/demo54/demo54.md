@@ -27,7 +27,7 @@ align: right
 
 
 
-### Introduction
+## Introduction
 Expanding shaving cream or balloons, boiling water without heat supply, and more possibilities with the vacuum bell jar.
 
 
