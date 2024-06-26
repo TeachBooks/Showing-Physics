@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -43,14 +43,14 @@ Know that this demonstration is carried out in the Netherlands (230V, DC)!
 ```
 
 ## Equipment
-* Two demonstration transformers with, if possible, the same transformation ratio (e.g. 50 : 600), or two (preferably equal) mains adapters or bell transformers; 
-* AC power supply (0-30 V); 
-* AC current meter(s) (range at least 0.5 A); 
-* AC voltage meter(s), preferably digital with not too small digits (range depends on the transformers, maybe 500 V). 
-* Bulb (e.g. 6 V;0.5 A) in socket; 
-* long thin wires with a resistance preferably a bit larger than that of the burning bulb (constantan wire 0.20 mm will do); 
-* plug pins and switching or tripod material to build the 'high-voltage line'; 
-* various cords, including some very long ones.
+* Two demonstration transformers with, if possible, the same transformation ratio (e.g. 50 : 600), or two (preferably equal) mains adapters or bell transformers
+* AC power supply (0-30 V)
+* AC current meter(s) (range at least 0.5 A)
+* AC voltage meter(s), preferably digital with not too small digits (range depends on the transformers, maybe 500 V)
+* Bulb (e.g. 6 V;0.5 A) in socket
+* Long thin wires with a resistance preferably a bit larger than that of the burning bulb (constantan wire 0.20 mm will do)
+* Plug pins and switching or tripod material to build the 'high-voltage line'
+* Various cords, including some very long ones
 
 ## Preparation
 1.	Build a 'high voltage line' from the two thin wires, 1.5-2 m long (if the demonstration table allows).
@@ -81,7 +81,7 @@ Possible in this way as well
 Turn this demonstration into a story (a detailed example below); .
 
 **Energy transport without transformators**<br>
-* On the left is the power station, on the right is a village or town, in between is the transmission line. (You can put a piece of paper on the wires in case students in the back don't see them). The customer should have 6 volts (depends on the bulb used).
+* *On the left is the power station, on the right is a village or town, in between is the transmission line.* (You can put a piece of paper on the wires in case students in the back don't see them). *The customer should have 6 volts* (depends on the bulb used).
 * Set the power supply to 6 volts (use the voltage meter), and note that the light is not, or just barely, lit. Measure the voltage at the customer's premises: far too low!
 * You can measure the current, calculate the power the customer is getting and the loss rate.
 * Increase the voltage of the power station until the customer does get 6 V; then the power station delivers ... V (measure). The relative loss remains the same.
@@ -105,28 +105,21 @@ Turn this demonstration into a story (a detailed example below); .
 * Measure the voltage 'across the line' and find that it is also much smaller.  So the voltage drop has become much smaller while the voltage is much larger. (discuss if the voltage is not across the line, where has it gone?) Relatively, that chops double...
 
 **Figuren samenvoegen**
-```{figure} demo94_figure4a.jpg
+```{figure} demo94_figure4ab.jpg
 ---
-width: 50%
+width: 100%
 align: center
 ---
-next to  each other
+Schematics of both circuits. Top: without the transformers. Bottom: with the transformers.
 ```
 
-```{figure} demo94_figure4b.jpg
----
-width: 50%
-align: center
----
-next to  each other
-```
 
 ```{figure} demo94_figure4c.jpg
 ---
-width: 50%
+width: 80%
 align: center
 ---
-Conclusion
+The conclusion of the experiment.
 ```
 
 Finally, discuss the whole circuit again: there are three separate circuits, each with a source and a consumer. If the transformers are ideal, there is only loss in the transmission line.
