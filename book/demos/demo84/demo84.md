@@ -1,4 +1,4 @@
-```{figure} ../../figures/busy.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -46,7 +46,7 @@ The Lorentz force on charged particles is more abstract and difficult to visuali
 - Voltage source
 - 2 long electrodes, which can be made from a copper strip
 - 2 disk magnets
-- Camera for visibility.
+- Camera for visibility
 
 ## Preparation
 Set up the arrangement without the dye (see {numref}`Figure {number} <demo84_fig1>`) and let it rest for over a minute. Add the dye just before turning on the power. A camera enhances visibility.
