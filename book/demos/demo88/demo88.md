@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -50,11 +50,11 @@ Set the bell jar and vacuum pump on a table clearly visible to all studens. Heat
 1. Place a beaker of hot water under the bell jar. Strike a match and when it goes out, ensure that the smoke ends up under the bell jar by placing the jar over the match.
 2. Start the vacuum pump. The water will start to evaporate. Optionally, you can place a thermometer or temperature sensor under the jar to demonstrate that evaporation extracts energy from the liquid, thus lowering the water temperature.
 3. Clouds form under the jar at a certain air pressure. The jar is no longer transparent.
-4. Would clouds form if you hadn't used the match?
-   1. Yes, there would be more cloud formation;
-   2. No, there would be no cloud formation;
-   3. It makes no difference.
-5. Control question: In what practical situations does this type of cloud formation occur?
+4. *Would clouds form if you hadn't used the match?*
+   - Yes, there would be more cloud formation
+   - No, there would be no cloud formation
+   - It makes no difference
+5. Control question: *In what practical situations does this type of cloud formation occur?*
 
 ## Physics Background
 Due to the low pressure, the water in the beaker evaporates faster, causing the temperature in the beaker to drop. A lot of water vapor enters the bell jar. At a certain air pressure, water vapor condenses on the present smoke particles.
