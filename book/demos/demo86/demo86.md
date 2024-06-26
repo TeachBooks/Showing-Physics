@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -19,10 +19,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
     </tr>
-    <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
-    </tr>
 </table><br>
 
 
@@ -42,48 +38,50 @@ Setup with the aluminum tube on the left and the plastic tube on the right
 
 - Plastic tube and aluminum tube each with at least 3 identical coils evenly spaced around them (induction tube set CMA 081 or homemade)
 - Interface
-- Voltage sensor (+/- 500 mV and +/- 10 V)
+- Voltage sensor ($\pm$ 500 mV and $\pm$ 10 V)
 - Stands
 - Bar magnet
 - Soft surface beneath the tube.
 
 ## Preparation
 
-Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor (+/- 10 V) to the coils around the plastic tube. Connect the sensor to an input on the interface. For the aluminum tube, a voltage sensor (+/- 500 mV) is more suitable. Set the voltage sensor to 0 V. Set up the Coach 7 activity to perform 1000 measurements per second. Set a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and let the measurement last for a maximum of 2 s.
+Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to an input on the interface. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. Set up the Coach 7 activity to perform 1000 measurements per second. Set a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and let the measurement last for a maximum of 2 s.
 
 ## Procedure
 
 Move a magnet through a coil and demonstrate that it generates a voltage. (Sketch the graph of one movement of a magnet through a coil on the board.) Project the Coach 7 screen during the measurement on the whiteboard. Press start measurement or F9, Coach 7 will wait for the trigger condition. Let the magnet fall through the plastic tube.
-1. Display the (U,t) diagram of the magnet falling through the plastic tube (see Figure 2).
+1. Display the ($U$,$t$) diagram of the magnet falling through the plastic tube (see {numref}`Figure {number}<demo86_fig2>`).
 
 ```{figure} demo86_figure2.jpg
 ---
-width: 60%
+width: 100%
 align: center
+name: demo86_fig2
 ---
 Each of the six coils of the plastic tube produces a signal as the falling magnet passes. The differences between the graphs per coil allow for discussion.
 ```
 
 2. How do the six graphs differ from each other? Provide an explanation.
-3. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough. (See Figure 3)
+3. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough. (See {numref}`Figure {number}<demo86_fig3>`)
 
 ```{figure} demo86_figure3.png
 ---
 width: 560%
 align: center
+name: demo86_fig3
 ---
 With Coach 7, you can determine the value of the area in $V_s$.
 ```
 
-4. Why should this area be equal?
+4. *Why should this area be equal?*
 5. Repeat the experiment with the aluminum tube.
-6. Control question: What do you expect from the graph that will be measured?
+6. Control question: *What do you expect from the graph that will be measured?*
 
 ## Physics background
 
 An approaching magnetic field induces a current in a coil that opposes the approaching magnetic field by creating an opposing magnetic field (Lenz's Law). The coil also opposes a disappearing magnetic field by creating an attracting magnetic field. Thus, the direction of the current in the coil windings changes.
 
-As the magnet falls and accelerates, the velocity per coil will be different. You get the lowest average velocity at the first coil and the highest average velocity at the bottom coil. If we take a plastic tube with six coils, you only get an opposing magnetic field in the six coils. In the aluminum tube, the magnet will "feel" the opposing magnetic fields throughout its entire fall. Also, see demonstration B27 in Show Physics 2. [REFERENCE / LINK REQUIRED]
+As the magnet falls and accelerates, the velocity per coil will be different. You get the lowest average velocity at the first coil and the highest average velocity at the bottom coil. If we take a plastic tube with six coils, you only get an opposing magnetic field in the six coils. In the aluminum tube, the magnet will "feel" the opposing magnetic fields throughout its entire fall. 
 
 The induced voltage can be calculated using Faraday's law: $U_{ind}=N\frac{\Delta \phi}{\Delta t}$ and thus: $U_{ind}\Delta t=N\Delta \phi$
 
