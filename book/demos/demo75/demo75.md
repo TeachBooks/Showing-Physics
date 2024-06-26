@@ -46,7 +46,8 @@ The setup with a plastic test tube rack to place the spheres on.
 - Kettle
 - Ladle
 - Tea towel.
-This description uses Coach 7 as measurement software. The required Coach 7 file is available on the website.**LINK NEEDED?**
+
+This description uses Coach 7 as measurement software. The [measurement file](./demo75coach.cma7) using this software is.
 
 ## Preparation
 1. Set up a measurement setup as shown in Figures {numref}`{number}<fig:demo75_setup1>` and {numref}`{number}<fig:demo75_setup2>`.
@@ -84,17 +85,9 @@ Screenshot of the FLIR C5 measurement. The temperature range is set manually.
 ```
 
 7. Discuss the results. *Which explanation fits best?*
-8. Optionally tell the tale of George-Louis Leclerc and his determination of the age of the Earth (see website **LINK? / admonition with story?**).
+8. Optionally tell the [tale of George-Louis Leclerc](https://www.geolsoc.org.uk/Geoscientist/Archive/April-2018/Buffon-the-geologist) and his determination of the age of the Earth.
 
-```{figure} demo75_figure4.jpg
----
-width: 50%
-align: center
----
-Painting of George-Louis Leclerc
-```
-
-9. Control question: *Can you determine the age of the Earth with this method?*
+9. A question to check students' understanding: *Can you determine the age of the Earth with this method?*
 
 ## Physics background
 A smaller sphere has a relatively larger ratio of surface area to volume, allowing the sphere to more quickly release energy to the surroundings ($\frac{A}{V} = \frac{3}{r}$ for a sphere). A smaller radius will result in faster energy loss to the surroundings. For more detailed explanation, see the website.
