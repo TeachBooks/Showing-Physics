@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -52,7 +52,7 @@ A darkened room is not required but works better, and a digital camera is also h
 
 ## Procedure
 
-Your initial question is: Can you see light when looking at it from the side? Shine the red laser pointer on the wall. You'll only see a spot until you spray water mist into the light beam. You then see not the light itself but light entering your eye due to the scattering of water droplets. 
+Your initial question is: *Can you see light when looking at it from the side?* Shine the red laser pointer on the wall. You'll only see a spot until you spray water mist into the light beam. You then see not the light itself but light entering your eye due to the scattering of water droplets. 
 
 ```{warning}
 Directly shining laser light into your eye is harmful.
@@ -70,6 +70,7 @@ Discuss with the (qualitative) energy level diagram of chlorophyll (Figure 2): a
 ---
 width: 40%
 align: center
+name: demo87_fig2
 ---
 Energy level diagram for fluorescence in olive oil
 ```
@@ -80,7 +81,7 @@ Help students describe and draw the process themselves as much as possible, wher
 
 ## Physics Background
 
-The energy of photons follows from $E_f = hf$. For the frequencies, it holds true: $f_{red} < f_{orange} < f_{green}$. During fluorescence, a (here green) photon is absorbed by the system, and part of the energy is released (how is unimportant) as the system returns to the ground state. See figure 2. The emitted photon, in the case of chlorophyll, orange, has at most the energy of the original photon. An orange photon cannot be replaced by a green photon later on, as the additional energy required is lacking. The red beam of light remained red for another reason. Apparently, a red photon has too little energy to be absorbed; it can at most be scattered without a change in energy.
+The energy of photons follows from $E_f = hf$. For the frequencies, it holds true: $f_{red} < f_{orange} < f_{green}$. During fluorescence, a (here green) photon is absorbed by the system, and part of the energy is released (how is unimportant) as the system returns to the ground state, see {numref}`Figure {number}<demo87_fig2>`. The emitted photon, in the case of chlorophyll, orange, has at most the energy of the original photon. An orange photon cannot be replaced by a green photon later on, as the additional energy required is lacking. The red beam of light remained red for another reason. Apparently, a red photon has too little energy to be absorbed; it can at most be scattered without a change in energy.
 
 Control Question: Some photons were created by scattering, others by fluorescence. What is the most important difference in energy of the photons between these processes?
 
