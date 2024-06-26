@@ -4,8 +4,8 @@ width: 35%
 align: right
 ```
 
-# No Force Needed to Sustain Constant Speed 
-<span style="font-size: 25px; color: gray;">Newton’s First Law</span>
+# No Force Needed
+<span style="font-size: 25px; color: gray;">Sustain Constant Speed with Newton’s First Law</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -18,7 +18,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 16E</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 16y</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -31,7 +31,7 @@ In this demonstration on Newton’s First Law you can direct students’ thought
 
 ```{figure} demo05_figure1.png
 ---
-width: 70%
+width: 90%
 align: center
 name: demo05_fig1
 ---
@@ -84,7 +84,7 @@ It is not so easy to maintain a constant speed, practice a few times before meas
 ## Follow-up
 Students often start raising objections after a short while: **“Yes but, surely the forces are not equal at the beginning, when the cart starts to move?”** Be alert to note and respond to these remarks, because this is precisely where students’ views do accord with Newton’s. From a science educational perspective, our aim is that students come to distinguish conceptually between situations where the cart is accelerating, and those where the speed is constant. Rather than exposing ‘misconceptions’, pay a great deal of attention to this conceptual differentiation, especially when students themselves express it. Encourage the idea that physics does accord with what they already know about motion and its causes. But expresses that knowledge more precisely and accurately. 
 
-Obviously, a single experiment will not cause students to expand and differentiate their understandings of force and motion to become fully Newtonian. Many students will still speak of the ‘force of motion’ when they explain why a skater or cyclist keep on moving beyond the finish line, after they stop propelling themselves. In developing Newtonian descriptions and explanations, students need to know when and why something is called a force in physics, and develop the concept of ‘interaction’ {cite}`dekkers1998`, and distinguish force from momentum.
+Obviously, a single experiment will not cause students to expand and differentiate their understandings of force and motion to become fully Newtonian. Many students will still speak of the ‘force of motion’ when they explain why a skater or cyclist keep on moving beyond the finish line, after they stop propelling themselves. In developing Newtonian descriptions and explanations, students need to know when and why something is called a force in physics, and develop the concept of ‘interaction’ and distinguish force from momentum ({cite:t}`dekkers1998`).
 
 ## References
 ```{bibliography}
