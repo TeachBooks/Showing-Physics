@@ -14,11 +14,11 @@ align: right
 5. [NVON](/Introduction/Foreword.md)
 6. [Table of contents](/Introduction/tableOC.md)
 
-**Pedagogy**
-7. [Introduction](/Pedagogy/Introduction.md)
-8. [Nature of Science](/Pedagogy/Nos.md)
-9. [Argumentation](/Pedagogy/Argumentation.md)
-10. [Thinking-Back-and-Forth](/Pedagogy/BackAndForthThinking.md)
+**Pedagogy**<br>
+7. [Introduction](/Pedagogy/Introduction.md)<br>
+8. [Nature of Science](/Pedagogy/Nos.md)<br>
+9. [Argumentation](/Pedagogy/Argumentation.md)<br>
+10. [Thinking-Back-and-Forth](/Pedagogy/BackAndForthThinking.md)<br>
 11. [Predict Explain Observe Explain](/Pedagogy/PoE.md)
 
 **Demos on Nature of Science**
@@ -116,7 +116,7 @@ align: right
 83.	[Cylinder Puzzle](demos\demo70\demo70.md)
 84.	[Magic, trick or physics?](demos\demo71\demo71.md)
 85.	[Roll and Stop](demos\demo72\demo72.md)
-86.	[Shadow of a flame 2:](demos\demo74\demo74.md)
+86.	[Shadow of a flame 2](demos\demo74\demo74.md)
 87.	[Cooling Metal Spheres](demos\demo75\demo75.md)
 88.	[A Balloon that Can Do Everything](demos\demo76\demo76.md)
 89.	[Standing Wave with an Electric Toothbrush](demos\demo77\demo77.md)
