@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/checked.png
 ---
 width: 35%
 align: right
@@ -41,7 +41,7 @@ The monochromatic LEDs used.
 
 ```{figure} demo89_figure2.jpg
 ---
-width: 50%
+width: 100%
 align: center
 ---
 Spectra of the monochromatic RGB LEDs determined with a spectrometer.
@@ -64,7 +64,7 @@ Monochromatic LEDs in red, green, and blue are required for all the following co
 ## Preparation
 
 Determine which demonstration you want to do and prepare these materials. 
-1. Start Coach 7 with the spectrometer connected and choose the option Spectrometer -> emission spectrum. 
+1. Start Coach 7 with the spectrometer connected and choose the option Spectrometer $\rightarrow$ *emission spectrum*. 
 2. Test if the classroom can be darkened enough. Let the beams overlap and see if they are clearly visible. Replace the batteries if necessary. 
 3. Stack the LED lamps on top of each other and simultaneously or individually aim at the TV or laptop screen and see if the diffraction spectrum is visible. 
 4. Place the LED lamp under the ball and ensure the ball cannot roll away. 
@@ -73,47 +73,47 @@ Determine which demonstration you want to do and prepare these materials.
 ## Procedure
 
 1. Place the LED lamp at an appropriate distance from the spectrometer or ensure with the computer that the spectrometer is not overexposed. Take a spectrum of the lamps. Identify the peaks of the wavelength and discuss with the students whether they find the lamp monochromatic or not. Optionally compare with a spectrum of a white-light LED lamp. 
-2. Let the beams overlap and discuss the mixed colors of light. It is also fun to create a shadow with different colors. Let students reason in what order you laid the LED lamps. See figure 3. 
-3. Shine the red LED lamp on a TV in a darkened room. Discuss the diffraction spectrum you see. Ask the students to predict how the spectrum of green and blue differs from the displayed spectrum (figure 4). 
-
+2. Let the beams overlap and discuss the mixed colors of light. It is also fun to create a shadow with different colors, see {numref}`Figure {number}<demo89_fig3>`. Let students reason in what order you laid the LED lamps.  
 ```{figure} demo89_figure3.jpg
 ---
 width: 50%
 align: center
+name: demo89_fig3
 ---
 Color Shadow: the LED lamps are placed next to each other, but in what order?
 ```
-
+3. Shine the red LED lamp on a TV in a darkened room. Discuss the diffraction spectrum you see. Ask the students to predict how the spectrum of green and blue differs from the displayed spectrum ({numref}`Figure {number}<demo89_fig4>`). 
 ```{figure} demo89_figure4.jpg
 ---
 width: 50%
 align: center
+name: demo89_fig4
 ---
 Diffraction spectra of three colors on the surface of a TV screen caused by the pixel pattern of the LED TV.
 ```
-
-## Physics background
-a. The spectrum of the lamps is reasonably monochromatic. \
-b. The mixed colors of light are well known; second-grade material. \
-c. The shortest wavelength has the smallest deflection. In figure 5, it can be seen that the diffraction spectrum on the LED TV is a combination of a double and single slit. \
-d. The light from the LED lamp enters the white ball and is internally diffusely scattered. The entire ball will then emit the color of the lamp. \
-e. Figure 6 shows how the magnification is determined. In another situation, we found: $N = -3.0$. Distance from the lens to the paper: $v = 0.68$ cm measured. For $b$, we find: $-2.0$ cm. ($b$ is virtual). Using the lens formula: $f = 1.0$ cm or $S = 1.0·10^2$ dpt.
+4. Demonstrate the diffusion scattering on the white ball by placing it in front of the lamp. The ball will take on the same color as the LED lamp (see {numref}`Figure {number}<demo89_fig5>`). With good conditions, the ball could even display a mixed color if you use two lamps. Try the experiment with a different colored ball (for example, a red ball). What happens to the color now and why?
 
 ```{figure} demo89_figure5.jpg
 ---
 width: 50%
 align: center
+name: demo89_fig5
 ---
 Scattering on a ball.
 ```
-
+5. Determine the strength of the lens by magnifying, for example, a 1 cm square and then measuring the magnification and the distance from the lens to the paper. Use this to calculate the strength of the lens (see see {numref}`Figure {number}<demo89_fig6>`).
 ```{figure} demo89_figure6.jpg
 ---
 width: 50%
 align: center
+name: demo89_fig6
 ---
 Determination of the strength of a lens. The lens is placed in a holder. This holds the lens at a fixed distance from the paper. On the paper, a measurement of 0.5 cm is marked. When looking through the lens, it is now enlarged to 1.0 cm. The magnification here is therefore -2.0.
 ```
 
-
-NOG EEN BESTAND TOEVOEGEN
+## Physics background
+1. The spectrum of the lamps is reasonably monochromatic. 
+2. The mixed colors of light are well known; second-grade material. 
+3. The shortest wavelength has the smallest deflection. In figure 5, it can be seen that the diffraction spectrum on the LED TV is a combination of a double and single slit. 
+4. The light from the LED lamp enters the white ball and is internally diffusely scattered. The entire ball will then emit the color of the lamp. 
+5. Figure 6 shows how the magnification is determined. In another situation, we found: $N = -3.0$. Distance from the lens to the paper: $v = 0.68$ cm measured. For $b$, we find: $-2.0$ cm. ($b$ is virtual). Using the lens formula: $f = 1.0$ cm or $S = 1.0·10^2$ dpt.
