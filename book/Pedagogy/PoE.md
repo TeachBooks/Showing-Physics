@@ -39,7 +39,7 @@ The steps in PEOE are illustrated in Table 1 with the trivial example of a large
 In most PEOEs, step 7 concludes the activity. With falling objects, you ought to also investigate the role of friction as indicated in step 8.
 
 
-``` {figure} Figures/poe.png
+``` {figure} Figures/POE.PNG
 ---
 name: fig_poe
 width: 70%

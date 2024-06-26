@@ -111,9 +111,9 @@ Once a good research question is available it is time to start thinking about ho
 
 Before you then start measuring, you can ask students: how are we going to do this? Make that question concrete, for example as follows: *I have prepared tables to fill in the readings. Which of these do you think is best, which is worst, and why?*
 
-``` {figure} Figures/VariableTabels.png
+``` {figure} Figures/VariableTabels.PNG
 ---
-width: 50%
+width: 80%
 align: center
 ---
 Tables at 'controlling variables
@@ -140,7 +140,7 @@ The absence of an influence of mass and (small) initial angle on the period is o
 
 ``` {figure} Figures/MeasurementGraphs.png
 ---
-width: 50%
+width: 80%
 align: center
 ---
 Representing measurement

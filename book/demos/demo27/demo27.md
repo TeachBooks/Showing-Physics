@@ -100,13 +100,13 @@ The balloon on the bottle inflates when you place the bottle in hot water.
 ```
 
 ```{tip}
-Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water {cite:t}`liem1991invitations` Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
+Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water ({cite:t}`liem1991invitations`). Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
 ```
 
 Illustration of explanation 3: bring some water in an empty soda can to a boil, then quickly invert it and place it in a bowl of cold water, with the opening below the water surface. The can collapses with a bang because the water vapor condenses.
 
 ## Follow-up
-With three candles instead of one, the final water level is higher {cite:t}`liem1991invitations`. Which of the explanations does this observation correspond to?
+With three candles instead of one, the final water level is higher ({cite:t}`liem1991invitations`). Which of the explanations does this observation correspond to?
 
 
 ```{warning}

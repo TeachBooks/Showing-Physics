@@ -44,7 +44,7 @@ Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organ
 
 ## Procedure
 ### 1. Oriëntation (30 min)
-This first step takes about 15 min. (session 1, + 10 min)
+This first step takes about 15 min.<br>
 Place the egg that still has its shell in a jam jar and submerge it in vinegar. Let the students observe and describe what is happening. If you like, present the students with the reaction equation. Then show the remaining 9 eggs. 
 Notably, the eggs have lost their shells leaving them almost transparent. Furthermore, the egg has become larger when its shell was removed. (Compare the egg that has just been placed in vinegar with the rest, and show the photo of the original 10 eggs.) How is that possible?
 Students often come up with the following ideas.
@@ -119,13 +119,13 @@ Subsequently suggest, (if the suggestion has not been made yet): imagine that a 
 </iframe>
 
 
-*Questions for discussion (to be used for example in a think-pair-share activity)*
+*Questions for discussion (to be used for example in a think-pair-share activity)*<br>
 Answer the questions below by trying to use the ideas about particles presented above.<br>
 1a. Which membrane then has bigger holes, the outer or the inner one?<br>
 1b. Can you show in column 4 of the observations table which substances have large particles, which have medium size, and which have small particles?<br>
 1c. Can you explain the observations with these ideas? 
 
-**Modelling in science**
+**Modelling in science**<br>
 By further discussion of the questions below, the teacher may clarify, e.g., what the nature is of scientific models, how they are used, and that there are always limits to their validity.
 
 We have carried out a kind of investigation into the properties of substances and eggs. <br>
@@ -143,7 +143,7 @@ We used a model to explain the observations. The model consists of ideas about t
 ## Physics background
 The shell of an egg is removed by placing it in vinegar for a few days. Bubbles (of carbon dioxide) and water start forming immediately, as calcium ions go into solution, because the calciumcarbonate of the shells slowly disintegrates due to the acid (CaCO$_3$ + 2H$^+$ &rarr; Ca$_2^+$(aq) + CO$_2$ (gas) + H$_2$O). <br>
 
-Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein's theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with (Feynman et al., 1963, p. 1-2) 
+Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein's theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with ({cite:t}`feynman1963feynman`) 
 
 ```{warning} Safety and environment
 Use only safe, harmless substances. Boil the shell-less eggs in a fuming cupboard, if possible.

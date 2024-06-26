@@ -6,26 +6,6 @@ align: right
 
 # Table of contents
 
-<p><strong>Introduction</strong></p>
-<ol>
-    <li><a href="/Introduction/About.md">About this book</a></li>
-    <li><a href="/Introduction/Foreword.md">Preface</a></li>
-    <li><a href="/introduction/Preface2.md">Preface from the editor</a></li>
-    <li><a href="/Introduction/Authors.md">About the authors</a></li>
-    <li><a href="/Introduction/Foreword.md">NVON</a></li>
-    <li><a href="/Introduction/tableOC.md">Table of contents</a></li>
-</ol>
-
-<p><strong>Pedagogy</strong><br></p>
-<ol start="7">
-    <li><a href="/Pedagogy/Introduction.md">Introduction</a></li>
-    <li><a href="/Pedagogy/Nos.md">Nature of Science</a></li>
-    <li><a href="/Pedagogy/Argumentation.md">Argumentation</a></li>
-    <li><a href="/Pedagogy/BackAndForthThinking.md">Thinking-Back-and-Forth</a></li>
-    <li><a href="/Pedagogy/PoE.md">Predict Explain Observe Explain</a></li>
-</ol>
-
-
 **Introduction**
 1. [About this book](/Introduction/About.md)
 2. [Preface](/Introduction/Foreword.md)
@@ -52,18 +32,6 @@ align: right
 
 **Demos for special occasions**
 
-
-1.	[Demos on conceptual development](demos\Conceptdemos.md)
-2.	[Waves, optics, quantum](demos\Conceptdemos1.md)
-3.	[Electricity, magnetism](demos\Conceptdemos2.md)
-4.	[Mechanics](demos\Conceptdemos3.md)
-5.	[Thermodynamics](demos\Conceptdemos4.md)
-6.	[Else](demos\Conceptdemos5.md)
-7.	[Demos on scientific inquiry](demos\Inquirydemos.md)
-8.	[Demos on Nature of Science](demos\NOSdemos.md)
-9.	[Demos for special occassions](demos\Specialdemos.md)
-10.	[to be discarded](demos\Specialdemos2.md)
-11.	[Chapter title](demos\template.md)
 
 15.	[Making a perfect cappuccino](demos\demo02\demo02.md)
 16.	[Light in darkness](demos\demo03\demo03.md)
