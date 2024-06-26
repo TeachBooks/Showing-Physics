@@ -22,7 +22,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">acceleration of gravity g (=9.81 m/s2), free fall, rotationS</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">acceleration of gravity g (=9.81 m/s2), free fall, rotation</td>
     </tr>
 </table><br>
 
@@ -63,13 +63,13 @@ Are some of the dices falling faster than $g$?
 
 ## Procedure
 You can start this demo with some simple illustrations:
-* Can I accelerate my hand faster than $g$? How can we investigate that?  (Coin or stone on the hand, then pull down the hand as quick as you can). 
-* What is free fall? Can objects in free fall be accelerated faster than g? 
+* *Can I accelerate my hand faster than $g$? How can we investigate that?*  (Coin or stone on the hand, then pull down the hand as quick as you can). 
+* *What is free fall? Can objects in free fall be accelerated faster than g?* 
 You then turn to the actucal demo.
 * Hold the meter stick on an end while the other side rests on the chair on top of the table ({numref}`Figure {number} <demo11_fig1>`). 
-* Ask the question: Suppose I let the end of the stick go, what is then the acceleration of the end? What is the acceleration of other points of the meter stick? (All points of the meter stick have the same angular acceleration, but must have a different linear acceleration as they cover different vertical distances in the same time.) 
-* How can we investigate this with our set-up? 
-* Let’s first keep the meterstick horizontal and drop it. Hold the stick at both ends. Will the coins keep contact with the stick? TRY! If there is a student with an iPhone, then film with 120 or 240 frames/second. 
+* Ask the question: *Suppose I let the end of the stick go, what is then the acceleration of the end? What is the acceleration of other points of the meter stick?* (All points of the meter stick have the same angular acceleration, but must have a different linear acceleration as they cover different vertical distances in the same time.) 
+* *How can we investigate this with our set-up?* 
+* *Let’s first keep the meterstick horizontal and drop it.* Hold the stick at both ends. Will the coins keep contact with the stick? TRY! If there is a student with an iPhone, then film with 120 or 240 frames/second. 
 * Now put the (1m) stick with one end on the chair an holding the other end with one finger. Mark the 67 cm point but do not yet tell students why. Conduct the experiment while one of the students is recording.
 * It would be good to repeat and now ask students to specifically pay attention to the end of the stick. 
 * Continue with a discussion about the linear acceleration of different points of the meter stick. This cannot be the same in rotational movement. If there are points which accelerate at less than $g$, shouldn’t there be points that accelerate at more than $g$? Have we seen that? 
