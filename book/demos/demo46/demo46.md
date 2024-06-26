@@ -17,7 +17,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);">
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Level:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 4</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 10</td>
     </tr>
     <tr style="background-color: var(--background-color);">
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -92,7 +92,7 @@ Your demonstration might proceed as follows, starting from when the audience see
 
   ```{figure} demo46_figure3.JPG
 ---
-width: 50%
+width: 80%
 align: center
 name: demo46_fig3
 ---
@@ -105,7 +105,7 @@ Small initial speed.
   
 ```{figure} demo46_figure4.JPG
 ---
-width: 50%
+width: 80%
 align: center
 name: demo46_fig4
 ---
@@ -134,11 +134,6 @@ Each droplet undergoes identical horizontal projectile motion. The droplets are 
 
 If illuminated at slightly longer intervals (higher frequency), the droplets appear to move slightly beyond where their predecessor was, appearing to move slowly downward. If illuminated at slightly shorter intervals, they appear to move upward, back into the faucet.
 In the beginning of the stream, you don’t see individual droplets; they form later as the accelerating pieces of water are pulled apart. The ticker apparently creates almost evenly sized droplets with equal intervals. Cohesion does the rest.
-
-
-```{Admonition}Origin
-First seen with Jouke Andringa, a fellow teacher in Botswana, almost 30 years ago.
-```
 
 ## References
 ```{bibliography}

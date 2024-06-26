@@ -21,7 +21,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Rotation, centrifugal force</td>
     </tr>
 </table><br>
 
@@ -45,6 +45,7 @@ For many students the centripetal force is difficult to grasp. The misconception
 ---
 width: 50%
 align: center
+name: demo78_fig1
 ---
 The setup.
 ```
@@ -56,14 +57,14 @@ The setup.
 * Hanging point
 
 ## Preparation
-Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie it closed. Attach a cord to the balloon to hang it up freely. An example of a setup is shown in the figure.
+Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie it closed. Attach a cord to the balloon to hang it up freely. An example of a setup is shown in {numref}`Figure {number} <demo78_fig1>`.
 
 ## Procedure
 1. Rotate the balloon several times so that the cord winds around itself.
 2. Release the balloon. The cord will now unwind, and the balloon will start rotating at a considerable angular velocity.
 3. Due to the rotation, the liquid in the balloon will assume a significantly different position inside the balloon. At a considerabe angular velocity, a situation can arise where a ring of liquid forms along the wall of the balloon at a certain height.
 4. *What is the explanation for the phenomenon?* The expectation is that many students will come up with an incorrect explanation, but that is not initially a problem. Present the physically correct explanation yourself and have the students compare it with their own (possibly) incorrect or incomplete explanation. If the student accepts that their own explanation is inadequate and accepts the correct explanation, 'conceptual change' can occur.
-5. Control question: *Provide students with a schematic diagram or photo of the situation where the balloon is rotating. Determine the rotation speed of the balloon from the photo or diagram.*
+5. You can check whether students understood the content by *providing students a schematic diagram or photo of the situation where the balloon is rotating and ask them to determine the rotation speed of the balloon from the photo or diagram.*
 
 ## Physics background
 If the liquid in the balloon is considered as one object, you can state that there is a normal force from the balloon on the liquid. When the balloon rotates, a certain centripetal force is required to also rotate the liquid. Due to the rotation, a greater normal force is required, which is available higher up in the balloon. This results in an optimal relationship between the velocity of the liquid and the radius of the circular path of the liquid.
