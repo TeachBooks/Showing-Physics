@@ -25,7 +25,7 @@ align: right
 </table><br>
 
 ## Introduction
-Students often think that when you have related quantities and you increase one, the other will also increase. More of A results in more of B. In a series of experiments, {cite}`Tsakmaki2016` attempt to dispel this student misconception. In this experiment, Newton's third law plays a crucial role, using the context of the Magdeburg hemispheres. You can direct this demo towards various goals, depending on what you want to achieve.
+Students often think that when you have related quantities and you increase one, the other will also increase. More of A results in more of B. In a series of experiments, {cite:t}`Tsakmaki2016` attempt to dispel this student misconception. In this experiment, Newton's third law plays a crucial role, using the context of the Magdeburg hemispheres. You can direct this demo towards various goals, depending on what you want to achieve.
 
 
 ## Equipment

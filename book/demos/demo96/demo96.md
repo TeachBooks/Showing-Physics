@@ -1,4 +1,4 @@
-```{figure} ../../figures/ready.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -25,23 +25,35 @@ align: right
     </tr>
 </table><br>
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/vo9KLge8HAE?si=rjTc7p98o1h6ittM"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 ## Introduction
 Everyone is familiar with the falling motion of an object. When you drop an object, all parts of the object undergo the same movement. Then we are talking about so-called rigid objects. But what about an object where the parts can move relative to each other? A so-called large slinky, for sale in toy shops, shows an unexpected effect.
 
 ## Equipment
 * A large slinky 
-* ball
-* camera
+* Ball
+* Camera
 
 ## Preparation
 Use a large (blank) wall ensuring that the large slinky is clearly distinguishable. Put a horizontal stripe on the background near the bottom of the slinky.
 
 ## Procedure
 Hold a large slinky at one end and let it hang down. Wait until it hangs still. Let the lower end coincide with the line on the wall.
-Above all, do not drop the spring yet. Ask to predict what will happen to the bottom end of the spring when you release it. There will be a number of elements to the discussion. In the superstructure, the fall acceleration will be discussed. The spring will contract. If so, not each of the parts of the spring will undergo the same acceleration immediately. 
-- Will that contraction happen because the top is falling faster? 
-- Or because the bottom goes up first? And so on.
-After discussion, offer the following four possibilities.
+Above all, do not drop the spring yet. Ask to predict what will happen to the bottom end of the spring when you release it. There will be a number of elements to the discussion. In upper secondary education, the acceleration is central in the discussion. The spring will contract. If so, not each of the parts of the spring will undergo the same acceleration immediately. 
+- Is the contraction a cause of the top falling faster than the bottom? 
+- Or can it be explain by the lower end of the spring moving upwards? 
+After discussing, offer the following four possibilities.
 
 ```{admonition} Question
 After releasing the spring, the bottom of the spring will:<br>
@@ -59,18 +71,19 @@ align: center
 Timelapse of the drop of a slinky.
 ```
 
-After everyone has decided on their choice, drop the feather. Do warn that it is very fast and the result is difficult to observe.
+After everyone made explicit their answer, drop the spring. Do warn that it is very fast and the result is difficult to observe.
 
-It happens so quickly that not everyone is immediately convinced. So repeat it a few times.
-
-Before or afterwards, make a video of the fall with the whole group. With the help of the video, you can see very convincingly what is happening.
+As it happens so fast, not everyone is immediately convinced what the correct answer is. Students can record the fall as well when you repeat the experiment. With the help of the video, you can see very convincingly what is happening.
 
 The answer turns out to be **B**: the bottom of the spring will stay in place for a while. There are few, students, physicists, or engineers who choose B however.
 
 ## Physics background
 The non-rigid body behaves very differently from the rigid body. The shape has changed: windings at the bottom of the spring have a much smaller distance between them than those at the top. The topmost winding is number 1; the next one is number 2. The second-bottom one is N-1, the bottom one is N.
+
 As long as the distance between N-1 and N does not change, N remains in place. 
+
 After letting go, it will take a while for this distance to decrease.
+
 But after letting go, 1 experiences two forces downwards: its own gravity and a force of 2. So 1 will undergo a greater acceleration than $g$.
 
 ```{tip}
