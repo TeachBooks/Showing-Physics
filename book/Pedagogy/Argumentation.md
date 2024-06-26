@@ -39,11 +39,7 @@ In scientific research, merely  finding an answer to the research question does 
 'Argumentation' is  understood here to be the *production and critical evaluation* of an optimally convincing answer to a scientific research question. Many demonstrations focus on showing connections with practice and visualizing concepts. Many other  practicals  focus on *enabling students to do inquiry* and contribute to  developing investigative skills to produce convincing data.  However,  demonstrations can also be focused - if you frame them a little differently - on understanding *why* the data are convincing. On understanding of the nature of evidence and the need to convince yourself and others that the explanation you have found  for  your observations is the best explanation possible.
 
 ## Example: the most convincing conclusion
-With Grade 10 students, the class jointly measured on one setup to determine the relationship
-between the length and resistance of a constantan wire. \Students were asked to use the
-values found (wire lengths *l* and the determined resistance) to write down a conclusion
-about the relationship between length *l* and resistance *R* of the wire. Some typical
-answers (after weeding out  unusable ones) are listed below, numbered 1 to 4. The teacher collected and ordered them  from *weak* to *stronger* before discussing them with the class. First the weakest:
+With Grade 10 students, the class jointly measured on one setup to determine the relationship between the length and resistance of a constantan wire. Students were asked to use the values found (wire lengths *l* and the determined resistance) to write down a conclusion about the relationship between length *l* and resistance *R* of the wire. Some typical answers (after weeding out   unusable ones) are listed below, numbered 1 to 4. The teacher collected and ordered them  from *weak* to *stronger* before discussing them with the class. First the weakest:
 
 1. As the length changes, so does the resistance.
 

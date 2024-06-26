@@ -5,7 +5,7 @@ title: ShowingPhysics
 author: Freek Pols
 date: today
 logo: logo.png
-copyright: Delft University of Technology, CC BY 4.0
+copyright: Delft University of Technology & NVON, CC BY 4.0
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

@@ -150,7 +150,7 @@ In conclusion, the teacher may explain that it is not unusual for scientists to 
 **Further options**<br>
 To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
 Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
-If you do this experiment with three candles instead of one, the final water level rises higher {cite:t}`liem1991invitations`. Which of the explanations does this observation agree with?
+If you do this experiment with three candles instead of one, the final water level rises higher ({cite:t}`liem1991invitations`). Which of the explanations does this observation agree with?
 It might be worth considering placing sensors in the glass to record the temperature and pressure changes during the process, and using video measurement to establish the volume changes. This might quantitatively determine which form of the ideal gas law best describes this process. This has not (yet) been tested.
 ```
 
