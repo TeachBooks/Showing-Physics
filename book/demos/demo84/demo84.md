@@ -38,7 +38,7 @@ align: right
 </div>
 
 ## Introduction
-The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, you make the Lorentz force on ions in a solution convincingly visible. The Lorentz force is already known, so students can engage in robust thinking-back-and-forth in this situation.
+The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, you make the Lorentz force on ions in a solution convincingly visible. The Lorentz force is already known, so students can engage in robust [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md) in this situation.
 
 ## Equipment
 - Tank with a layer of saline solution about one centimeter deep
