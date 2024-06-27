@@ -89,13 +89,52 @@ Screenshot of the FLIR C5 measurement. The temperature range is set manually.
 
 9. A question to check students' understanding: *Can you determine the age of the Earth with this method?*
 
-## Physics background
-A smaller sphere has a relatively larger ratio of surface area to volume, allowing the sphere to more quickly release energy to the surroundings ($\frac{A}{V} = \frac{3}{r}$ for a sphere). A smaller radius will result in faster energy loss to the surroundings. For more detailed explanation, see the website.
-
 ```{tip}
 *	Project the measurement via the computer onto a screen or interactive whiteboard. Ensure that the temperature is easy to follow, for example by aiming a temperature spot from the camera at a sphere. The FLIR C5 camera can also be set to a manual temperature range, so that the room temperature is not visible (see {numref}`Figure {number} <fig:FLIR_C5_measurement>`).
 *	Place the spheres on a surface such as chocolate bars, so that the amount of thermal energy per sphere is visible afterwards by the amount of melted chocolate.
 *	Place the spheres in an oven to reach a higher temperature. Be extra careful when handling the spheres then.
+```
+
+
+## Physics background
+A smaller sphere has a relatively larger ratio of surface area to volume, allowing the sphere to more quickly release energy to the surroundings ($\frac{A}{V} = \frac{3}{r}$ for a sphere). A smaller radius will result in faster energy loss to the surroundings. For more detailed explanation, see the note below.
+
+```{note}
+In this experiment, we look at the heat exchange of metal (iron) spheres that differ only in diameter. Objects contain thermal energy. If an object has a higher temperature than the ambient temperature, it possesses more thermal energy. When the object cools down, it will lose this thermal energy through, in this case, IR radiation. The spheres release energy to the environment according to:
+
+$\frac{dQ}{dt} = P = -k \cdot A \cdot (T - T_{\text{env}})$
+
+The spheres have an energy given by:
+
+$ Q = m \cdot c \cdot \Delta T $
+
+which leads to:
+
+$ \frac{dQ}{dt} = m \cdot c \cdot \frac{\Delta T}{dt} $
+
+Thus, the energy balance for a cooling sphere is:
+
+$ m \cdot c \cdot \frac{dT}{dt} = -k \cdot A \cdot (T - T_{\text{env}}) $
+
+After integrating, this gives:
+
+$ \frac{T - T_{\text{env}}}{T_{\text{begin}} - T_{\text{env}}} = e^{-\left( \frac{k \cdot A}{m \cdot c} \right) t} $
+
+The term in the exponent determines the cooling rate. Therefore, to compare the spheres, we need to compare this term for the different spheres. Let a large sphere have radius $R$ and a small sphere have radius $r$.
+
+For the small sphere:
+
+$ \frac{kA}{mc} = \frac{kA}{\rho \cdot V \cdot c} = \frac{k \cdot 4\pi r^2}{\rho \cdot \left( \frac{4}{3} \pi r^3 \right) \cdot c} = \frac{k}{\rho \cdot c} \cdot \frac{3}{r} $
+
+For the large sphere, we find:
+
+$ \frac{k}{\rho \cdot c} \cdot \frac{3}{R} $
+
+The ratio of the energy loss rates is then:
+
+$ \frac{\text{small}}{\text{large}} = \frac{\frac{k}{\rho \cdot c} \cdot \frac{3}{r}}{\frac{k}{\rho \cdot c} \cdot \frac{3}{R}} = \frac{R}{r} $
+
+Since $ \frac{R}{r} $ is greater than 1, the energy loss of the small sphere is faster.
 ```
 
 ## Follow-up
