@@ -38,17 +38,18 @@ align: right
 </div>
 
 ## Introduction
-In this 'black box' demonstration, the 'tap' continues to flow once you pour some liquid into the funnel and then keeps flowing for a long time. The challenge is to think together about what might be inside the bottles. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
+In this 'black box' demonstration, the 'tap' starts to flow once you pour some liquid into the funnel and then continues to flow unassisted for a long time. What happens inside those envelopes? The challenge is: use your imagination and together think of a descripion of what might be hidden inside. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
 
 ## Equipment
 * Two bottles or Erlenmeyer flasks
+* Food colouring, two colours (optional)
 * Two tightly fitting rubber stoppers, each with two holes that the glass tubes fit exactly
 * Two large envelopes, large enough to completely cover the bottles
 * A small funnel
 * Glass tubes or rubber hoses
 * A cup with some extra liquid
 
-The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water with different colors to contribute to the mystery. 
+The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water of different coloura in the cup and the container on the right to contribute to the mystery. 
 
 ```{figure} demo91_figure1.jpg
 ---
@@ -72,19 +73,19 @@ Sketch of the setup
 
 
 ## Procedure
-Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
+Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel and the liquid level in the container on the right is higher than that in the one on the left). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
 
 The discussion during the experiment is more interesting than the execution and the events. Obvious questions and tasks (see a possible 'scenario' in the {ref}`worksheet<worksheet>`):
-* *How do you think it works?* (Draw it and explain, compare with your neighbor.)
-* *Will the tap run forever? Why or why not?*
-* *Nothing goes through the connecting tube. Will it still work if we remove it?*
+* *How do you think it works?* (Add a sketch to your explanation, compare with your neighbor.)
+* *Will the tap keep on runnning forever? Why or why not?*
+* *Nothing seesm to be happening in the connecting tube. Will it still work if we remove it?*
 * *What do you think will happen if...* (see the {ref}`worksheet<worksheet>` for possibilities)
-With dyes, the experiment becomes more visible and more interesting. *After all, could the explanation involve chemical processes?*
+If food colouring is used the experiment becomes more visible and more interesting. *Could the explanation involve chemical processes?*
 
 
 ## Physics background
 ### Lower grades
-Use {numref}`Figure {number}<demo91_fig2>`. When you pour a little water into the funnel, the level in the left bottle rises. Air is pushed through the hose to the right bottle. The water there is pushed down and thus comes up in the tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures the process continues. The water stops running when the level difference in the bottles is the same, or when the right bottle is empty.
+Use {numref}`Figure {number}<demo91_fig2>`. When you pour a little water into the funnel, the level in the bottle on the left rises. Air is pushed through the hose into the bottle on the right. The water level there is pushed down so that water comes up inside the 'tap' tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures that the process continues. The water stops running when the water level in the bottles is the same, or when the bottle on the right is empty.
 
 ### More precisely
 Once the column of liquid under the funnel is built up, and the flow is stable, the gas pressure above the liquids inside both bottles is the same. The gas pressure above the liquid in the funnel is also always equal to the atmospheric pressure prevailing at the end of the tap. Thus, the water continues to flow from the tap as long as the liquid column on the left is higher than the one on the right. According to Bernoulli, the potential energy of the excess water in the left column is then converted into the kinetic energy of the water flowing from the tap. It is a siphon effect: the water keeps flowing until there is no more excess potential energy available, either when the right bottle is empty or the liquid columns are of equal height.
