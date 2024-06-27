@@ -207,7 +207,7 @@ Thus, for each volume element at every point in the circuit: $½ρv^2 + ρgh + P
 
 ($ρ$ is the density of the liquid, $v$ is the speed at that point, $h$ is the height, $P$ is the pressure.)
 
-This is Bernoulli's law (which also explains flying when applied to a gas).
+This is Bernoulli's law (which also plays a role in explaining how flying works when applied to a gas).
 
 The pressure at the inflow and outflow points is atmospheric pressure. Apply Bernoulli at those points (and use also that the pressure in the air within the bottles is equal everywhere) then it turns out: the difference in height of the liquid columns on the left and right results in the speed of the outgoing liquid.
 ```
