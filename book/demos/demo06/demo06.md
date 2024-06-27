@@ -27,7 +27,7 @@ align: right
 
 ```{figure} demo06_figure1.png
 ---
-width: 50%
+width: 70%
 align: center
 name: demo06_fig1
 ---
@@ -35,7 +35,7 @@ An aquarium filled with water is put on an overheadprojector
 ``` 
 
 ## Introduction
-You turn of the lights and then there is this beautiful spectrum on the wall ({numref}`Figure {number} <demo06_fig1>` & {numref}`Figure {number} <demo06_fig2>`). Most students will be amazed... Indeed, the demonstration can be used for events to illustrate the beauty of physics, but it constitutes also a useful exercise in geometrical optics.
+You turn of the lights and then there is this beautiful spectrum on the wall ({numref}`Figure {number} <demo06_fig1>` and {numref}`Figure {number} <demo06_fig2>` ). Most students will be amazed... Indeed, the demonstration can be used for events to illustrate the beauty of physics, but it constitutes also a useful exercise in geometrical optics.
 
 ## Equipment
 * An old fashioned overhead projector (OHP) of which the upper convex lens is removed as only the flat Fresnel plate is used

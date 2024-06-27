@@ -6,11 +6,10 @@ align: right
 
 # Trapped candles
 
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">NAME</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Norbert van Veen</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
@@ -23,7 +22,9 @@ align: right
 </table><br>
 
 ## Introduction
-Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar (see ShowdeFysica part 1, A03). The demonstration becomes much more interesting when you place two burning candles of different lengths under a bell jar. One option is to explain the demonstration and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg to do the experiment in the same lesson. 
+Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar. A slighlty altered version of that demonstration provides excellent opportunity to highlight some characteristics of how science works. For that demonstration you make use of two burning candles of different lengths, placed under the bell jar. 
+
+One option is to explain the setup and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg to do the experiment in the same lesson. 
 
 ```{figure} NV14_figuur_1_300dpi.jpg
 ---
