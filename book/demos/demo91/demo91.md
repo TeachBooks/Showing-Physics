@@ -107,7 +107,7 @@ If it does not 'work,' check if the stoppers are securely fastened and the long 
 
 **Overview**
 
-This section presents a scenario, or possible way of conducting the demonstration with examples of teacher questions, comments, and explanations aimed at stimulating the exchange of ideas and insights among students. The first part focuses on explaining observations in scientific inquiry. The second on the nature of science, i.e. on the characteristics of scientific inquiry and of knowledge acquired through inquiry.
+This section presents a scenario, or possible way of conducting the demonstration with examples of teacher questions, comments, and explanations aimed at stimulating the exchange of ideas and insights among students, focusing on explaining observations in scientific inquiry. 
 
 ---
 
