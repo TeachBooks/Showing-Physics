@@ -25,9 +25,22 @@ align: right
     </tr>
 </table><br>
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/WlR6V-Y-qf4?si=Sir_P7GHYtM5JEF7"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
+
 
 ## Introduction
-In this demonstration, you light a tea light candle and then extinguish it without water. Understanding the existence of a gas is difficult for lower-grade students to imagine. Almost all gases are invisible, so it's hard to conceive how a gas behaves. The demonstration illustrates the behavior of a gas.
+In this demonstration, you light a tea light candle and then extinguish it without water. The existence of a gas is difficult for lower-grade students to imagine. Almost all gases are invisible, so it's hard to conceive how a gas behaves. The demonstration illustrates the behavior of a gas.
 
 ```{figure} demo29_figure3.jpg
 ---
@@ -81,7 +94,7 @@ Baking soda and vinegar react with each other, producing carbon dioxide. This ga
 Light a second candle in a jam jar and seal it. When it is extinguished, pour the gas over the burning first candle: does it extinguish?
 
 
-> Tester Pieter Snels used two tall standing glasses as an alternative, one of which is filled with CO$_2$ from a cylinder; the other glass contains air. 
+> One of our testers  used two tall standing glasses as an alternative, one of which is filled with CO$_2$ from a cylinder; the other glass contains air. <br>
 > A candle on a wire is kept in the glass with air and remains lit. Then in the glass with CO$_2$; it immediately extinguishes. 
-> Then, as if pouring liquid, pour the CO2 gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.
-> If no CO$_2$ gas cylinder is available, Pieter Snels uses some solid dry ice from a discarded extinguisher to fill the glass with CO$_2$. That works just as well.
+> Then, as if pouring liquid, pour the CO$_2$ gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.
+> If no CO$_2$ gas cylinder is available, you may use some solid dry ice from a discarded extinguisher to fill the glass with CO$_2$. That works just as well.

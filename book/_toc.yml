@@ -51,6 +51,7 @@ parts:
       - file: demos/demo27/demo27 #air and balloon         
       - file: demos/demo39/demo39 #inquiring rotational flame
       - file: demos/demo41/demo41 #emptying a bottle
+      - file: demos/demo62/demo62 #LiDar
       - file: demos/demo73/demo73 #determining g
       - file: demos/demo92/demo92 #rolling objects
 
@@ -168,7 +169,7 @@ parts:
       title: to be sorted
       sections:
       
-      - file: demos/demo62/demo62
+      
       - file: demos/demo60/demo60
       - file: demos/demo61/demo61
       - file: demos/demo65/demo65

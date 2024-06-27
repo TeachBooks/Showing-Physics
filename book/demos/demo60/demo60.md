@@ -17,11 +17,21 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 8, extension from grade 11</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 8, extension availabe for grade 11 and above</td>
     </tr>
 </table><br>
 
-
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/_B-6FgQ3EUY?si=pTQrlHRDux4NxuPb"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Introduction
 A burning candle is an everyday phenomenon, but the physical and chemical effects that contribute to the burning are complex. This demonstration is suitable for developing your students' physical reasoning. Without complicated equipment, you show a surprising phenomenon. Why does the flame of a candle disappear?
@@ -31,9 +41,12 @@ A burning candle is an everyday phenomenon, but the physical and chemical effect
 width: 100%
 align: center
 ---
-a. The visible flame of a candle disappears near a copper spiral. b. The visible flame of a candle disappears near a copper spiral. c. The visible flame of a candle disappears near a copper spiral.
+<br>a. The visible flame of a candle disappears near a copper spiral. 
+<br>b. The visible flame of a candle disappears near a copper spiral. 
+<br>c. The visible flame of a candle disappears near a copper spiral.
+<br>_Photos by Aike Stortelder._
 ```
-_Photos by Aike Stortelder._
+
 
 ## Materials Needed
 - Approximately 20 cm long, thick (Ø 1 to 2 mm) uninsulated copper wire
@@ -68,7 +81,7 @@ In figures 2a and 2b, you see an attempt to measure the temperature by holding a
 
 ```{figure} demo60_figure2.jpg
 ---
-width: 50%
+width: 80%
 align: center
 ---
 Figure 2a. Temperature measured in (a) the invisible part and (b) the visible part of the flame.
