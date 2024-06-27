@@ -41,15 +41,15 @@ align: right
 In this 'black box' demonstration, the 'tap' starts to flow once you pour some liquid into the funnel and then continues to flow unassisted for a long time. What happens inside those envelopes? The challenge is: use your imagination and together think of a descripion of what might be hidden inside. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
 
 ## Equipment
-* Two bottles or Erlenmeyer flasks
-* Food colouring, two colours (optional)
+* Two bottles or Erlenmeyer flasks, one filled with water
+* (Optional) food colouring, two colours
 * Two tightly fitting rubber stoppers, each with two holes that the glass tubes fit exactly
 * Two large envelopes, large enough to completely cover the bottles
 * A small funnel
 * Glass tubes or rubber hoses
 * A cup with some extra liquid
 
-The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water of different coloura in the cup and the container on the right to contribute to the mystery. 
+The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water of different colours in the cup and the container on the right to contribute to the mystery. 
 
 ```{figure} demo91_figure1.jpg
 ---
@@ -73,22 +73,22 @@ Sketch of the setup
 
 
 ## Procedure
-Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel and the liquid level in the container on the right is higher than that in the one on the left). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
+Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel and the liquid level in the container on the right is high enough). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
 
 The discussion during the experiment is more interesting than the execution and the events. Obvious questions and tasks (see a possible 'scenario' in the {ref}`worksheet<worksheet>`):
 * *How do you think it works?* (Add a sketch to your explanation, compare with your neighbor.)
 * *Will the tap keep on runnning forever? Why or why not?*
-* *Nothing seesm to be happening in the connecting tube. Will it still work if we remove it?*
+* *Nothing seems to be happening in the connecting tube. Will it still work if we remove it?*
 * *What do you think will happen if...* (see the {ref}`worksheet<worksheet>` for possibilities)
 If food colouring is used the experiment becomes more visible and more interesting. *Could the explanation involve chemical processes?*
 
 
 ## Physics background
 ### Lower grades
-Use {numref}`Figure {number}<demo91_fig2>`. When you pour a little water into the funnel, the level in the bottle on the left rises. Air is pushed through the hose into the bottle on the right. The water level there is pushed down so that water comes up inside the 'tap' tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures that the process continues. The water stops running when the water level in the bottles is the same, or when the bottle on the right is empty.
+Use {numref}`Figure {number}<demo91_fig2>`. When you pour a little water into the funnel, the level in the bottle on the left rises. Air is pushed through the hose into the bottle on the right. The water level there is pushed down so that water comes up inside the 'tap' tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures that the process continues. The water stops running when the difference in water level (from the top of the water column in a tube to the liquid level in its bottle) is the same in both bottles, or when the bottle on the right is empty.
 
 ### More precisely
-Once the column of liquid under the funnel is built up, and the flow is stable, the gas pressure above the liquids inside both bottles is the same. The gas pressure above the liquid in the funnel is also always equal to the atmospheric pressure prevailing at the end of the tap. Thus, the water continues to flow from the tap as long as the liquid column on the left is higher than the one on the right. According to Bernoulli, the potential energy of the excess water in the left column is then converted into the kinetic energy of the water flowing from the tap. It is a siphon effect: the water keeps flowing until there is no more excess potential energy available, either when the right bottle is empty or the liquid columns are of equal height.
+Once the column of liquid below the funnel is built up, and the flow is stable, the gas pressure above the liquids inside both bottles is the same. The gas pressure above the liquid in the funnel is also always equal to the atmospheric pressure prevailing at the end of the tap. Thus, the water continues to flow from the tap as long as the liquid column on the left is taller than the one on the right. According to Bernoulli, the potential energy of the excess water in the column on the left is then converted into the kinetic energy of the water flowing from the tap. It is a siphon effect: the water keeps flowing until there is no more excess potential energy available, either when the bottle on the right is empty or the liquid columns are of equal height.
 
 ## Follow-up
 {cite:t}`lederman1998avoiding` describe how various characteristics of scientific research can be clarified to students based on their own experiences.
@@ -107,7 +107,7 @@ If it does not 'work,' check if the stoppers are securely fastened and the long 
 
 **Overview**
 
-This section presents a scenario, which is a possible progression of the experiment along with examples of questions, comments, and explanations from the teacher aimed at stimulating the exchange of ideas and insights among students.
+This section presents a scenario, or possible way of conducting the demonstration with examples of teacher questions, comments, and explanations aimed at stimulating the exchange of ideas and insights among students. The first part focuses on explaining observations in scientific inquiry. The second on the nature of science, i.e. on the characteristics of scientific inquiry and of knowledge acquired through inquiry.
 
 ---
 
@@ -133,7 +133,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 **Teacher:** "Does it make a difference if I hold one bottle lower or the other higher?"
 
-*(The height difference between the bottles does not affect the flow. The difference in liquid levels on the left must be greater than the difference on the right; the greater this difference, the faster the water flows from the tap. The right bottle must be higher than the left to make this difference in height difference possible.)*
+*(The height difference between the bottles does not affect the flow. The difference in liquid levels on the left must be greater than the difference on the right; the greater this difference, the faster the water flows from the tap. The bottle on the right must be placed higher than the one on the left only to allow for the tap to feed the funnel.)*
 
 **Teacher:** "Will this tap run forever? When does it stop, where does all that liquid come from, and where does it go?"
 
@@ -163,7 +163,7 @@ This section presents a scenario, which is a possible progression of the experim
 
 **Comparison of Answers**
 
-*Everyone naturally thinks their answers are the best. But can you also say why they are the best? If you only look at the solutions from other groups, which do you think are the best? Why?*
+*Everyone usually thinks their own solutions are the best. But can you also explain what makes them the best? If you do not consider your own solution but only those of other groups, which do you think are better? Why?*
 
 *(After the bottles are 'revealed':)* 
 
@@ -173,15 +173,15 @@ This section presents a scenario, which is a possible progression of the experim
 
 **Conclusions: Characteristics of Scientific Research**
 
-Does this experiment have something to do with science?
+Does this experiment have anything to do with science and the ways scientists do research?
 
-*Most people are surprised when the tap starts running and continues for a while. It seems there is nothing that keeps the water running. In science, surprise is very important. If you didn't expect it, you can learn something new, and that's what scientists find very important. To learn new things, they conduct research. One way to conduct research is to think: what could be in the bottles, and how does it work? Then, various solutions are thought of.*
+*Most people are surprised when the tap starts running and continues for a while. It seems there is nothing that keeps the water running. In science, experiencing surprise is very important. If what happens was unexpected, something new can be learned, and that's what scientists find very important. To learn new things, they conduct research. In this case one approach to conducting research is to try and imagine what could be inside the bottles, and could explain what was observed. That normally results in various possible solutions that can be investigated further.*
 
-*Most scientists naturally think their own solutions and those of their friends are the best. To find out which solution is really the best, you have to do more research. You investigate whether a solution matches the setup, or you think carefully: is that solution understandable, or is it fantasy? You can also rebuild the solution and see if it works. Scientists have various ways to find the best solutions.*
+*Most scientists also usually think that their own solutions and those of their friends are the best, but that's just their opinion. To find out which solution is really the best, more research is usually needed. It could be investigated whether a proposed solution really accords with what was observed. Also you might consider carefully: is that solution understandable (does it fit in with what you already know about similar situations), or is it unrealistic? You can also build a set-up in line with the solution and see if it works. Scientists have various ways to find the best solutions.*
 
-*Of course, there is only one solution that is completely correct for this setup. You see it when you take off the envelopes.*
+*Of course, there is technically only one solution that is completely correct for this setup. You see it when the envelopes are removed.*
 
-*(If you haven't removed the envelopes yet, you're setting the bar very high! Show what's in the bottles and project the figure if possible.)*
+*(If as a teacher you haven't removed the envelopes yet, you're setting the bar very high! Show students what's in the bottles, project the diagram if possible, and provide the necessary background information.)*
 
 ---
 
@@ -189,17 +189,17 @@ Does this experiment have something to do with science?
 
 *Lower Secondary*
 
-The color of the liquids has nothing to do with it; it was only meant to be interesting. It's just colored water. If you pour a little water into the funnel, the level in the left bottle rises, pushing air through the tube to the right bottle, which also causes the water there to rise. The tube of the 'tap' is narrow
+The color of the liquids has nothing to do with it; it was only meant to make things interesting. It's just coloured water. If you pour a little water into the funnel, the level in the bottle on the left rises, pushing air through the tube into the bottle on the right, which also causes the water there to rise. The tube of the 'tap' is narrow
 
 , so soon the water rises, goes around the bend, and falls into the funnel. Then you don't need to pour anymore, the water coming from the tap keeps the process going, usually until the right bottle is empty. The water stops running when the level difference in the bottles is the same, or the right bottle is empty.
 
 *Upper Secondary*
 
-If you want to go a step further than the examination program, consider: the liquid is incompressible, the flow is frictionless, and the temperature is constant. Then the energy of a piece of liquid can change in three ways:
+A more precise explanation (beyond the level of the Dutch secondary examination program) starts with some approximations: the liquid is incompressible, the flow is frictionless, and the temperature is constant. Then consider a small section of the liquid. Its energy can change in three ways:
 
 1. If the speed changes, the kinetic energy changes,
 2. If the height changes, the potential energy changes,
-3. If the pressure changes, work is performed.
+3. If the pressure changes, work may be performed.
 
 The law of conservation of energy can be written as: $0 = ΔEkin + ΔEpot + W$
 
