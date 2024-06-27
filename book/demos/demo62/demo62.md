@@ -24,7 +24,7 @@ align: right
 ## Introduction
 Modern smartphones have a LiDAR sensor. This sensor allows you to measure the distance to objects. The LiDAR sensor is designed to measure only in air. As the speed of light in a transparent substance is slightly different than the speed of light in air, the measured distance is different. You can use this 'measurement error' to determine the speed of light in a transparent liquid.
 
-```{figure} demo62_figure1.jpg
+```{figure} demo62_figure1.png
 ---
 width: 90%
 align: center
@@ -56,7 +56,8 @@ name: demo62_fig1
 7. Carefully pour the water into the pan. Ensure that the water has come to rest. Use a water height of 5-8 cm.
 8. Perform the measurement and note the measured distance on the phone with (S4) and without water (S1). Note the height of the phone to the water surface (S2). Measure the depth of the water (S3).
 9. Calculate the speed of light in water, assuming speed of light in air is 299702547 m/s.
-10. The following question can be asked to assess students' understanding: If we were to pour the same amount of another transparent liquid with a higher density into the pan instead of water, what would the LiDAR sensor indicate?
+10. The speed of light in water is determined with a single measurement. Ask students how they could obtain a more accurate value. (Students can repeat the demonstration with different water heights and use a more sophisticated way of determining the speed of light.)
+11. The following question can be asked to assess students' understanding: If we were to pour the same amount of another transparent liquid with a higher density into the pan instead of water, what would the LiDAR sensor indicate?
     A. A shorter distance than with water.
     B. A longer distance than with water.
     C. The same distance as with water.
@@ -93,10 +94,6 @@ Depending on the measurements, we find deviations from the literature value for 
 - Depending on the power of the LiDAR sensor, the water depth cannot be too great. There will be a power loss; maintain a depth between 5-8 cm.
 - Ensure the phone is securely fastened, as it may fall into the water.
 ```
-
-## Follow up
-The speed of light in water is determined with a single measurement. Students can repeat the demonstration with different water heights and use a more sophisticated way of determining the speed of light.
-
 ## References
 ```{bibliography}
 :filter: docname in docnames
