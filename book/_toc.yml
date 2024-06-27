@@ -34,6 +34,7 @@ parts:
       - file: demos/demo01/demo01 #particle           
       - file: demos/demo40/demo40 #cancancan
       - file: demos/demo59/demo59
+      - file: demos/demo61/demo61
       - file: demos/demo70/demo70 #Cylinder Puzzle
       - file: demos/demo71/demo71 #magic siphon
       - file: demos/demo72/demo72 #rollstop
@@ -53,6 +54,7 @@ parts:
       - file: demos/demo41/demo41 #emptying a bottle
       - file: demos/demo60/demo60
       - file: demos/demo62/demo62 #LiDar
+      - file: demos/demo65/demo65
       - file: demos/demo73/demo73 #determining g
       - file: demos/demo92/demo92 #rolling objects
 
@@ -137,6 +139,7 @@ parts:
       - file: demos/demo43/demo43 #falling?
       - file: demos/demo44/demo44 #omhoog druppelen
       - file: demos/demo57/demo57 #bernoulli
+      - file: demos/demo67/demo67
       - file: demos/demo76/demo76 #baloon
       - file: demos/demo82/demo82 #planets 
       - file: demos/demo52/demo52 #lightbulb as sun
@@ -163,20 +166,3 @@ parts:
       - file: demos/demo56/demo56 #spool
       - file: demos/demo98/demo98 #imploding can
   
-  - caption: to be sorted
-    numbered: 2
-    chapters:
-    - file: demos/template
-      title: to be sorted
-      sections:
-      
-      
-      
-      - file: demos/demo61/demo61
-      - file: demos/demo65/demo65
-      
-      - file: demos/demo67/demo67
-      
-
-
-      
