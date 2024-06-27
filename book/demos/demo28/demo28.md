@@ -4,7 +4,9 @@ width: 35%
 align: right
 ```
 
-# Warm & cold, salty & fresh, and ocean currents
+# Ocean currents
+<span style="font-size: 25px; color: gray;">Warm & cold, salty & fresh</span>
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

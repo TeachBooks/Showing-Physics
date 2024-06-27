@@ -33,6 +33,7 @@ parts:
       sections:
       - file: demos/demo01/demo01 #particle           
       - file: demos/demo40/demo40 #cancancan
+      - file: demos/demo59/demo59
       - file: demos/demo70/demo70 #Cylinder Puzzle
       - file: demos/demo71/demo71 #magic siphon
       - file: demos/demo72/demo72 #rollstop
@@ -166,7 +167,7 @@ parts:
     - file: demos/template
       title: to be sorted
       sections:
-      - file: demos/demo59/demo59
+      
       - file: demos/demo62/demo62
       - file: demos/demo60/demo60
       - file: demos/demo61/demo61
