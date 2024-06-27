@@ -94,7 +94,7 @@ Once the column of liquid below the funnel is built up, and the flow is stable, 
 {cite:t}`lederman1998avoiding` describe how various characteristics of scientific research can be clarified to students based on their own experiences.
 
 ```{tip}
-If it does not 'work,' check if the stoppers are securely fastened and the long tubes reach the liquid level in both bottles. Afterward, you can pull out the stoppers from the bottles, swap them, and start over. Be careful of overflow as some liquid has been added.
+If it does not 'work,' check if the stoppers are securely fastened and the long tubes reach the liquid level in both bottles. Afterward, you can pull out the stoppers from the bottles, refill one, and start over. Be careful of overflow as some liquid has been added.
 ```
 
 ## References
