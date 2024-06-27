@@ -7,7 +7,6 @@ align: right
 # Powerful Balloon 
 <span style="font-size: 25px; color: gray;">A surprisingly revealing measurement</span>
 
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
@@ -25,11 +24,11 @@ align: right
 
 
 ## Introduction
-All students have blown up a balloon at some point, but they usually don’t consider what happens inside the balloon. In this demonstration, the teacher shows that various processes occur in the balloon and that 'unexpected' results can be found through measurements.
+All students have blown up a balloon at some point in their lives, but they usually don’t consider the physics of balloons and, for instance, what happens inside the balloon. In this demonstration, you can show various processes happening inside the balloon. Here you obtain some 'unexpected' results when measuring its weight.
 
 ```{figure} demo65_figure1.jpg
 ---
-width: 50%
+width: 75%
 align: center
 ---
 The balloon on the electronic balance connected to the computer. This way, you can display a graph with the value indicated by the balance.
@@ -37,17 +36,17 @@ The balloon on the electronic balance connected to the computer. This way, you c
 
 ## Equipment
 - Balloon
-- Electronic balance with USB output (Adam balance or other digital balance)
-- Computer with Coach 7 (or digital balance with a camera directed at it)
+- Electronic balance with USB output
+- Computer with software to read out the electronic balance (or digital balance with a camera directed at it)
 - Transparent stand to clamp the balloon in
 
 ## Preparation
-Turn on the balance with the stand for the balloon on it. Set the balance to 0.00 g, using the 'tare' button if necessary using. Measure at two measurements per second. Inflate the balloon and place it directly in the stand on the balance.
+Turn the balance on with the stand for the balloon on it. Set the balance to 0.00 g using the 'tare' button if necessary. Set the measurement frequency to two measurements per second. 
 
 ## Procedure
 1. Explain to the students how the demonstration works.
 2. Predict what the balance will indicate and why.
-3. Perform the measurement.
+3. Inflate the balloon and place it directly in the stand on the balance. Perform the measurement.
 4. Show with the graph that the mass of the balloon increases significantly in the first two minutes.
     - *What could be an explanation?*
 6. Provide the explanation of the demonstration.
@@ -77,9 +76,9 @@ The effect is most noticeable just after inflating. After a few minutes, the equ
 - In addition to the graph, you can also display the mass value on a screen. Film or photograph with a FLIR-C5 camera to show that the balloon’s temperature is higher than the outside temperature. Heat (the air in) the balloon with a hairdryer if desired to make the effect stronger. Place the balloon on a tube or cup for better support against movement due to air currents and the like. 
 - Tip from a tester: work in a draft-free room.
 ```
-## Follow-up
-An extensive analysis and more fun demonstrations with inflated balloons can be found in: {cite}`Brouwer2012`.
 
+## Follow up
+There are more demonstrations available, for instance [Rotating Balloon](../demo78/demo78.md), [A Balloon that Can Do Everything](../demo76/demo76.md) and [Air is not nothing: weighing air](../demo30/demo30.md).
 
 ## References
 ```{bibliography}
