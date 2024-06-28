@@ -39,11 +39,11 @@ You turn of the lights and then there is this beautiful spectrum on the wall ({n
 
 ## Equipment
 * An old fashioned overhead projector (OHP) of which the upper convex lens is removed as only the flat Fresnel plate is used
-* a transparent plastic container (for example a terrarium from an animal store)
-* water
-* several A4 sheets of paper
-* a white wall or projection screen
-* a piece of white carton.
+* A transparent plastic container (for example a terrarium from an animal store)
+* Water
+* Several A4 sheets of paper
+* A white wall or projection screen
+* A piece of white carton.
 
 ## Preparation
 Cover the OHP with white sheets of paper. Put the container with water (about ¾ filled) on top of this and arrange the papers such that there is a narrow slit (up to 1 cm) next to the container where the light can pass through ({numref}`Figure {number} <demo06_fig3>`). Set-up and try out. 
@@ -87,9 +87,9 @@ The setup. The rainbows appear on the left and right walls.
 1.	When the students come in, the spectrum is already visible on the wall.
 2.	The teacher asks rather trivial questions such as: what do you see? What does it look like? What do you usually use to obtain a spectrum? Is the image on the wall virtual or real?
 3.	The teacher takes the container with water from the OHP and uses the white carton to illustrate that the Fresnel plate produces a cone of light. Tilt the carton a little from the horizontal position and move it upwards. Light rays near the center are very steep, light rays are less and less steep as one moves away from the center.
-4.	Task for the students: try to explain the following:<br>
-a.	In this set-up: what causes the separation of colors (dispersion) and the formation of a spectrum?<br>
-b.	Why is the spectrum shaped like a rainbow?<br>
+4.	Task for the students: try to explain the following:
+* In this set-up: what causes the separation of colors (dispersion) and the formation of a spectrum?
+* Why is the spectrum shaped like a rainbow?
 Alternatively prepare a worksheet with light rays A, B, and C ({numref}`Figure {number} <demo06_fig4>`) drawn from the Fresnel lens up to the container and ask students to sketch what happens to these light rays when entering and exiting the container and use that to explain the image on the wall.
 5.	A hint from the teacher (if necessary): by covering part of the slit show that the left part of the slit forms the right part of the spectrum image and the right part of the slit forms the left part of the image.
 
