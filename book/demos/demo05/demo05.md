@@ -18,7 +18,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 16y</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 16</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -39,14 +39,14 @@ A schematic of the experimental setup
 ```
 
 ## Equipment
-* A smooth, flat table that is as long as possible. 
-* A retort stand that is as high as possible, with clamps and two pulleys; 
-* A hanger with slotted masses; 
-* A thin cord that is twice as long as the table; 
-* Two spring-balances. 
-* A cart. 
-* Power source and electromotor; 
-* Two more retort stands each with a clamp and a pulley.
+* A smooth, flat table that is as long as possible
+* A retort stand that is as high as possible, with clamps and two pulleys
+* A hanger with slotted masses
+* A thin cord that is twice as long as the table
+* Two spring-balances
+* A cart
+* Power source and electromotor
+* Two more retort stands each with a clamp and a pulley
 
 ## Preparation
 Build the set-up, see {numref}`Figure {number} <demo05_fig1>`. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses and matching spring-balance so that friction is negligible up to speeds of about 1 m/s.
