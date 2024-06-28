@@ -21,7 +21,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">center of mass, stable equilibrium</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Center of mass, stable equilibrium</td>
     </tr>
 </table><br>
 
