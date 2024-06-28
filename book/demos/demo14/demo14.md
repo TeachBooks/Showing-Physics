@@ -22,7 +22,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">kinetic and static friction</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Kinetic and static friction</td>
     </tr>
 </table><br>
 
@@ -46,11 +46,11 @@ Friction is an everyday phenomenon. How would the world behave without friction?
 
 ## Equipment
 * Smooth pvc-tube (diameter32 mm) 
-* piece of cloth which easily slips over the surface of the tube (figure 1)
-* small metal tray  (figure 2)
-* spring (not stiff)
-* string
-* washers.  
+* Piece of cloth which easily slips over the surface of the tube (see {numref}`Figure {number}<demo14_fig1>`)
+* Small metal tray  (see {numref}`Figure {number}<demo14_fig2>`)
+* Spring (not stiff)
+* String
+* Washers  
 
 ## Preparation
 1. Test whether the cloth slides easily across the tube. Check whether it slides off towards one side as soon as the tube is tilted a bit. 
