@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Shadow of a Flame 1: 
+# Shadow of a Flame 1
 <span style="font-size: 25px; color: gray;">Spectral lines</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
