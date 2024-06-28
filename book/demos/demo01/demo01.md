@@ -152,7 +152,7 @@ Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observ
 
 ```{warning} Safety and environment
 Use only safe, harmless substances. Boil the shell-less eggs in a fuming cupboard, if possible.
-
+```
 ## References
 ```{bibliography}
 :filter: docname in docnames
