@@ -22,7 +22,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">phases of water, evaporation, condensation, combustion, air, oxygen</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Phases of water, evaporation, condensation, combustion, air, oxygen</td>
     </tr>
 </table><br>
 
@@ -39,11 +39,11 @@ The required materials
 
 ## Equipment
 * Electric boiler
-* water
-* tealight 
-* a spaghetti spoon
-* matches 
-* webcam and screen to make the candle in the spoon visible to the whole class.
+* Water
+* Tealight 
+* A spaghetti spoon
+* Matches 
+* Webcam and screen to make the candle in the spoon visible to the whole class
 
 ## Preparation
 * Pour some water in the kettle and let it come to a boil.
@@ -58,9 +58,9 @@ Working with boiling water has risks. Do not let students come too close; if pos
 Discuss the questions in the introduction with the students. Between the bubbling liquid in the kettle and the rising fog above it, you see 'nothing'. What is actually there? Most students will probably say '(hot) air'. That idea can be tested, because if it is 'just' air, like the air we breathe, there must be oxygen in it. So if we hold a burning candle in the kettle, it would then just keep on burning.
  
 Bring the burning candle down into the kettle, and note that the flame dies. Summarize the observations: 
-* the flame dies: above the water is a substance that looks like air but apparently is not;
-* bubbles come out of the water;
-* water droplets float above the kettle.
+* The flame dies: above the water is a substance that looks like air but apparently is not.
+* Bubbles come out of the water.
+* Water droplets float above the kettle.
 
  ```{figure} demo09_figure2.png
 ---
@@ -73,9 +73,9 @@ align: center
 
 Draw a conclusion together. It may well be that the conclusion is not: *there is water vapor above the liquid*. After all, that has not been proven. What we can agree on is: 
 
-*	what comes out of the bubbles and hangs above the liquid looks like air;
-*	it is not air, because a candle does not keep burning in it;
-*	this substance turns into water droplets when it rises higher.
+*	What comes out of the bubbles and hangs above the liquid looks like air.
+*	It is not air, because a candle does not keep burning in it.
+*	This substance turns into water droplets when it rises higher.
  
 The substance concerned has a name: "[steam](https://en.wikipedia.org/wiki/Steam)". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
 
