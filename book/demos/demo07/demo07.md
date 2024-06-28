@@ -21,7 +21,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">period, frequency, resonance</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Period, frequency, resonance</td>
     </tr>
 </table><br>
 
@@ -38,9 +38,9 @@ A rod with some balls suspended using strings.
 ``` 
 
 ## Equipment
-* A 70 cm piece of broomstick as a rod,
-* Several strings with a thickness of several mm,
-* Wooden colored balls with a diameter of approximately 7 cm. 
+* A 70 cm piece of broomstick as a rod
+* Several strings with a thickness of several mm
+* Wooden colored balls with a diameter of approximately 7 cm
 
 ## Preparation
 Drill a narrow hole through each ball and through the broom stick. The string can be secured on either side with a knot. Practice several times so that you know the resonant frequencies of each ball.
