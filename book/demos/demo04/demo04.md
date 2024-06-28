@@ -92,7 +92,7 @@ name: demo04_fig3
 The physics (and mathematics) behind stacking blocks
 ```
 
-```{Tip}
+```{tip}
 * Instead of blocks of wood you can also use CD cases or big Lego blocks.
 * If you google with the term “markthal Rotterdam”, then you will see on the photographs that the 228 apartments were stacked in a way you will now understand. Teacher Eline Bijker actually started her demonstration of stacking blocks with a photograph of the market hall in Rotterdam ({numref}`Figure {number} <demo04_fig3>`) and asked her students which construction principle was used. The [Rotterdam “markthal”](https://en.wikipedia.org/wiki/Market_Hall_(Rotterdam)) is an indoor market with apartments stacked into an arch shape overhead. It was opened in 2014.
 ```
