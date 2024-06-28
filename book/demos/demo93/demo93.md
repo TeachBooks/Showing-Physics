@@ -86,7 +86,7 @@ Photo of the X-ray diffraction pattern of DNA. This picture, taken by Wilkins an
 When radiation falls through an aperture, a diffraction pattern will be created. See further {cite:t}`Braun2011`.
 
 ```{admonition} Exercise
-The Dutch [final exam VWO 2013(II)](https://nvon.nl/examen/examen-2013-2-vwo-natuurkunde) question 2 discusses this setup. They use a slightly different beam expander
+A <a href="https://nvon.nl/examen/examen-2013-2-vwo-natuurkunde" target="_blank">national Dutch physics exam</a> question (question 2) discusses this setup. They use a slightly different beam expander.
 ```
 
 ## References

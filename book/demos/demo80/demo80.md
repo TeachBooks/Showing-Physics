@@ -62,7 +62,7 @@ width: 90%
 align: center
 name: demo80BBD
 ---
-Black body spectrum, figure taken from https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg
+Black body spectrum, figure taken from <a href="https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg" target="_blank">https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg</a>
 ```
 
 ## Physics background
@@ -78,5 +78,5 @@ Having students work together in groups can reduce the problem.
 
 You can share students' photos using a project. In any case, make sure to have two usable photos available yourself!
 
-[Wikipedia](https://en.wikipedia.org/wiki/Color_index) provides information about the relationship between color index and temperature. 
+<a href="https://en.wikipedia.org/wiki/Color_index" target="_blank">Wikipedia</a> provides information about the relationship between color index and temperature. 
 ```

@@ -92,7 +92,7 @@ You can take another photo of the class when everyone has raised their cards.
 ``` 
 
 ## Follow-up
-There are several opportunities for follow-ups, for instance using an acceleration meter at various points attached to the slinky. Or have you noticed how the distance between each winding changes with height? See, for instance [The suspended Slinky—A problem in static equilibrium](https://doi.org/10.1119/1.2343983) for an explanation.
+There are several opportunities for follow-ups, for instance using an acceleration meter at various points attached to the slinky. Or have you noticed how the distance between each winding changes with height? See, for instance <a href="https://doi.org/10.1119/1.2343983" target="_blank">The suspended Slinky—A problem in static equilibrium</a> for an explanation.
 
 ## References
 ```{bibliography}

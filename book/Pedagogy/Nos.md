@@ -77,7 +77,7 @@ physics. It is only for boys.
 
 ## How can you pay attention to NoS in your teaching?
 
-An excellent start are *Black-Box* activities, especially if they evoke immediate surprise and confusion. In these, you perform some small experiments with a certain object (the *Black- box*). The result is some kind of *output* produced by the *Black-Box*. But the mechanism that produces that output remains hidden. Students should feel that they ought to understand "how it works" and immediately feel the urge to investigate. In a demonstration, you then have excellent opportunities to direct their inquiry and explore together. See for example the NoS activities ['Cylinder puzzle'](../demos/demo70/demo70.md) and [Magic, trick or physics?](../demos/demo71/demo71.md) in this book, or check out this English-language website of the [Royal Society of Chemistry](https://edu.rsc.org/resources/black-box/1275.article)
+An excellent start are *Black-Box* activities, especially if they evoke immediate surprise and confusion. In these, you perform some small experiments with a certain object (the *Black- box*). The result is some kind of *output* produced by the *Black-Box*. But the mechanism that produces that output remains hidden. Students should feel that they ought to understand "how it works" and immediately feel the urge to investigate. In a demonstration, you then have excellent opportunities to direct their inquiry and explore together. See for example the NoS activities ['Cylinder puzzle'](../demos/demo70/demo70.md) and [Magic, trick or physics?](../demos/demo71/demo71.md) in this book, or check out this English-language website of the <a href="https://edu.rsc.org/resources/black-box/1275.article" target="_blank">Royal Society of Chemistry</a>.
 
 ```{figure} Figures/cylinder_puzzle.jpg
 ---
@@ -110,7 +110,7 @@ The concept of scientific proof is tricky. You cannot prove Hooke's law in the s
 As a teacher, the art is in properly assessing when and with which students you can go deeper into a particular feature of NoS. If you are open to it, very useful conversations can arise. For example, discuss that an "experiment" is by definition an investigation in which variables are controlled (i.e., held constant). Such experiments are crucial in physics and chemistry, but in astronomy or paleontology this is less or not so. Students may think that scientific knowledge can only be gained from experimental research, but there are all kinds of acceptable scientific research, experiments are only one form. 
 Especially for those who command Dutch: For more engaging and often philosophical questions about NoS that you can use directly in the classroom, check out the Flemish website www.wetenschapsreflex.be.
 
-And if you want to talk to your students about stereotypes (Why do so many people think science is mainly for white men?), [Margriet van der Heijden's book "Ongekend"](https://www.nieuwezijds.nl/boek/ongekend/auteur/) gives fascinating insights into how women were often systematically opposed and how their important contributions to science were forgotten.
+And if you want to talk to your students about stereotypes (Why do so many people think science is mainly for white men?), <a href="https://www.nieuwezijds.nl/boek/ongekend/auteur/" target="_blank">Margriet van der Heijden's book "Ongekend"</a> gives fascinating insights into how women were often systematically opposed and how their important contributions to science were forgotten.
 
 ## References
 ```{bibliography}

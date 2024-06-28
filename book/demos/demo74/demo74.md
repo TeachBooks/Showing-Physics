@@ -48,7 +48,7 @@ The density current is visible
 None
 
 ## Procedure
-Start this demo with the rotating spiral (https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal) and let the students explain what is happening. You can also feel the heat flow yourself. Just keep your hand at various places, always the same distance from the flame. You will naturally notice where you feel the heat the most. Then, make the flow visible by darkening the room and holding a bright lamp close to the flame, projecting the flow onto the wall.
+Start this demo with the rotating spiral (<a href="https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal" target="_blank">https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal</a>) and let the students explain what is happening. You can also feel the heat flow yourself. Just keep your hand at various places, always the same distance from the flame. You will naturally notice where you feel the heat the most. Then, make the flow visible by darkening the room and holding a bright lamp close to the flame, projecting the flow onto the wall.
 
 ***Provide an explanation for why the flow is visible.***
 

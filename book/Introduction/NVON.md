@@ -6,7 +6,7 @@ align: right
 
 # NVON
 
-The Dutch Association for Science Education ([NVON](https://nvon.nl)) is an active association for in-service and pre-service teachers and technicians in the subjects chemistry, physics, biology, general natural sciences, life science & technology, science orientation, and technology education. One of the objectives of the NVON is to improve the quality of science education in the Netherlands and to promote the professional development of its members. NVON members share subject information, knowledge, and experience with each other: directly from practice, innovative, current, and immediately applicable. The NVON book series are an example of this.
+The Dutch Association for Science Education (<a href="https://nvon.nl" target="_blank">NVON</a>) is an active association for in-service and pre-service teachers and technicians in the subjects chemistry, physics, biology, general natural sciences, life science & technology, science orientation, and technology education. One of the objectives of the NVON is to improve the quality of science education in the Netherlands and to promote the professional development of its members. NVON members share subject information, knowledge, and experience with each other: directly from practice, innovative, current, and immediately applicable. The NVON book series are an example of this.
 
 Previously published in the NVON series (titles translated from Dutch):
 

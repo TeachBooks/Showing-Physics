@@ -85,7 +85,7 @@ Screenshot of the FLIR C5 measurement. The temperature range is set manually.
 ```
 
 7. Discuss the results. *Which explanation fits best?*
-8. Optionally tell the [tale of George-Louis Leclerc](https://www.geolsoc.org.uk/Geoscientist/Archive/April-2018/Buffon-the-geologist) and his determination of the age of the Earth.
+8. Optionally tell the <a href="https://www.geolsoc.org.uk/Geoscientist/Archive/April-2018/Buffon-the-geologist" target="_blank">tale of George-Louis Leclerc</a> and his determination of the age of the Earth.
 
 9. A question to check students' understanding: *Can you determine the age of the Earth with this method?*
 
