@@ -22,7 +22,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">acceleration of gravity g (=9.81 m/s2), free fall, rotation</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Acceleration of gravity g (=9.81 m/s2), free fall, rotation</td>
     </tr>
 </table><br>
 
