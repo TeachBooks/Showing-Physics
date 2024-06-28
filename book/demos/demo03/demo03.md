@@ -44,18 +44,19 @@ What is light? Why is it dark at night while there are so many stars? Why do we 
 
 ## Equipment
 * Laser
-* vacuumpump & bell
-* darkened room
-* lightning matches
-* candle
+* Vacuumpump & bell
+* Darkened room
+* Lightning matches
+* Candle
 
 ## Preparation
-Light the candle and put it under the vacuumbell so that smoke is trapped beneath it. Make sure there is enough smoke! The smoke will make the laserbeam visible, see figure 1. Darken the classroom but leave the lights on.
+Light the candle and put it under the vacuumbell so that smoke is trapped beneath it. Make sure there is enough smoke! The smoke will make the laserbeam visible, see {numref}`Figure {number}<demo3_fig1>`. Darken the classroom but leave the lights on.
 
 ```{figure} demo03_figure1.jpg
 ---
 width: 50%
 align: center
+name: demo3_fig1
 ---
 The setup consisting of a laser, a vacuumbell and a small candle for smoke.
 ```
