@@ -64,10 +64,10 @@ The rope cannot be pulled horizontal in this case.
 
 ## Physics background
 The boys exert a horizontal force. While the rope is horizontal, this force does not have a vertical component. When the rope is pressed downward by the finger, there will be a vertical component of the force of the boys, however, it is small:
+
 $$2\cdot F_{\text{boys on rope}} \cdot sin(\theta) = -F_{\text{lady on rope}}$$
-$$
-  \Rightarrow  F_{\text{boys on rope}} = \frac{-F_{\text{lady on rope}}}{2·sin(\theta)} 
-$$
+
+$$\Rightarrow  F_{\text{boys on rope}} = \frac{-F_{\text{lady on rope}}}{2·sin(\theta)} $$
 
 Angle $\theta$ is the angle between rope and the horizontal and is very small, thus the vertical component of the force of the boys is very small. Therefore, minimal force is needed to bend the rope downwards. 
 
