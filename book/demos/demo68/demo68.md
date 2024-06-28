@@ -54,7 +54,7 @@ The forces on the IOlabs are equal in magnitude but opposite in direction. These
 - Double-sided tape
 - Computer
 
-The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
+The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: <a href="https://www.iolab.science/getting_started.html" target="_blank">https://www.iolab.science/getting_started.html</a> and an introductory video below (use automated translation):
 
 
 <div style="display: flex; justify-content: center;">

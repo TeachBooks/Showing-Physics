@@ -85,9 +85,9 @@ A commonly found explanation is the following: The black-coloured side of the bl
 This, however, this is not the latest state of science: The currently accepted explanation was formulated by Osborne Reynolds in 1879 ({cite:t}`brush1969maxwell`). According to this explanation, an effect akin to thermal transpiration would be the cause of the movement: On average, gas molecules move from the hot side to the cold side. Due to the tangential force of the movement of the rarefied gas moving from the warmer to the colder side, you get a the pressure difference and the cold (reflective) side moves forward.
 
 ```{tip}
-* There is a [Dutch National Exam Question](https://newsroom.nvon.nl/files/default/na12v061vb.pdf) that can be used when doing this demonstration. Have students write down or explain exactly what the difference is between the two effects for rotation by light. Discuss whether you could still rotate Crookes radiometer in the other direction under certain conditions.
+* There is a <a href="https://newsroom.nvon.nl/files/default/na12v061vb.pdf" target="_blank">Dutch National Exam Question</a> that can be used when doing this demonstration. Have students write down or explain exactly what the difference is between the two effects for rotation by light. Discuss whether you could still rotate Crookes radiometer in the other direction under certain conditions.
 
-* The English-language explanation on [Wikipedia](https://en.wikipedia.org/wiki/Crookes_radiometer) (Crookes radiometer) shows the whole history of the different possible explanations.
+* The English-language explanation on <a href="https://en.wikipedia.org/wiki/Crookes_radiometer" target="_blank">Wikipedia</a> (Crookes radiometer) shows the whole history of the different possible explanations.
 ```
 
 ## References

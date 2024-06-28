@@ -47,7 +47,7 @@ Fill the cylinder completely with the liquid and add the lead weight (wash your 
 7. Discuss and write up with the class what you have learned about science and about how science works. Together forward categorize and consolidate the ansers: this is what they should remember from this lesson.
 
 
-Depending on the desired outcome, one or more aspects of NoS can be discussed, see https://www.nsta.org/nstas-official-positions/nature-science and the introduction on page [**Insert page**].
+Depending on the desired outcome, one or more aspects of NoS can be discussed, see <a href="https://www.nsta.org/nstas-official-positions/nature-science" target="_blank">https://www.nsta.org/nstas-official-positions/nature-science</a> and the introduction on page [**Insert page**].
 
 
 ## Physics background

@@ -47,7 +47,7 @@ name: demo62_fig1
 3. Verify the distance from the phone to the bottom of the pan using a tape measure.
 
 ## Procedure
-1. Provide some explanation about the operation of echo and sonar. Explain that this also works with invisible laser light, such as used in [speed limit enforcement](https://en.wikipedia.org/wiki/Lidar_traffic_enforcement).
+1. Provide some explanation about the operation of echo and sonar. Explain that this also works with invisible laser light, such as used in <a href="https://en.wikipedia.org/wiki/Lidar_traffic_enforcement" target="_blank">speed limit enforcement</a>.
 2. Explain the demonstration. Indicate that you will perform a distance measurement with a phone with and without water.
 3. Draw a diagram on the board, such as the drawing in {numref}`Figure {number}<demo62_fig2>`.
 4. Explain how the LiDAR sensor provides a distance measurement.

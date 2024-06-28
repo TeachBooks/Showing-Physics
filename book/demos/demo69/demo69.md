@@ -52,7 +52,7 @@ Position, velocity, and acceleration
 - Slope ~15 cm wide, 50 cm long
 - Computer and projection.
 
-Information about using the IOLab can be found here: https://www.iolab.science/getting_started.html and an introductory video below (use automated translation):
+Information about using the IOLab can be found here: <a href="https://www.iolab.science/getting_started.html" target="_blank">https://www.iolab.science/getting_started.html</a> and an introductory video below (use automated translation):
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
