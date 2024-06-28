@@ -53,7 +53,7 @@ parts:
       - file: demos/demo39/demo39 #inquiring rotational flame
       - file: demos/demo41/demo41 #emptying a bottle
       - file: demos/demo60/demo60
-      - file: demos/demo62/demo62 #LiDar
+      - file: demos/demo62/demo62.ipynb #LiDar
       - file: demos/demo65/demo65
       - file: demos/demo73/demo73 #determining g
       - file: demos/demo92/demo92 #rolling objects
