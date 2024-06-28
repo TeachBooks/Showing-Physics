@@ -77,7 +77,7 @@ Draw a conclusion together. It may well be that the conclusion is not: *there is
 *	It is not air, because a candle does not keep burning in it.
 *	This substance turns into water droplets when it rises higher.
  
-The substance concerned has a name: "[steam](https://en.wikipedia.org/wiki/Steam)". Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
+The substance concerned has a name: <a href="https://en.wikipedia.org/wiki/Steam" target="_blank">steam</a>. Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
 
 
 ## Physics background
