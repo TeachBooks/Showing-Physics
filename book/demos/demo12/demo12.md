@@ -54,7 +54,7 @@ Prepare the objects needed. A few powerpoint slides might help. Make sure the bo
 
 ## Procedure
 1. Linear inertia, elicit prerequisite knowledge: Put a glass of water on a dry sheet of A4, see {numref}`Figure {number}<demo12_fig1>`. Pull the paper with the glass of water slowly at a constant speed to the edge of the table, the glass just goes along. Then give a sudden jerk to the paper. The paper is off the table, the glass stays behind on the table. 
-```{admonition}Explanation
+```{admonition} Explanation
 At a constant speed the glass goes along nicely. When accelerated the glass (mass) resists acceleration, it stays behind, we call that inertia. The glass of water resists linear acceleration. In formula language we know $\Sigma F=ma$; in it $m$ the mass of glass plus water, is the inertia. With a given constant force, heavier objects experience a smaller acceleration than lighter ones. Heavier objects have more “resistance” against acceleration.
 ```
 2. Now take a ballpoint pen or pencil, put it upright on your hand and try to balance it on your hand (upright), see {numref}`Figure {number}<demo12_fig2>`. 
@@ -62,7 +62,7 @@ At a constant speed the glass goes along nicely. When accelerated the glass (mas
     * Take a ruler or meterstick, that is much easier. When it starts to fall, we can always correct in time before the stick really falls over. 
     * Take a longer stick or broomstick and the balancing becomes even easier. You can easily keep balancing a broomstick for an hour or more! You could almost keep a book in the other hand and read while balancing. 
 
-```{admonition}Explanation    
+```{admonition} Explanation    
 Analog to the translation movement, there is resistance to rotational acceleration. The longer the stick, the slower the stick begins its rotation. We call this resistance to an angular acceleration: rotational inertia. The demonstration shows that longer sticks have a greater rotation inertia.
 ```
 ```{figure} demo12_figure2.jpg
@@ -87,7 +87,7 @@ Which stick is easier to balance?
 5.	Application in daily life: in the toilet you can easily tear off a piece of toilet paper from a new roll with one hand with a jerk. With a roll that is almost finished, everything will come off if you try. Put both rolls on a stick and demonstrate!
 
 ```{tip}
-*Increase attention and entertainment: 
+Increase attention and entertainment: 
 * By pulling the glass in (1) close to the edge before the paper is pulled away. 
 * When balancing a long stick: *see how long I can keep this up, who knows you're still here at 6 pm*.
 ```
