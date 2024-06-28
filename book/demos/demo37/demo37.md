@@ -3,7 +3,7 @@
 width: 35%
 align: right
 ```
-# Boyle's Law
+# Boyle's Law 
 
 <span style="font-size: 25px; color: gray;">How do you verify a physical law?</span>
 
@@ -46,7 +46,7 @@ Set up the apparatus as shown in {numref}`Figure {number} <demo37_fig1>`. Connec
 Place the setup clearly on the lectern.
 ```
 
-```{figure} A05_NvV02_fig1_opstelling_site.jpg
+```{figure} demo37_figure1.jpg
 ---
 width: 50%
 align: center
@@ -62,7 +62,7 @@ The experimental setup, with a syringe and a pressure sensor.
 4.	Short discussion... Outcome: set different volumes and measure the pressure to see if it matches the formula.
 5.	Then measure. Compare measured results with theoretical results.
 
-```{figure} A05_NvV02_fig2_metingen_site.jpg
+```{figure} demo37_figure2.jpg
 ---
 width: 100%
 align: center
@@ -78,7 +78,7 @@ Plot the graph of $\frac{1}{p}$ against $V$ by creating a variable $\frac{1}{p}$
 9.	Save the measurements as a result file. Open and execute the corresponding graphical model and examine the result.
 10.	Import the graph of the measurements as a background graph. Have students indicate where the differences are and try to get explanations from them.
 
-```{figure} A05_NvV02_fig4_resultaat_voor_en_na_volumecorrectie_site.jpg
+```{figure} demo37_figure3.jpg
 ---
 width: 100%
 align: center
@@ -103,7 +103,7 @@ $$ (p + \frac{n^2a}{V^2})(V-n \cdot b) = n \cdot R \cdot T $$
 
 The pressure is corrected for attraction in it, and the volume of molecules is taken into account. These corrections become important at a higher density. The constant b is then roughly the volume of 1 mole, and the constant a depends on the attraction between molecules. These constants are determined empirically. For details, we refer to well-known textbooks such as {cite}`young2014`, chapter 17. Coach models for Boyle's Law and for the Van der Waals version are available on the site [**include link to the coach files**].
 
-```{figure} A05_NvV02_fig3_site.jpg
+```{figure} demo37_figure4.jpg
 ---
 width: 50%
 align: center
