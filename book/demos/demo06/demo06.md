@@ -54,7 +54,7 @@ width: 50%
 align: center
 name: demo06_fig2
 ---
-
+no caption
 ``` 
 
 ```{figure} demo06_figure3.png
