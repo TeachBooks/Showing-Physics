@@ -23,7 +23,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">charge, electrostatic induction,Coulomb force</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Charge, electrostatic induction,Coulomb force</td>
     </tr>
 </table><br>
 
@@ -33,8 +33,8 @@ The demonstration of the interaction of Van de Graaff generator with soap bubble
 
 ## Equipment
 * Van de Graaff generator
-* soap bubble gun
-* camera
+* Soap bubble gun
+* Camera
 
 ```{figure} demo10_figure1.jpg
 ---
@@ -88,7 +88,9 @@ Initially, the bubbles are attracted by the Van de Graaff generator through elec
 
 When the first bubble touches the generator sphere, it will receive the same type of charge as the generator and it will burst. The resulting droplets have the same charge and are thus repelled by the sphere and hit the bubbles that are still on their way to the generator. These bubbles get charged resulting in a repulsive force, consequently, the bubbles will start moving away from the generator. A new series of bubbles will initially be attracted again and so on.
 
-## References
+
+<!-- No current references, so the references section is commented out -->
+<!-- ## References
 ```{bibliography}
 :filter: docname in docnames
-```
+``` -->
