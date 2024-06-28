@@ -71,7 +71,8 @@ Then turn on a second lamp, creating multiple areas on the ceiling, each with a 
 
 
 ```{tip}
-There are lovely simulations availble on mixing with light, for instance this [one from PHET](https://phet.colorado.edu/en/simulations/color-vision/about).
+There are lovely simulations availble on mixing with light, for instance this <a href="https://phet.colorado.edu/en/simulations/color-vision/about" target="_blank">one from PHET</a>.
+
 <iframe src="https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html"
         width="800"
         height="600"

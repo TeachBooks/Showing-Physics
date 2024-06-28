@@ -93,7 +93,7 @@ In free fall, the gravitational downard pull on both is zero, and thus the diffe
 For further exploration: Will the tealight candle also be extinguished if you don't drop the jar but throw it (straight) up and catch it before it comes down? Does a flame tilt when going around a corner, and if so, in which direction (towards the inside or the outside of the curve)? How does a flame react to deceleration and acceleration?
 
 ```{tip}
-There are some marvelous movie clips on [candles burning in space](https://www.youtube.com/watch?v=9zdD7lfB0Fs).
+There are some marvelous movie clips on <a href="https://www.youtube.com/watch?v=9zdD7lfB0Fs" target="_blank">candles burning in space</a>.
 ```
 
 ## References

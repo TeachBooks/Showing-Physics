@@ -81,7 +81,7 @@ The setup of the experiment.
 The experiment demonstrates several physical phenomena, such as expansion of air upon heating, condensation of water vapor, and the behavior of bubbles formed by boiling water. The process of heating causes air expansion seen as large bubbles, which are then replaced by water vapor that condenses in the cooler environment of the beaker. This leads to a fascinating observation of the water boiling again after the heat source is removed due to the rapid condensation of water vapor and resultant pressure change.
 
 ```{tip}
-A complete description (Dutch) can be found [here](https://www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c).
+A complete description (Dutch) can be found <a href="https://www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c" target="_blank">here</a>.
 ```
 
 

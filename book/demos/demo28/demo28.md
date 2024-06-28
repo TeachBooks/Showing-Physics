@@ -52,7 +52,7 @@ name: demo28_figure4
 width: 50%
 align: center
 ---
-Gulfstream, figure obtained from https://www.flickr.com/photos/gridarendal/31551868273
+Gulfstream, figure obtained from <a href="https://www.flickr.com/photos/gridarendal/31551868273" target="_blank">https://www.flickr.com/photos/gridarendal/31551868273</a>
 ```
 
 ## Equipment
@@ -119,7 +119,7 @@ name: demo28_figure1
 
 
 ## Physics background
-Water expands when heated, except between 0 and 4 degrees (anomaly of water). So, cold water has a greater density than warm water and will sink while warm water will rise. The same applies to salty versus fresh water. These mechanisms play a role in ocean currents, alongside the influence of wind and the rotation of the earth. Ponce de Leon, a successor of Columbus, had already noticed the Gulf Stream. As head of the American postal service, [Benjamin Franklin became interested in the time differences between postal ships taking different routes](https://blog.scistarter.org/2022/04/ben-franklin-founding-father-citizen-scientist/), and through interviews with captains, he mapped out the Gulf Stream ({cite:t}`winchester2010qualitative`). Because of the large specific heat capacity of water and the huge amount, the effect of the Gulf Stream on the climate in Western Europe is significant.
+Water expands when heated, except between 0 and 4 degrees (anomaly of water). So, cold water has a greater density than warm water and will sink while warm water will rise. The same applies to salty versus fresh water. These mechanisms play a role in ocean currents, alongside the influence of wind and the rotation of the earth. Ponce de Leon, a successor of Columbus, had already noticed the Gulf Stream. As head of the American postal service, <a href="https://blog.scistarter.org/2022/04/ben-franklin-founding-father-citizen-scientist/" target="_blank">Benjamin Franklin became interested in the time differences between postal ships taking different routes</a>, and through interviews with captains, he mapped out the Gulf Stream ({cite:t}`winchester2010qualitative`). Because of the large specific heat capacity of water and the huge amount, the effect of the Gulf Stream on the climate in Western Europe is significant.
 
 ```{figure} demo28_figure5.jpg
 ---
@@ -131,7 +131,7 @@ The aquarium after cooling with blue ice and warming with red hot water.
 ```
 
 ## Follow up
-If you the warm water is at the top and you heat the cold water, you may see a thermal column: convection due to temperature difference. In the video below (play it twice the normal speed) you can see what happens. However, the water at the top is still warm, thus the thermal column stops there. That is also what happens when clouds reach the so-called [inversion](https://en.wikipedia.org/wiki/Inversion_(meteorology)).
+If you the warm water is at the top and you heat the cold water, you may see a thermal column: convection due to temperature difference. In the video below (play it twice the normal speed) you can see what happens. However, the water at the top is still warm, thus the thermal column stops there. That is also what happens when clouds reach the so-called <a href="https://en.wikipedia.org/wiki/Inversion_(meteorology)" target="_blank">inversion</a>.
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
