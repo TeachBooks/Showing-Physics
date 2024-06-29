@@ -59,21 +59,23 @@ The self-propelling car
 
 ## Preparation
 The cart should run with a small amount of friction, and it is important that this rolling resistance force with the underlying surface is constant. Our cart isn’t much more than a block of wood with three ball-bearings as wheels.
-•	Mount a pendulum on the cart, make sure the whole construction, including the pendulum plus weights, is stable.
-•	Mount about halfway the pendulum a cross bar to stop the string of the pendulum. It must be easily removable and adjustable in height.
-So this pendulum is alternatingly long during half a period and short during the other half period.
+* Mount a pendulum on the cart, make sure the whole construction, including the pendulum plus weights, is stable.
+* Secure a cross bar to the middle of the pendulum, to stop the string of the pendulum. It must be easily removable and adjustable in height.
+* Hang a mass on the pendulum.
+
+This pendulum is alternatingly long during half a period and short during the other half period.
 Now it’s a matter of trial-and error: due to resistance the cart should only move during the ‘short’ half-period, and not during the ‘long’ half-period. To achieve that you can vary and tune the following variables to maximum effect:
-•	the amplitude 
-•	the mass of the pendulum
-•	the height of the cross-bar
-•	the mass of the cart itself 
-•	de underlying surface
+* The amplitude 
+* The mass of the pendulum
+* The height of the cross-bar
+* The mass of the cart itself 
+* The underlying surface
 After all the cart should jerkily ride into one direction, after releasing the pendulum. 
 
 Our cart has a total mass of about one kilogram (including the pendulum), the mass of the pendulum is 0,10 kg, the pendulum has a length of 65 cm and the crossbar is about 45 cm underneath the point of suspension.
 
 ## Procedure
-First show the cart without cross-bar and ask for predictions what will happen after the pendulum has been released. Verify the predictions and discuss the outcome; this can be done considering conservation of momentum or Newtons third law.
+First, show the cart without cross-bar and ask for predictions what will happen after the pendulum has been released. Verify the predictions and discuss the outcome; this can be done considering conservation of momentum or Newtons third law.
 Then show that the cart doesn’t move when the amplitude is too small, and discuss the reason for this.
 The final question is whether there is a way to get the cart moving in one direction. After having discussed that, it is time for the experiment: mount the cross-bar and show it…
 Ask the audience to look closely at the motion of the cart: during which stage of the oscillation does it move?
@@ -105,9 +107,10 @@ This experiment could work with a sleigh (sliding resistance) as well, but not w
 
 ## Follow-up
 The phenomenon can be visualised by making graphs of the forces vs. time. You might sketch graphs of:
--	the force on the suspension point
--	the rolling resistance force
--	the resultant force
+-	The force on the suspension point
+-	The rolling resistance force
+-	The resultant force
+
 Draw the graphs straight above one another with the same time axis.<br>
 Instead of sketching the graphs you could also have them calculated and drawn by means of a mathematics modelling programme.
 
