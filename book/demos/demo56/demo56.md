@@ -86,9 +86,16 @@ Schematic of the wire spool.
 ```
 
 
+https://doi.org/10.1119/5.0042450
+
+
 ```{tip}
 This demonstration works even better if you wind a ribbon instead of a wire around the spool. You can also play a bit with the wire spool by gently pulling while the pull wire moves around the critical angle. The wire spool will then alternately move left and right on the table while the observer barely notices that the teacher slightly varies the pull angle.
+
+There are many articles on the physics of pulling a spool available (see, e.g., {cite:t}`mungan2023pulling`, {cite:t}`cross2023comment` and {cite:t}`schmidt2024experimental`).
 ```
+
+
 
 ## References
 ```{bibliography}
