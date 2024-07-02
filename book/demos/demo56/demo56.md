@@ -85,8 +85,18 @@ name: fig:schematic
 Schematic of the wire spool.
 ```
 
+According to {cite:t}`mungan2023pulling`, the accelaration of the center of mass is given by:
 
-https://doi.org/10.1119/5.0042450
+$$a_x = F\frac{cos(\theta)-cos(\theta_c)}{M+I/R_o^2}$$
+
+with:
+
+$$\theta_c=cos^{-1}(R_i/R_o)$$
+
+this holds that the spools: 
+* rolls rightwards ($a_x > 0$), for $0° \le < \theta < \theta_c,$
+* does not roll ($a_x = 0$) when $\theta = \theta_c$, and
+* rolls leftward ($a_x < 0$) for $\theta_c \le \theta < 90°$.
 
 
 ```{tip}
@@ -94,8 +104,6 @@ This demonstration works even better if you wind a ribbon instead of a wire arou
 
 There are many articles on the physics of pulling a spool available (see, e.g., {cite:t}`mungan2023pulling`, {cite:t}`cross2023comment` and {cite:t}`schmidt2024experimental`).
 ```
-
-
 
 ## References
 ```{bibliography}
