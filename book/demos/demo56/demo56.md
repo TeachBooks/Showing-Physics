@@ -48,6 +48,7 @@ None
 ---
 width: 50%
 align: center
+class: margin
 ---
 Large wire spool. Which way will it roll?   
 ```
@@ -70,7 +71,7 @@ D. I don't know
 7. Ask the students to discuss with their neighbor again. They explain their choice to each other (*Explain*). Collect the answers again.
 8. Perform the demonstration again (*Observe*).
 9. Did the predictions come true? Why or why not? (*Explain*)
-10. *To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? Can only a teacher perform such magic, or can students do it too?*
+10. *To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? What factors may be relevant?
 
 ## Physics Background
 The wire spool can move to the left or right depending on the pull direction ({numref}`Figure {number}<fig:schematic>`). Logically, it seems that if you pull to the right on a horizontal wire, the wire spool will move to the right as well. Doesn't an object always move in the direction of the force?
@@ -86,7 +87,7 @@ name: fig:schematic
 Schematic of the wire spool. The critical angle can be found when the line of the pulling force coincides with point P where the spool makes contact with the table.
 ```
 
-According to {cite:t}`mungan2023pulling`, the acceleration of the center of mass is given by:
+Moreover, according to {cite:t}`mungan2023pulling`, the acceleration of the center of mass is given by:
 
 $$a_x = F\frac{cos(\theta)-cos(\theta_c)}{M+I/R_o^2}$$
 

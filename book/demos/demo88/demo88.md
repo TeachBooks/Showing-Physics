@@ -44,7 +44,7 @@ Vacuum bell jar, pump, match, and beaker with hot water
 - Towel (to remove condensation from the bell jar after the demonstration)
 
 ## Preparation
-Set the bell jar and vacuum pump on a table clearly visible to all studens. Heat some water in a beaker or use hot tap water, ensuring it's not too hot (between 50 and 70°C).
+Set the bell jar and vacuum pump on a table clearly visible to all students. Heat some water in a beaker or use hot tap water, ensuring it's not too hot (between 50°C and 70°C).
 
 ## Execution
 1. Place a beaker of hot water under the bell jar. Strike a match and when it goes out, ensure that the smoke ends up under the bell jar by placing the jar over the match.

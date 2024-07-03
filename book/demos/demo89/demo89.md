@@ -72,7 +72,7 @@ align: center
 Spectra of the monochromatic RGB LEDs determined with a spectrometer.
 ```
 
-1. Place the LED lamp at an appropriate distance from the spectrometer so that the spectrometer is not overexposed. Take a spectrum of the lamps. Identify the peaks of the wavelength and discuss with the students whether they thhink the lights are monochromatic or not. Optionally, compare the spectrum of the individual LEDs with a spectrum of a 'white-light'LED. Are the spectra comparable? 
+1. Place the LED lamp at an appropriate distance from the spectrometer so that the spectrometer is not overexposed. Take a spectrum of the lamps. Identify the peaks of the wavelength and discuss with the students whether they think the lights are monochromatic or not. Optionally, compare the spectrum of the individual LEDs with a spectrum of a 'white-light'LED. Are the spectra comparable? 
 2. Let the beams overlap and discuss the mixed colors of light. It is also fun to create a shadow with different colors, see {numref}`Figure {number}<demo89_fig3>`. Let students reason in what order you laid the LED lamps.  
 
 ```{figure} demo89_figure3.jpg
