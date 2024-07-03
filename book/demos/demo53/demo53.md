@@ -1,4 +1,4 @@
-```{figure} ../../figures/checked.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -27,7 +27,7 @@ align: right
 </table><br>
 
 ## Introduction
-This demonstration shows how a fiber optic works. Additionally, it creates a beautiful light show. You might end up with a small water mess, but the demo is worth it.
+This demonstration shows a beautiful light show. And on physics... it relates to how fiber optics work. This demonstration may serve as an interesting introduction or as a test of students'understanding of the phenomenon.
 
 
 ```{figure} demo53_figure1.jpg
@@ -43,6 +43,10 @@ The laser beam follows the water jet into the (white) sink. The inset in the top
 - Laser
 - Catch basin or sink
 
+```{warning}
+Since you are working with a laser, it is important to ensure that the laser beam cannot enter anyone's eyes. Pay extra attention to reflective surfaces, such as a tap near the sink.
+```
+
 ## Preparation
 The setup must be well aligned. It is easiest to do this with a plug in the opening of the filled water tank. You can then aim the laser precisely at the plug. The demonstration works best in a darkened room, but it is not necessary.
 
@@ -51,29 +55,25 @@ The setup must be well aligned. It is easiest to do this with a plug in the open
 width: 50%
 align: center
 ---
-The setup. We use a water cooler tank as a water reservoir. The hole in the tank has a diameter of about 8 mm; slightly smaller could also work. You can adjust the lab lifts' heights to set how far the water jet reaches into the sink.
+The setup where we used a water cooler tank as water reservoir. The hole in the tank has a diameter of about 8 mm; slightly smaller could also work. You can adjust the lab lifts' heights to set how far the water jet reaches into the sink.
 ```
 
-
 ## Procedure
-The demo can be used for various purposes when covering total internal reflection and fiber optics. It can serve as an introduction and a hook for explanation, or you can use it at the end of the lesson(s) to test understanding of the phenomenon.
+For visibility, gather all students around the setup. Darken the room and immediately show the demo. Put the plug in the water tank and start the conversation with the students. 
 
-Due to visibility, it is necessary to gather the students around the setup. You can then darken the room and immediately show the demo. Afterwards, replace the plug and ask the students for an explanation. This provides a great opportunity to explain total internal reflection. As a comprehension test, you can ask what happens if less water flows out of the tank and the water falls more steeply. Most students will give the correct answer, and it is important to ask for an explanation. You might choose to have all students write down that explanation. You will get answers like "the light cannot follow the water," which provides a clean task for the teacher to dig deeper for a more scientific explanation. If you then remove the plug again and wait quietly until the initial speed of the water decreases (while enjoying the spectacle), most students will be amazed at how long the light remains trapped in the water. Only at the very last moment does the light beam no longer follow the water. In advanced classes, you can calculate the critical angle as a conclusion.
+As an introduction, this demo is well suited to explain internal reflection. Do we see a kink of the light beam somewhere? What happens? If you have a small aquarium, you can expand this demonstration by showing how light reflects at different angles. 
+
+If you want to test students' understanding, you can ask what happens if less water flows out of the tank and the water falls more steeply. Most students will give the correct answer, still it is important to ask for an explanation. You might choose to have all students write down that explanation. You will get answers like "the light cannot follow the water," which provides the teacher's task to dig deeper what students really mean and ask for a more scientific explanation. If you then remove the plug again and just wait, most students will be amazed at how long the light remains trapped in the water. Only at the very last moment, the light beam does no longer 'follow' the water. In advanced classes, you can calculate the critical angle.
 
 ## Physics Background
-At the beginning of the demo, the angle of incidence is greater than the critical angle, causing total internal reflection. As the initial speed decreases, the angle of incidence at the first water-air transition eventually becomes smaller than the critical angle, causing refraction. In fact, this transition is somewhat gradual: if the angle of incidence is slightly less than the critical angle, only a small part will refract, while a large part of the light still reflects.
+At the beginning of the demo, the angle of incidence is larger than the critical angle, causing *total internal reflection*. As the initial speed decreases, the angle of incidence at the first water-air transition eventually becomes smaller than the critical angle, causing *refraction*. In fact, this transition is somewhat gradual: if the angle of incidence is slightly less than the critical angle, only a small part will refract, while a large part of the light still reflects.
 
 ```{tip}
 - A brief detour can be to close the top of the bottle (e.g., with your hand). Due to air pressure, the jet will quickly decrease, which surprises the students as well. Additionally, it offers an easy way to regulate the amount of water flowing from the tank.
-- In advanced high school classes, a connection with horizontal projectile motion is also possible. With some simple distance measurements, you can determine the initial speed of the water.
+- In advanced classes, a connection with horizontal projectile motion is also possible. With some simple distance measurements, you can determine the initial speed of the water.
 ```
 
-## Follow-up
-You could record the demo on video and determine the critical angle from the video (never done this myself).
 
-```{warning}
-Since you are working with a laser, it is important to ensure that the laser beam cannot enter anyone's eyes. Pay extra attention to reflective surfaces, such as a tap near the sink.
-```
 
 ## References
 ```{bibliography}

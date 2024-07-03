@@ -95,7 +95,7 @@ The energy released on the paper is:
 
 $$ ΔQ = ρ_{paper} \cdot A_{paper} \cdot c_{paper} \cdot ΔT $$
 
-$$= 80 \cdot π \cdot 0.0525^2 \cdot 1.4 \cdot 1.0 = 0.97 \; \text{J} $$
+$$ ΔQ = 80 \cdot π \cdot 0.0525^2 \cdot 1.4 \cdot 1.0 = 0.97 \; \text{J} $$
 
 The mass of water condensed on the paper:
 

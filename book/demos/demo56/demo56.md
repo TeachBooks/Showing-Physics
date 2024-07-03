@@ -1,4 +1,4 @@
-```{figure} ../../figures/checked.png
+```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
@@ -55,11 +55,11 @@ Large wire spool. Which way will it roll?
 
 ## Procedure
 1. If the wire spool is on a rod, it simply rotates when you pull the wire. But now place the spool on the ground. Which way does it move when you pull the wire?
-2. Hold one end of the wire in your fingers; keep the wire horizontal. <br>*Which way does the spool move* (*Predict*) *when you gently pull the wire?*
-A. To the left
-B. To the right
-C. Does not move
-D. I don't know
+2. Hold one end of the wire in your fingers; keep the wire horizontal. <br>*Which way does the spool move* (*Predict*) *when you gently pull the wire?*<br>
+    A. To the left
+    B. To the right
+    C. Does not move
+    D. I don't know
 3. Ask the students to discuss with their neighbor. They explain their choice to each other and why they chose their answer (*Explain*). Do they agree? Collect the answers.
 4. Perform the demonstration (*Observe*).
 5. Did the predictions come true? Why or why not? (*Explain*)
