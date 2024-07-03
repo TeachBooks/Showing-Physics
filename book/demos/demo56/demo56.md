@@ -26,22 +26,14 @@ align: right
 </table><br>
 
 ## Introduction
-Magic or not? Wire is wound on a spool, cables on a reel. When you pull the cable, you can use the piece you need, but what happens to the reel if it is on the ground or table? Which way does a wire spool move?
+Wires are wound on a spool, cables on a reel. If you need a small piece of cable, you pull the cable. But what happens to the reel if it is on the ground or table? Which way does a wire spool move?
 
 ```{figure} demo56_figure1.JPG
 ---
 width: 50%
 align: center
 ---
-Cables.
-```
-
-```{figure} demo56_figure2.jpg
----
-width: 50%
-align: center
----
-Large wire spool.
+Cables on a reel.
 ```
 
 ## Equipment
@@ -52,21 +44,29 @@ Large wire spool.
 ## Preparation
 None
 
+```{figure} demo56_figure2.jpg
+---
+width: 50%
+align: center
+---
+Large wire spool. Which way will it roll?   
+```
+
 ## Procedure
-1. If the wire spool is on a rod, it simply rotates when you pull the wire. But now place the spool on the ground. Which way does it move when you unwind the wire?
+1. If the wire spool is on a rod, it simply rotates when you pull the wire. But now place the spool on the ground. Which way does it move when you pull the wire?
 2. Hold one end of the wire in your fingers; keep the wire horizontal. <br>*Which way does the spool move* (*Predict*) *when you gently pull the wire?*
-    A. To the left
-    B. To the right
-    C. Does not move
-    D. I don't know
+A. To the left
+B. To the right
+C. Does not move
+D. I don't know
 3. Ask the students to discuss with their neighbor. They explain their choice to each other and why they chose their answer (*Explain*). Do they agree? Collect the answers.
 4. Perform the demonstration (*Observe*).
 5. Did the predictions come true? Why or why not? (*Explain*)
 6. Hold one end of the wire in your fingers and ensure the wire is now vertical. <br>*Which way does the spool move* (*Predict*) *when you pull the wire?*
-    A. To the left
-    B. To the right
-    C. Does not move
-    D. I don't know
+A. To the left
+B. To the right
+C. Does not move
+D. I don't know
 7. Ask the students to discuss with their neighbor again. They explain their choice to each other (*Explain*). Collect the answers again.
 8. Perform the demonstration again (*Observe*).
 9. Did the predictions come true? Why or why not? (*Explain*)
