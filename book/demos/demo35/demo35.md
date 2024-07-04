@@ -87,7 +87,7 @@ For the flame to burn, a continuous supply of oxygen is required. If this supply
 
 The net upward force on the hot air is the difference between the downward gravitational pull on it and the upward force caused by surrounding cold air. This upward force is equal to the gravitational pull on an equal volume of surrounding cold air. In short, hot air floats on cold air due to the difference in gravitational pull (per unit volume) between hot and cold air.
 
-In free fall, the gravitational downard pull on both is zero, and thus the difference in gravitional pull is also zero. Convection of hot air stops, so does the supply of oxygen.
+In free fall, the gravitational downward pull on both is zero, and thus the difference in gravitational pull is also zero. Convection of hot air stops, so does the supply of oxygen.
 
 ## Follow-up
 For further exploration: Will the tealight candle also be extinguished if you don't drop the jar but throw it (straight) up and catch it before it comes down? Does a flame tilt when going around a corner, and if so, in which direction (towards the inside or the outside of the curve)? How does a flame react to deceleration and acceleration?

@@ -25,22 +25,20 @@ align: right
     </tr>
 </table><br>
 
-
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/MCbYxQu5ZrA?si=5OgDoOz5mU4CDqUL"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Introduction
 Expanding shaving cream or balloons, boiling water without heat supply, and more possibilities with the vacuum bell jar.
-
-
-
-```{figure} demo54_figure3.jpg
----
-width: 50%
-align: center
-name: demo54_fig3
----
-Inflating a balloon and a sponge under the bell jar.
-```
-
 
 ## Equipment  
 - Bell jar with vacuum pump
@@ -51,6 +49,15 @@ Inflating a balloon and a sponge under the bell jar.
 - Beaker with room temperature water
 - Thermometer (non-mercury)
 - Safety goggles
+
+```{figure} demo54_figure3.jpg
+---
+width: 50%
+align: center
+name: demo54_fig3
+---
+Inflating a balloon and a sponge under the bell jar.
+```
 
 ## Preparation 
 Set up all materials. Pre-inflate the balloon a little and tie it off.
