@@ -28,7 +28,7 @@ align: right
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
-            src="https://www.youtube.com/embed/jmkfJLrHSOE?si=SS2Ue0taTSUeXmge"
+            src="https://www.youtube.com/embed/TO12nMJIjoE?si=nKuzAPe8lSzo8Cst"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -62,7 +62,7 @@ Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie i
 ## Procedure
 1. Rotate the balloon several times so that the cord winds around itself.
 2. Release the balloon. The cord will now unwind, and the balloon will start rotating at a considerable angular velocity.
-3. Due to the rotation, the liquid in the balloon will assume a significantly different position inside the balloon. At a considerabe angular velocity, a situation can arise where a ring of liquid forms along the wall of the balloon at a certain height.
+3. Due to the rotation, the liquid in the balloon will assume a significantly different position inside the balloon. At a considerable angular velocity, a situation can arise where a ring of liquid forms along the wall of the balloon at a certain height.
 4. *What is the explanation for the phenomenon?* The expectation is that many students will come up with an incorrect explanation, but that is not initially a problem. Present the physically correct explanation yourself and have the students compare it with their own (possibly) incorrect or incomplete explanation. If the student accepts that their own explanation is inadequate and accepts the correct explanation, 'conceptual change' can occur.
 5. You can check whether students understood the content by *providing students a schematic diagram or photo of the situation where the balloon is rotating and ask them to determine the rotation speed of the balloon from the photo or diagram.*
 

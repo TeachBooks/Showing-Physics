@@ -35,6 +35,10 @@ This demonstration allows you to bridge the gap between biology and physics. The
 * Tripod material
 * At least 5 metres of space to the screen and darkened room
 
+```{warning}
+Apply the safety measures required when using a laser.
+```
+
 ```{figure} demo93_figure1.jpg
 ---
 width: 100%
@@ -49,11 +53,7 @@ Look for a ballpoint pen spring with a fairly small pitch. The spring in this ex
 The beam widener used here consists of two positive lenses **(SCHEMATISCHE WEERGAVE NODIG?)**, slightly further apart than the sum of their focal points. Assembly is easiest without a spring. You then ensure a sharp image of the laser on the screen by adjusting the distance between the two lenses. You slide the spring into the beam and try to sharpen the image. The beam should be widened to reveal at least five windings.
 
 ```{tip}
-Prepare this demonstration well, including in terms of didactics and scope. It takes some effort, but it is well worth it.
-```
-
-```{warning}
-Apply the safety measures required when using a laser.
+This demonstration needs to be prepared properly. Pay attention to didactics and scope. It takes some effort, but it is well worth it.
 ```
 
 ## Procedure

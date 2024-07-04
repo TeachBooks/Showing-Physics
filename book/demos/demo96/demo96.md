@@ -87,7 +87,7 @@ After letting go, it will take a while for this distance to decrease.
 But after letting go, 1 experiences two forces downwards: its own gravity and a force of 2. So 1 will undergo a greater acceleration than $g$.
 
 ```{tip}
-Make sets of about four coloured cards. For example, a green card with the letter A, an orange card with the letter B, a red card with the letter C and a white card with the letter D. If every pupil has such a set, you can visualise what a pupil chooses as an answer after the result of the discussion.
+Make sets of about four colored cards. For example, a green card with the letter A, an orange card with the letter B, a red card with the letter C and a white card with the letter D. If every pupil has such a set, you can visualize what a pupil chooses as an answer after the result of the discussion.
 You can take another photo of the class when everyone has raised their cards.
 ``` 
 
@@ -95,8 +95,3 @@ You can take another photo of the class when everyone has raised their cards.
 There are several opportunities for follow-ups, for instance using an acceleration meter at various points attached to the slinky. Or have you noticed how the distance between each winding changes with height? See, for instance <a href="https://doi.org/10.1119/1.2343983" target="_blank">The suspended Slinky—A problem in static equilibrium</a> for an explanation.
 
 There is also a great YT-clip on [rotational motion using a Slinky](https://www.youtube.com/watch?v=AL2Chc6p_Kk&t=461s).
-
-## References
-```{bibliography}
-:filter: docname in docnames
-```
