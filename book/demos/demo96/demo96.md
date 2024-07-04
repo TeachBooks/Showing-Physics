@@ -94,6 +94,8 @@ You can take another photo of the class when everyone has raised their cards.
 ## Follow-up
 There are several opportunities for follow-ups, for instance using an acceleration meter at various points attached to the slinky. Or have you noticed how the distance between each winding changes with height? See, for instance <a href="https://doi.org/10.1119/1.2343983" target="_blank">The suspended Slinky—A problem in static equilibrium</a> for an explanation.
 
+There is also a great YT-clip on [rotational motion using a Slinky](https://www.youtube.com/watch?v=AL2Chc6p_Kk&t=461s).
+
 ## References
 ```{bibliography}
 :filter: docname in docnames
