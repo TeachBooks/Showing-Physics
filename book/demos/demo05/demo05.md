@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # No Force Needed
 <span style="font-size: 25px; color: gray;">Sustain Constant Speed with Newton’s First Law</span>
 
@@ -57,7 +51,7 @@ The cord, with a knot in it, is revolving uniformly (at constant speed). If you 
 2. *What changes if we select a greater constant speed?* 
 Answering these questions is the aim of the demonstration.
 
-A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here. An example is presented in this [worksheet](demo05worksheet.doc). Students provide an answer to the two questions above, that is, they write down their prediction. Then the experiment is carried out. A (slightly) larger speed is realised by increasing the voltage across the electric motor. A conclusion is formulated on the basis of the observations. The worksheet question direct students to apply the gained knowledge in similar contexts, the goal is to explore whether Netwon's first law is generally applicable. 
+A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here. An example is presented in this [worksheet](demo05worksheet.doc). Students provide an answer to the two questions above, that is, they write down their prediction. Then the experiment is carried out. A (slightly) larger speed is realized by increasing the voltage across the electric motor. A conclusion is formulated on the basis of the observations. The worksheet question direct students to apply the gained knowledge in similar contexts, the goal is to explore whether Newton's first law is generally applicable. 
 
 ```{figure} demo05_figure2.jpg
 ---
@@ -68,7 +62,7 @@ The actual setup
 ```
 
 ## Physics background
-If an object moves at constant speed, the propelling and counteracting forces are equal, irrespective of the speed of the object. Furthermore, maintaining a larger speed does not require a larger propelling force, if friction is negligible. To maintain the speed, it is enough for propelling force and counteracting force to be equal in size. The ultimate example is a space ship, where the rocket engine can be switched off once the target speed has been reached. *It is sometimes claimed that Newton’s First Law can be verified only in these idealised, frictionless circumstances. But here we see that also in ordinary situations, the net force is zero if the velocity is constant.*
+If an object moves at constant speed, the propelling and counteracting forces are equal, irrespective of the speed of the object. Furthermore, maintaining a larger speed does not require a larger propelling force, if friction is negligible. To maintain the speed, it is enough for propelling force and counteracting force to be equal in size. The ultimate example is a space ship, where the rocket engine can be switched off once the target speed has been reached. *It is sometimes claimed that Newton’s First Law can be verified only in these idealized, frictionless circumstances. But here we see that also in ordinary situations, the net force is zero if the velocity is constant.*
 
 ```{tip}
 :class: dropdown

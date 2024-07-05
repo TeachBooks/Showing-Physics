@@ -1,9 +1,10 @@
-
 ```{figure} ../../figures/confirmed.png
 ---
 width: 35%
 align: right
 ```
+
+video 
 
 # Magic Memory Balls
 <span style="font-size: 25px; color: gray;">Density of Solids and Floating and Sinking</span>

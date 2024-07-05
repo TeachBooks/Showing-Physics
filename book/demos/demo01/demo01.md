@@ -1,10 +1,4 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
-# Introducing a Particle Model to Explain the Colouring of Eggs 
+# Introducing a Particle Model to Explain the Coloring of Eggs 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 
@@ -36,7 +30,7 @@ In this activity the shell of a raw egg is removed without boiling it. Next, stu
 * A sharp (kitchen) knife
 * Syringe without needle 
 * Salt
-* Various food colourings (try an Asian food shop)
+* Various food colorings (try an Asian food shop)
 * A choice of other ‘test substances’ from the kitchen: 
     * Tea
     * Milk
@@ -48,7 +42,7 @@ In this activity the shell of a raw egg is removed without boiling it. Next, stu
 Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organic vinegar for about 3-4 days, to remove the shells. Replace the vinegar halfway if no more bubbles are formed, in case some of the shell of the eggs remain attached. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
 
 ## Procedure
-### 1. Oriëntation (30 min)
+### 1. Orientation (30 min)
 This first step takes about 15 min.<br>
 Place the egg that still has its shell in a jam jar and submerge it in vinegar. Let the students observe and describe what is happening. If you like, present the students with the reaction equation. Then show the remaining 9 eggs. 
 Notably, the eggs have lost their shells leaving them almost transparent. Furthermore, the egg has become larger when its shell was removed. (Compare the egg that has just been placed in vinegar with the rest, and show the photo of the original 10 eggs.) How is that possible?
@@ -74,7 +68,7 @@ Conclusion: vinegar enters the egg through its outer ‘skin’ or membrane, but
 
 ***Research plan***
 
-Together, decide which other substances you want to test (include some food colouring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly (to avoid breakage) and cook the egg (it may take a long time to solidify), then open it and investigate the contents.
+Together, decide which other substances you want to test (include some food coloring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly (to avoid breakage) and cook the egg (it may take a long time to solidify), then open it and investigate the contents.
 
 ```{figure} demo01_figure2.JPG
 ---
@@ -89,7 +83,7 @@ The second session continues after the plan has been carried out, and the eggs w
 - the egg contains a second membrane that surrounds the yolk;
 - egg white and yolk do not penetrate the membrane that surround them;
 - salt and vinegar penetrate both membranes;
-- food colouring liquids penetrate the outer, but not the inner membrane.
+- food coloring liquids penetrate the outer, but not the inner membrane.
 
 Produce a systematic overview of the observations, for example in an observations table like Table 1. The research question has been modified into: ***Which substances can penetrate the outer membrane, and which of these can also pass through the inner membrane?***
 
@@ -99,8 +93,8 @@ Produce a systematic overview of the observations, for example in an observation
 |     Yolk                    |     ?                                         |     No                                        |                 |
 |     Salt                    |     Yes                                       |     Yes                                       |                 |
 |     Vinegar                 |     Yes                                       |     Yes                                       |                 |
-|     Green food colouring    |     Yes                                       |     No                                        |                 |
-|     Red food colouring      |     Yes                                       |     No                                        |                 |
+|     Green food coloring    |     Yes                                       |     No                                        |                 |
+|     Red food coloring      |     Yes                                       |     No                                        |                 |
 
 
 ### 3. Interpretations and conclusions, answering the research question (30 min)
@@ -114,7 +108,7 @@ align: center
 Food coloring penetrates the outer but not the inner membrane.
 ```
 
-Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a criss cross motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are <a href="https://phet.colorado.edu/en/simulations/membrane-channels" target="_blank">nice simulations to visualize the particles' behaviour</a> (embedded below).
+Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a zigzag motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are <a href="https://phet.colorado.edu/en/simulations/membrane-channels" target="_blank">nice simulations to visualize the particles' behavior</a> (embedded below).
 
 
 <iframe src="https://phet.colorado.edu/sims/cheerpj/membrane-channels/latest/membrane-channels.html?simulation=membrane-channels"

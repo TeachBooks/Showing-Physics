@@ -109,9 +109,3 @@ See a university level mechanics text for the restrictions to equations **(1)** 
 
 ## Follow-up
 Put the table higher on one end and then let different objects roll off the slanting surface. For example, cola cans shaken or not, empty tin, tin filled with sand, and so on. Which comes first, which last? Relating to rotation support. More mass at the edge; than greater moment of inertia, so slower. With liquids a can can rotate without the liquid rotating, but with first shaking and therefore turbulence in the can that process is disturbed.
-
-<!-- As there are no citations, the references section is commented out. In case of addition of citations, the next section should be included. -->
-<!-- ## References
-```{bibliography}
-:filter: docname in docnames
-``` -->

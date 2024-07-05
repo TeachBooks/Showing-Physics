@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Falling faster than g
 <span style="font-size: 25px; color: gray;">free fall with rotation</span>
 
@@ -43,11 +37,10 @@ This description was inspired by {cite:t}`ehrlich1990`.
 ## Introduction
 Everything that falls freely should experience an acceleration $g$? Or not? Are there exceptions? 
 
-
 ## Equipment
 * Meter stick or equivalent
 * About 30 coins, dices or hex nuts 
-* If possible a high-speed camera. Most phones can do 120 or 240 frames per second. Cheap action cameras can do 120 frames/second as well
+* If possible a high-speed camera. Most phones can do 120 or 240 frames per second. Cheap action cameras can do 120 frames/second as well.
 
 ## Preparation
 Think how the visibility of observations can be maximized. For example, put a chair on top of a table and use that as one of the endpoints of the meter stick. Distribute the coins more or less equally across the length of the stick. 
@@ -65,7 +58,7 @@ Are some of the dices falling faster than $g$?
 You can start this demo with some simple illustrations:
 * *Can I accelerate my hand faster than $g$? How can we investigate that?*  (Coin or stone on the hand, then pull down the hand as quick as you can). 
 * *What is free fall? Can objects in free fall be accelerated faster than g?* 
-You then turn to the actucal demo.
+You then turn to the actual demo.
 * Hold the meter stick on an end while the other side rests on the chair on top of the table ({numref}`Figure {number} <demo11_fig1>`). 
 * Ask the question: *Suppose I let the end of the stick go, what is then the acceleration of the end? What is the acceleration of other points of the meter stick?* (All points of the meter stick have the same angular acceleration, but must have a different linear acceleration as they cover different vertical distances in the same time.) 
 * *How can we investigate this with our set-up?* 

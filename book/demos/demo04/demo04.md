@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Making a slanting tower stacking blocks
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -103,6 +97,6 @@ width: 50%
 align: center
 name: demo04_fig4
 ---
-The market hall in Rotterdam is stacked accourding to the principle above. Figure obtained from: <a href="https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg" target="_blank">https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg</a>
+The market hall in Rotterdam is stacked according to the principle above. Figure obtained from: <a href="https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg" target="_blank">https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg</a>
 ```
 

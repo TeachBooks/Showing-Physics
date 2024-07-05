@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Magic with pendulums 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

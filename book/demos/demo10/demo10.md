@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Does van de Graaff not like a shower? 
 <span style="font-size: 25px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
 
@@ -26,7 +20,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Charge, electrostatic induction,Coulomb force</td>
     </tr>
 </table><br>
-
 
 ## Introduction
 The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below, our focus is on the development of reasoning skills. 
@@ -87,10 +80,3 @@ There are more ways to work on research skills using this demonstration:
 Initially, the bubbles are attracted by the Van de Graaff generator through electrostatic induction: the dipolar water molecules align with the electric field of the generator. Because the field is inhomogeneous, there is an attracting force towards the charged sphere of the generator. The bubbles have no net charge yet! 
 
 When the first bubble touches the generator sphere, it will receive the same type of charge as the generator and it will burst. The resulting droplets have the same charge and are thus repelled by the sphere and hit the bubbles that are still on their way to the generator. These bubbles get charged resulting in a repulsive force, consequently, the bubbles will start moving away from the generator. A new series of bubbles will initially be attracted again and so on.
-
-
-<!-- No current references, so the references section is commented out -->
-<!-- ## References
-```{bibliography}
-:filter: docname in docnames
-``` -->

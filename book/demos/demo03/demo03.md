@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Light in darkness
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -44,13 +38,13 @@ What is light? Why is it dark at night while there are so many stars? Why do we 
 
 ## Equipment
 * Laser
-* Vacuumpump & bell
+* Vacuum pump & bell jar
 * Darkened room
 * Lightning matches
 * Candle
 
 ## Preparation
-Light the candle and put it under the vacuumbell so that smoke is trapped beneath it. Make sure there is enough smoke! The smoke will make the laserbeam visible, see {numref}`Figure {number}<demo3_fig1>`. Darken the classroom but leave the lights on.
+Light the candle and put it under the vacuum bell jar so that smoke is trapped beneath it. Make sure there is enough smoke! The smoke will make the laser beam visible, see {numref}`Figure {number}<demo3_fig1>`. Darken the classroom but leave the lights on.
 
 ```{figure} demo03_figure1.jpg
 ---
@@ -58,34 +52,34 @@ width: 50%
 align: center
 name: demo3_fig1
 ---
-The setup consisting of a laser, a vacuumbell and a small candle for smoke.
+The setup consisting of a laser, a vacuum bell jar and a small candle for smoke.
 ```
 
 
 ## Procedure
-Start the demo with asking the broad question *why it is dark at night even with so many stars? If there are countless stars, would the sky not be bright at night as well?* Explain that the vacuumbell can be used as a model for the universe: there are hardly any particles in space. Moreover, we can regard the laser as a star.
+Start the demo with asking the broad question *why it is dark at night even with so many stars? If there are countless stars, would the sky not be bright at night as well?* Explain that the vacuum bell jar can be used as a model for the universe: there are hardly any particles in space. Moreover, we can regard the laser as a star.
  
-Turn the laser on and ask students what they observe. *Is the laserbeam visible? Everywhere? Outside and inside the bell?* Now, turn the lights off. *What can we see now? Is the laserbeam visible in and outside the bell? Is there any difference in light intensity? If so, what is a possible reason (hypothesis)? How can we test this hypothesis?*
+Turn the laser on and ask students what they observe. *Is the laser beam visible? Everywhere? Outside and inside the bell?* Now, turn the lights off. *What can we see now? Is the laser beam visible in and outside the bell? Is there any difference in light intensity? If so, what is a possible reason (hypothesis)? How can we test this hypothesis?*
 
 ```{figure} demo03_figure2.jpg
 ---
 width: 50%
 align: center
 ---
-The laserbeam is well visible, but the entire bell is illuminated as well!
+The laser beam is well visible, but the entire bell is illuminated as well!
 ```
-Ask students to write down their observation when you turn on the vacuumpump. If the bell has been sufficiently vacuumed, you can turn off the pump and ask whether the laser beam is still visible in the jar. *Is there still light anyway? Why do we see things, and how do we relate this demo, and what happens, with being dark at night?*
+Ask students to write down their observation when you turn on the vacuum pump. If the bell has been sufficiently vacuumed, you can turn off the pump and ask whether the laser beam is still visible in the jar. *Is there still light anyway? Why do we see things, and how do we relate this demo, and what happens, with being dark at night?*
 
 ```{figure} demo03_figure3.jpg
 ---
 width: 50%
 align: center
 ---
-When the bell got more and more vacuum, the lightintensity of the laserbeam is less until it is not visible at all anymore.
+When the bell got more and more vacuum, the light intensity of the laser beam is less until it is not visible at all anymore.
 ```
 
 ## Physics background
-To see objects, there needs to be a light-matter interaction. Because the universe is almost entirely empty (vacuum), there are hardly any interactions. The light that we see at night is directly coming from the stars. Many lightbeams 'miss' the earth and will never be observed. There are some exemptions of the light-matter interactions: The moon does not produce light itself but reflects the light coming from the sun. 
+To see objects, there needs to be a light-matter interaction. Because the universe is almost entirely empty (vacuum), there are hardly any interactions. The light that we see at night is directly coming from the stars. Many light sbeams 'miss' the earth and will never be observed. There are some exemptions of the light-matter interactions: The moon does not produce light itself but reflects the light coming from the sun. 
 
 ## Follow-up
 One can discuss the many fights in science fiction movies such as Star Wars. Fazers are being shot, resulting in a visible laser beam. What would you see on earth? And in space?

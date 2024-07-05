@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Making a perfect cappuccino
 <span style="font-size: 25px; color: gray;">Specific heat versus heat of vaporization</span>
 
@@ -29,7 +23,7 @@ align: right
 This demonstration has been published by the authors in {cite:t}`hidden2012`.
 
 ## Introduction
-A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to a cup of espresso. Whole milk is best for foaming and the ideal milk temperature when adding it to the espresso is 65°C. The espresso itself may be warmer than that. Morover, during the heating, the milk should not burn as that would spoil the taste. The best way is to heat the milk slowly while stirring the milk to froth and create foam. However, in restaurants they do not have time for slow heating. Could we heat the milk by just adding hot water?
+A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to a cup of espresso. Whole milk is best for foaming and the ideal milk temperature when adding it to the espresso is 65°C. The espresso itself may be warmer than that. Moreover, during the heating, the milk should not burn as that would spoil the taste. The best way is to heat the milk slowly while stirring the milk to froth and create foam. However, in restaurants they do not have time for slow heating. Could we heat the milk by just adding hot water?
 
 ```{figure} demo02_figure2.JPG
 ---
@@ -39,7 +33,7 @@ align: center
 The context of this demonstration: A cappuccino
 ```
 
-This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practise their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
+This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
 
 What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
@@ -82,7 +76,7 @@ Fill the Erlenmeyer with water, preferably boiling water to prevent waiting by s
 ## Procedure
 The first part of the execution consists of calculations. 
 
-A cappuccino is made by ...... (here follows the text of the introduction but **without the information that a cappuccino machine uses steam**)...... but what can you do if there is no time to heat the milk slowly like in a restaurant or coffee shop? A cappuccino machine adds “hot water” to heat the milk. The maximum dilution that is acceptable for the taste is 10%. Such a small dilution does not matter as expresso is strong coffee with a small amount of water. 
+A cappuccino is made by ...... (here follows the text of the introduction but **without the information that a cappuccino machine uses steam**)...... but what can you do if there is no time to heat the milk slowly like in a restaurant or coffee shop? A cappuccino machine adds “hot water” to heat the milk. The maximum dilution that is acceptable for the taste is 10%. Such a small dilution does not matter as espresso is strong coffee with a small amount of water. 
 
 > *Calculate on your worksheet how much water of 90°C has to be added to 50 ml milk of 5°C to heat it to a temperature of 65°C. Assume that the specific heat of milk equals that of water. The formulas and constants you need are on the worksheet (or on the board). (Answer 120 g).*
 
