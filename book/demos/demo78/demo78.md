@@ -41,6 +41,16 @@ align: right
 ## Introduction
 For many students the centripetal force is difficult to grasp. The misconception of a 'centrifugal force' is constantly looming. This experiment challenges students to seek an explanation for the displayed situation. By using the correct scientific terminology, encourage students to move away from the possible misconception of centrifugal force. 
 
+## Equipment
+* Balloon
+* Unwound cord
+* Dark-colored liquid
+* Hanging point
+* Optional a drill
+
+## Preparation
+Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie it closed. Attach a cord to the balloon to hang it up freely. An example of a setup is shown in {numref}`Figure {number} <demo78_fig1>`.
+
 ```{figure} demo78_figure1.JPG
 ---
 width: 50%
@@ -49,15 +59,6 @@ name: demo78_fig1
 ---
 The setup.
 ```
-
-## Equipment
-* Balloon
-* Unwound cord
-* Dark-colored liquid
-* Hanging point
-
-## Preparation
-Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie it closed. Attach a cord to the balloon to hang it up freely. An example of a setup is shown in {numref}`Figure {number} <demo78_fig1>`.
 
 ## Procedure
 1. Rotate the balloon several times so that the cord winds around itself.

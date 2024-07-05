@@ -57,7 +57,7 @@ Related to the demonstration [Light in darkness](../demo03/demo03.md), you start
 Directly shining laser light into your eye is harmful.
 ```
 
-Build a row of bottles with water, olive oil and water. Shine the red laser pointer through this row as shown in {numref}`Figure {number} demo87_fig1`. You'll notice a red beam of light visible in the olive oil and that the laser spot on the wall is now less intense. Scattering of light by the olive oil explains why you see the beam from the side and why there is less light falling on the wall than before. Emphasize: like before, the light reaching the wall is not scattered in the olive oil.
+Build a row of bottles with water, olive oil and water. Shine the red laser pointer through this row as shown in {numref}`Figure {number} <demo87_fig1>`. You'll notice a red beam of light visible in the olive oil and that the laser spot on the wall is now less intense. Scattering of light by the olive oil explains why you see the beam from the side and why there is less light falling on the wall than before. Emphasize: like before, the light reaching the wall is not scattered in the olive oil.
 
 Explain to the students that you are going to do the same with a green laser pointer. Let students *predict* what they will see. Have them write down, describe, and compare their observations. Now perform the experiment. They will see an orange beam of light in the bottle of olive oil, however, the spot on the wall is still green. Spray water mist left and right of the row of bottles to show that the laser beam is green before and after the row of bottles.
 
@@ -74,7 +74,7 @@ name: demo87_fig2
 Energy level diagram for fluorescence in olive oil
 ```
 
-Looking up in a refence manual, students can then determine that the red photons cannot be replaced by orange photons in this way, but green photons can. Also, orange photons cannot be replaced by green ones in this manner.
+Looking up in a reference manual, students can then determine that the red photons cannot be replaced by orange photons in this way, but green photons can. Also, orange photons cannot be replaced by green ones in this manner.
 
 Help students describe and draw the process themselves as much as possible, where a green beam of light was seen before and after the bottle and a green spot on the wall, but an orange beam of light inside.
 
@@ -89,6 +89,3 @@ Find out what the term 'fluorescence' has to do with the element fluor.
 ## Follow-up
 
 Additionally, you can measure the fluorescence spectrum.
-
-
-
