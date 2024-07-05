@@ -27,7 +27,7 @@ align: right
 
 ```{figure} demo94_figure1.jpg
 ---
-width: 50%
+width: 80%
 align: center
 ---
 No light without transformer
@@ -63,7 +63,7 @@ Know that this demonstration is carried out in the Netherlands (230V, DC)!
 
 ```{figure} demo94_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 There is light with transformer
@@ -71,7 +71,7 @@ There is light with transformer
 
 ```{figure} demo94_figure3.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 Possible in this way as well
@@ -80,7 +80,7 @@ Possible in this way as well
 ## Procedure
 Turn this demonstration into a story (a detailed example below); .
 
-**Energy transport without transformators**<br>
+**Energy transport without transformers**<br>
 * *On the left is the power station, on the right is a village or town, in between is the transmission line.* (You can put a piece of paper on the wires in case students in the back don't see them). *The customer should have 6 volts* (depends on the bulb used).
 * Set the power supply to 6 volts (use the voltage meter), and note that the light is not, or just barely, lit. Measure the voltage at the customer's premises: far too low!
 * You can measure the current, calculate the power the customer is getting and the loss rate.
@@ -95,7 +95,7 @@ Turn this demonstration into a story (a detailed example below); .
 * Make the resistance of the line smaller. Replace the thin wires with 'normal' cords (just connect them in parallel), then the problem is solved. On this scale, it can be done, but in reality it is prohibitively expensive....
 
 **Problem analysis**<br>
-* Another way of looking at the problem: If the resistance of the line cannot be easily reduced, then less current must pass through it: The energy loss is $I^2R$. However, the transmittedpower must remain the same. This is possible if we increase the voltage: The power transported is $U∙I$.
+* Another way of looking at the problem: If the resistance of the line cannot be easily reduced, then less current must pass through it: The energy loss is $I^2R$. However, the transmitted power must remain the same. This is possible if we increase the voltage: The power transported is $U∙I$.
 
 **Second solution**<br>
 * Include the two transformers. The first transforms up and the second transforms down. Set the 'power plant' to 6 V again and see that the light does burn properly now. 
@@ -113,6 +113,8 @@ align: center
 Schematics of both circuits. Top: without the transformers. Bottom: with the transformers.
 ```
 
+$$U_2>>U_1 \text{and} I'<<I; \text{so} U'_a<<U_a \text{and} U'_b<<U_b$$
+
 
 ```{figure} demo94_figure4c.jpg
 ---
@@ -123,6 +125,7 @@ The conclusion of the experiment.
 ```
 
 Finally, discuss the whole circuit again: there are three separate circuits, each with a source and a consumer. If the transformers are ideal, there is only loss in the transmission line.
+
 If required, everything can then be measured and the whole circuit calculated. For this, the best strategy is to draw the whole circuit, put in all the data and then see where to start calculating.
 
 ```{admonition} Enhancing your story

@@ -1,8 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
 # Black and white
 <span style="font-size: 25px; color: gray;">Differences between heating and cooling</span>
 
@@ -41,7 +36,7 @@ A simple demonstration of heating up and cooling down a black and a white test t
 * White and black test tube in a holder (e.g. surrounded with white and black paper)
 * A light bulb (> 40 W) or a high-power halogen spotlight
 * Two temperature sensors
-* Software such as coach
+* Measurement software (for Coach we provided [the script](measurementsetup.cma7))
 * Two rubber stoppers with hole
 * Kettle
 * Measuring cylinder to measure 20 mL of water
@@ -53,6 +48,7 @@ align: center
 ---
 The test tubes filled with hot water and temperature sensors connected to a CoachLabII+
 ```
+
 ## Preparation
 ### Part 1
 Place the light bulb about 20 cm away in front of the test tubes.
@@ -69,7 +65,7 @@ Heat water in a kettle. Pour the hot water into the measuring cylinder. Pour 20 
 
 ```{figure} demo99_figure3.jpeg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The cooling test tube tubes radiating equally in the infrared.
@@ -102,7 +98,6 @@ You can video-stream with the FLIR-ir camera so that you can also clearly see th
 
 Use a halogen spotlight or a lampshade to focus the light better otherwise you will blind the students and they will not see the test as clearly.
 ```
-
 
 ## References
 ```{bibliography}

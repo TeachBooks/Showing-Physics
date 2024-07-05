@@ -1,10 +1,3 @@
-
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Gauss' rifle
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

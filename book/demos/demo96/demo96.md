@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Falling spring
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
