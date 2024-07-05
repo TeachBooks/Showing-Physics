@@ -6,9 +6,8 @@ align: right
 
 # Rollin' in the deep
 
-This demonstration has been published in the Dutch magazin for science teachers {cite:t}`dekkers1999drogen`.
-
 </table><br>
+    <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
@@ -24,14 +23,16 @@ This demonstration has been published in the Dutch magazin for science teachers 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">potential and kinetic energy, moment of inertia, translational energy</td>
     </tr>
-</table>
+</table> <br>
+
+This demonstration has been published in the Dutch magazine for science teachers {cite:t}`dekkers1999drogen`.
 
 ## Introduction
 If you roll a bunch of round objects down a slope, the mass and size do not matter, but the shape does. This is difficult to understand or infer from observations. It, however, may encourage students to propose systematic investigations to establish order. In this demonstration, the teacher can manage planning, execution and interpretation. The test is inspired by an old science quiz question: do a boiled and a raw egg roll at the same rate? 
 
 ```{figure} demo92_figure1.jpg
 ---
-width: 50%
+width: 80%
 align: center
 ---
 Which rolling object reachers the bottom first?
@@ -56,6 +57,14 @@ Practice pulling away from the block so that all objects start rolling at the sa
 
 **Observe** Then pull the block away. Ideally, everything rolls together: there is a clear difference, but you don't see which object is earlier. Some systematics are clearly needed, a clear approach too. I'm sure the students can come up with most of that, and help with implementation.
 
+```{figure} demo92_figure2.jpg
+---
+width: 50%
+align: center
+---
+Can we create order?
+```
+
 Some suggestions:
 - Investigate (first) simple shapes: hollow and full spheres and cylinders are easiest.
 - Isolate relevant factors: pupils can think of mass and radius, add 'shape' if necessary, and 'hollow or full' themselves.
@@ -67,13 +76,7 @@ Some suggestions:
 
 
 
-```{figure} demo92_figure2.jpg
----
-width: 50%
-align: center
----
-Can we create order?
-```
+
 
 ## Physics background
 When rolling, potential energy is converted into partly translational partly rotational energy, according to: 
