@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Cloud Formation
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -38,7 +32,7 @@ align: right
 </div>
 
 ## Introduction
-Clouds captivate children's imagination. On a beautiful day, or when looking down from an airplane they resemble cushions. Often, students do not know how they form. This demonstration quickly and clearly illustrates this. The demonstration is well-linked to the topic meteorology.
+Clouds captivate children's imagination. On a beautiful day, or when looking down from an airplane they resemble cushions. Often, students do not know how they form. This demonstration quickly and clearly illustrates aspects of cloud formation. The demonstration is well-linked to the topic meteorology.
 
 ## Equipment
 - Vacuum pump connected to bell jar
@@ -57,7 +51,7 @@ align: center
 Vacuum bell jar, pump, match, and beaker with hot water
 ```
 
-## Execution
+## Procedure
 1. Place a beaker of hot water under the bell jar. Strike a match and when it goes out, ensure that the smoke ends up under the bell jar by placing the jar over the match.
 2. Start the vacuum pump. The water will start to evaporate. Optionally, you can place a thermometer or temperature sensor under the jar to demonstrate that evaporation extracts energy from the liquid, thus lowering the water temperature.
 3. Clouds form under the jar at a certain air pressure. The jar is no longer transparent.
@@ -65,7 +59,7 @@ Vacuum bell jar, pump, match, and beaker with hot water
    - Yes, there would be more cloud formation
    - No, there would be no cloud formation
    - It makes no difference
-5. Control question: *In what practical situations does this type of cloud formation occur?*
+5. A question to assess students' understanding: *In what practical situations does this type of cloud formation occur?*
 
 ## Physics Background
 Due to the low pressure, the water in the beaker evaporates faster, causing the temperature in the beaker to drop. A lot of water vapor enters the bell jar. At a certain air pressure, water vapor condenses on the present smoke particles.
@@ -77,5 +71,5 @@ There are variations of this experiment, where a soda bottle with some alcohol o
 ```{tip}
 Search for 'Cloud Bottle' for a student version of this experiment.
 
-See as well our demo [Boiling Without Heating in a Vacuum](../demo54/demo54.md) and [Light in darkness](../demo03/demo03.md)
+See as well our demo [Boiling Without Heating in a Vacuum](../demo54/demo54.md) and [Light in darkness.](../demo03/demo03.md)
 ```

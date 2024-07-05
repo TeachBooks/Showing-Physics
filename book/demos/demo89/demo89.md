@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Optics with LEDs
 <span style="font-size: 25px; color: gray;">LEDs Provide Fun and Insight</span>
 
@@ -38,9 +32,8 @@ The monochromatic LEDs used.
 ## Introduction
 Monochromatic LEDs are suitable for fun and educational demonstrations. They are also excellent for small student investigation. The bright colors in a darkened classroom create an atmosphere that students will surely remember. 
 
-
 ## Equipment
-Monochromatic LEDs in red, green, and blue are required for all the following components: 
+Monochromatic LEDs in red, green, and blue are required for all the experiments. The following components are required per experiment: 
 
 | Experiment | Equipment |
 |---|---|
