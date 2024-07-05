@@ -1,11 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
-toevoeging van oscilloscoop meting
-
 # Induction Tubes
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -48,7 +40,7 @@ Setup with the aluminum tube on the left and the plastic tube on the right
 - Soft surface beneath the tube.
 
 ## Preparation
-Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to your measurement device or oscilloscope. Set a trigger so that the measurement start when the magnet passes the first coil. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. We used a sample rate 1000 of 1000 measurements per second, a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and ran the measurement for a maximum of 2 s.
+Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to your measurement device or oscilloscope. Set a trigger so that the measurement start when the magnet passes the first coil. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. For the measurements of {numref}`Figure {number}<demo86_fig2>`, we used a sample rate of 1000 measurements per second, a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and ran the measurement for a maximum of 1 s.
 
 ```{figure} demo86_figure4.jpg
 ---
@@ -75,7 +67,7 @@ Each of the six coils of the plastic tube produces a signal as the falling magne
 ```
 
 3. How do the six graphs compare to each other? Provide an explanation for the similarities and difference.
-4. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough. (See {numref}`Figure {number}<demo86_fig3>`)
+4. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough, see {numref}`Figure {number}<demo86_fig3>`/
 
 ```{figure} demo86_figure3.png
 ---
@@ -103,10 +95,3 @@ Because the product of $N·ΔΦ$ is constant (the number of turns per coil is eq
 - The experiment is also feasible with only three coils per tube.
 - If you take the absolute value of $U_{ind}$, then the change in $U_{ind}$ over time can be seen with only positive peaks. Then the increase in falling speed is clearly visible. You can potentially use this to determine the acceleration due to gravity.
 ```
-
-## References
-
-```{bibliography}
-:filter: docname in docnames
-```
-
