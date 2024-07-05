@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Mysterious fountain
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -38,18 +32,18 @@ align: right
 </div>
 
 ## Introduction
-In this 'black box' demonstration, the 'tap' starts to flow once you pour some liquid into the funnel and then continues to flow unassisted for a long time. What happens inside those envelopes? The challenge is: use your imagination and together think of a descripion of what might be hidden inside. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
+In this 'black box' demonstration, the 'tap' starts to flow once you pour some liquid into the funnel. It then continues to flow unassisted for a long time. What is going on? The challenge is: use your imagination and together think of a description of what might be hidden inside. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
 
 ## Equipment
 * Two bottles or Erlenmeyer flasks, one filled with water
-* (Optional) food colouring, two colours
+* (Optional) food coloring, two colors
 * Two tightly fitting rubber stoppers, each with two holes that the glass tubes fit exactly
-* Two large envelopes, large enough to completely cover the bottles
+* Two large paper tubes, large enough to completely cover the bottles
 * A small funnel
 * Glass tubes or rubber hoses
 * A cup with some extra liquid
 
-The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water of different colours in the cup and the container on the right to contribute to the mystery. 
+The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water of different colors in the cup and the container on the right to contribute to the mystery. 
 
 ```{figure} demo91_figure1.jpg
 ---
@@ -60,7 +54,7 @@ The mysterious fountain.
 ```
 
 ## Preparation
-Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large envelopes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible.
+Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large paper tubes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible.
 
 ```{figure} demo91_figure2.jpg
 ---
@@ -77,15 +71,15 @@ Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap 
 
 The discussion during the experiment is more interesting than the execution and the events. Obvious questions and tasks (see a possible 'scenario' in the {ref}`worksheet<worksheet>`):
 * *How do you think it works?* (Add a sketch to your explanation, compare with your neighbor.)
-* *Will the tap keep on runnning forever? Why or why not?*
+* *Will the tap keep on running forever? Why or why not?*
 * *Nothing seems to be happening in the connecting tube. Will it still work if we remove it?*
 * *What do you think will happen if...* (see the {ref}`worksheet<worksheet>` for possibilities)
-If food colouring is used the experiment becomes more visible and more interesting. *Could the explanation involve chemical processes?*
+If food coloring is used the experiment becomes more visible and more interesting. *Could the explanation involve chemical processes?*
 
 
 ## Physics background
 ### Lower grades
-Use {numref}`Figure {number}<demo91_fig2>`. When you pour a little water into the funnel, the level in the bottle on the left rises. Air is pushed through the hose into the bottle on the right. The water level there is pushed down so that water comes up inside the 'tap' tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures that the process continues. The water stops running when the difference in water level (from the top of the water column in a tube to the liquid level in its bottle) is the same in both bottles, or when the bottle on the right is empty.
+Use {numref}`Figure {number}<demo91_fig2>`, when you pour a little water into the funnel, the level in the bottle on the left rises. Air is pushed through the hose into the bottle on the right. The water level there is pushed down so that water comes up inside the 'tap' tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures that the process continues. The water stops running when the difference in water level (from the top of the water column in a tube to the liquid level in its bottle) is the same in both bottles, or when the bottle on the right is empty.
 
 ### More precisely
 Once the column of liquid below the funnel is built up, and the flow is stable, the gas pressure above the liquids inside both bottles is the same. The gas pressure above the liquid in the funnel is also always equal to the atmospheric pressure prevailing at the end of the tap. Thus, the water continues to flow from the tap as long as the liquid column on the left is taller than the one on the right. According to Bernoulli, the potential energy of the excess water in the column on the left is then converted into the kinetic energy of the water flowing from the tap. It is a siphon effect: the water keeps flowing until there is no more excess potential energy available, either when the bottle on the right is empty or the liquid columns are of equal height.
@@ -201,9 +195,9 @@ A more precise explanation (beyond the level of the Dutch secondary examination 
 2. If the height changes, the potential energy changes,
 3. If the pressure changes, work may be performed.
 
-The law of conservation of energy can be written as: $0 = ΔEkin + ΔEpot + W$
+The law of conservation of energy can be written as: $0 = ΔE_{kin} + ΔE_{pot} + W$
 
-Thus, for each volume element at every point in the circuit: $½ρv^2 + ρgh + P = constant$
+Thus, for each volume element at every point in the circuit: $\frac{1}{2}ρv^2 + ρgh + P = constant$
 
 ($ρ$ is the density of the liquid, $v$ is the speed at that point, $h$ is the height, $P$ is the pressure.)
 

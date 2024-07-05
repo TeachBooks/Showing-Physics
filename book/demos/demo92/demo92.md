@@ -1,12 +1,6 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Rollin' in the deep
 
-</table><br>
+</table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
@@ -23,7 +17,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">potential and kinetic energy, moment of inertia, translational energy</td>
     </tr>
-</table> <br>
+</table><br>
 
 This demonstration has been published in the Dutch magazine for science teachers {cite:t}`dekkers1999drogen`.
 
@@ -73,10 +67,6 @@ Some suggestions:
 - Divide the tasks: making a plan that takes all factors into account is too difficult for most students, but planning research on whether mass in cylinders matters often succeeds.
 
 **Explain** Discuss which of the predictions has or has not come true. Evaluate the explanations given. If necessary, explain what physicists think about them.
-
-
-
-
 
 ## Physics background
 When rolling, potential energy is converted into partly translational partly rotational energy, according to: 

@@ -164,10 +164,3 @@ Then you have to load them to the maximum, so choose the lamp or load resistor a
 ```{warning}
 Depending on the power supply and transformers used, voltages of more than 40 V can be put on the line, even hundreds of volts when using mains adapters or bell transformers. So no students near the setup and no more than one hand on the high voltage....
 ```
-
-## References
-```{bibliography}
-:filter: docname in docnames
-```
-
-

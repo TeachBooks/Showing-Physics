@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Spinning Circles in a Wine Glass
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -62,8 +56,8 @@ Practice the demonstration several times (see Procedure 1). After some practice,
 1. Place the ball on the table or inside the glass. If you start with the ball on the table, place the glass over the ball. Then you can quickly spin the glass in circles, and the ball will move along, allowing you to lift the glass. If you start with the ball inside the glass, you can rotate the ball and with some practice, keep it spinning in circles inside the glass while flipping the glass upside down.
 2. *Why doesn't the ball fall out of the glass?*
 3. Create a force diagram of the situation.
-4. Control question: *Would the demonstration still work if the glass wall were perfectly smooth?*
-5. Control question: *How come motorcyclists can ride on the Wall of Death when they have the right speed?*
+4. A question to assess students'understanding: *Would the demonstration still work if the glass wall were perfectly smooth?*
+5. A second question to assess students'understanding: *How come motorcyclists can ride on the <a href="https://www.youtube.com/watch?v=P5ZtnIi7W0g" target="_blank">Wall of Death</a> when they have the right speed?*
 
 ## Physics background
 The horizontal component of the normal force of the glass provides the centripetal force needed to make the ball spin in circles inside the glass. The vertical component of the normal force (along with a small frictional force from the glass wall on the ball) keeps the ball inside the wine glass. The more tilted the wine glass, the more the normal force is directed upwards, making it easier for the ball to stay inside the glass (at a lower speed).
