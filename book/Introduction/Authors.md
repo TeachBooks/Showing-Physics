@@ -122,4 +122,5 @@ Maria Antonia Jiminez Ruiz<br>
 Jelmer van Diepen<br>
 Rutger Ockhorst<br>
 Paul Hupkens<br>
-Tom Haanstra
+Tom Haanstra<br>
+Onne Slooten

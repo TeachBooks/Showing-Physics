@@ -4,6 +4,8 @@ width: 35%
 align: right
 ```
 
+Foto's
+
 # Merry-go-around of floating candles, 
 <span style="font-size: 25px; color: gray;">Lorentz force in liquids</span>
 
@@ -25,10 +27,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">electromagnetism, Lorentz force, ions, current, magnetic field</td>
     </tr>
-</table><br>
-
-
-Original idea by {cite:t}`Biezeveld`.
+</table>
 
 ```{figure} demo19_figure1.JPG
 ---
@@ -38,19 +37,20 @@ align: center
 CAPTION
 ```
 
+Original idea by {cite:t}`Biezeveld`.
+
 ## Introduction
-What is more romantic than candle light in a darkened physics classroom with all students lined up around the demonstration table and candles which move like boats in the water, powered by an invisible force? 
+What is more romantic than a darkened physics classroom with all students lined up around the demonstration table with candles which move like boats in the water, powered by an invisible force? 
 
 ## Equipment
-
-* A transparent container or even a plastic basin;
+* A transparent container or basin;
 * A flat copper ring of about 1 cm wide and a diameter of about 15 cm;
 * A little block of copper for the center of the container which can be connected to a wire (see preparation);
 * A power source which can supply a current of about 1.0 Ampere;
 * A very strong flat magnet (see preparation);
 * Small partially burned candles which have been shaped such that they will float neatly with the flames upright;
 * Matches or a lighter;
-* A bit of salt to dissolve in the water and make it conducting.
+* A bit of salt to dissolve in the water and make the water conductive.
 
 ```{figure} demo19_figure2.jpg
 ---
@@ -68,36 +68,21 @@ generates a vertical field in the container or basin which is put on top of the 
 4. Make a diagram of the set-up on the board.
 
 ## Procedure
-
 1.  Invite the students to line up around the demonstration table. Point out the different components of the set-up without telling them what they are going to see. Then light the candles, ask a student to switch of the lights, power the set-up and see .....!
 2.  Now explain the set-up using the diagram on the board.
 3.  Then students return to their seats and answer the following questions on a worksheet:\
-    a.  At three different points in the drawing indicate with arrows
-        the direction of current, magnetic field, and Lorentz force.\
+    a.  At three different points in the drawing indicate with arrows the direction of current, magnetic field, and Lorentz force.\
     b.  Using the vectors drawn, explain the movement of the liquid.\
-    c.  Predict what we will observe when (a) only the direction of the
-        current is reversed, (b) only the direction of the magnetic field
-        is reversed, (c) both are reversed.\
-    d.  Where would the candles experience the greatest force, near the
-        center or near the edge of the circle and why, and how one could
-        investigate this experimentally?\
-    e.  Does the Lorentz force have the same direction on moving Na$^+$
-        and Cl$^-$ ions? Explain.
-4.  Repeat the demonstration to check the answers to questions 3c and
-    3d.
-
+    c.  Predict what we will observe when (a) only the direction of the current is reversed, (b) only the direction of the magnetic field is reversed, (c) both are reversed.\
+    d.  Where would the candles experience the greatest force, near the center or near the edge of thw circle and why, and how one could investigate this experimentally?\
+    e.  Does the Lorentz force have the same direction on moving Na$^+$ and Cl$^-$ ions? Explain.
+4.  Repeat the demonstration to check the answers to questions 3c and 3d.
 
 ## Physics background
-
 As soon as the circuit is powered there will be a current of positive sodium ions from anode to cathode and negative chloride ions from cathode to anode. The Lorentz force acts on both in the same direction (just think) perpendicular to the radius of the ring. The water starts rotating and takes along the burning candles. The current density is greatest near the center so there the water will move faster.
 
-
 ## Follow-up
-
-The demonstration can be followed by other classical demonstrations of
-electro-magnetism such as those in Biezeveld, Mathot en Brouwer (2016)
-p190-193 or by discussion of conceptual questions on electromagnetism
-like in *Conceptual Physics* {cite:p}`Hewitt`.
+The demonstration can be followed by other classical demonstrations of electro-magnetism such as those in {cite:p}`Biezeveld` or by discussion of conceptual questions on electromagnetism like in *Conceptual Physics* {cite:p}`Hewitt`.
 
 ## References
 ```{bibliography}
