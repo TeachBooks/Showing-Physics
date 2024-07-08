@@ -33,13 +33,18 @@ align: center
 The context of this demonstration: A cappuccino
 ```
 
-This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
+This question can be posed to your students first. 
+
+``` {exercise}
+:label: ex_demo02
+How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. 
+```
+Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
 
 What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
-``` {admonition} solution
+```` {solution} ex_demo02
 :class: dropdown
-:name: demo02_sol
 
 The absorbed heat by the milk is the emitted heat by the water:
 
@@ -49,7 +54,7 @@ With the assumption the specific heat is the same, $m_w$ can be calculated:
 
 $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
 
-```
+````
 
 ## Equipment
 * A large erlenmeyer flask
@@ -124,7 +129,7 @@ $$ Q_{absorbed} = Q_{emitted} $$
 $$ 50 \text{[g]} · 4.2 \text{[J/g°C]} · (65\text{[°C]} – 5\text{[°C]}) = m_{hot} · 4.2 \text{[J/g°C]} · (T_{hot} – 65\text{°C)}$$
 
 $ ρ_{water} ≈ 1.0$ [g/ml];<br>
-$c_{melk} ≈ c_{water} = 4.18·10^3$ [J/g°C];<br>
+$c_{milk} ≈ c_{water} = 4.18·10^3$ [J/g°C];<br>
 $L = 2.26·10^6$ [J/kg] (heat of evaporation)
 
 **Attempt 1:** hot water ($T_{hot} = 90$°C)<br>
@@ -140,7 +145,7 @@ Calculate the temperature of the water, $T_{hot}$, if we decide that we only poo
 Answer: ...
  
 **Attempt 4:** steam ($T=100$°C)<br>
-Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘melk’ with a temperature of 5°C to reach a temperature of 65°C.<br>
+Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘milk’ with a temperature of 5°C to reach a temperature of 65°C.<br>
 Answer: ...
 ```
 

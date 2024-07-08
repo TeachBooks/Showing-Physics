@@ -34,8 +34,6 @@ What is light? Why is it dark at night while there are so many stars? Why do we 
     </div>
 </div>
 
-
-
 ## Equipment
 * Laser
 * Vacuum pump & bell jar
@@ -55,31 +53,30 @@ name: demo3_fig1
 The setup consisting of a laser, a vacuum bell jar and a small candle for smoke.
 ```
 
-
 ## Procedure
 Start the demo with asking the broad question *why it is dark at night even with so many stars? If there are countless stars, would the sky not be bright at night as well?* Explain that the vacuum bell jar can be used as a model for the universe: there are hardly any particles in space. Moreover, we can regard the laser as a star.
  
-Turn the laser on and ask students what they observe. *Is the laser beam visible? Everywhere? Outside and inside the bell?* Now, turn the lights off. *What can we see now? Is the laser beam visible in and outside the bell? Is there any difference in light intensity? If so, what is a possible reason (hypothesis)? How can we test this hypothesis?*
+Turn the laser on and ask students what they observe. *Is the laser beam visible? Everywhere? Outside and inside the bell jar?* Now, turn the lights off. *What can we see now? Is the laser beam visible in and outside the bell jar? Is there any difference in light intensity? If so, what is a possible reason (hypothesis)? How can we test this hypothesis?*
 
 ```{figure} demo03_figure2.jpg
 ---
 width: 50%
 align: center
 ---
-The laser beam is well visible, but the entire bell is illuminated as well!
+The laser beam is well visible, but the entire bell jar is illuminated as well!
 ```
-Ask students to write down their observation when you turn on the vacuum pump. If the bell has been sufficiently vacuumed, you can turn off the pump and ask whether the laser beam is still visible in the jar. *Is there still light anyway? Why do we see things, and how do we relate this demo, and what happens, with being dark at night?*
+Ask students to write down their observation when you turn on the vacuum pump. If the bell jar has been sufficiently vacuumed, you can turn off the pump and ask whether the laser beam is still visible in the jar. *Is there still light anyway? Why do we see things, and how do we relate this demo, and what happens, with being dark at night?*
 
 ```{figure} demo03_figure3.jpg
 ---
 width: 50%
 align: center
 ---
-When the bell got more and more vacuum, the light intensity of the laser beam is less until it is not visible at all anymore.
+When the bell jar gets more and more vacuum, the light intensity of the laser beam is less until it is not visible at all anymore.
 ```
 
 ## Physics background
-To see objects, there needs to be a light-matter interaction. Because the universe is almost entirely empty (vacuum), there are hardly any interactions. The light that we see at night is directly coming from the stars. Many light sbeams 'miss' the earth and will never be observed. There are some exemptions of the light-matter interactions: The moon does not produce light itself but reflects the light coming from the sun. 
+To see objects, there needs to be a light-matter interaction. Because the universe is almost entirely empty (vacuum), there are hardly any interactions. The light that we see at night is directly coming from the stars. Many light beams 'miss' the earth and will never be observed. There are some exemptions of the light-matter interactions: The moon does not produce light itself but reflects the light coming from the sun. 
 
 ## Follow-up
 One can discuss the many fights in science fiction movies such as Star Wars. Fazers are being shot, resulting in a visible laser beam. What would you see on earth? And in space?
