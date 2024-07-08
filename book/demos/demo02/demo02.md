@@ -33,11 +33,17 @@ align: center
 The context of this demonstration: A cappuccino
 ```
 
-This question can be posed to your students first. How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
+This question can be posed to your students first. 
+
+``` {exercise}
+:label: ex-demo02
+How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. 
+```
+Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
 
 What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
-``` {admonition} solution
+``` {solution} ex-demo02
 :class: dropdown
 :name: demo02_sol
 
@@ -140,7 +146,7 @@ Calculate the temperature of the water, $T_{hot}$, if we decide that we only poo
 Answer: ...
  
 **Attempt 4:** steam ($T=100$°C)<br>
-Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘melk’ with a temperature of 5°C to reach a temperature of 65°C.<br>
+Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘milk’ with a temperature of 5°C to reach a temperature of 65°C.<br>
 Answer: ...
 ```
 

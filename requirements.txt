@@ -5,3 +5,4 @@ numpy
 # for live coding
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
 sphinx-thebe ~= 0.9.9
+sphinx-exercise ~= 0.4.1 
