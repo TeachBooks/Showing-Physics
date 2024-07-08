@@ -1,4 +1,4 @@
-```{figure} ../../figures/confirmed.png
+```{figure} ../../figures/busy.png
 ---
 width: 35%
 align: right
@@ -26,7 +26,7 @@ video
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Density, floating, sinking, buoyant force (Archimedes Law)</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 In this demonstration metal balls change into ping-pong balls. Of course that is impossible, but the initial explanation of the presenter also does not make sense. So how does it work? A very simple demonstration that where the observations challenge the students to find explanations and engage them in reasoning with concepts as density, floating, and sinking.

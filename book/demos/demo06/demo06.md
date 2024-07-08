@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Spectacular Spectrum
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -35,7 +29,7 @@ An aquarium filled with water is put on an overheadprojector
 ``` 
 
 ## Introduction
-You turn of the lights and then there is this beautiful spectrum on the wall ({numref}`Figure {number} <demo06_fig1>` and {numref}`Figure {number} <demo06_fig2>` ). Most students will be amazed... Indeed, the demonstration can be used for events to illustrate the beauty of physics, but it constitutes also a useful exercise in geometrical optics.
+You turn of the lights and then there is this beautiful spectrum on the wall ({numref}`Figure {number} <demo06_fig1>` and {numref}`Figure {number} <demo06_fig3>` ). Most students will be amazed... Indeed, the demonstration can be used for events to illustrate the beauty of physics, but it constitutes also a useful exercise in geometrical optics.
 
 ## Equipment
 * An old fashioned overhead projector (OHP) of which the upper convex lens is removed as only the flat Fresnel plate is used
@@ -47,15 +41,6 @@ You turn of the lights and then there is this beautiful spectrum on the wall ({n
 
 ## Preparation
 Cover the OHP with white sheets of paper. Put the container with water (about ¾ filled) on top of this and arrange the papers such that there is a narrow slit (up to 1 cm) next to the container where the light can pass through ({numref}`Figure {number} <demo06_fig3>`). Set-up and try out. 
-
-```{figure} demo06_figure2.jpg
----
-width: 50%
-align: center
-name: demo06_fig2
----
-no caption
-``` 
 
 ```{figure} demo06_figure3.png
 ---

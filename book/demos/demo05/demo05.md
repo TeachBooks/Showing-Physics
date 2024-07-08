@@ -18,7 +18,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Force, speed, acceleration, Newton’s first lawS</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 In this demonstration on Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a students' practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.

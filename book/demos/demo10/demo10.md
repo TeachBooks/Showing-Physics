@@ -19,7 +19,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Charge, electrostatic induction,Coulomb force</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below, our focus is on the development of reasoning skills. 

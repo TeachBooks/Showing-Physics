@@ -18,7 +18,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Phases of water, evaporation, condensation, combustion, air, oxygen</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Just above the bubbling surface of boiling water, nothing unusual seems to be happening. Slightly higher, however, a kind of fog is visible, and rising. An object placed in that fog gets wet: the fog consists of water droplets. But then, what fills the space between the bubbling water and the fog? Is that hot air, or not? How could we find out?
@@ -61,8 +61,8 @@ Bring the burning candle down into the kettle, and note that the flame dies. Sum
 width: 70%
 align: center
 ---
-<br> *left* Above the kettle, the flame burns somewhat weaker.
-<br> *right* Inside the kettle, above the water, the flame extinguishes
+*left:* Above the kettle, the flame burns somewhat weaker.
+<br> *right:* Inside the kettle, above the water, the flame extinguishes
 ```
 
 Draw a conclusion together. It may well be that the conclusion is not: *there is water vapor above the liquid*. After all, that has not been proven. What we can agree on is: 

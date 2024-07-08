@@ -18,7 +18,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heat of vaporization and condensation, specific heat</td>
     </tr>
-</table><br>
+</table>
 
 This demonstration has been published by the authors in {cite:t}`hidden2012`.
 
