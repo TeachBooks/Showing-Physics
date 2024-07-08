@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Stick on Wine Glass
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -30,7 +24,7 @@ Imagine a stick with headless nails or needles in each end, resting on fragile w
 
 ```{figure} demo55_figure1.png
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The demonstration as drawn in a publication from 1881. It was already known in 1532 {cite:t}`mamola1993breaking`.

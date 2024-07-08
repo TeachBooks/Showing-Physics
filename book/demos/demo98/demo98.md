@@ -1,11 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-VIDEO
-
-
 # Implosion
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

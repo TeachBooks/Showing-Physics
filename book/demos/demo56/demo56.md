@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Pulling a spool
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -68,24 +62,17 @@ Large wire spool. Which way will it roll?
 
 ## Procedure
 1. If the wire spool is on a rod, it simply rotates when you pull the wire. But now place the spool on the ground. Which way does it move when you pull the wire?
-2. Hold one end of the wire in your fingers; keep the wire horizontal. <br>*Which way does the spool move* (*Predict*) *when you gently pull the wire?*<br>
-    - To the left
-    - To the right
-    - Does not move
-    - I don't know
+2. Hold one end of the wire in your fingers; keep the wire horizontal. 
     <iframe src="https://tudelft.h5p.com/content/1292318675152841697/embed" width="1088" height="350" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo 56 Q1"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 3. Ask the students to discuss with their neighbor. They explain their choice to each other and why they chose their answer (*Explain*). Do they agree? Collect the answers.
 4. Perform the demonstration (*Observe*).
 5. Did the predictions come true? Why or why not? (*Explain*)
-6. Hold one end of the wire in your fingers and ensure the wire is now vertical. <br>*Which way does the spool move* (*Predict*) *when you pull the wire?*
-    - To the left
-    - To the right
-    - Does not move
-    - I don't know
+6. Hold one end of the wire in your fingers and ensure the wire is now vertical. 
+    <iframe src="https://tudelft.h5p.com/content/1292318679332342557/embed" aria-label="Clone of Demo 56 Q2" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 7. Ask the students to discuss with their neighbor again. They explain their choice to each other (*Explain*). Collect the answers again.
 8. Perform the demonstration again (*Observe*).
 9. Did the predictions come true? Why or why not? (*Explain*)
-10. *To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? What factors may be relevant?
+10. Discuss: *To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? What factors may be relevant?*
 
 ## Physics Background
 The wire spool can move to the left or right depending on the pull direction ({numref}`Figure {number}<fig:schematic>`). Logically, it seems that if you pull to the right on a horizontal wire, the wire spool will move to the right as well. Doesn't an object always move in the direction of the force?
