@@ -1,4 +1,4 @@
-# Spinning Circles in a Wine Glass
+# Spinning circles in a wine glass
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -32,7 +32,6 @@
 </div>
 
 ## Introduction
-
 A wine glass and a small ball are easy to find in any school. With some practice, the ball can be kept spinning inside the inverted glass for quite some time. Beginners use a wine glass with a narrower bowl that tapers upwards. Skilled demonstrators use a wine glass with less tapering.
 
 ```{figure} demo90_figure1.jpg
@@ -55,7 +54,6 @@ Use a reasonably wide glass. A champagne glass is not suitable due to the high r
 Practice the demonstration several times (see Procedure 1). After some practice, it will even be possible to start the wine glass upright and flip it over without the ball falling.
 
 ## Procedure
-
 1. Place the ball on the table or inside the glass. If you start with the ball on the table, place the glass over the ball. Then you can quickly spin the glass in circles, and the ball will move along, allowing you to lift the glass. If you start with the ball inside the glass, you can rotate the ball and with some practice, keep it spinning in circles inside the glass while flipping the glass upside down.
 2. *Why doesn't the ball fall out of the glass?*
 3. Create a force diagram of the situation.

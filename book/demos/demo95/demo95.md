@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">magnetic field, potential well, energy conservation, Lenz's law</td>
     </tr>
-</table><br>
+</table>
 
 This demo has been described earlier by {cite:t}`Veld2007`.
 

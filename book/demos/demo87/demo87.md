@@ -1,4 +1,4 @@
-# Fluorescent Olive Oil
+# Fluorescent olive oil
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

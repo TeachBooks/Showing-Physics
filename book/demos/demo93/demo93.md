@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Diffraction, interference, DNA-structure</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 This demonstration allows you to bridge the gap between biology and physics. The demonstration optically duplicates (using a laser and a ballpoint pen spring) a photo of the X-ray diffraction pattern of DNA that has been used in unravelling DNA structure. As a pure physics demonstration, it is valuable to show the use of diffraction to unravel patterns. In addition, this diffraction pattern is more complex than that of a lattice, but still simple enough to calculate.

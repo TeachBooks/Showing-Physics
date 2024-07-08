@@ -1,4 +1,4 @@
-# Induction Tubes
+# Induction tubes
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -17,30 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Induction, magnets, Lenz</td>
     </tr>
-</table><br>
-
-
-## Introduction
-A magnet falling through a coil generates an induced voltage. In this demonstration, we observe a magnet falling through a plastic tube and an aluminum tube. Both tubes have six identical coils arranged at equal intervals along the tube. We examine the measured induced voltage over time.
-
-```{figure} demo86_figure1.png
----
-width: 50%
-align: center
----
-Setup with the aluminum tube on the left and the plastic tube on the right
-```
-
-## Equipment
-- Plastic tube and aluminum tube each with at least three identical coils evenly spaced around them 
-- Measurement device and software, or oscilloscope
-- Voltage sensor ($\pm$ 500 mV and $\pm$ 10 V)
-- Stands
-- Bar magnet
-- Soft surface beneath the tube.
-
-## Preparation
-Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to your measurement device or oscilloscope. Set a trigger so that the measurement start when the magnet passes the first coil. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. For the measurements of {numref}`Figure {number}<demo86_fig2>`, we used a sample rate of 1000 measurements per second, a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and ran the measurement for a maximum of 1 s.
+</table>
 
 ```{figure} demo86_figure4.jpg
 ---
@@ -50,6 +27,28 @@ name: demo86_fig4
 ---
 Measurement of the induced voltage using an oscilloscope.
 ```
+
+## Introduction
+A magnet falling through a coil generates an induced voltage. In this demonstration, we observe a magnet falling through a plastic tube and an aluminum tube. Both tubes have six identical coils arranged at equal intervals along the tube. We examine the measured induced voltage over time.
+
+## Equipment
+- Plastic tube and aluminum tube each with at least three identical coils evenly spaced around them 
+- Measurement device and software, or oscilloscope
+- Voltage sensor ($\pm$ 500 mV and $\pm$ 10 V)
+- Stands
+- Bar magnet
+- Soft surface beneath the tube.
+
+```{figure} demo86_figure1.png
+---
+width: 50%
+align: center
+---
+Setup with the aluminum tube on the left and the plastic tube on the right
+```
+
+## Preparation
+Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to your measurement device or oscilloscope. Set a trigger so that the measurement start when the magnet passes the first coil. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. For the measurements of {numref}`Figure {number}<demo86_fig2>`, we used a sample rate of 1000 measurements per second, a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and ran the measurement for a maximum of 1 s.
 
 ## Procedure
 Move a magnet through a coil and demonstrate that it generates a voltage. (Sketch the graph of one movement of a magnet through a coil on the board.) 

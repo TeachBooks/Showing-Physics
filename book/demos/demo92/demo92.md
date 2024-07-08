@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">potential and kinetic energy, moment of inertia, translational energy</td>
     </tr>
-</table><br>
+</table>
 
 This demonstration has been published in the Dutch magazine for science teachers {cite:t}`dekkers1999drogen`.
 
@@ -53,7 +53,7 @@ Practice pulling away from the block so that all objects start rolling at the sa
 
 ```{figure} demo92_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 Can we create order?

@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Transformer, electrical power, voltage division, replacement resistance</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo94_figure1.jpg
 ---
