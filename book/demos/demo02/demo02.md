@@ -43,7 +43,7 @@ Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practic
 
 What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
-``` {solution} ex_demo02
+```` {solution} ex_demo02
 :class: dropdown
 
 The absorbed heat by the milk is the emitted heat by the water:
@@ -54,7 +54,7 @@ With the assumption the specific heat is the same, $m_w$ can be calculated:
 
 $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
 
-```
+````
 
 ## Equipment
 * A large erlenmeyer flask
