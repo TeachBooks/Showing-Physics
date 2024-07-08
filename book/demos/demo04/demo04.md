@@ -55,9 +55,9 @@ name: demo04_fig2
 We can try to use the approach that first comes into mind... but probably won't succeed.
 ```
 
-Usually blocks are stacked one by one. See the 4 blocks in {numref}`Figure {number} <demo04_fig2>`. First the green block (1), then the orange block (2) that sticks out 1/3 of the block length, then another orange block (3) that also sticks out 1/3 of the block length.<br>
+Usually blocks are stacked one by one. See the 4 blocks in {numref}`Figure {number} <demo04_fig2>`. First the green block (1), then the orange block (2) that sticks out 1/3 of the block length, then another orange block (3) that also sticks out 1/3 of the block length.
 
-The center of mass of the orange blocks together is now exactly above the left side of the green block at the bottom. So if you would place another block sticking out, the red one, the pile would tip over...<br>
+The center of mass of the orange blocks together is now exactly above the left side of the green block at the bottom. So if you would place another block sticking out, the red one, the pile would tip over...
 
 It is also possible to arrange the pile in reversed order: from top to bottom (figure 3). Put block one on top of block 2 (counting from above), then blocks 1 and 2 on top of block 3, etc.
 
