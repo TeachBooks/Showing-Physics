@@ -73,6 +73,7 @@ Large wire spool. Which way will it roll?
     - To the right
     - Does not move
     - I don't know
+    <iframe src="https://tudelft.h5p.com/content/1292318675152841697/embed" width="1088" height="350" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo 56 Q1"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 3. Ask the students to discuss with their neighbor. They explain their choice to each other and why they chose their answer (*Explain*). Do they agree? Collect the answers.
 4. Perform the demonstration (*Observe*).
 5. Did the predictions come true? Why or why not? (*Explain*)
@@ -109,7 +110,7 @@ with:
 $$\theta_c=cos^{-1}(R_i/R_o)$$
 
 this holds that the spools: 
-* rolls rightwards ($a_x > 0$), for $0° \le < \theta < \theta_c,$
+* rolls rightwards ($a_x > 0$), for $0° \le \theta < \theta_c,$
 * does not roll ($a_x = 0$) when $\theta = \theta_c$, and
 * rolls leftward ($a_x < 0$) for $\theta_c \le \theta < 90°$.
 
