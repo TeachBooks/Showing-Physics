@@ -74,6 +74,15 @@ Large wire spool. Which way will it roll?
 9. Did the predictions come true? Why or why not? (*Explain*)
 10. Discuss: *To the left or to the right? Is there a pull direction where the spool stays put when you pull the wire? Can you make the wire spool move any way you want? What factors may be relevant?*
 
+```{figure} demo56_cc.png
+---
+width: 50%
+align: center
+name: demo56_cc
+---
+A concept cartoon may help students to make their thoughts explicit.
+```
+
 ## Physics Background
 The wire spool can move to the left or right depending on the pull direction ({numref}`Figure {number}<fig:schematic>`). Logically, it seems that if you pull to the right on a horizontal wire, the wire spool will move to the right as well. Doesn't an object always move in the direction of the force?
 
@@ -100,7 +109,6 @@ this holds that the spools:
 * rolls rightwards ($a_x > 0$), for $0° \le \theta < \theta_c,$
 * does not roll ($a_x = 0$) when $\theta = \theta_c$, and
 * rolls leftward ($a_x < 0$) for $\theta_c \le \theta < 90°$.
-
 
 ```{tip}
 This demonstration works even better if you wind a ribbon instead of a wire around the spool. You can also play a bit with the wire spool by gently pulling while the pull wire moves around the critical angle. The wire spool will then alternately move left and right on the table while the observer barely notices that the teacher slightly varies the pull angle.
