@@ -23,7 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Acceleration, mass, inertia, rotational acceleration, rotational inertia (= moment of inertia), center of gravity, mass distribution</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 What does the $m$ mean in $\Sigma F=ma$ ? Inertia, or 'resistance to acceleration', this is the essence of the mass concept which usually receives little attention. Rotational inertia - "resistance against rotational acceleration" - is usually not included in secondary curricula, but it is very simple and can be spectacularly demonstrated with everyday objects. No time in the secondary curriculum? Ten minutes of inspiration always pay off!

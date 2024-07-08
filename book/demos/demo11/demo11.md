@@ -18,7 +18,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Acceleration of gravity g (=9.81 m/s2), free fall, rotation</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -66,11 +66,11 @@ You then turn to the actual demo.
 * Now put the (1m) stick with one end on the chair an holding the other end with one finger. Mark the 67 cm point but do not yet tell students why. Conduct the experiment while one of the students is recording.
 * It would be good to repeat and now ask students to specifically pay attention to the end of the stick. 
 * Continue with a discussion about the linear acceleration of different points of the meter stick. This cannot be the same in rotational movement. If there are points which accelerate at less than $g$, shouldn’t there be points that accelerate at more than $g$? Have we seen that? 
-* From our observations, which points accelerate with $g$ or less? Which points with more than %g%? The `tipping point` is at 2/3 of the stick, so at 67 cm.
+* From our observations, which points accelerate with $g$ or less? Which points with more than %g%? The 'tipping point' is at 2/3 of the stick, so at 67 cm.
 * The physics of rotation is often not in the secondary school physics curriculum. So we will not derive theoretically that the point with acceleration $g$ is at 2/3th of the meter stick. But we do ask our students for examples of similar phenomena. For example, a ladder which is put up too steep and turns over, a factory chimney which is blown up and falls over, a swimmer who stands on the diving board and lets himself fall over without jumping, etc. 
 
 ```{tip}
-Using the coins as indicator one can investigate shorter and longer sticks. You can move the center of mass of the stick by taping on pieces of wood in different positions. You can also conduct video measurement using films from the iPhone or a high-speed camera. Students could do projects and could then study rotational physics first, for example from well known physics texts such as {cite}`young2014`.
+Using the coins as indicator one can investigate shorter and longer sticks. You can move the center of mass of the stick by taping on pieces of wood in different positions. You can also conduct video measurement using films from the iPhone or a high-speed camera. Students could do projects and could then study rotational physics first, for example from well known physics texts such as {cite:t}`young2014`.
 ```
 
 ## Physics background

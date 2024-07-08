@@ -1,7 +1,6 @@
 # Does van de Graaff not like a shower? 
 <span style="font-size: 25px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
 
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
@@ -21,6 +20,14 @@
     </tr>
 </table>
 
+```{figure} demo10_figure1.jpg
+---
+width: 80%
+align: center
+---
+The soap bubble gun and the Van de Graaff generator. In this picture, most bubbles move away from the generator. 
+```
+
 ## Introduction
 The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below, our focus is on the development of reasoning skills. 
 
@@ -28,14 +35,6 @@ The demonstration of the interaction of Van de Graaff generator with soap bubble
 * Van de Graaff generator
 * Soap bubble gun
 * Camera
-
-```{figure} demo10_figure1.jpg
----
-width: 50%
-align: center
----
-The soap bubble gun and the Van de Graaff generator. In this picture, most bubbles move away from the generator. 
-```
 
 ## Preparation
 For the best visibility, the bubbles should be blown from above to the Van de Graaf generator. Try this out.
@@ -72,8 +71,8 @@ Finally, it is important to evaluate the process of doing inquiry. Starting with
 
 ```{tip}
 There are more ways to work on research skills using this demonstration:
-•	If the students write down their observations, then you can pay attention to the objective formulation of these observations. For example, what is the difference between 'the bubbles are attracted by the sphere' and 'the bubbles move towards the sphere'? Is it important to distinguish between these two types of sentences?
-•	You can discuss the difference between a hypothesis and a prediction. A hypothesis is independent of the experiment, the prediction is dependent on the set-up of the experiment. One possible hypothesis is ‘the bubbles are negatively charged from the start’, a potential corresponding prediction is 'the bubbles will move away from the negatively charged Van de Graaff generator’.
+* If the students write down their observations, then you can pay attention to the objective formulation of these observations. For example, what is the difference between 'the bubbles are attracted by the sphere' and 'the bubbles move towards the sphere'? Is it important to distinguish between these two types of sentences?
+* You can discuss the difference between a hypothesis and a prediction. A hypothesis is independent of the experiment, the prediction is dependent on the set-up of the experiment. One possible hypothesis is ‘the bubbles are negatively charged from the start’, a potential corresponding prediction is 'the bubbles will move away from the negatively charged Van de Graaff generator’.
 ```
 
 ## Physics background
