@@ -81,15 +81,15 @@ Also let it roll without catching it: if configured well the can will roll back 
 The next step is about student thinking - do not yet open the can but ask:
 
 * What do you think is inside this can? Make a drawing of its insides.
-* Explain (to each other) how you think it works, or what make it come back.
+* Explain (to each other) how you think it works, or what makes the can come back.
 
-Next discuss the solutions they came up with. Some solutions will be creative, some simpler, others more technical. Which one solution is the best one rom a  scientific point of view? It's likely that each student thinks his or her own solution is the best. But what makes it better, objectively? Which arguments count? Students are often much better at judging the quality of someone else's solution than at judging their own - but in the end it's the arguments that count.
+Next discuss the solutions students came up with. Some solutions will be creative, some simpler, others more technical. Which solution is the best from a  scientific point of view? It's likely that each student thinks his or her own solution is the best. But what makes it better, objectively? Which arguments count? Students are often much better at judging the quality of someone else's solution than at judging their own - but in the end it's the arguments that count.
 
-Next, you may want to adress the role of amazement, imagination, and creativity in science. It's quite strange that the can comes back. Scientists get excited when something odd happens because that means you don't understand it, so there's something to be learned! That's why research is done, which starts with coming up with all sorts of solutions and ideas about how things might work. Scientists usually think their own solutions are the best ones too, and they evaluate each others' work to find the best solutions. Often, they conduct new research as a result of that as well.
+Next, you may want to address the role of amazement, imagination, and creativity in science. It's quite strange that the can comes back. Scientists get excited when something odd happens because that means they don't understand it, so there's something to be learned! That's why research is done, which starts with coming up with all sorts of solutions and ideas about how things might work. Scientists usually think their own solutions are the best ones too, and they evaluate each others' work to find the best solutions. Often, they conduct new research as a result of that as well.
 
 The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor since the can has no on/off switch or plug. It also helps if the solution is familiar somehow. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up and then unwinds. The solution can also be built as a model to see if it works. Scientists use these and other methods to find the best solutions.
 
-Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. Physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one.
+Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. In general, the wordl is often like a returning can that can never be opened. Therefore physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one. For example, because it describes observations of gravitational or electric phenomena more precisely.
 
 ```{figure} demo40_figure3.jpg
 ---
@@ -110,7 +110,7 @@ Store the can for reuse. Releasing the tension from the elastic band slows its d
 ```
 
 ## Follow-up
-Possible homework assignment before discussing the actua solution: try to make a can that rolls back yourself / with your group. It's advisable to provide cans with holes for that.
+Possible homework assignment before discussing the actual solution: try to make a can that rolls back yourself / with your group. It's advisable to provide cans with holes for that.
 
 ## References
 ```{bibliography}
