@@ -1,11 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
-PICTURES 
-
 # High Voltage
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

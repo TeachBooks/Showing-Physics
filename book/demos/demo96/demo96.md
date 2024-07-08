@@ -49,20 +49,22 @@ Above all, do not drop the spring yet. Ask to predict what will happen to the bo
 - Or can it be explain by the lower end of the spring moving upwards? 
 After discussing, offer the following four possibilities.
 
+<iframe src="https://tudelft.h5p.com/content/1292318927761904547/embed" aria-label="demo96 Q1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- 
 ```{admonition} Question
 After releasing the spring, the bottom of the spring will:<br>
 A.	immediately fall down as well.<br>
 B.	stay in place for a while (how long then?).<br>
 C.	first go up a bit.<br>
-D.	do something different than the above.
-```
+D.	do something different than the above. 
+```-->
 
 ```{figure} demo96_figure4.jpg
 ---
 width: 50%
 align: center
 ---
-Timelapse of the drop of a slinky.
+Time-lapse of the drop of a slinky.
 ```
 
 After everyone made explicit their answer, drop the spring. Do warn that it is very fast and the result is difficult to observe.
