@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Period, frequency, resonance</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Five or six pendulums are suspended from a rod ({numref}`Figure {number} <demo07_fig1>`). Gently move the rod back-and-forth and some pendulums will start moving. By tuning the frequency of the turning, the teacher can choose which pendulum will move.
