@@ -1,11 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
-PICTURES 
-
 # High Voltage
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -25,7 +17,7 @@ PICTURES
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Transformer, electrical power, voltage division, replacement resistance</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo94_figure1.jpg
 ---
@@ -97,7 +89,7 @@ Turn this demonstration into a story (a detailed example below); .
 * Make the resistance of the line smaller. Replace the thin wires with 'normal' cords (just connect them in parallel), then the problem is solved. On this scale, it can be done, but in reality it is prohibitively expensive....
 
 **Problem analysis**<br>
-* Another way of looking at the problem: If the resistance of the line cannot be easily reduced, then less current must pass through it: The energy loss is $I^2R$. However, the transmitted power must remain the same. This is possible if we increase the voltage: The power transported is $UI$.
+* Another way of looking at the problem: If the resistance of the line cannot be easily reduced, then less current must pass through it: The energy loss is $P_{loss}=I^2R$. However, the transmitted power must remain the same. This is possible if we increase the voltage: The power transported is $P=UI$.
 
 **Second solution**<br>
 * Include the two transformers. The first transforms up and the second transforms down. Set the 'power plant' to 6 V again and see that the light does burn properly now. 
@@ -118,22 +110,22 @@ Using the scheme above, one can reason that:
 
 $$U_2>>U_1 \text{ and } I'<<I; \text{ so } U'_a<<U_a \text{ and } U'_b<<U_b$$
 
-and hence the powerloss is much less when using a transformer.
+and hence the loss of power (heat) is much less when using a transformer.
 
 Finally, discuss the whole circuit again: there are three separate circuits, each with a source and a consumer. If the transformers are ideal, there is only loss in the transmission line.
 
 If required, everything can then be measured and the whole circuit calculated. For this, the best strategy is to draw the whole circuit, put in all the data and then see where to start calculating.
 
 ```{admonition} Enhancing your story
-To enhance your story you can emphasize that the voltage supply compares to the nearest powerplant, the light at the other side is the school. In some countries (as in the Netherlands), the powerlines can be clearly seen, {numref}`Figure {number} <dem094_fig5> left`. Smaller transformers are often visible in the streets {numref}`Figure {number} <dem094_fig5> right`, one can refer to these.
+To enhance your story you can emphasize that the voltage supply compares to the nearest powerplant, the light at the other side is the school. In some countries (as in the Netherlands), the power lines can be clearly seen, {numref}`Figure {number} <dem094_fig5> left`. Smaller transformers are often visible in the streets {numref}`Figure {number} <dem094_fig5> right`, one can refer to these.
 ```
 
-```{figure}
+```{figure} demo94_figure5.jpg
 ---
 width: 90%
 name: dem094_fig5
 ---
-In the Netherlands you often can see the powerlines and the transformers near a city.
+In the Netherlands you often can see the power lines and the transformers near a city (left). There are smaller transformers in each district (right).
 ```
 
 ## Physics background

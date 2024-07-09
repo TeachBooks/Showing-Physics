@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">magnetic field, potential well, energy conservation, Lenz's law</td>
     </tr>
-</table><br>
+</table>
 
 This demo has been described earlier by {cite:t}`Veld2007`.
 
@@ -34,7 +34,7 @@ This demo has been described earlier by {cite:t}`Veld2007`.
 </div>
 
 ## Introduction
-A steel ball rolls towards a set of neatly lined up similar looking balls. When the rolling ball touches the set of balls, the reat shoots off at high speed. A 'cannonball'? Have the laws of mechanics been defied? What about the laws of conservation? 
+A steel ball rolls towards a set of neatly lined up similar looking balls. When the rolling ball touches the set of balls, the last ball shoots off at high speed. A 'cannonball'? Have the laws of mechanics been defied? What about the laws of conservation? 
 
 ## Equipment
 * A strong magnetic balls;

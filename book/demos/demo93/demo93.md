@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # DNA
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -23,7 +17,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Diffraction, interference, DNA-structure</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 This demonstration allows you to bridge the gap between biology and physics. The demonstration optically duplicates (using a laser and a ballpoint pen spring) a photo of the X-ray diffraction pattern of DNA that has been used in unravelling DNA structure. As a pure physics demonstration, it is valuable to show the use of diffraction to unravel patterns. In addition, this diffraction pattern is more complex than that of a lattice, but still simple enough to calculate.
@@ -50,7 +44,7 @@ The setup consists of a laser, a beam widener of two positive lenses and a sprin
 ## Preparation
 Look for a ballpoint pen spring with a fairly small pitch. The spring in this example has a pitch of about 3 mm. It is advisable to prepare the whole setup in advance.
 
-The beam widener used here consists of two positive lenses **(SCHEMATISCHE WEERGAVE NODIG?)**, slightly further apart than the sum of their focal points. Assembly is easiest without a spring. You then ensure a sharp image of the laser on the screen by adjusting the distance between the two lenses. You slide the spring into the beam and try to sharpen the image. The beam should be widened to reveal at least five windings.
+The beam widener used here consists of two positive lenses, slightly further apart than the sum of their focal points. Assembly is easiest without a spring. You then ensure a sharp image of the laser on the screen by adjusting the distance between the two lenses. You slide the spring into the beam and try to sharpen the image. The beam should be widened to reveal at least five windings.
 
 ```{tip}
 This demonstration needs to be prepared properly. Pay attention to didactics and scope. It takes some effort, but it is well worth it.

@@ -1,4 +1,4 @@
-# Cloud Formation
+# Cloud formation
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Clouds, evaporation, condensation</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -57,6 +57,7 @@ Vacuum bell jar, pump, match, and beaker with hot water
 3. Clouds form under the jar at a certain air pressure. The jar is no longer transparent.
 4. *Would clouds form if you hadn't used the match?*
    - Yes, there would be more cloud formation
+   - Yes, but less than now
    - No, there would be no cloud formation
    - It makes no difference
 5. A question to assess students' understanding: *In what practical situations does this type of cloud formation occur?*
