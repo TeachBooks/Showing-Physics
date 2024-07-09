@@ -108,11 +108,12 @@ The setup schematically.
 ```
 
 We focus on what happens at B. Initially, thermal equilibrium exists throughout the space: the total power radiated by B equals the total power B absorbs from the whole space. Now, something very cold is placed at A. Over time, this affects the entire space, influencing B. But we focus on the immediate effects on B following the change at A. 
-Think of A and B connected by a cylinder $\pi$ (gray in {numref}`Figure<demo51_fig4>`). B cools down because the radiative power that A sends through $\pi$ to B is now less than before, meaning less than the radiative power B sends through $\pi$ to A. More precisely: B experiences a net negative electromagnetic flux from the cylinder, causing B’s temperature to decrease. Without the mirrors, this would apply to every point in the space, and the 'cold source' would warm up while the entire rest of the space cooled. Since the emitted power is proportional to the fourth power of the temperature (in Kelvin), this change is quite a strong effect.
+
+Think of A and B connected by a cylinder $\pi$ (gray in {numref}`Figure {number} <demo51_fig4>`). B cools down because the radiative power that A sends through $\pi$ to B is now less than before, meaning less than the radiative power B sends through $\pi$ to A. More precisely: B experiences a net negative electromagnetic flux from the cylinder, causing B’s temperature to decrease. Without the mirrors, this would apply to every point in the space, and the 'cold source' would warm up while the entire rest of the space cooled. Since the emitted power is proportional to the fourth power of the temperature (in Kelvin), this change is quite a strong effect.
 But point B is special because the radiation that A emits within the solid angle $\Omega$’ is received by B from an equally large solid angle $\Omega$. So the radiative power reaching B via $\Omega$ also decreases, while B initially emits the same amount into $\Omega$. This makes B’s temperature drop faster than the area around B. For B, it’s as if A and the entire left mirror are ice-cold.
 
 ```{tip}
-As seen in {numref}`Figure {number}<demo51_fig1>` and {numref}`Figure {number}<demo51_fig2>`, we performed the experiment with two aluminum reflectors from old sun lamps, whose shape is far from parabolic. These also lack a clear focal point. We expect a more significant temperature drop with actual parabolic mirrors.
+As seen in {numref}`Figure {number} <demo51_fig1>` and {numref}`Figure {number} <demo51_fig2>`, we performed the experiment with two aluminum reflectors from old sun lamps, whose shape is far from parabolic. These also lack a clear focal point. We expect a more significant temperature drop with actual parabolic mirrors.
 ```
 
 ## Follow-up
@@ -126,6 +127,7 @@ name: demo51_fig5
 ---
 The 'radiation source' in the focal point of the emitting mirror; it was 35°C at that moment, hence the 'overheated' mirror.
 ```
+
 ```{figure} B44_LtB03_foto6.jpg
 ---
 width: 50%
@@ -134,6 +136,7 @@ name: demo51_fig6
 ---
 The camera sees a cold spot in the focal point of the receiving mirror.
 ```
+
 ```{figure} B44_LtB03_foto7.jpg
 ---
 width: 50%

@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Who dares?
 <span style="font-size: 25px; color: gray;">Stable equilibrium using small bottles</span>
 
@@ -24,7 +18,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">(Stable) equilibrium, gravity, normal force, line of force</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 This demonstration demonstrates the stability of an equilibrium when the center of mass is directly below its support. You can present this experiment as a challenge to the students, engaging them meaningfully. 
@@ -44,12 +38,12 @@ The setup. Who can drink the contents of the top bottle without touching the bot
 ``` 
 
 ## Preparation
-None, except gathering the equipment. The performance is more convincing if you prepare the set-up in front of the students instead of before the lesson.
+None, except gathering the equipment. The performance is more convincing if you prepare the set-up on the spot.
 
 ## Procedure
-In my experience it is best to set up the bottles while the students are watching, emphasizing the importance of the upper bottle by very diligently placing it on top of the opener while pushing the opener down demonstratively. You could provide a cleaning cloth or a mop in plain sight, warning the students that whoever makes a mess should clean it himself.
+While setting up the experiment, emphasize the importance of the upper bottle by very diligently placing it on top of the opener while demonstratively pushing the opener down. You could provide a cleaning cloth or a mop in plain sight, warning the students that whoever makes a mess should clean it himself.
 
-Presumably you will have everyone’s attention by now, so it is time to put up the challenge: drink from the upper bottle without touching the lower bottle or the bottle opener and without using any other equipment except for one extra bottle opener (only to be used to open the top bottle). Pretty soon a student will say something like: ‘you can just grab it’. The teacher’s challenge than becomes to test this student’s self-assurance. Is he or she sure enough about this possibility to try it? Is the student willing to clean up the mess he might make? Of course, you also ask why the student thinks he can take the top bottle without breaking anything. When you feel the time is appropriate, the student can actually try his solution (and thus collect his reward).
+Now you have everyone’s attention, it is time to put up the challenge: drink from the upper bottle without touching the lower bottle or the bottle opener and without using any other equipment except for one extra bottle opener (only to be used to open the top bottle). Pretty soon a student will say something like: ‘you can just grab it’. The teacher’s challenge than becomes to test this student’s self-assurance. Is (s)he sure enough about this possibility to try it? Is the student willing to clean up the mess (s)he might make? Of course, you also ask why the student thinks (s)he can take the top bottle without breaking anything. When you feel the time is appropriate, the student can actually try the envisioned solution (and thus collect the reward).
 
 ```{figure} demo17_figure2.jpg
 ---
@@ -67,4 +61,3 @@ This demonstration can provide a valuable introduction to the differences betwee
 
 ## Physics background
 The center of gravity of the lower bottle is below the support, formed by the bottle opener. Therefore, the system is in equilibrium even without the top bottle. Depending on the (required) level of the students you can explain this more thoroughly by drawing the appropriate lines of action. The lines of action of the gravitational force and the normal force are exactly aligned. The line of action of the normal force will position itself ‘automatically’ in this exact configuration, which is possible whenever the center of gravity is below the supporting surface. In fact, the normal force probably consists of many small normal forces. Adding them correctly will result in one single resultant normal force with the described property.
-

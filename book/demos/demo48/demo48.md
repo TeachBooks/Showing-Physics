@@ -36,12 +36,12 @@ This demonstration shows the alternating voltage across a (bicycle) lamp, the ch
 * Voltage sensor
 * Luminosity sensor
 * Coach7 measurement program
-* CMA files (available on the [NVON website](www.nvon.nl/showdefysica2))
+* CMA files
 
 ## Preparation
 Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect the voltage and luminosity sensors to an interface and start the Coach measurement program. Ensure the interface is recognized and displays a standard diagram of voltage versus time. Test the luminosity sensor and adjust its distance from the lamp so that the measured luminosity is within the sensor's range. Set a trigger condition to stabilize the display of both signals.
 
-```{figure} B35_NvV03_Fig1_wisselspanninglampje-site.jpg
+```{figure} demo48_figure1.JPG
 ---
 width: 50%
 align: center
