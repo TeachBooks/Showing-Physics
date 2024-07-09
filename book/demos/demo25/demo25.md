@@ -6,7 +6,7 @@ align: right
 ```
 
 # Feeling physics with your own body!
-<span style="font-size: 25px; color: gray;">Center of mass demo’s,</span>
+<span style="font-size: 25px; color: gray;">Center of mass demonstrations</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -25,18 +25,18 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">center of mass, distribution of mass, stability</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo25_figure1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
-CAPTION
+Center of mass, playing an essential role in daily life.
 ```
 
 ## Introduction
-Learning to recognize Physics in the everyday environment, visualizing Physics and “feeling” it with your own body, and then thinking back-and-forth between phenomena and concepts, that is the object of this series of demonstrations. That is possible with a class of 30 students, but also with a conference room of 500 students and parents. And it is fun! 
+Learning to recognize *physics in the everyday environment*, visualizing physics and “feeling” it with your own body, and then [thinking back-and-forth](../../Pedagogy/BackAndForthThinking.md) between phenomena and concepts, that is the object of this series of demonstrations. That is possible with a class of 30 students, but also with a conference room of 500 students and parents. And it is fun! 
 
 ## Equipment
 * A ruler of 1 m or just a stick
@@ -49,11 +49,8 @@ Learning to recognize Physics in the everyday environment, visualizing Physics a
 At the location (classroom or auditorium), think briefly about maximizing visibility and how to create just enough movement space for the participating audience. 
 
 ```{figure} demo25_figure2.png
----
 width: 50%
 align: center
----
-CAPTION
 ```
 
 ## Procedure
