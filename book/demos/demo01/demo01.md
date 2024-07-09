@@ -1,4 +1,4 @@
-# Introducing a Particle Model to explain the coloring of eggs 
+# Introducing a particle model to explain the coloring of eggs 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 

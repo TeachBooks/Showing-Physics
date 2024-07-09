@@ -3,7 +3,7 @@
 width: 35%
 align: right
 ```
-# LEDs and Photons
+# LEDs and photons
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

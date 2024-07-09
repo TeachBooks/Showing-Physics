@@ -3,7 +3,7 @@
 width: 35%
 align: right
 ```
-# Infra-red investigations and surprises
+# Surprising infra-red investigations
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

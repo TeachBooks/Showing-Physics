@@ -1,4 +1,4 @@
-# High Voltage
+# High voltage
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

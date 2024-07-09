@@ -6,7 +6,7 @@ align: right
 
 Foto's
 
-# Merry-go-around of floating candles, 
+# Merry-go-around of floating candles 
 <span style="font-size: 25px; color: gray;">Lorentz force in liquids</span>
 
 

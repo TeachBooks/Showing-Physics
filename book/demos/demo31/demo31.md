@@ -5,7 +5,7 @@ width: 35%
 align: right
 ```
 
-# Blowing out a Light Bulb
+# Blowing out a light bulb
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

@@ -53,7 +53,6 @@ $$ |c_m m_m \Delta T_m| = |c_w m_w \Delta T_w| $$
 With the assumption the specific heat is the same, $m_w$ can be calculated:
 
 $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
-
 ````
 
 ## Equipment
