@@ -1,4 +1,4 @@
-# Can It Be Air?
+# Can it be air?
 <span style="font-size: 25px; color: gray;">reasoning about flames and vapor</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
