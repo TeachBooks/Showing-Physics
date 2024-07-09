@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Who Dares?
+# Who dares?
 <span style="font-size: 25px; color: gray;">Stable equilibrium using small bottles</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Ocean currents
 <span style="font-size: 25px; color: gray;">Warm & cold, salty & fresh</span>
 
@@ -26,7 +20,7 @@ Antonia Jiminez Ruiz</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">temperature, density, convection, salt concentration</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -93,10 +87,9 @@ Watch the videos how to put the two jars on top of each other, and practice a fe
 12. *What if I add a little warm (red) water to the other side?* Draw the flow.
 13. Now execute, ensure a clear background. We see a convection cell.
 
-
 ```{figure} demo28_figure1.png
 ---
-width: 50%
+width: 70%
 align: center
 name: demo28_figure1
 ---
@@ -116,14 +109,12 @@ name: demo28_figure1
     </div>
 </div>
 
-
-
 ## Physics background
 Water expands when heated, except between 0 and 4 degrees (anomaly of water). So, cold water has a greater density than warm water and will sink while warm water will rise. The same applies to salty versus fresh water. These mechanisms play a role in ocean currents, alongside the influence of wind and the rotation of the earth. Ponce de Leon, a successor of Columbus, had already noticed the Gulf Stream. As head of the American postal service, <a href="https://blog.scistarter.org/2022/04/ben-franklin-founding-father-citizen-scientist/" target="_blank">Benjamin Franklin became interested in the time differences between postal ships taking different routes</a>, and through interviews with captains, he mapped out the Gulf Stream ({cite:t}`winchester2010qualitative`). Because of the large specific heat capacity of water and the huge amount, the effect of the Gulf Stream on the climate in Western Europe is significant.
 
 ```{figure} demo28_figure5.jpg
 ---
-width: 50%
+width: 90%
 align: center
 name: demo28_figure5
 ---

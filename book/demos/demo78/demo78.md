@@ -1,10 +1,4 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
-# Rotating Balloon
+# Rotating balloon
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -23,7 +17,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Rotation, centrifugal force</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -36,7 +30,6 @@ align: right
         ></iframe>
     </div>
 </div>
-
 
 ## Introduction
 For many students the centripetal force is difficult to grasp. The misconception of a 'centrifugal force' is constantly looming. This experiment challenges students to seek an explanation for the displayed situation. By using the correct scientific terminology, encourage students to move away from the possible misconception of centrifugal force. 

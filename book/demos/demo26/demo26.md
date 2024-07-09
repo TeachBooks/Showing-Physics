@@ -32,7 +32,7 @@ This is a typical example of a Predict-Explain-Observe-Explain demonstration abo
 
 ```{figure} demo26_figure1.jpg
 ---
-width: 50%
+width: 80%
 align: center
 ---
 A cup of water on an electronic balance. We hang a substantial screw in the water or another metal object.

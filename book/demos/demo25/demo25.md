@@ -5,7 +5,8 @@ width: 35%
 align: right
 ```
 
-# Center of mass demo’s, feeling Physics with your own body!
+# Feeling physics with your own body!
+<span style="font-size: 25px; color: gray;">Center of mass demo’s,</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Rich Boiling Phenomena
+# Rich boiling phenomena
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -23,7 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heating, Expansion, Boiling, Condensation, Bubbles, Water, Air, Pressure</td>
     </tr>
-</table><br>
+</table>
 
 Earlier described in {cite:t}`Vonk2015`.
 

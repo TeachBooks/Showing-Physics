@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Colliding with Newton's Third Law 
+# Colliding with Newton's third law 
 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -18,14 +18,13 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16 - 18E</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16 - 18</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Force, Newton, Third law, IOLab</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
 Students find Newton's third law difficult to grasp, as it is counterintuitive. This demonstration specifically addresses that aspect: in collisions, there are force pairs, where forces are equal (independent of masses) but opposite in direction. We use two didactic principles in this demonstration: think-pair-share and then P(E)OE. 

@@ -3,7 +3,7 @@
 width: 35%
 align: right
 ```
-# Alternating Voltage over a Lamp
+# Alternating voltage over a Lamp
 
 <span style="font-size: 25px; color: gray;">Quick computer measurements to measure alternating voltage and luminosity</span>
 
