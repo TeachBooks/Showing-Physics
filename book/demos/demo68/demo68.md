@@ -26,17 +26,16 @@ align: right
     </tr>
 </table>
 
-## Introduction
-Students find Newton's third law difficult to grasp, as it is counterintuitive. This demonstration specifically addresses that aspect: in collisions, there are force pairs, where forces are equal (independent of masses) but opposite in direction. We use two didactic principles in this demonstration: think-pair-share and then P(E)OE. 
-
-
 ```{figure} demo68_figure1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
-You use two IOlabs, one of which is weighted.
+Two carts colliding. Forces acted upon by each of the carts is measured.
 ```
+
+## Introduction
+Students find Newton's third law difficult to grasp, as it is counterintuitive. This demonstration specifically addresses that aspect: in collisions, there are force pairs, where forces are equal (independent of masses) but opposite in direction. We use two didactic principles in this demonstration: think-pair-share and then P(E)OE. 
 
 ```{figure} demo68_figure2.JPG
 ---
@@ -46,7 +45,6 @@ align: center
 The forces on the IOlabs are equal in magnitude but opposite in direction. These forces also act for the same duration.
 ```
 
-
 ## Equipment
 - 2 IOlabs
 - Mass
@@ -54,7 +52,6 @@ The forces on the IOlabs are equal in magnitude but opposite in direction. These
 - Computer
 
 The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: <a href="https://www.iolab.science/getting_started.html" target="_blank">https://www.iolab.science/getting_started.html</a> and an introductory video below (use automated translation):
-
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -92,7 +89,7 @@ Ensure that you are familiar with the IOlab, that you can read out sensors, and 
 
 ```{figure} demo68_figure3.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The car pushes the truck to the nearest garage.

@@ -25,7 +25,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Alternating voltage, direction of electric current, power, luminosity, frequency</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 This demonstration shows the alternating voltage across a (bicycle) lamp, the changing luminosity of the lamp, and the difference between the voltage and luminosity changes. As both quantities change rapidly over time, they need to be measured at a high frequency. This can be easily done using the Coach program. Students will see in a diagram how quickly the voltage changes sign and will be asked to predict how the luminosity changes.
@@ -43,12 +43,13 @@ Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect
 
 ```{figure} demo48_figure1.JPG
 ---
-width: 50%
+width: 70%
 align: center
 name: demo48_fig1
 ---
 The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 ```
+
 ```{tip}
 * Place the setup on a magnetic board or inclined surface so students can see it clearly.
 * Secure the luminosity sensor in a stand to keep it at the correct height above the lamp and prevent it from receiving too much or too little light.
@@ -66,7 +67,7 @@ The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 9. Ask students how the graphs would change if direct current (DC) was used instead of alternating current (AC). Demonstrate this.
 10. Extend the demonstration with measurements on LED lighting.
 
-```{figure} B35_NvV03_Fig2_wisselspanninglampje.JPG
+```{figure} demo48_figure2.JPG
 ---
 width: 50%
 align: center
@@ -74,10 +75,12 @@ name: demo48_fig2
 ---
 Two measurements in one diagram: the alternating voltage across the lamp and the luminosity of the lamp over time.
 ```
+
 ```{tip}
 * Ask students to predict what will happen to the luminosity.
 * A suggested sequence for the demonstration could be: Measurement 1: AC voltage, Measurement 2: lamp luminosity, Measurement 3: combined measurement in one diagram.
 ```
+
 ## Physics Background
 The alternating voltage from our power grid changes at 50 Hz, as does the alternating current. In each period, the voltage and current rise and fall twice. The direction of the current doesn't matter for the lamp to light up. Therefore, the lamp's brightness fluctuates exactly 100 times per second. Students can quickly grasp this explanation, though they might not think of it on their own. There is a common misconception that light sources do not vary in intensity because this fluctuation is not easily perceived {cite}`Bacalla2013`.
 

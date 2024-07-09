@@ -1,5 +1,5 @@
 # Who needs force?
-<span style="font-size: 25px; color: gray;">Sustain Constant Speed with Newton’s First Law</span>
+<span style="font-size: 25px; color: gray;">Sustain constant speed with Newton’s first law</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -12,7 +12,7 @@
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 16</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">25 - 16</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -55,7 +55,7 @@ A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here.
 
 ```{figure} demo05_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The actual setup

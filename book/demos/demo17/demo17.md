@@ -47,7 +47,7 @@ Now you have everyone’s attention, it is time to put up the challenge: drink f
 
 ```{figure} demo17_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The top bottle is not necessary for balance. The lines of the normal force and the gravitational force can be aligned. In other words, the center of gravity is located below the support.

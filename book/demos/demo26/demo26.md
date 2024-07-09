@@ -23,7 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">weight, buoyant force, action/reaction, pressure</td>
     </tr>
-</table><br>
+</table>
 
 The demo is derived from the demo "the-bolt-in-the-beaker" from the York Science Education Center.
 
@@ -50,12 +50,12 @@ Set up the needed materials on the table.
 
 ## Procedure
 1. Present the setup (figures 1a and 2a). Explain that you will lower the screw into the water and ask for individual predictions in multiple-choice format, as follows: \
-What will happen to the mass indicated on the balance?
+*What will happen to the mass indicated on the balance?*
    1. Will increase
    2. Will remain the same
    3. Will decrease 
    
-   How do you explain this?
+*How do you explain this?*
    1. The weight of the screw is fully supported by the string.
    2. There is an buoyant force on the screw and therefore an equal force downward on the cup.
    3. The screw displaces some water by pushing it upward.
@@ -69,7 +69,8 @@ What will happen to the mass indicated on the balance?
 7. Repeat with string attached to the spring balance instead of the stand.
 
 ## Physics background
-The screw experiences an buoyant force equal to the weight of the displaced liquid. Therefore, there is an buoyant force from the water on the screw ($F_{\text{water on screw}}$) and hence, according to Newton's 3^{rd}^ law, a downward force from the screw on the water ($F_{\text{screw on water}}$). The latter force acts on the scale. An alternative explanation is that the water level rises, increasing the pressure on the bottom ($p = F/A = ρgh$) and thus increasing the force on the scale.<br>
+The screw experiences an buoyant force equal to the weight of the displaced liquid. Therefore, there is an buoyant force from the water on the screw ($F_{\text{water on screw}}$) and hence, according to Newton's 3$^{rd}$ law, a downward force from the screw on the water ($F_{\text{screw on water}}$). The latter force acts on the scale. An alternative explanation is that the water level rises, increasing the pressure on the bottom ($p = F/A = ρgh$) and thus increasing the force on the scale.
+
 If the string is connected to a spring balance, the increase on the scale will be exactly equal to the decrease in force on the spring balance. This can be demonstrated at the end. Use the setup without the spring balance first.
 
 ```{tip}

@@ -5,7 +5,7 @@ align: right
 ```
 
 # Shadow of a flame 2
-<span style="font-size: 25px; color: gray;">Visualisation of heat flow</span>
+<span style="font-size: 25px; color: gray;">Visualization of heat flow</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -24,15 +24,14 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
 This is a demonstration that must be seen by everyone because it showcases such beautiful physics. Depending on the purpose you choose you can emphasize different aspects.
 
 ```{figure} demo74_fig1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The density current is visible
@@ -41,7 +40,7 @@ The density current is visible
 ## Equipment
 * Tea lights
 * Dark room
-* Strong lightsource (e.g. phone flashlight)
+* Strong light source (e.g. phone flashlight)
 * Ice cream
 
 ## Preparation
@@ -58,7 +57,7 @@ It's nice to attach an ice cream to a stand. It also creates an airflow that you
 
 ```{figure} demo74_fig2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The shadow of a flame

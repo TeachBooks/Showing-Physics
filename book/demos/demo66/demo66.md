@@ -22,12 +22,9 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Tension, centripedal force</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Tension, centripetal force</td>
     </tr>
-</table><br>
-
-## Introduction
-The pendulum experiment is often performed to determine the acceleration due to gravity $g$  using the relationship between the length and the period of the pendulum. This demonstration is a variant of that. Students observe the measured force varying over time. To determine the oscillation period, students need to think about how the tension varies and how the position of the mass affects the magnitude of this tension.
+</table>
 
 ```{figure} demo66_figure1.jpg
 ---
@@ -37,6 +34,9 @@ name: demo66_fig1
 ---
 The setup with a ball attached to the force sensor.
 ```
+
+## Introduction
+The pendulum experiment is often performed to determine the acceleration due to gravity $g$  using the relationship between the length and the period of the pendulum. This demonstration is a variant of that. Students observe the measured force varying over time. To determine the oscillation period, students need to think about how the tension varies and how the position of the mass affects the magnitude of this tension.
 
 ## Equipment
 - Setup with stand and force sensor
@@ -88,12 +88,11 @@ For this experiment we used Coach 7 to read out our device, however, many force 
 ## Physics background
 The length of the pendulum remains almost constant because the length of the strain gauge in the force sensor does not change for these tension values. The pendulum performs a harmonic oscillation if the displacement is small. The tension in the string is positive and does not change sign as the displacement does. In the extreme positions of the pendulum, the tension is minimal because the speed there is zero. In the equilibrium position, the tension is maximal because, in addition to compensating for gravity, it also provides the centripetal force. Through force constructions (equilibrium position and extreme position), students can see that the value of the tension changes as a function of the position of the block. Due to the symmetry of the pendulum, two minimal or two maximal values of the tension must be passed for one period of the pendulum. See also {cite}`Pendrill2023`.
 
-For further research you can use energy conservation laws to calculate the speed in the equilibrium position. Verify this speed using the centripedal force determined from the measured graph. Make a video measurement of the swinging block and verify your calculations with video measurement in Coach 7.
+For further research you can use energy conservation laws to calculate the speed in the equilibrium position. Verify this speed using the centripetal force determined from the measured graph. Make a video measurement of the swinging block and verify your calculations using video measurement.
 
 ```{tip}
 Ensure the hook of the force sensor is perpendicular to the loop of the string so that the block remains swinging in a plane.
 ```
-
 
 ## References
 ```{bibliography}

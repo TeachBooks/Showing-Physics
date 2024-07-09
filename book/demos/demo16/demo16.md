@@ -70,7 +70,7 @@ This will result in different graphs. Only after a thorough discussion, you show
 
 ```{figure} demo16_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 name: demo16_fig2
 ---

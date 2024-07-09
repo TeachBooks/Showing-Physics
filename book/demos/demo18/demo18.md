@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Dropping balls and bottles 
 <span style="font-size: 25px; color: gray;">Elasticity versus gravity</span>
 
@@ -24,8 +18,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">gravity and elastic force, acceleration of gravity</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
 When a rigid body is dropped, all parts have the same acceleration. However, when you drop a body where the parts can move with respect to each other you get unexpected results!
@@ -39,7 +32,7 @@ When a rigid body is dropped, all parts have the same acceleration. However, whe
 
 ```{figure} demo18_figure1.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 Two balls connected with an elastic band.
@@ -50,7 +43,7 @@ Connect the balls with the elastic band. Use the awl or a pin/nail to make a hol
 
 ```{figure} demo18_figure2.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 A can with a hole.
@@ -91,8 +84,7 @@ The dropped bottle that already had a started water flow seems to empty out. But
 ## Follow-up 
 A colleague testing the dropping balls replaced the bottom tennis ball with a basketball. He expected and got something extra: an oscillation.
 
-There are two variations of this demo included in this book: [Falling spring](../demo96/demo96.md) and [Parabolic orbit in free fall?](../demo43/demo43.md).
-
+There are two variations of this demo included in this book: [Falling spring](../demo96/demo96.md) and [Parabolic orbit in free fall?](../demo43/demo43.md)
 
 ## References
 ```{bibliography}

@@ -23,8 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Free fall, projectile motion, horizontal launch</td>
     </tr>
-</table><br>
-
+</table>
 
 ```{figure} demo46_figure2.jpg
 ---
@@ -38,10 +37,6 @@ Ticker (height 2.4 cm, frequency 100 drops/s) and parabola of drops.
 ## Introduction
 This demonstration beautifully shows the independence of the motion of an object in mutually perpendicular directions. Naturally, we are talking about horizontal projectile motion. This principle is made clear here in an almost entirely conceptual way, without quadratic equations but with stunning visuals.
 
-```{warning}
-**Safety**: Stroboscopic lighting can trigger seizures in people with epilepsy; this demonstration is not suitable for them.
-```
-
 ## Equipment
 * Dark room that can preferably be fully darkened
 * Overflow vessel (see {numref}`Figure {number} <demo46_fig1>`)
@@ -54,6 +49,10 @@ This demonstration beautifully shows the independence of the motion of an object
 * Sink
 * Stroboscope
 * Ruler
+
+```{warning}
+Stroboscopic lighting can trigger seizures in people with epilepsy; this demonstration is not suitable for them.
+```
 
 ## Preparation
 * Place a stand on the table next to the faucet by the sink.
