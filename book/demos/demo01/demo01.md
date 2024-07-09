@@ -38,6 +38,11 @@ In this activity the shell of a raw egg is removed without boiling it. Next, stu
     * Instant coffee
     * Coloured soft drinks 
 
+```{warning} 
+**Safety and environment**<br>
+Use only safe, harmless substances. Boil the shell-less eggs in a fuming cupboard, if possible.
+```
+
 ## Preparation
 Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organic vinegar for about 3-4 days, to remove the shells. Replace the vinegar halfway if no more bubbles are formed, in case some of the shell of the eggs remain attached. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
 
@@ -110,13 +115,11 @@ Food coloring penetrates the outer but not the inner membrane.
 
 Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a zigzag motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are <a href="https://phet.colorado.edu/en/simulations/membrane-channels" target="_blank">nice simulations to visualize the particles' behavior</a> (embedded below).
 
-
 <iframe src="https://phet.colorado.edu/sims/cheerpj/membrane-channels/latest/membrane-channels.html?simulation=membrane-channels"
         width="800px"
         height="800px"        
         allowfullscreen>
 </iframe>
-
 
 *Questions for discussion (to be used for example in a think-pair-share activity)*<br>
 Answer the questions below by trying to use the ideas about particles presented above.
@@ -142,11 +145,8 @@ We used a model to explain the observations. The model consists of ideas about t
 ## Physics background
 The shell of an egg is removed by placing it in vinegar for a few days. Bubbles (of carbon dioxide) and water start forming immediately, as calcium ions go into solution, because the calciumcarbonate of the shells slowly disintegrates due to the acid (CaCO$_3$ + 2H$^+$ &rarr; Ca$_2^+$(aq) + CO$_2$ (gas) + H$_2$O). <br>
 
-Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein's theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with ({cite:t}`feynman1963feynman`).
+Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein's theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with {cite:p}`feynman1963feynman`.
 
-```{warning} Safety and environment
-Use only safe, harmless substances. Boil the shell-less eggs in a fuming cupboard, if possible.
-```
 ## References
 ```{bibliography}
 :filter: docname in docnames
