@@ -27,10 +27,6 @@ align: right
     </tr>
 </table><br>
 
-## Introduction
-Students often find interpreting and connecting position, velocity, and acceleration in diagrams challenging. In this demonstration, we create a ($v,t$) graph during the motion, making it clear that the cart at the highest point does not have an acceleration of 0 m/s²! We use the type of educational activity called *'think-pair-share'*. 
-
-
 ```{figure} demo69_figure1.jpg
 ---
 width: 50%
@@ -38,6 +34,9 @@ align: center
 ---
 The setup consists of the IOlab and a slope.
 ```
+
+## Introduction
+Students often find interpreting and connecting position, velocity, and acceleration in diagrams challenging. In this demonstration, we create a ($v,t$) graph during the motion, making it clear that the cart at the highest point does not have an acceleration of 0 m/s²! We use the type of educational activity called *'think-pair-share'*. 
 
 ```{figure} demo69_figure2.JPG
 ---

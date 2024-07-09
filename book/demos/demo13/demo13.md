@@ -5,7 +5,7 @@ align: right
 ```
 
 # Tug-of-War
-<span style="font-size: 25px; color: gray;">can one girl be stronger than four boys?</span>
+<span style="font-size: 25px; color: gray;">Can one girl be stronger than four boys?</span>
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
@@ -27,7 +27,7 @@ align: right
 
 
 ## Introduction
-Can one girl be stronger than 4 boys? Sure! if she is clever…
+Can one girl be stronger than four boys? Sure! if she is clever…
 
 ## Equipment
 * 4 boys 
@@ -44,12 +44,12 @@ The young lady will always be stronger
 ```
 
 ## Preparation
-Ask four strong boys and choose one girl as volunteers to help.
+Ask four strong boys and one girl as volunteers.
 
 ## Procedure
 Ask the four boys whether they are, together, stronger than the girl. Let the four boys take up the rope, two on each end and encourage them to pull hard and keep the rope stretched horizontal. Then ask the young lady to use her finger to push the rope downward in the middle (see {numref}`Figure {number}<demo13_fig1>`). The boys will not succeed in keeping the rope tight and horizontal. 
 
-Ask the students in the class to explain why the boys cannot keep the rope tight and horizontal. Make a simple drawing on the board and demonstrate that a vertical force of 50 N exerted by the girl requires each boy to exert a force of more than 700 N when the angle between the rope and horizontal is 1 degree. This is a surprisingly large force to compensate the small vertical force exerted by the finger.
+Ask the students in the class to explain why the boys cannot keep the rope tight and horizontal. Make a simple drawing on the board and demonstrate that a vertical force of 50 N exerted by the girl requires each boy to exert a force of more than 700 N when the angle between the rope and horizontal is 1°. This is a surprisingly large force to compensate the small vertical force exerted by the finger.
 
 ```{tip}
 Another version of this demonstration was published by {cite:t}`Vollebregt`. They connected two ropes on either side of a crate of beer and told the boys to pull so hard that the ropes would be horizontal. Impossible! 
@@ -71,9 +71,8 @@ $$\Rightarrow  F_{\text{boys on rope}} = \frac{-F_{\text{lady on rope}}}{2·sin(
 
 Angle $\theta$ is the angle between rope and the horizontal and is very small, thus the vertical component of the force of the boys is very small. Therefore, minimal force is needed to bend the rope downwards. 
 
-
 ## Follow up
-Use photographs of cable car and powerline set-ups to calculate the tension in the cables.
+Use photographs of cable car and power line set-ups to calculate the tension in the cables. See for instance this [Dutch national exam question](https://newsroom.nvon.nl/files/default/nah151vb.pdf).
 
 ## References
 

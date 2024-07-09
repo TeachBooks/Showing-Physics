@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Playing with Density
+# Playing with density
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

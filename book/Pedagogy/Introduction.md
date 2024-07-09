@@ -6,7 +6,7 @@ align: right
 
 # Introduction
 
-Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveile the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience. Where most book on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
+Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveil the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience. Where most book on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
 
 ```{figure} ../demos/demo12/demo12_figure2.jpg
 ---
@@ -31,7 +31,7 @@ Without using any strategy in the pedagogical approach, demonstrations are not l
 width: 40%
 align: center
 ---
-A teacher demonstrating the [singing rod](../demos/demo81/demo81.md) to teach students about standing waves.
+A teacher demonstrating the [singing rod](../demos/demo81/demo81.ipynb) to teach students about standing waves.
 ```
 
 So what exactly can you accomplish with demonstrations? The overall learning goals can be categorized as follows (after {cite:t}`hodson1993re`):
@@ -40,7 +40,7 @@ So what exactly can you accomplish with demonstrations? The overall learning goa
 
 Through practical activities, we often hear, *"Students learn to better understand theory by relating it to the world around them"*. *"The students learn to better understand the world around them by linking it to theory"* we think is also very important. This is "learning physics". Our [Demonstrations for conceptual development](../demos/Conceptdemos1.md) cover learning objectives of this kind. 
 
-Most of our demonstrations relate to conceptual development. These demonstrations have been chosen for their suitability to elucidate a physical phenomen or concept. They belong in the regular instruction lessons. The descriptions often include step-by-step suggestions for implementation in class, including opportunities to get students thinking for themselves as much as possible. They stimulate physical thinking and help students build a physical concept network.
+Most of our demonstrations relate to conceptual development. These demonstrations have been chosen for their suitability to elucidate a physical phenomenon or concept. They belong in the regular instruction lessons. The descriptions often include step-by-step suggestions for implementation in class, including opportunities to get students thinking for themselves as much as possible. They stimulate physical thinking and help students build a physical concept network.
 
 **Learning about physics**
 
@@ -74,7 +74,7 @@ There might be a fourth reason why we include demonstrations in our teaching-not
 Demonstrations also play a role at special occasions: at an open day, at an anniversary, at a farewell. In this book you  will find examples of demonstrations that stimulate thought, but which also have a surprising or playful twist, making them suitable to show at such special occasions. The topics are by no means always part of the school physics curriculum. However they all appeal to common sense and the outcome is often counterintuitive. Of the charm of physics is taken full advantage in this section!
 
 ## Different goals demand different methods
-Many of our demonstrations can be easily adapted to be used for a different purpose. Where you can explore with students what is happening and why it happens in a certain way when focussing on conceptual developement, you can ask students as well to think of new experiments to come up with their own explanation. This approach fits better with the objectives of teaching them how to set up a scientific investigation. It needs little explanation that each of these goals require different teaching strategies and, hence, deserve their own chapter in this book.
+Many of our demonstrations can be easily adapted to be used for a different purpose. Where you can explore with students what is happening and why it happens in a certain way when focussing on conceptual development, you can ask students as well to think of new experiments to come up with their own explanation. This approach fits better with the objectives of teaching them how to set up a scientific investigation. It needs little explanation that each of these goals require different teaching strategies and, hence, deserve their own chapter in this book.
 
 We have found the following questions of value: 
 1. What is happening here? Do I understand this, or is it different than I thought?

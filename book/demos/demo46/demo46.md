@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Floating Pearls
+# Floating pearls
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">
@@ -44,7 +44,7 @@ This demonstration beautifully shows the independence of the motion of an object
 
 ## Equipment
 * Dark room that can preferably be fully darkened
-* Overflow vessel (see {numref}`Figure {number}<demo46_fig1>`)
+* Overflow vessel (see {numref}`Figure {number} <demo46_fig1>`)
 * Two stands
 * Height-adjustable table
 * Clamps
@@ -88,7 +88,7 @@ Your demonstration might proceed as follows, starting from when the audience see
   From the vibrating frequency, you get the time between two visible droplets (In the photos: 0.01s). Count the number of floating pearls in the arc ({numref}`Figure {number}<demo46_fig2>`) and you know the fall duration.
 
 *"The pattern seems regular. What is regular about it?"*
-  Not only the time but also the horizontal distance between successive droplets is equal ({numref}`Figure {number}<demo46_fig3`). You can measure this. From this, the horizontal speed of each droplet follows. It remains nearly constant during the fall.
+  Not only the time but also the horizontal distance between successive droplets is equal ({numref}`Figure {number}<demo46_fig3>`). You can measure this. From this, the horizontal speed of each droplet follows. It remains nearly constant during the fall.
 
   ```{figure} demo46_figure3.JPG
 ---

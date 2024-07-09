@@ -20,7 +20,7 @@
 </table>
 
 ## Introduction
-What is light? Why is it dark at night while there are so many stars? Why do we (not) see objects? These are relevant questions that we can ask ourselves. But these are also interesting questions from a physics perspective. This demo, adapted from {cite}`demircioglu2019`, lets students consider answers to these questions in an inquisitive way.
+What is light? Why is it dark at night while there are so many stars? Why do we (not) see objects? These are relevant questions that we can ask ourselves. But these are also interesting questions from a physics perspective. This demo, adapted from {cite:t}`demircioglu2019`, lets students consider answers to these questions in an inquisitive way.
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">

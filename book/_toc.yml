@@ -76,7 +76,6 @@ parts:
       - file: demos/demo79/demo79 #speed of sound
       - file: demos/demo80/demo80 #measuring stars
       - file: demos/demo81/demo81.ipynb #singing rod
-      - file: demos/test.ipynb 
       - file: demos/demo83/demo83 #bouncingball
       - file: demos/demo87/demo87 #olive oil
       - file: demos/demo49/demo49 #hotspots in microwave

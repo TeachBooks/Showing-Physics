@@ -44,7 +44,7 @@ Blow the bubbles from above to the Van de Graaff generator (or let a student do 
 
 ```{figure} demo10_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The bubbles on the left move towards the Van de Graaff generator, while the bubbles on the right move away from the generator. How is that possible?

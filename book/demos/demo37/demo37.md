@@ -3,7 +3,7 @@
 width: 35%
 align: right
 ```
-# Boyle's Law 
+# Boyle's law 
 
 <span style="font-size: 25px; color: gray;">How do you verify a physical law?</span>
 

@@ -117,13 +117,13 @@ Finally, discuss the whole circuit again: there are three separate circuits, eac
 If required, everything can then be measured and the whole circuit calculated. For this, the best strategy is to draw the whole circuit, put in all the data and then see where to start calculating.
 
 ```{admonition} Enhancing your story
-To enhance your story you can emphasize that the voltage supply compares to the nearest powerplant, the light at the other side is the school. In some countries (as in the Netherlands), the power lines can be clearly seen, {numref}`Figure {number} <dem094_fig5> left`. Smaller transformers are often visible in the streets {numref}`Figure {number} <dem094_fig5> right`, one can refer to these.
+To enhance your story you can emphasize that the voltage supply compares to the nearest powerplant, the light at the other side is the school. In some countries (as in the Netherlands), the power lines can be clearly seen, {numref}`Figure {number} <demo94_fig5>`*left*. Smaller transformers are often visible in the streets {numref}`Figure {number} <demo94_fig5>`*right*, one can refer to these.
 ```
 
 ```{figure} demo94_figure5.jpg
 ---
 width: 90%
-name: dem094_fig5
+name: demo94_fig5
 ---
 In the Netherlands you often can see the power lines and the transformers near a city (left). There are smaller transformers in each district (right).
 ```

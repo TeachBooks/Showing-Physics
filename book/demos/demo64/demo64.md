@@ -4,8 +4,7 @@ width: 35%
 align: right
 ```
 
-# Boiling by Cooling
-
+# Boiling by cooling
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

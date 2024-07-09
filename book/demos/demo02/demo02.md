@@ -35,15 +35,16 @@ The context of this demonstration: A cappuccino
 
 This question can be posed to your students first. 
 
-``` {exercise}
+```{exercise}
 :label: ex_demo02
 How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. 
 ```
+
 Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
 
 What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
-```` {solution} ex_demo02
+````{solution} ex_demo02
 :class: dropdown
 
 The absorbed heat by the milk is the emitted heat by the water:
@@ -65,6 +66,10 @@ $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
 * Burner
 * Heat resistant gloves (to handle the hot rubber tube) or tongs
 * Access to refrigerator for cold water or milk
+
+```{warning}
+Steam can cause bad burns. So watch out with the steam coming through the rubber tube, use insulating gloves or use tongs. 
+```
 
 ```{figure} demo02_figure1.jpg
 ---
@@ -106,12 +111,9 @@ The experiment clearly shows that much less steam of 100°C is needed than water
 See the comment on withdrawing the tube timely from the milk before suction appears. 
 ```
 
-```{warning}
-Steam can cause bad burns. So watch out with the steam coming through the rubber tube, use insulating gloves or use tongs. 
-```
-
 ```{admonition} Worksheet
 :name: demo02_worksheet
+:class: dropdown
 The following formulas may be of help:
 Specific heat:
 

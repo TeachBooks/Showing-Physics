@@ -5,7 +5,7 @@ align: right
 ```
 
 
-# Tension in a Pendulum
+# Tension in a pendulum
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
