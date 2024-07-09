@@ -4,8 +4,7 @@ width: 35%
 align: right
 ```
 # Does the magnet challenge gravity?
-
-<span style="font-size: 25px; color: gray;">Falling magnet and Newton's Third Law</span>
+<span style="font-size: 25px; color: gray;">Falling magnet and Newton's third law</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -22,7 +21,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Newton's First, Second and Third Law; constant velocity</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Newton's first, second and third law; constant velocity</td>
     </tr>
 </table><br>
 
@@ -51,7 +50,11 @@ Build the experimental set-up as pictured in {numref}`Figure {number}<demo16_fig
 ## Procedure
 The students are probably familiar with a magnet falling slowly through the copper tube. If not, make sure to show it in advance. The explanation of the phenomenon is not strictly required for the learning goals mentioned, but your students are probably too curious not to tell them. The next step is to hang the tube from the force sensor and show a measurement of the force for a couple of seconds (without the magnet). It will show the weight of the tube, which equals the gravitational force on the tube.
 
-Next, you ask your students what will happen to the measured force when you drop the magnet in the tube. Ideally all students should get a chance to draw a graph, e.g. by using small white-boards. Instruct them to draw three distinct parts: a) before the magnet has been dropped in the tube, b) while the magnet is falling and c) after the magnet has left the tube. This will result in different graphs. Only after sufficient and thorough discussion do you show the experiment. Then you can ask your students to explain this result using a free body diagram showing all the forces on the magnet and on the tube, while the magnet has a constant velocity. During the closing discussion you can emphasize the importance of the constant speed.
+Next, you ask your students what will happen to the measured force when you drop the magnet in the tube. Ideally all students should get a chance to draw a graph, e.g. by using small white-boards. Instruct them to draw three distinct parts: 
+a. before the magnet has been dropped in the tube, 
+b. while the magnet is falling and 
+c. after the magnet has left the tube. 
+This will result in different graphs. Only after sufficient and thorough discussion do you show the experiment. Then you can ask your students to explain this result using a free body diagram showing all the forces on the magnet and on the tube, while the magnet has a constant velocity. During the closing discussion you can emphasize the importance of the constant speed.
 
 ```{figure} demo16_figure2.jpg
 ---
@@ -65,9 +68,8 @@ The force-time diagram when the magnet falls through the tube. The blue line is 
 As an important check whether the explanation is clear and students can apply it themselves an additional experiment can be performed with the open tube. In this case the magnet will fall faster than in the uncut tube (but still considerably slower than in free fall). Ask the students to predict whether the increase in force is larger than, equal to or smaller than the increase measured with the uncut tube. Some students will persist in their preconception and you will probably hear comments like: ‘The speed of the magnet is higher and so is the increase in force’ or ‘The magnet is decelerated less, and so is the increase in force’. Once again mother nature provides an unexpected result. Lastly you can compare the measured increase with the weight of the magnet (at rest).
 
 ```{tip}
-• Take your time to make and explain all drawings (F,t-graphs and force-diagrams).
-• This demonstration provides an interesting opportunity to discuss the concept of apparent weightlessness. Is the magnet weightless during its fall?
-
+* Take your time to make and explain all drawings ($F,t$-diagrams and force-diagrams).
+* This demonstration provides an interesting opportunity to discuss the concept of apparent weightlessness. Is the magnet weightless during its fall?
 ```
 
 ## Physics background
@@ -75,9 +77,3 @@ Through the Lorentz force the copper tube will provide an upward force on the ma
 
 ## Follow-up
 With the open tube, the force is less constant than with the closed tube. In the open tube one can see the magnet rotating. Perhaps rotation is less in a closed tube. Why would that be?
-
-
-<!-- ## References
-```{bibliography}
-:filter: docname in docnames
-``` -->

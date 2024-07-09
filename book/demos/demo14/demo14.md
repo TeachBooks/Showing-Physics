@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Stick-slip motion
 <span style="font-size: 25px; color: gray;">kinetic versus static frictionn</span>
 
@@ -46,8 +40,8 @@ Friction is an everyday phenomenon. How would the world behave without friction?
 
 ## Equipment
 * Smooth pvc-tube (diameter32 mm) 
-* Piece of cloth which easily slips over the surface of the tube (see {numref}`Figure {number}<demo14_fig1>`)
-* Small metal tray  (see {numref}`Figure {number}<demo14_fig2>`)
+* Piece of cloth which easily slips over the surface of the tube (see {numref}`Figure {number} <demo14_fig1>`)
+* Small metal tray  (see {numref}`Figure {number} <demo14_fig2>`)
 * Spring (not stiff)
 * String
 * Washers  
@@ -61,8 +55,8 @@ Friction is an everyday phenomenon. How would the world behave without friction?
 1. Hang the piece of cloth across the horizontal pvc-tube. One end should be lower than the other, but the cloth should not slide sideways (static friction)! Then move the tip of the tube gradually downward. The cloth starts to slide, not only downward, but also sideways! As soon as the cloth starts moving a bit, it will also slip sideways and rapidly slide off the tube. When starting to move, static friction becomes kinetic friction. Kinetic friction is smaller than the static friction which kept the cloth in its place initially. 
 ```{figure} demo14_figure1.jpg
 ---
-width: 50%
-align: center
+width: 70%
+name: demo14_fig1
 ---
 Here it is shown that static friction is larger than kinetic friction.
 ```
@@ -71,8 +65,8 @@ Here it is shown that static friction is larger than kinetic friction.
 
 ```{figure} demo14_figure2.jpg
 ---
-width: 50%
-align: center
+width: 70%
+name: demo14_fig2
 ---
 Stick-slip demonstrated
 ```
