@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # The returning can
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -74,12 +68,11 @@ Inside of the can: schematic.
 * If needed, try it with a smaller or larger weight and a tighter or looser elastic band until you get the optimal effect. Make sure the weight is hanging in the middle of the can. In the shown example {numref}`Figure {number} <demo40_fig1>`, the weight is the heaviest cap from my socket wrench set.
 
 ## Procedure
-Roll the can forward on a horizontal, smooth surface. Catch it upon return. Repeat this a few times. Also, start from the other end to show that there is no slope to cause the rolling back. Or use a spirit level to show the floor is evel if your students are as critical as those of tester Karin Zeeuwen: standing at the other end doesn't prove anything "because then you also turn the can around."
+Roll the can forward on a horizontal, smooth surface. Catch it upon return. Repeat this a few times. Also, start from the other end to show that there is no slope to cause the rolling back. Or use a spirit level to show the floor is level if your students are as critical as those of tester Karin Zeeuwen: standing at the other end doesn't prove anything "because then you also turn the can around."
 
 Also let it roll without catching it: if configured well the can will roll back and forth several times before stopping. If you roll it away too hard, you usually hear a few bangs inside the can, and it doesn't come back.
 
 The next step is about student thinking - do not yet open the can but ask:
-
 * What do you think is inside this can? Make a drawing of its insides.
 * Explain (to each other) how you think it works, or what makes the can come back.
 
@@ -89,7 +82,7 @@ Next, you may want to address the role of amazement, imagination, and creativity
 
 The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor since the can has no on/off switch or plug. It also helps if the solution is familiar somehow. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up and then unwinds. The solution can also be built as a model to see if it works. Scientists use these and other methods to find the best solutions.
 
-Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. In general, the wordl is often like a returning can that can never be opened. Therefore physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one. For example, because it describes observations of gravitational or electric phenomena more precisely.
+Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. In general, the world is often like a returning can that can never be opened. Therefore physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one. For example, because it describes observations of gravitational or electric phenomena more precisely.
 
 ```{figure} demo40_figure3.jpg
 ---
