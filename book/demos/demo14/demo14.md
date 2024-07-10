@@ -1,5 +1,5 @@
 # Stick-slip motion
-<span style="font-size: 25px; color: gray;">kinetic versus static frictionn</span>
+<span style="font-size: 25px; color: gray;">Kinetic versus static friction</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -18,7 +18,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Kinetic and static friction</td>
     </tr>
-</table><br>
+</table>
 
 Inspired by {cite:t}`Balsma`.
 
@@ -78,10 +78,6 @@ Through static friction the tray remains at rest until the force is big enough t
 
 Stick-slip is jerking motion which occurs when a moving object stands still for a moment (sticks) and then jumps forward (slips). The effect may repeat itself continuously. It is the same phenomenon, which occurs when a piece of chalk is moved perpendicular to a traditional blackboard and produces a very unpleasant screeching sound. But also the screeching brakes of a car and the movement of a bow across the violin strings are examples of stick-slip friction, as well as earth quakes when layers of rock move across each other.   
 A bag drawn across a table with a string might exhibit stick-slip motion as well.
-
-```{tip}
-YouTube has many stick-slip examples.
-````
 
 ## References
 ```{bibliography}

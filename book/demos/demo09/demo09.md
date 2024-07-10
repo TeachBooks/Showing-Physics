@@ -1,5 +1,5 @@
 # Can it be air?
-<span style="font-size: 25px; color: gray;">reasoning about flames and vapor</span>
+<span style="font-size: 25px; color: gray;">Reasoning about flames and vapor</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  

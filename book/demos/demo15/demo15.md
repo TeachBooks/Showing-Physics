@@ -88,6 +88,7 @@ The discussion that follows must make clear in which way the properties of rolli
 There might be a discussion about the question if this could also work with a sleigh, an air-cushion vehicle, or a boat.
 
 ```{tip}
+:class: dropdown
 A thorough preparation is very important for this experiment to make sure it will work. In the case your demonstration table is not perfectly horizontal: don’t try to ride uphill but accept a little help from gravity…
 
 The demonstration could be expanded by using two different surfaces. On a very smooth surface conservation of momentum will occur regardless of the pendulum’s properties, on a surface with more friction it won’t. 

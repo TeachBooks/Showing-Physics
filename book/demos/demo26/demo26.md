@@ -25,17 +25,25 @@ align: right
     </tr>
 </table>
 
+```{figure} demo26_figure2.png
+---
+width: 100%
+align: center
+---
+A cup of water on an electronic balance. We hang a heavy object in the water. What 'weight' will the scale display?
+```
+
 The demo is derived from the demo "the-bolt-in-the-beaker" from the York Science Education Center.
 
 ## Introduction
 This is a typical example of a Predict-Explain-Observe-Explain demonstration about weight and buoyant force. Students predict what happens to the mass indicated on the scale when a weight is hung in water and explain their prediction. This demonstration can lead to a lot of confusion, even amongst physicists that see it for the first time. 
 
-```{figure} demo26_figure1.jpg
+```{figure} demo26_figure3.png
 ---
-width: 80%
+width: 100%
 align: center
 ---
-A cup of water on an electronic balance. We hang a substantial screw in the water or another metal object.
+What will happen to the mass indicated on the balance? And what value will the spring balance indicate?
 ```
 
 ## Equipment
@@ -49,17 +57,10 @@ A cup of water on an electronic balance. We hang a substantial screw in the wate
 Set up the needed materials on the table.
 
 ## Procedure
-1. Present the setup (figures 1a and 2a). Explain that you will lower the screw into the water and ask for individual predictions in multiple-choice format, as follows: \
-*What will happen to the mass indicated on the balance?*
-   1. Will increase
-   2. Will remain the same
-   3. Will decrease 
-   
-*How do you explain this?*
-   1. The weight of the screw is fully supported by the string.
-   2. There is an buoyant force on the screw and therefore an equal force downward on the cup.
-   3. The screw displaces some water by pushing it upward.
-   4. Other, namely ...... (fill in).
+1. Present the setup (figures 1a and 2a). Explain that you will lower the screw into the water and ask for individual predictions in multiple-choice format, as follows:
+
+<iframe src="https://tudelft.h5p.com/content/1292320429114244097/embed" width="1088" height="266" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo26Q1"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1292320430014845357/embed" width="1088" height="308" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo26Q2"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 2. Allow students to discuss their predictions with each other.
 3. Plenary: Survey the predictions and the arguments for them.

@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Tug-of-War
 <span style="font-size: 25px; color: gray;">Can one girl be stronger than four boys?</span>
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -24,7 +18,6 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Forces, components of forces, analyzing forces</td>
     </tr>
 </table><br>
-
 
 ## Introduction
 Can one girl be stronger than four boys? Sure! if she is clever…
@@ -72,7 +65,7 @@ $$\Rightarrow  F_{\text{boys on rope}} = \frac{-F_{\text{lady on rope}}}{2·sin(
 Angle $\theta$ is the angle between rope and the horizontal and is very small, thus the vertical component of the force of the boys is very small. Therefore, minimal force is needed to bend the rope downwards. 
 
 ## Follow up
-Use photographs of cable car and power line set-ups to calculate the tension in the cables. See for instance this [Dutch national exam question](https://newsroom.nvon.nl/files/default/nah151vb.pdf).
+Use photographs of cable car and power line set-ups to calculate the tension in the cables. See for instance this <a href="https://newsroom.nvon.nl/files/default/nah151vb.pdf" target="_blank">Dutch national exam question</a>.
 
 ## References
 

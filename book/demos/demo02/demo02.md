@@ -36,7 +36,8 @@ The context of this demonstration: A cappuccino
 This question can be posed to your students first. 
 
 ```{exercise}
-:label: ex_demo02
+:label: ex-demo02
+
 How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. 
 ```
 
@@ -44,7 +45,7 @@ Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practic
 
 What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
 
-````{solution} ex_demo02
+````{solution} ex-demo02
 :class: dropdown
 
 The absorbed heat by the milk is the emitted heat by the water:

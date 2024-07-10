@@ -1,4 +1,4 @@
-# Does van de Graaff not like a shower? 
+# Does Van de Graaff not like a shower? 
 <span style="font-size: 25px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

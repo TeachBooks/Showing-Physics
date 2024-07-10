@@ -1,5 +1,5 @@
 # Falling faster than g
-<span style="font-size: 25px; color: gray;">free fall with rotation</span>
+<span style="font-size: 25px; color: gray;">Free fall with rotation</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
