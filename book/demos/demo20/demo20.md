@@ -1,8 +1,3 @@
-```{figure} ../../figures/busy.png
----
-width: 35%
-align: right
-```
 # Reflection
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -22,12 +17,11 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">laws of reflection, Snell’s law, reversibility of light rays</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
-The start of a new topic should be somewhat exciting, stimulating curiosity. This demonstration can be used as a start on the topic of optics, all students can participate. 
+The start of a new topic should be somewhat exciting, stimulating curiosity. This demonstration can be used as a start on the topic of optics, all students can participate. The demonstration may illustrate how physics works as well, though in a very simplified manner: students make predictions first and the actual experiment will 'proof' whether there prediction is correct.
 
-The demonstration may illustrate how physics works as well though in a very simplified manner: students make predictions first and the actual experiment will 'proof' whether there predection is correct.\
 The students receive stickers which they have to paste on the wall at the spot where they expect the laser dot will appear after the laser light is reflected by the mirror.  
 
 ## Equipment
@@ -46,8 +40,8 @@ The laser and mirror are at large distance from each other, pupils stick their s
 ## Procedure
 1.	Each student writes his/her initials on the sticker(s). 
 2.	Show the set-up. Point to the laser and the mirror covered with the cardboard. The laser causes a dot of light on the cover of the mirror. Then switch off the laser and flip over the cover of the mirror. 
-3.	Tell the students that you will switch on the laser again after they paste their sticker somewhere on the wall where they expect the laser dot to appear after reflection.  They have to remember where they put it and why there. There is a prize for the owner of the sticker closest to the actual dot. 
-4.	Students walk around with their stickers.  You ask them why they put their sticker at a certain place.
+3.	Tell the students that you will switch on the laser again after they paste their sticker somewhere on the wall where they expect the laser dot to appear after reflection. They have to remember where they put it and why there. There is a prize for the owner of the sticker closest to the actual dot. 
+4.	Students walk around with their stickers. You ask them why they put their sticker at a certain place.
 5.	When all stickers are on the wall, ask the class to predict which one of the stickers will be the closest.
 6.	Switch on the laser. Discuss the results using Snell’s Law of Reflection and the reversibility of light rays. Use three rods: one for the incident ray, one for the normal, and one for the reflected ray. Show clearly that angles of incidence and reflection are equal AND that incident and reflected rays and the normal are in one plane.
 7.	You may repeat the whole procedure, but now with two mirrors. 
