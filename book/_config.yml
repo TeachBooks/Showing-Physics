@@ -51,6 +51,6 @@ sphinx:
       use_multitoc_numbering: true
       launch_buttons:
         thebe: true
-    extra_extensions:
+  extra_extensions:
     - sphinx_exercise
     #- extensions.fa_extension # for fontawesome icons needed when converting to pdf
