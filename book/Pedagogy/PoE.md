@@ -7,8 +7,15 @@ The demonstration is then performed by the teacher. A demonstration is often wel
 
 In the final step, students are asked to explain the observed results and compare the outcome with their initial prediction. This step involves thus critical thinking and reasoning. Through guided discussion and reflection, students develop a deeper understanding of the underlying physics concepts. 
 
-These steps are further elaborated on in the table below We use the trivial example of a large and small falling stone ({numref}`Figure {number} <fig_poe>). (Both the mass and the volume of the stones are different). Many students (and their parents) expect a large stone to fall faster than a small one.
+These steps are further elaborated on in the table below We use the trivial example of a large and small falling stone ({numref}`Figure {number} <fig_poe>`). (Both the mass and the volume of the stones are different). Many students (and their parents) expect a large stone to fall faster than a small one.
 
+``` {figure} Figures/POE.PNG
+---
+name: fig_poe
+width: 70%
+---
+The steps of PEOE are explain using this simple demonstration.
+```
 
 ```{table} The various steps in the PEOE approach
 | Step | PEOE | Example |
@@ -26,25 +33,11 @@ These steps are further elaborated on in the table below We use the trivial exam
 
 In most PEOEs, step 7 concludes the activity. With falling objects, you ought to also investigate the role of friction as indicated in step 8.
 
-``` {figure} Figures/POE.PNG
----
-name: fig_poe
-width: 70%
----
-The steps of PEOE are explain using this simple demonstration.
-```
 
 ## All Students
 An important aspect of this approach is the involvement of **ALL** students. They should individually formulate their expectations/predictions on paper with a rationale. **All** students then observe the result of the demonstration. **All** are involved in resolving the difference between prediction and observation. This approach is, with an emphasis on *comparing* and *contrasting* prediction and observation, can only be requested in demonstrations where students themselves have some prior knowledge and can be expected to think they know what will happen. The PEOE model is not suitable in every demonstration.
 
 To get attention for the actual demonstration, make sure that students are aware of their own expectations/predictions and those of the others. Writing down the prediction and an accompanying rationale leads to more engagement. The common practice of just asking what the class thinks and letting a single smart student answer is not effective. Asking all students for the reasoning behind their prediction also provides the teacher with insight into students' thought processes. Important is that students notice that different thoughts exist about the phenomenon; that there are conflicting predictions and different ideas about the phenomenon. This generates motivation to find out how things really are. It helps students evaluate their own learning and construct new ideas.
-
-{cite:t}`mitchell1992some` give the following advice based on his extensive PEOE experience:
-
-1.  It is very important that students realize that they are not alone in their prediction. Therefore, it is important to summarize the class's ideas and report back to the class. An effective way to do this is to have predictions written down in a handy format so that the teacher can quickly take inventory by walking around.
-2.  Students must feel safe to give their opinion. Therefore, never link assessment to a PEOE, not even by praise for a correct answer. Emphasize to students that you are interested in their ideas and that both wrong and correct predictions are important for the class reasoning process    and for their own learning process.
-3. A discussion after the prediction where different predictions are explained and discussed often works well. This discussion precedes the observation, the execution of the demonstration itself.
-4. At the end of PEOE, emphasize that incorrect predictions are often quite understandable or even 'logical' and that they are very useful in the learning process.
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -60,6 +53,13 @@ To get attention for the actual demonstration, make sure that students are aware
 <div style="text-align: center;">
   <i>What do you think will happen when the glass is place over the candle?</i>
 </div>
+
+{cite:t}`mitchell1992some` give the following advice based on his extensive PEOE experience:
+
+1.  It is very important that students realize that they are not alone in their prediction. Therefore, it is important to summarize the class's ideas and report back to the class. An effective way to do this is to have predictions written down in a handy format so that the teacher can quickly take inventory by walking around.
+2.  Students must feel safe to give their opinion. Therefore, never link assessment to a PEOE, not even by praise for a correct answer. Emphasize to students that you are interested in their ideas and that both wrong and correct predictions are important for the class reasoning process    and for their own learning process.
+3. A discussion after the prediction where different predictions are explained and discussed often works well. This discussion precedes the observation, the execution of the demonstration itself.
+4. At the end of PEOE, emphasize that incorrect predictions are often quite understandable or even 'logical' and that they are very useful in the learning process.
 
 See {cite:t}`white2014probing` for a very complete description of the pedagogy. Google with 'POE' and 'physics demonstrations' as search terms to find examples. {cite:t}`liem1991invitations` "Invitations to Science Inquiry" contains over 400 demonstrations with surprising outcomes for students. In this book you will find many demonstrations where the PEOE approach is used and the steps have been made explicit, for instance in our demonstration [Why does the water rise?](../demos//demo27/demo27.md).
 
