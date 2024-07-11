@@ -19,7 +19,7 @@ So... should we leave out those demonstrations? That at least would save time...
 ---
 width: 70%
 ---
-Who will forget a great demonstration, one with a BANG?!
+Who will forget a great demonstration, one that comes with a BANG?!
 ```
 
 Without using any strategy in the pedagogical approach, demonstrations are not likely to increase students' comprehension of the phenomenon at hand. Hence, this book not only presents many physics demonstrations, it also delves into the strategies that can be applied when conducting a physics demonstration. Before elaborating on specifics, we cover some basic ideas. Moreover, for each of the four demonstration categories in this book, a section is devoted to the pedagogy that fits that specific purpose.
