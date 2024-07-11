@@ -144,6 +144,13 @@ The absence of an influence of mass and (small) initial angle on the period is o
 For a definitive answer to the question whether mass (or initial angle) affects the pendulum, set up two pendulums of equal length but different mass (or initial angle) and release them simultaneously. Carefully prepared they will keep swinging nicely side by side. But if you want students to learn to investigate for themselves, avoid doing this right away. Although doing so quickly confirms of the targeted conceptual relations it would completely prevent students from starting to think for themselves about inquiry. By the way, this is also an example of using the power of demonstrations in which nothing actually happens!
 
 ***Representing measurements***
+Based on the well-known formula, it is common practice to plot the period against the square root of the length. However, this is not evident for students, so it is better to start by placing the independent variable on the horizontal axis. We also do not know the exact formula yet; we want to investigate it precisely...
+But suppose they suspect a relationship; what kind of activating instruction will make students think about what should be placed on the axes?
+
+One option is to show graphs 1-4 and present the following questions to the class:
+* Determine which of the graphs 1-4 is incorrect and does not match the measurements.
+* Choose a graph yourself and determine the relationship between period $T$ and length $L$ from it.
+* If you have chosen your graph wisely in question 2, how did you make your choice?
 
 ``` {figure} Figures/MeasurementGraphs.png
 ---
@@ -152,13 +159,6 @@ align: center
 ---
 Many different representations are available, but which one fits best your claim?
 ```
-Based on the well-known formula, it is common practice to plot the period against the square root of the length. However, this is not evident for students, so it is better to start by placing the independent variable on the horizontal axis. We also do not know the exact formula yet; we want to investigate it precisely...
-But suppose they suspect a relationship; what kind of activating instruction will make students think about what should be placed on the axes?
-
-One option is to show graphs 1-4 and present the following questions to the class:
-* Determine which of the graphs 1-4 is incorrect and does not match the measurements.
-* Choose a graph yourself and determine the relationship between period $T$ and length $L$ from it.
-* If you have chosen your graph wisely in question 2, how did you make your choice?
 
 We believe that the chance of students understanding why you plot $T^2$ against $L$ rather than $T$ is greater in this situation than when you prescribe what the graph should look like. They realize that they must always choose the most appropriate representation. In all these activities, it keeps coming back that you need to formulate as complete, clear, substantiated, and usable an answer to the research question as possible.
 
