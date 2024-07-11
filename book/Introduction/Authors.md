@@ -4,7 +4,7 @@
 ---
 width:70%
 ---
-Part of the team discussing one of the potential demonstration of the third edition of Show*de*Fysica.
+Part of the team discussing one of the potential demonstrations of the third edition of Show*de*Fysica.
 ```
 
 ```{figure} authors/auth_Leo.JPG
