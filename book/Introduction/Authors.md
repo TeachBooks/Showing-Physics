@@ -1,9 +1,3 @@
-```{figure} ../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # About the authors
 
 ```{figure} authors/auth_Leo.JPG
