@@ -9,6 +9,13 @@ Conducting scientific research is a matter of making targeted and careful observ
 
 This [thinking-back-and-forth](./BackAndForthThinking.md) between practice and theory characterizes research {cite:p}`van2013pck`. *In demonstrations, you can stimulate that thinking, guide it, and help improve it in a pleasant, motivating and safe way.* As always, the art here is in maintaining the balance between challenging students, providing them with the autonomy to think and do for themselves on the one hand, and supporting, scaffolding, encouraging and guiding their thought and action on the other. Allow students to choose and do by themselves where they are already capable. But as a teacher, provide examples and support with what is still too difficult. Select the learning objectives for your demonstration from the range where students show cognitive readiness. Limit the number of objectives, and peg them at a level that they can achieve with some effort. Provide your students with a route using guiding questions and assignments, but also with challenges and opportunities for their own input and personal contributions.
 
+```{figure} Figures/sdf.jpg
+---
+width=70%
+---
+The [signing rod](../demos/demo81/demo81.ipynb), how many measurements do we need before we have a 'convincing' value for Young's modulus for a specific material?
+```
+
 *Learning physics* requires *doing physics*. But is that possible by participating in demonstrations? After all, demonstrations do not serve to actually solve scientific problems, nor do students manipulate the materials by themselves... They should suggest to students that with a little effort they too can eventually understand the surprising phenomena - a guarantee that is not provided in real physics research. As a teacher you know the outcome and conclusion in advance, all you have to do (difficult as that may be) is to produce the intended observations. It suffices to then present the accepted corresponding explanation, basically confirming what scientists already know. While this is a viable approach, it need not stop there. In your demonstration you may use the opportunity to contribute to the development of inquiry skills, which is not difficult at all.
 
 To that end, make the research problems manageable before confronting your students with them. Reenact the solving of those problems, as it were, during your demonstration, because there is a lot to learn from that. The easiest way to do this is to ask your students questions like:

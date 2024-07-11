@@ -39,6 +39,12 @@ Our demonstrations on [nature of science](../demos/NOSdemos.md) aim at a deeper 
 ### Learning to do physics
 Physics education aims at developing students to think like a physicist {cite:p}`van1991learning`. This requires a thorough understanding of the nature of science, a broad and deep conceptual understanding of many a phenomena, but also expertise in doing physics. 
 
+As stated by {cite:t}`kozminski2014aapt`:
+>Physics is a way of approaching problem solving, which requires direct observation and physical experimentation. Being successful in this endeavor requires one to synthesize and use a broad spectrum of knowledge and skills, including mathematical, computational, experimental, and practical skills; and to develop particular habits of mind. “Thinking like a physicist” and constructing knowledge of our physical universe pervade all of the recommended learning outcomes.
+
+It this therefor not sufficient to learn about physics, students need to *do physics* to gain a deeper understanding of what being a physicist entails. Citing {cite:t}`hodson2014learning`: 
+> Here the emphasis is not on learning about the methods used by scientists, nor on developing expertise in using particular laboratory techniques (the emphasis of much laboratory work in school), but on using the methods and procedures of science to investigate phenomena, test and develop understanding, solve problems and follow interests.
+
 ```{figure} ../Introduction/Figures/pols.jpg
 ---
 figclass: margin
@@ -46,12 +52,6 @@ width: 75%
 ---
 [Determination of $g$](../demos/demo73/demo73.ipynb) revolves around the question how you can determine the acceleration due to gravity as precise as possible.
 ```
-
-As stated by {cite:t}`kozminski2014aapt`:
->Physics is a way of approaching problem solving, which requires direct observation and physical experimentation. Being successful in this endeavor requires one to synthesize and use a broad spectrum of knowledge and skills, including mathematical, computational, experimental, and practical skills; and to develop particular habits of mind. “Thinking like a physicist” and constructing knowledge of our physical universe pervade all of the recommended learning outcomes.
-
-It this therefor not sufficient to learn about physics, students need to *do physics* to gain a deeper understanding of what being a physicist entails. Citing {cite:t}`hodson2014learning`: 
-> Here the emphasis is not on learning about the methods used by scientists, nor on developing expertise in using particular laboratory techniques (the emphasis of much laboratory work in school), but on using the methods and procedures of science to investigate phenomena, test and develop understanding, solve problems and follow interests.
 
 Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. Moreover, these demonstrations aim to teach students to thoroughly consider various options and decided, regarding the practical limitations as well, what decision is 'best'. [Argumentation](./Argumentation.md) plays a major role in this. 
 
