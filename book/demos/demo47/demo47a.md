@@ -3,7 +3,7 @@
 width: 35%
 align: right
 ```
-# Forces on a bowling ball
+# Force and motion with a bowling ball
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
      <tr style="background-color: var(--background-color);">

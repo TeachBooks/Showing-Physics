@@ -166,4 +166,8 @@ parts:
       - file: demos/demo90/demo90 #Wine Glass
       - file: demos/demo56/demo56 #spool
       - file: demos/demo98/demo98 #imploding can
+
+  - caption: References
+    chapters:
+    - file: references
   

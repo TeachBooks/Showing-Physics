@@ -58,7 +58,7 @@ With a different approach and through other TBF activities, further concepts may
 > 3. Maintain focus. Which phenomena merely distract from the goal and create noise? Furthermore, which concepts will you want to avoid to prevent distracting 'noise'?
 > 4. Devise a stepwise plan for the demonstration with explicit attention for the back-and-forth thinking questions you will ask and the assignments you will give.
 >
-> See 'Force and motion with a bowling ball' [LINK] and [Lorentz force on charged particles](../demos/demo84/demo84.md) for worked out examples of the stepwise plan.
+> See [Force and motion with a bowling ball](../demos/demo47/demo47a.md) and [Lorentz force on charged particles](../demos/demo84/demo84.md) for worked out examples of the stepwise plan.
 
 ## References
 ```{bibliography}

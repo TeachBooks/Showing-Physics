@@ -25,7 +25,7 @@ To that end, make the research problems manageable before confronting your stude
 
 By finding the answers together, valuing them, testing them where possible, students practice the skills they need when they "learn physics" and "do physics" on their own later on. The demonstrations in Part [Demos on scientific inquiry](../demos/Inquirydemos.md) of this book focus explicitly on these skills, but in principle all the other demonstrations are suitable as well. Of course, you will have to adapt them to your own needs and include your own ideas. Furthermore, you would not ask all of the questions suggested above in a single demo as that would be far too strenuous for both students and teacher. Choose a clear, well-defined learning goal and give it some extra attention using a few appropriate questions. Examples follow below.
 
-```{figure} Figures/SI.png
+```{figure} Figures/SI.PNG
 ---
 width: 90%
 name: argu_figSI
@@ -144,6 +144,7 @@ The absence of an influence of mass and (small) initial angle on the period is o
 For a definitive answer to the question whether mass (or initial angle) affects the pendulum, set up two pendulums of equal length but different mass (or initial angle) and release them simultaneously. Carefully prepared they will keep swinging nicely side by side. But if you want students to learn to investigate for themselves, avoid doing this right away. Although doing so quickly confirms of the targeted conceptual relations it would completely prevent students from starting to think for themselves about inquiry. By the way, this is also an example of using the power of demonstrations in which nothing actually happens!
 
 ***Representing measurements***
+
 Based on the well-known formula, it is common practice to plot the period against the square root of the length. However, this is not evident for students, so it is better to start by placing the independent variable on the horizontal axis. We also do not know the exact formula yet; we want to investigate it precisely...
 But suppose they suspect a relationship; what kind of activating instruction will make students think about what should be placed on the axes?
 

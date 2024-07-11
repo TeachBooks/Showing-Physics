@@ -4,7 +4,7 @@
 title: ShowingPhysics
 author: Freek Pols
 date: today
-logo: logo.png
+logo: figures/logo.png
 copyright: Delft University of Technology & NVON, CC BY 4.0
 
 # Force re-execution of notebooks on each build.
