@@ -1,14 +1,16 @@
-```{figure} ../figures/busy.png
----
-width: 35%
-align: right
-```
-
 # Nature of Science 
 
 As a physics teacher, you are responsible for imparting knowledge to your students, but also for conveying an idea of what natural sciences are and what scientists are trying to accomplish. In an era when (social) media sometimes spread nonsense about science, it is important that as a teacher you counterbalance that. Indeed, wrong ideas about science carry risks, as we saw during the recent corona crisis in which science was sometimes dismissed as "just another opinion" and scientists were even threatened. A good understanding of Ohm's law is important for passing a test, but a correct understanding of the meaning and purpose of science are just as important.
 
 But what image of the natural sciences should you convey as a physics teacher? What characterizes science? How is science different from art or religion, for example? And how do you handle that in your physics lesson? Such questions are discussed in the professional literature under the label "*Nature of Science*" (NoS).
+
+```{figure} Figures/nos.PNG
+---
+width: 70%
+---
+Nature of Science activities often include decontextualised Black Box experiments {cite:p}`stadermann2021don`. 'What is inside?' is then the central question, addressing learning goals like 'our knowledge is limited and we
+cannot always be certain about everything' {cite:p}`pols2021s`.
+```
 
 ## Why focus on NoS in physics class?
 The question of what natural science is -philosophically speaking- can perhaps never be answered satisfactorily for everyone. But for school purposes there is no need for that kind of answer. It is sufficient to teach students important features of natural science on which there is general agreement. When you do so successfully, your students understand what natural science is, what to expect from it and what should not be expected. This should enable students to participate as empowered citizens in societal discussions about issues with a scientific background and to make decisions in their personal lives, for example about vaccinations or environmental issues.
@@ -16,6 +18,21 @@ The question of what natural science is -philosophically speaking- can perhaps n
 For the vast majority of students, this "*scientific literacy*" is more important for their future lives than substantive physics knowledge is. In addition, paying attention to NoS can make education more interesting, engaging and motivating for many students. Teaching NoS is worthwhile for that reason alone.
 
 Teaching with attention for NoS may be easier than you think. It often merely requires that you avoid doing things you are used to doing. For example, one thing to put off for as long as possible is to give the "right answer". At school ‘knowing the right answer’ often seems to be what is most important, and "wrong answers" are quickly dismissed. In science, however, scientists are constantly searching for possible explanations and seek to convince others of the correctness of their methods and answers. *'Having'* correct answers when doing science is less important than being able to search for answers and to defend the ones you find. To clarify this to students it is better to delay giving the "right answer" at first and focus instead on the process of searching for the most acceptable or best defensible answer. 
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/V96T3VjjuIc?si=4srWF8VcXYkpJ9mv"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+<div style="text-align: center;">
+  <i>One of the 'black box' experiments from this book.</i>
+</div>
 
 ## Thoughts and insights
 Including NoS in education is meant to address the problem that customary education often produces conceptions of science that are unrealistic or even detrimental for how students view and value science ({cite:t}`mccomas2020principal`). {numref}`Table {number} <tab:undesirable_conclusions>` provides some examples of messages that customary education may convey and the undesirable conceptions of science that may ensue.
@@ -81,7 +98,7 @@ An excellent start are *Black-Box* activities, especially if they evoke immediat
 
 ```{figure} Figures/cylinder_puzzle.jpg
 ---
-width: 30%
+width: 40%
 name: fig:cylinder_puzzle
 align: center
 ---
@@ -92,19 +109,19 @@ Students get a feel for “doing science” when conducting their own inquiry, b
 
 ## Demonstrations as a NoS activity
 Any demonstration and experiment can in principle be made into a NoS activity. There are stable elements that fit into almost all demonstrations. For example, you can ask the following questions about their statements:
-1. *Did you actually see it and really observe it, or infer it from what you saw?* 
+1. *Did you actually see it and really observe it, or infer it from what you saw?* <br>
 Especially young students tend not to distinguish between observation and interpretation: what you see, what you think it is and what it actually is are not differentiated. In the demonstration called “Magic”, you pour a transparent liquid into a funnel and then collect about the same amount of transparent liquid in a beaker. Is that the same liquid? Is it water? The rest of the demonstration shows that you can’t just assume that it is. What you see may not be what you get.
 
-2. *What did you observe? Did others notice that too? Was there anything else you noticed?* 
+2. *What did you observe? Did others notice that too? Was there anything else you noticed?* <br>
 Perception is not automatic. It is influenced by your knowledge and expectations. When you know what to look for you see more, and that is true also in science. Fleming's discovery of the effect of penicillin based on some forgotten bacterial cultures is certainly no exception. If you don't tell students what you want them to see but leave that up to them, the variety of observations turns out to be enormous. This is not always desirable, but can help if you want to demonstrate the importance of focused observation in research.
 
-3. *How did that come about? Can you explain how that happened? Are there any other possible explanations?* 
+3. *How did that come about? Can you explain how that happened? Are there any other possible explanations?* <br>
 In the "Cylinder Puzzle," use students' own descriptions and explanations to discuss NoS. It is important to use a demonstration that is simple enough to allow for students to compare the quality of their explanations.
 
-4. *What can we do to see if your explanation could be correct? How can we test your hypothesis?* 
+4. *What can we do to see if your explanation could be correct? How can we test your hypothesis?* <br>
 An explanation gains value only if it fits the observations. It is stronger if it fits better and excludes more alternatives. Coming up with your own tests for explanations is important and instructive. This is another reason for not forwarding the "right answer” too soon.
 
-5. *Have we now proved with this research that our conclusion is true? (For example, have we proved Hooke's law?)* 
+5. *Have we now proved with this research that our conclusion is true? (For example, have we proved Hooke's law?)* <br>
 The concept of scientific proof is tricky. You cannot prove Hooke's law in the same way as the Pythagorean theorem: the latter requires no observations. Moreover, from a finite number of observations you can never logically draw an inference about all the observations yet to come: this is called the 'problem of induction'. Nevertheless, the validity and reliability of the observations in a study contribute to the quality of the conclusion.
 
 As a teacher, the art is in properly assessing when and with which students you can go deeper into a particular feature of NoS. If you are open to it, very useful conversations can arise. For example, discuss that an "experiment" is by definition an investigation in which variables are controlled (i.e., held constant). Such experiments are crucial in physics and chemistry, but in astronomy or paleontology this is less or not so. Students may think that scientific knowledge can only be gained from experimental research, but there are all kinds of acceptable scientific research, experiments are only one form. 
