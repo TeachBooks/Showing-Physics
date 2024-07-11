@@ -1,5 +1,12 @@
 # About the authors
 
+```{figure} ../Pedagogy/Figures/team.jpg
+---
+width:70%
+---
+Part of the team discussing one of the potential demonstration of the third edition of Show*de*Fysica.
+```
+
 ```{figure} authors/auth_Leo.JPG
 :figclass: margin
 :width: 50%
