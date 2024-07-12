@@ -12,5 +12,5 @@ jupyterbook_patches ~= 0.1.4  #temporarily disable
 sphinx-thebe ~= 0.9.9  #temporarily disable
 
 # lastly any packages you wish to download directly from a Git repository
-# download_link_replacer @ git+https://gitlab.tudelft.nl/mude/sphinx-download-link-replacer #temporarily disable
+download_link_replacer @ git+https://gitlab.tudelft.nl/mude/sphinx-download-link-replacer #temporarily disable
 sphinx-exercise   
