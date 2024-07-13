@@ -53,12 +53,12 @@ width: 75%
 [Determination of $g$](../demos/demo73/demo73.ipynb) revolves around the question how you can determine the acceleration due to gravity as precise as possible.
 ```
 
-Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. Moreover, these demonstrations aim to teach students to thoroughly consider various options and decided, regarding the practical limitations as well, what decision is 'best'. [Argumentation](./Argumentation.md) plays a major role in this. 
+Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. They are meant to teach students to thoroughly consider various options and determine, also in regard of the practical limitations, what decision is 'best' from a scientific perspective. [Argumentation](./Argumentation.md) plays a major role in this. 
 
-Teaching students how to investigate the world around them for themselves as scientists ought to include teaching them to ask scientific questions like:
-1. What does *"It is scientifically proven"* mean? 
-2. What makes this *"scientifically proven"* valuable? 
-3. What do you have to do to prove something scientifically, and how sure are you then of your case?
+Teaching students how to investigate the world around them independently in a scientific way has to includes addressing questions such as:
+1. What does it mean when some claim is said to be *"scientifically proven"*? 
+2. What values are attached to what is *"scientifically proven"*? 
+3. What do you have to do to prove something scientifically, and how cerrtain is knowledge obtained in that way?
 
 It also involves answering these questions based on observations, with whatever it takes to get that done. During this process, the students get an idea what it is to be a scientist. The demonstrations described here revolve around the skills that are indispensable in scientific research on the one hand and about the characteristics of science on the other. These skills include carefully observing, critically analyzing a problem, developing a model to explain observations, or testing expectations with an experiment ({cite:t}`pols2022defining`). The knowledge created in the process is man-made. That knowledge is as certain as knowledge ever gets and yet will always be open to improvement. 
 
