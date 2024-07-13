@@ -1,5 +1,5 @@
 # Introduction
-Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveil the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience. Where most book on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
+Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveil the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience. Where most books on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
 
 ```{figure} ../demos/demo12/demo12_figure2.jpg
 ---
@@ -13,7 +13,7 @@ Almost everyone who is enthusiastic about STEM education remembers a great demon
 
 > Despite popular beliefs to the contrary, students learn little, if anything, from traditionally presented classroom demonstrations.
 
-So... should we leave out those demonstrations? That at least would save time... a lot of time. {cite:t}`crouch2004classroom` fortunately also reports that you can significantly increase the learning effect of demonstrations. To do so, you have to modify the demonstration in such a way that your students [predict the result](PoE). Students who predict the result of the demonstration before they see that result, learn much more. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether you learn anything from a demonstration is then much less in question.
+So... should we abandon those demonstrations? That at least would save time... a lot of time. {cite:t}`crouch2004classroom` fortunately also reports that you can significantly increase the learning effect of demonstrations. To do so, one important part of your demonstration may involve asking your students to [predict the result](PoE). Meaningful predictions of the results followed by their observation is reported to lead to increased learning. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether students learn anything from a demonstration is then much less in question.
 
 ```{figure} ../demos/demo98/demo98_figure2.JPG
 ---
@@ -22,7 +22,7 @@ width: 70%
 Who will forget a great demonstration, one that comes with a BANG?!
 ```
 
-Without using any strategy in the pedagogical approach, demonstrations are not likely to increase students' comprehension of the phenomenon at hand. Hence, this book not only presents many physics demonstrations, it also delves into the strategies that can be applied when conducting a physics demonstration. Before elaborating on specifics, we cover some basic ideas. Moreover, for each of the four demonstration categories in this book, a section is devoted to the pedagogy that fits that specific purpose.
+A carefully considered pedagogical strategy can increase the likelihood that a demonstration increases students' comprehension of the phenomenon at hand. This is why this book, alongside many physics demonstrations, presents those strategies relevant to physics demonstrations. We first cover some basic ideas and then for each of the four demonstration categories in this book devote a section to their specific purposes.
 
 So what exactly can you accomplish with demonstrations? The overall learning goals can be categorized as follows (after {cite:t}`hodson1993re`):
 
