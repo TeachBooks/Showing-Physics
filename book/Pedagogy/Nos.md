@@ -119,7 +119,7 @@ Perception is not automatic. It is influenced by your knowledge and expectations
 In the "Cylinder Puzzle," use students' own descriptions and explanations to discuss NoS. It is important to use a demonstration that is simple enough to allow for students to compare the quality of their explanations.
 
 4. *What can we do to see if your explanation could be correct? How can we test your hypothesis?* <br>
-An explanation gains value only if it fits the observations. It is stronger if it fits better and excludes more alternatives. Coming up with your own tests for explanations is important and instructive. This is another reason for not forwarding the "right answer” too soon.
+An explanation has no value unless it fits the observations. It is stronger if it fits better and excludes more alternatives. Coming up with your own tests for explanations is important and instructive. This is another reason for not forwarding the "right answer” too soon.
 
 5. *Have we now proved with this research that our conclusion is true? (For example, have we proved Hooke's law?)* <br>
 The concept of scientific proof is tricky. You cannot prove Hooke's law in the same way as the Pythagorean theorem: the latter requires no observations. Moreover, from a finite number of observations you can never logically draw an inference about all the observations yet to come: this is called the 'problem of induction'. Nevertheless, the validity and reliability of the observations in a study contribute to the quality of the conclusion.
