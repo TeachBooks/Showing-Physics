@@ -35,7 +35,7 @@ Teaching with attention for NoS may be easier than you think. It often merely re
 </div>
 
 ## Thoughts and insights
-Including NoS in education is meant to address the problem that customary education often produces conceptions of science that are unrealistic or even detrimental for how students view and value science ({cite:t}`mccomas2020principal`). {numref}`Table {number} <tab:undesirable_conclusions>` provides some examples of messages that customary education may convey and the undesirable conceptions of science that may ensue.
+Customary education often produces conceptions of science that are unrealistic or even detrimental for how students view and value science ({cite:t}`mccomas2020principal`). Including NoS in education is meant to address this problem. {numref}`Table {number} <tab:undesirable_conclusions>` provides some examples of messages that customary education may convey and the undesirable conceptions of science that may ensue.
 
 ```{list-table} Common undesirable conclusions and beliefs about natural sciences.
 :header-rows: 1
