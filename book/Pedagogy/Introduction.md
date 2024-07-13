@@ -42,7 +42,7 @@ Physics education aims at developing in students the ability to think like a phy
 As stated by {cite:t}`kozminski2014aapt`:
 >Physics is a way of approaching problem solving, which requires direct observation and physical experimentation. Being successful in this endeavor requires one to synthesize and use a broad spectrum of knowledge and skills, including mathematical, computational, experimental, and practical skills; and to develop particular habits of mind. “Thinking like a physicist” and constructing knowledge of our physical universe pervade all of the recommended learning outcomes.
 
-It this therefor not sufficient to learn about physics, students need to *do physics* to gain a deeper understanding of what being a physicist entails. Citing {cite:t}`hodson2014learning`: 
+It this therefore not sufficient to learn (about) physics, students need to *do physics* to gain a deeper understanding of what being a physicist entails. Citing {cite:t}`hodson2014learning`: 
 > Here the emphasis is not on learning about the methods used by scientists, nor on developing expertise in using particular laboratory techniques (the emphasis of much laboratory work in school), but on using the methods and procedures of science to investigate phenomena, test and develop understanding, solve problems and follow interests.
 
 ```{figure} ../Introduction/Figures/pols.jpg
