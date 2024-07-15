@@ -35,7 +35,7 @@ Teaching with attention for NoS may be easier than you think. It often merely re
 </div>
 
 ## Thoughts and insights
-Customary education often produces conceptions of science that are unrealistic or even detrimental for how students view and value science ({cite:t}`mccomas2020principal`). Including NoS in education is meant to address this problem. {numref}`Table {number} <tab:undesirable_conclusions>` provides some examples of messages that customary education may convey and the undesirable conceptions of science that may ensue.
+Customary education often produces conceptions of science that are unrealistic or even detrimental for how students view and value science {cite:p}`mccomas2020principal`. Including NoS in education is meant to address this problem. {numref}`Table {number} <tab:undesirable_conclusions>` provides some examples of messages that customary education may convey and the undesirable conceptions of science that may ensue.
 
 ```{list-table} Common undesirable conclusions and beliefs about natural sciences.
 :header-rows: 1
@@ -93,8 +93,7 @@ physics. It is only for boys.
 ```
 
 ## How can you pay attention to NoS in your teaching?
-
-An excellent start are *Black-Box* activities, especially if they evoke immediate surprise and confusion. In these, you perform some small experiments with a certain object (the *Black- box*). The result is some kind of *output* produced by the *Black-Box*. But the mechanism that produces that output remains hidden. Students should feel that they ought to understand "how it works" and immediately feel the urge to investigate. In a demonstration, you then have excellent opportunities to direct their inquiry and explore together. See for example the NoS activities ['Cylinder puzzle'](../demos/demo70/demo70.md) and [Magic, trick or physics?](../demos/demo71/demo71.md) in this book, or check out this English-language website of the <a href="https://edu.rsc.org/resources/black-box/1275.article" target="_blank">Royal Society of Chemistry</a>.
+An excellent start are *Black-Box* activities, especially if they evoke immediate surprise and confusion. In these, you perform some small experiments with a certain object (the *Black- box*). The result is some kind of *output* produced by the *Black-Box*. But the mechanism that produces that output remains hidden. Students should feel that they ought to understand "how it works" and immediately feel the urge to investigate. In a demonstration, you then have excellent opportunities to direct their inquiry and explore together. See for example the NoS activities ['Cylinder puzzle'](../demos/demo70/demo70.md) and [Magic, trick or physics?](../demos/demo71/demo71.md) in this book (both adapted from {cite:t}`lederman1998avoiding`), or check out this English-language website of the <a href="https://edu.rsc.org/resources/black-box/1275.article" target="_blank">Royal Society of Chemistry</a>.
 
 ```{figure} Figures/cylinder_puzzle.jpg
 ---

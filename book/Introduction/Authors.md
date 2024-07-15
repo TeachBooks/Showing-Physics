@@ -66,7 +66,7 @@ Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has b
 ```
 **Wim Sonneveld** 
 
-Wim Sonneveld (1955) studied Applied Physics at TU Delft. He has taught physics since 1976. He later also taught mathematics and the transdisciplinary sunbjects ANW (General Sciences)(and NLT (Nature, Life, Technology). From 2000 he has  been a teacher trainer and physics teacher at TU Delft. He has been a member of the NiNa committee that established the current physics examination program. He was  active in the curriculum innovation projects Salvo and  Getting Practical. As an author, Wim has many publications to his name and he is  final editor of the physics method Overal Natuurkunde for the second phase.
+Wim Sonneveld (1955) studied Applied Physics at TU Delft. He has taught physics since 1976. He later also taught mathematics and the transdisciplinary subjects ANW (General Sciences)and NLT (Nature, Life, Technology). From 2000 he has  been a teacher trainer and physics teacher at TU Delft. He has been a member of the NiNa committee that established the current physics examination program. He was  active in the curriculum innovation projects Salvo and  Getting Practical. As an author, Wim has many publications to his name and he is  final editor of the physics method Overal Natuurkunde for the second phase.
 
 
 ```{figure} authors/auth_Wouter.jpg

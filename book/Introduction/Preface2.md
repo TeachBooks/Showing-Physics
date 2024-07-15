@@ -14,6 +14,6 @@ We hope that this book may serve as a source of inspiration and captivates you j
 <div align="right">
 
 Freek Pols *(editor)*<br>
-2024 - 05 - 15
+2024 - 07 - 15
 
 </div>
