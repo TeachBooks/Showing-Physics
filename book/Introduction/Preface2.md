@@ -14,5 +14,7 @@ Freek Pols *(editor)*<br>
 </div>
 
 ```{figure} Figures/FP.JPG
-:width: 75%
+width: 70%
+---
+Norbert (left) and Freek (on table) at a workshop on physics demonstrations.
 ```
