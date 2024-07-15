@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Cylinder Puzzle
 <span style="font-size: 25px; color: gray;">Exploring the Nature of Science</span>
 
