@@ -37,7 +37,7 @@ Most of these demonstrations relate to conceptual development. They have been ch
 Our demonstrations on [nature of science](../demos/NOSdemos.md) aim at a deeper understanding of the characteristics of science/physics.
 
 ### Learning to do physics
-Physics education aims at developing in students the ability to think like a physicist {cite:p}`van1991learning`. This requires a thorough understanding of the nature of science, a broad and deep conceptual understanding of many a phenomena, but also expertise in doing physics. 
+Physics education aims at developing in students the ability to think like a physicist {cite:p}`van1991learning`. This requires a thorough understanding of the nature of science, a broad and deep conceptual understanding of many phenomena, but also expertise in doing physics. 
 
 As stated by {cite:t}`kozminski2014aapt`:
 >Physics is a way of approaching problem solving, which requires direct observation and physical experimentation. Being successful in this endeavor requires one to synthesize and use a broad spectrum of knowledge and skills, including mathematical, computational, experimental, and practical skills; and to develop particular habits of mind. “Thinking like a physicist” and constructing knowledge of our physical universe pervade all of the recommended learning outcomes.
@@ -55,15 +55,15 @@ width: 75%
 
 Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. They are meant to teach students to thoroughly consider various options and determine, also in regard of the practical limitations, what decision is 'best' from a scientific perspective. [Argumentation](./Argumentation.md) plays a major role in this. 
 
-Teaching students how to investigate the world around them independently in a scientific way has to includes addressing questions such as:
+Teaching students how to investigate their world independently in a scientific way includes addressing questions such as:
 1. What does it mean when some claim is said to be *"scientifically proven"*? 
-2. What values are attached to what is *"scientifically proven"*? 
+2. What values are attached to a claim if it is *"scientifically proven"*? 
 3. What do you have to do to prove something scientifically, and how cerrtain is knowledge obtained in that way?
 
-It also involves answering these questions based on observations, with whatever it takes to get that done. During this process, the students get an idea what it is to be a scientist. The demonstrations described here revolve around the skills that are indispensable in scientific research on the one hand and about the characteristics of science on the other. These skills include carefully observing, critically analyzing a problem, developing a model to explain observations, or testing expectations with an experiment ({cite:t}`pols2022defining`). The knowledge created in the process is man-made. That knowledge is as certain as knowledge ever gets and yet will always be open to improvement. 
+It also involves answering these questions based on observations, and obtainig observations of sufficient quality. During this process, the students get an idea what it is to be a scientist. The demonstrations described here revolve around the skills that are indispensable in scientific research on the one hand and about the characteristics of science on the other. These skills include carefully observing, critically analyzing a problem, developing a model to explain observations, or testing expectations with an experiment ({cite:t}`pols2022defining`). The knowledge created in the process is man-made. That knowledge is as certain as knowledge ever gets and yet will always be amenable to improvement. 
 
 ### Affective goals
-There might be a fourth reason why we include demonstrations in our teaching-not included in the framework of {cite:t}`hodson2014learning`. Demonstrations motivate students, evoke pleasure in physics, arouse interest in the subject, develop fascination with the phenomena. They contribute to an understanding of the motivations of physicists and an appreciation of their achievements. This is called "learning about physics". [Demonstrations for special occassions](../demos/Specialdemos.md), well, needs no further explanation.
+There might be a fourth reason why we include demonstrations in our teaching-not included in the framework of {cite:t}`hodson2014learning`. Demonstrations motivate students, evoke pleasure in physics, arouse interest in the subject, develop fascination with the phenomena. They contribute to an understanding of the motivations of physicists and an appreciation of their achievements. This aspect of "learning about physics". [Demonstrations for special occassions](../demos/Specialdemos.md), well, needs no further explanation.
 
 Demonstrations also play a role at special occasions: at an open day, at an anniversary, at a farewell. In this book you will find examples of demonstrations that stimulate thought, but which also have a surprising or playful twist, making them suitable to show at such special occasions. The topics are by no means always part of the school physics curriculum. However they all appeal to common sense and the outcome is often counterintuitive. Of the charm of physics is taken full advantage in this section!
 
