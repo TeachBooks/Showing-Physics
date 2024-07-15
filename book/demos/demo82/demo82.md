@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Transit of a Sphere
+# Transit of a planet
 <span style="font-size: 25px; color: gray;">Simulating Planet Transits</span> 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -24,11 +24,10 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Transits, planets, observation, exoplanet</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
-Most students will not be familiar with the transit of an exoplanet, though exoplants might facinate them. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
+Most students will not be familiar with the transit of an exoplanet, though exoplants might fascinate them. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
 
 ```{figure} demo82_figure1.jpeg
 ---

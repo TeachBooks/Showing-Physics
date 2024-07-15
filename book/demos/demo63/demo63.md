@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Condensation Heat in Infrared
+# Condensation heat in infrared
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -23,8 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Condensation, evaporation</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
 In this demonstration, you make a nanoscale process visible in a simple way. Due to continuous evaporation, water in a cup has a lower temperature than the room its in, even after hours of being in that room. We follow the temperature of a sheet of paper as evaporated water condenses on it. With the measured temperature rise, we estimate the number (layers) of water molecules needed for this increase.
@@ -41,7 +40,6 @@ Setup for this experiment: FLIR C5 camera connected to a computer. Clamped in a 
 - Round dish (e.g. a petri dish)
 - A few sheets of (printer) paper
 - Stand clamp
-
 
 ## Preparation
 1. Place the infrared camera in a stand so that it is directed from above onto the setup. 

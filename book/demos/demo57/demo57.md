@@ -24,7 +24,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Rolling, velocity, Coandă effect, Newton's third law of motion</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 You can demonstrate the important concept of a curve ball in sports using simple materials. This experiment provides a qualitative understanding of the Coandă effect. How does it work? It’s a challenge to predict the direction of the curve and to think of possible applications.

@@ -4,8 +4,7 @@ width: 35%
 align: right
 ```
 
-# Cooling Metal Spheres
-
+# Cooling metal spheres
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -24,10 +23,10 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Cooling, specific heat, FLIR, IR</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
-To let students experience the process of cooling solid objects, we observe the cooling of iron spheres with different diameters using a FLIR camera (C5). It is clearly visible that the smallest sphere cools down faster than the larger spheres. The approach was used in an experiment conducted in the 18th century by George-Louis Leclerc with the objective of determining the age of the Earth.
+To let students experience the process of cooling solid objects, we observe the cooling of iron spheres with different diameters using a FLIR camera (C5). It is clearly visible that the smallest sphere cools down faster than the larger spheres. The approach was used in an experiment conducted in the 18$^{th}$ century by George-Louis Leclerc with the objective of determining the age of the Earth.
 
 ```{figure} demo75_figure1.jpeg
 ---

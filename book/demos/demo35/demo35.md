@@ -1,4 +1,4 @@
-# Falling Candle
+# Falling candle
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -17,9 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">heat transfer by convection, buoyancy, weightlessness, combustion</td>
     </tr>
-</table><br>
-
-This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -32,6 +30,8 @@ This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
         ></iframe>
     </div>
 </div>
+
+This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
 
 ## Introduction
 This experiment combines combustion with force and movement in a surprising way. The experiment lasts less than a second; the interesting part is predicting what will happen and finding an explanation.

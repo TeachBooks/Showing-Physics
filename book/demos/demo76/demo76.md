@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# A Balloon that Can Do Everything
+# A balloon that can do everything
 <span style="font-size: 25px; color: gray;">Sinking, Floating, and Hovering Balloon</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

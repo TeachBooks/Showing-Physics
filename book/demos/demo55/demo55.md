@@ -1,4 +1,4 @@
-# Stick on Wine Glass
+# Stick on wine glass
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Forces, inertia</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Imagine a stick with headless nails or needles in each end, resting on fragile wine glasses. Then a hard hit with a club. The stick breaks, but the wine glasses do not. How is that possible?

@@ -4,7 +4,7 @@ width: 35%
 align: right
 ```
 
-# Two Springs, Series or Parallel?
+# Two springs, series or parallel?
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -23,8 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">elongation, spring constant, series, parallelS</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
 A block is hung from a set of two springs. See the left half of the drawing.
