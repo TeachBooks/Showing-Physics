@@ -34,7 +34,7 @@ This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
 </div>
 
 ## Introduction
-This experiment combines combustion with force and movement in a surprising way. The experiment lasts only a few seconds; the interesting part is predicting what will happen and finding an explanation.
+This experiment combines combustion with force and movement in a surprising way. The experiment lasts less than a second; the interesting part is predicting what will happen and finding an explanation.
 
 ## Equipment
 * Tealight candle
@@ -55,9 +55,9 @@ Tealight candle in a closed jar.
 
 ## Procedure
 ### Predict
-Light the tealight candle and place the jar upside down over it (the jar is standing on its lid). Students can predict that the flame will extinguish soon, and they are correct. But what will happen if you lift the jar with the burning candle inside and then drop it?
+Light the tealight candle and place the jar upside down over it (the jar is standing on its lid). Students can predict that the flame will extinguish soon, and they are correct. But what will happen if you pick up the jar with the burning candle inside and then drop it?
 
-Will the flame burn brighter, remain equally bright, or become less bright? And why do they expect that? Take some time to gather predictions and corresponding explanations. Then try it out.
+As it falls will the flame burn brighter, remain equally bright, or become less bright? And why do they expect that? Take some time to gather predictions and corresponding explanations. Then try it out.
 
 ### Observe
 First observe that indeed the flame goes out after quite some time in a closed jar. Then relight the tealight candle and let a strong flame develop. Place the jar back on the lid, hold it high in front of you, and drop it. A drop of about half a meter is sufficient, then catch it again.
@@ -66,10 +66,10 @@ The flame has been extinguished much faster than before, so this is not because 
 
 ```{tip}
 * To drop the jar vertically, hold it on both sides and move your hands along with the fall. Guide the observation because it happens quickly: 'Pay close attention, does the candle go out when I'm catching it or sooner?' If necessary, let the jar drop further, onto a cushion or into sand.
-* The question of why the tealight candle goes out can be broken down into pieces, for example, as follows:
+* Answering the question of why the tealight candle goes out can be supported by asking further questions, for example, as follows:
     * A flame needs oxygen to burn. What process provides the oxygen?
     * Hot air 'rises'. What process causes that?
-    * Does a cork float in water when both the cork and the water are in free fall? Does a stone sink then? How big is the upward force during free fall?
+    * Does a cork float in water when both the cork and the water are in free fall? Does a stone sink in falling water? How do the upward and downward force on an object in a fluid medium compare, during free fall?
 ```
 
 ### Explain
@@ -81,7 +81,7 @@ For the flame to burn, a continuous supply of oxygen is required. If this supply
 
 The net upward force on the hot air is the difference between the downward gravitational pull on it and the upward force caused by surrounding cold air. This upward force is equal to the gravitational pull on an equal volume of surrounding cold air. In short, hot air floats on cold air due to the difference in gravitational pull (per unit volume) between hot and cold air.
 
-In free fall, the gravitational downward pull on both is zero, and thus the difference in gravitational pull is also zero. Convection of hot air stops, so does the supply of oxygen.
+In free fall, the gravitational downward pull on both is zero (within the falling system), and thus the difference in gravitational pull is also zero. Convection of hot air stops, and so does the supply of oxygen.
 
 ## Follow-up
 For further exploration: Will the tealight candle also be extinguished if you don't drop the jar but throw it (straight) up and catch it before it comes down? Does a flame tilt when going around a corner, and if so, in which direction (towards the inside or the outside of the curve)? How does a flame react to deceleration and acceleration?
