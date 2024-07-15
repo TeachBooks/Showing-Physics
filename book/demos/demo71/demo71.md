@@ -47,14 +47,14 @@ Demonstrate a surprising phenomenon and use it to develop understanding of the N
 - Food coloring
 - Water
 - Box
-- About 1.5 m of water hoses;
+- About 1.5 m of water tubes;
 - 2 funnels
 - Double-sided tape or tape
 - Water-resistant caulk or glue
 - Empty bottle
 
 ## Preparation
-Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a hose directly from one funnel to the outside through a hole on the side. Place a large beaker underneath. 
+Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a tube directly from one funnel to the outside through a hole on the side. Place a large beaker underneath. 
 
 ```{figure} demo71_figure1.png
 ---
@@ -64,24 +64,24 @@ align: center
 The Magic box (using longer tubes and elevating the box would produce a more impressive result, see {numref}`Figure {number} <demo71_fig2>`).
 ```
 
-Do the same for the other funnel, except that there is a siphon between the inlet and outlet. Cut the bottom of the plastic bottle you will use as a siphon. Drill a hole in the cap of a bottle, attach a long piece of hose, glue the hose securely, and put the cap back on the bottle. Attach the bottle upside down inside the box, with the outlet of the second funnel guiding into the (removed) bottle bottom. The hose coming out of the cap is made to go up, and to turn back down just below the top edge of the inverted bottle. Then out of the second hole on the side. The outlet of the hose ideally is situated lower than the lowest point of the inverted bottle (so that it empties all the way).  A large beaker should fit under the outlets. Secure everything well. Make the hoses on the outside of equal length. Ideally, the box looks symmetrical from the outside. 
+Do the same for the other funnel, except that there is a siphon between the inlet and outlet. For a use the plastic bottle, cut off the bottom. Drill a hole in the cap of the bottle, attach a long piece of tube, glue the tube securely, and put the cap back on the bottle. Now invert the bottle and suspend it inside the box, below the funnel on the left. The outlet of the second funnel should let the water enter the inverted bottle: make sure there is no leakage. Guide the tube coming out of the cap from under in the box back up, and let it turn back down just below the top edge of the inverted bottle. Then lead it out of the second hole on the side. The outlet of this tube shoul ideally is situated lower than the lowest point of the inverted bottle (so that it empties all the way).  A large beaker should fit under the outlets. Secure everything well. Make the tubes on the outside of equal length. Ideally, the box looks symmetrical from the outside. 
 
-Fill the siphon with water and some food coloring up to the height just below the height where the hose turns back down. Fill the small beaker with some water, not too much but enough for the fluid to reach that height and start the siphon.
+Fill the siphon with water and some food coloring up to a point just below the point where the tube turns back down. The amount of water that you start off with in the small beaker must be enough to make this level rise and the water to go 'over the top' in the tube, and start the siphoning process. 
 
 ## Procedure
 Ask students to pay close attention so they can later describe exactly what they saw. Then pour the water carefully through the first funnel. Collect it in the large beaker. Pour it back into the small one. Have students write down their observations. 
 
 *Expected statements:* you pour water into the funnel on one side and it flows out through the hose on that side. 
 
-Next, pour the liquid from the small beaker into the second funnel. If properly adjusted, nothing will happen at first, but then the liquid will start flowing out of the hose. Soon students will notice that the color is different. Then they'll see that the outflow goes on for a long time, filling the large beaker almost completely. Does it stop? Yes, eventually it does. What's in the box? Ask the students to come up with an explanation and make a sketch of what they think is in the box and explains what they saw. Let them discuss with each other: do the sketches explain the observations? 
+Next, pour the same liquid thaty came out into the second funnel. If properly tuned, nothing will happen at first, but then liquid will start flowing out of the tube. Soon students will notice that the color is different. Then they'll see that the outflow goes on for a long time, filling the large beaker almost completely. Does it stop? Yes, eventually it does. What's in the box? Ask the students to come up with an explanation and make a sketch of what they think is in the box and explains what they saw. Let them discuss with each other: do their sketches explain the observations? 
 
 Select questions for the follow-up discussion:
-1. You've come up with an explanation, but where did it come from? What did you use to find it? (Creativity, imagination, experience.) Scientists depend on the same traits.
-2. Is it necessary to test if your explanation is correct? Why or why not? How can you test your explanation? Is that how scientists work?
-3. Different explanations have been suggested in class. Which explanations are better and why? What are characteristics of the best explanations?
+1. You've come up with an explanation, but where did it come from? What did you use to find it? (Creativity, imagination, experience, knowledge.) Scientists depend on the same traits.
+2. Is it necessary to test if your explanation is correct? Why or why not? How can you test your explanation? Is that how scientists work too?
+3. Different explanations have been suggested in class. Which explanations are better and why? What are characteristics of good or better explanations?
    
 ### On the side
-The following aspects of Nature of Science can be clarified based on these questions. See also the [introduction on NoS](../../Pedagogy/Nos.md).
+The following aspects of Nature of Science can be clarified based on discussing these questions. See also the [introduction on NoS](../../Pedagogy/Nos.md).
 1. Curiosity is a key driving force for scientists. If they don't understand something, they don't become disappointed but interested and excited.
 2. What you observe depends on what exists, but also on *'how'* you observe. Scientists, too, often only see something when they know what to look for.
 3. To explain what you don't understand, you use knowledge you already have. Scientists do the same. For example, because you know water as a clear liquid whose color and quantity do not change easily, you probably did not find the first event surprising. There was nothing to explain there, but later on suddenly there was. The explanation you came up with is based on knowledge and experience, but also on your creativity and imagination. Scientists also use creativity and imagination when inventing explanations!
@@ -100,7 +100,7 @@ Diagram of the siphon, connected to one of the funnels. At the start, the siphon
 ```
 
 ```{tip}
-Completely emptying a siphon remains peculiar, of course. Feel free to turn the box upside down after the discussion and show how it works. Perhaps searching for good explanations is just as important as having them.
+Completely emptying a siphon remains peculiar, of course. Feel free to turn the box around, show the inside after the discussion and show how it works. Perhaps searching for good explanations is just as important as having them.
 ```
 
 ## References
