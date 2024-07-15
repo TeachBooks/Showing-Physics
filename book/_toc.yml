@@ -32,14 +32,13 @@ parts:
     - file: demos/NOSdemos
       title: Demos on NoS
       sections:
-      - file: demos/demo01/demo01 #particle           
-      - file: demos/demo40/demo40 #cancancan
+      - file: demos/demo40/demo40 
+      - file: demos/demo01/demo01 
       - file: demos/demo59/demo59
-      - file: demos/demo61/demo61
-      - file: demos/demo70/demo70 #Cylinder Puzzle
-      - file: demos/demo71/demo71 #magic siphon
-      - file: demos/demo72/demo72 #rollstop
-      - file: demos/demo91/demo91 #mysterious fountain
+      - file: demos/demo70/demo70 
+      - file: demos/demo71/demo71 
+      - file: demos/demo72/demo72 
+      - file: demos/demo91/demo91 
  
   - caption: Demos on scientific inquiry
     numbered: 2
@@ -54,6 +53,7 @@ parts:
       - file: demos/demo39/demo39 #inquiring rotational flame
       - file: demos/demo41/demo41 #emptying a bottle
       - file: demos/demo60/demo60
+      - file: demos/demo61/demo61
       - file: demos/demo62/demo62.ipynb #LiDar
       - file: demos/demo65/demo65
       - file: demos/demo73/demo73 #determining g
