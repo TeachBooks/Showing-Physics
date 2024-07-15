@@ -137,7 +137,7 @@ It almost always turns out that not everyone sees exactly the same things. The t
 **Explain**<br>
 *The water replaces the oxygen consumed by combustion.*<br>
 Students learn that oxygen is necessary for combustion. When the oxygen is depleted, the candle goes out. Some biology textbooks explain the rising liquid level in this experiment by saying that the water rises to replace the disappeared oxygen. The water often does indeed fill a part of the glass that roughly corresponds to the percentage of oxygen in the atmosphere according to Binas (a Dutch reference book): 21%.
-But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct afyer all or can they think of an alternative?
+But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct after all or can they think of an alternative?
 
 So far, our audiences have forwarded the following three possible explanations (but there may be others);
 1. The water replaces the oxygen consumed by combustion.
