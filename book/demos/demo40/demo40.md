@@ -32,7 +32,7 @@
 </div>
 
 ## Introduction
-This demonstration is meant to evoke fascination and amazement while simultaneously illustrating [nature of science](../../Pedagogy/Nos.md). Physics in school may seem like a subject where all the answers are already known, and where imagination or creativity have little relevance. But in this demonstration, it's about the suggestions, ideas, and solutions that the students come up with. The correct answer is less important.
+This demonstration is meant to evoke fascination and amazement while simultaneously illustrating aspects of [nature of science](../../Pedagogy/Nos.md). Physics in school may seem like a subject where all the answers are already known, and where imagination or creativity have little relevance. But in this 'black box' demonstration, it's about the suggestions, ideas, and solutions that the students come up with. The correct answer is less important.
 
 ## Equipment
 * Empty can with opaque lid; 
@@ -80,7 +80,7 @@ Next discuss the solutions students came up with. Some solutions will be creativ
 
 Next, you may want to address the role of amazement, imagination, and creativity in science. It's quite strange that the can comes back. Scientists get excited when something odd happens because that means they don't understand it, so there's something to be learned! That's why research is done, which starts with coming up with all sorts of solutions and ideas about how things might work. Scientists usually think their own solutions are the best ones too, and they evaluate each others' work to find the best solutions. Often, they conduct new research as a result of that as well.
 
-The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor since the can has no on/off switch or plug. It also helps if the solution is familiar somehow. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up and then unwinds. The solution can also be built as a model to see if it works. Scientists use these and other methods to find the best solutions.
+The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor since the can has no on/off switch or plug. It also helps if the solution is familiar somehow. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up and then unwinds. An explanation that makes use of an elf living in the can is unlikely to be taken serious - most of us have never seen one. The solution can also be built as a model to see if it works. Scientists use these and other methods to find the best solutions.
 
 Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. In general, the world is often like a returning can that can never be opened. Therefore physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one. For example, because it describes observations of gravitational or electric phenomena more precisely.
 
