@@ -103,7 +103,7 @@ Store the can for reuse. Releasing the tension from the elastic band slows its d
 ```
 
 ## Follow-up
-Possible homework assignment before discussing the actual solution: try to make a can that rolls back yourself / with your group. It's advisable to provide cans with holes for that.
+Possible homework assignment before discussing the actual solution: try by yourself or as a group to make a can that rolls back on its own. It's advisable to provide cans with holes for that.
 
 ## References
 ```{bibliography}
