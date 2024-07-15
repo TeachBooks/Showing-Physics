@@ -95,7 +95,7 @@ name: demo89_fig5
 ---
 Scattering on a ball.
 ```
-5. Determine the strength of the lens by magnifying, for example, a 1 cm square and then measuring the magnification and the distance from the lens to the paper. Use this to calculate the focal point of the lens (see see {numref}`Figure {number}<demo89_fig6>`).
+5. Determine the strength of the lens by magnifying, for example, a 1 cm square and then measuring the magnification and the distance from the lens to the paper. Use this to calculate the focal point of the lens (see {numref}`Figure {number}<demo89_fig6>`).
 ```{figure} demo89_figure6.jpg
 ---
 width: 50%

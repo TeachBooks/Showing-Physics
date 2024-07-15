@@ -11,7 +11,7 @@
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 11 & 12E</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 11 & 12</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
