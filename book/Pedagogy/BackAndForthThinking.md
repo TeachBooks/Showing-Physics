@@ -43,7 +43,7 @@ Often several pedagogical pathways are available to engage students in thinking-
 width: 50%
 name: fig:combi_schakeling
 ---
-Mixed circuit
+Mixed circuit. Explaining what happens with the brightness of the lamps if one is unscrewed requires a lot of TBF.
 ```
 
 As a teacher you may elect to focus on the concepts of (replacement) resistance and current flow via *predicting* and *explaining*. The starting question could be *What happens to the brightness of bulbs **B** and **C** if bulb **A** is unscrewed?* You may help students through asking multiple-choice questions. After a brief exchange of answers and arguments, you as the teacher unscrew bulb **A**. Bulb **B** and **C** appear to be turned off. The explanation is sought in class and linked to the concepts resistance (which becomes very large) and current (which becomes zero). You now tighten bulb **A** again and ask what happens to the brightness of bulbs **A** and **C** when bulb **B** is unscrewed. The students should now be asked to formulate their answer and justify it. Again there is an exchange of ideas before you actually unscrew bulb **B**. Then the assignment is for students in pairs to figure out what was wrong with their previously given incorrect explanations (which are very likely to occur) and ultimately find the correct explanation. Doing the explanation task in this way will produce strong ack-and-forth thinking. It is important that you as a teacher finalize by relating the concepts of (replacement) resistance and current correctly to the explanation. 

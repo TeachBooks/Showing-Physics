@@ -54,6 +54,7 @@ To get attention for the actual demonstration, make sure that students are aware
   <i>What do you think will happen when the glass is place over the candle?</i>
 </div>
 
+
 {cite:t}`mitchell1992some` give the following advice based on his extensive PEOE experience:
 
 1.  It is very important that students realize that they are not alone in their prediction. Therefore, it is important to summarize the class's ideas and report back to the class. An effective way to do this is to have predictions written down in a handy format so that the teacher can quickly take inventory by walking around.

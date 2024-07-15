@@ -64,7 +64,7 @@ There are two plausible explanations:
 1. **Without Flow:** During combustion, warm water vapor and carbon dioxide are produced. The water vapor condenses on the wall of the glass bell jar. The carbon dioxide has a high temperature and therefore a temporarily low density, causing it to rise. It accumulates at the top, forming a layer at the top, so the upper candle goes out first. Oxygen is thus more concentrated in the lower part of the bell jar.
 2. **With Flow:** The hot carbon dioxide rises in the bell jar due to its low density, cools down, and sinks after cooling, creating a flow. This flow first reaches the lower candle, which consumes oxygen, so the higher candle gets relatively oxygen-poor air. The upper candle will therefore go out earlier.
 
-You can investigate which explanation is more accurate using CO2 sensors and temperature sensors under the bell jar. The height of the candles relative to the top of the bell jar may also affect the process.
+You can investigate which explanation is more accurate using CO$_2$ sensors and temperature sensors under the bell jar. The height of the candles relative to the top of the bell jar may also affect the process.
 
 ```{tip}
 - For better visibility, place the setup on a raised platform.
