@@ -41,13 +41,13 @@ Everyone knows that, when placing a glass over a burning candle, the candle exti
 
 What causes the liquid level in the glass to rise? People tend to come up with different plausible explanations. What are the arguments for and against each explanation? Do those arguments fit all observations?
 
-From observation alone, no scientific insight follows, especially not when more than one explanation seems plausible. The result of research is often the conclusion that more research is needed. Sometimes even for an old and stale problem like this...
-The teacher performs the experiment but is meant to mainly direct the discussion aimed at generating these insights.
+Mere observation do not suffice to develop scientific insight, even less so when more than one explanation seems plausible. The result of research is often the conclusion that more research is needed. Sometimes even for an old and stale problem like this one...
+The teacher performs the experiment but is meant to mainly direct the discussion aimed at generating these insights about the nature of science.
 
 ## Equipment
 * Candle
-* Plate 
-* Glass 
+* Plate or saucer
+* Clear transparant drinking glass or jar
 * Some water 
 * (optionally) coloring 
 * Matches
@@ -57,11 +57,11 @@ The teacher performs the experiment but is meant to mainly direct the discussion
 width: 50%
 align: center
 ---
-Place the jam jar over the burning candle.
+Place the glass or jar over the burning candle.
 ```
 
 ## Preparation
-Pour some water into the plate, if possible with coloring, and place the candle in the middle and light it. Have the glass ready. It must be large enough for it not to touch the candle or flame when placed over it.
+Pour some water, if possible with coloring, into the plate, place the candle in the middle and light it. Have the glass ready. It must be large enough for it not to touch the candle or flame when placed over it.
 
 ## Procedure
 A detailed scenario for a Predict-Observe-Explain approach for this demo can be found below. You will find there an outlined, hypothetical lesson plan, with suggestions for questions and assignments. 
