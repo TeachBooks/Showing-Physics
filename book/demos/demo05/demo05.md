@@ -1,4 +1,4 @@
-# Who needs force?
+# Newton's First Law
 <span style="font-size: 25px; color: gray;">Sustain constant speed with Newton’s first law</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -21,7 +21,7 @@
 </table>
 
 ## Introduction
-In this demonstration on Newton’s First Law you can direct students’ thoughts and observations to details that are easily overlooked in a students' practical. By challenging students to express their expectations/predictions, compare these and then test them in observations, you can direct the way the students adjust and shape their concepts and beliefs. Different from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
+In their own practical work students may easily overlook the details in the phenomena. This demonstration on Newton’s First Law is meant to direct their thoughts and observations to such details. Invite students to express their expectations and predictions, compare these amongst each other and then test them in observations. This is meant to help you direct how students adjust and shape their concepts and beliefs in the context of Newton's First Law. Differently from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
 
 ```{figure} demo05_figure1.png
 ---
@@ -46,10 +46,10 @@ A schematic of the experimental setup
 Build the set-up, see {numref}`Figure {number} <demo05_fig1>`. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses and matching spring-balance so that friction is negligible up to speeds of about 1 m/s.
 
 ## Procedure
-The cord, with a knot in it, is revolving uniformly (at constant speed). If you pull the cart with your hand along with the knot, the cart has the same constant speed as the knot. Note that it takes a moment to attain that speed, but then the spring-balances can be read.
-1. *How does the pulling force compare to the opposing force, during that latter part of the movement?* 
+The cord, with a knot in it, is revolving uniformly (at constant speed). If you pull the cart with your hand along with the knot, the cart has the same constant speed as the knot. Note that it takes a moment to attain that speed, but then the spring-balances can be read. The follwoing questions can now be raised and are meant to be answerd in the demonstration that follows:
+1. *How does the pulling force compare to the opposing force, during the part of movement where the speed is constant?* 
 2. *What changes if we select a greater constant speed?* 
-Answering these questions is the aim of the demonstration.
+
 
 A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here. An example is presented in this [worksheet](demo05worksheet.doc). Students provide an answer to the two questions above, that is, they write down their prediction. Then the experiment is carried out. A (slightly) larger speed is realized by increasing the voltage across the electric motor. A conclusion is formulated on the basis of the observations. The worksheet question direct students to apply the gained knowledge in similar contexts, the goal is to explore whether Newton's first law is generally applicable. 
 
