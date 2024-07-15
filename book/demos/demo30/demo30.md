@@ -26,16 +26,16 @@ align: right
 </table><br>
 
 ## Introduction
-For young children, 'air' is not really a concept they can grasp. After all, an empty glass contains: nothing. By comparing the weight of air to that of matches, air becomes more tangible. In higher grades, you can involve the effect of buoyant force. The setup is deceptively simple; making a correct prediction and explanation is not trivial.
+For young children, 'air' is not really a concept they can grasp. After all, an empty glass contains: nothing. By comparing the weight of air to that of matchsticks, air becomes more tangible. In higher grades, you can involve the effect of buoyant force. The setup is deceptively simple; making a correct prediction and explanation is not trivial.
 
 ## Equipment
-* A few straws
+* Two drinking straws
 * Several identical balloons
 * A needle 
 * A piece of fishing line (or string)
 
 ## Preparation
-Thread the needle through both straws, attach loops of fishing line to the ends of one straw in such a way that there is balance when you attach empty balloons to them. See figure 1.
+Construct a sensitive weighing device by threading the needle through the straws, attach loops of fishing line to the ends of the horizontal straw in such a way that there is balance when you attach empty balloons to them. See figure 1.
 
 ```{figure} demo30_figure1.JPG
 ---
@@ -79,8 +79,9 @@ Explanation for lower grades: *A balance is a clever device for determining how 
 Explanation for upper grades: *When inflating the balloon, gravity increases (more mass), but so does the buoyant force (more volume). Because the air in the balloon is compressed compared to the surrounding air, the density has increased. Therefore, gravity has increased more than the buoyant force, causing the inflated balloon to descend.*
 
 ## Physics background
-A balance compares the gravity on two objects. This works well when there is only a homogeneous gravitational field, so in an accelerating elevator but not in a medium with high density. In a scale that compares gravity with a spring force, it is often exactly the opposite.
+A balance compares the force of gravity acting on two objects. This works well if there is only a single homogeneous gravitational field, as in an accelerating elevator, but not necessarily in a medium with high density and a second, buoyant force. In scales that compare gravity with a spring force, often the exact opposite is the case.
 The buoyant force on the inflated balloon is equal to the gravity that would act on that volume if ordinary air were there: $F_{\text{buoyant}} = F_{\text{g, ordinary air}}$. For the whole balance, the right side can be written as:
 $$F_{\text{g, inflated balloon}} - F_{\text{buoyant}} = F_{\text{g, balloon + compressed air - ordinary air}} \\ = F_{\text{g, balloon + extra air}}$$
 
-If you neglect the buoyant force on the left, then the gravity on the matches is equal to that on the extra air compressed into the balloon. Following the usual definition of 'weight' as the net force on the support, *this is also the weight of all the air in the inflated balloon.* The weight of that air is then not equal to the gravity acting on that air, and you do not make a mistake in the lower grades if you refer to 'the weight of the inflated balloon' in this experiment.
+If you neglect the buoyant force on the left, then the gravity on the matches is equal to that on the extra air compressed into the balloon. The following bit is a little subtle:
+The Dutch and German word 'Gewicht' translate as 'Weight' but do not always mean exactly the same. 'Gewicht' is usually defined as the net force exerted by an object on its support (hence in free fall it is 'weightless'). With that definition, the weight of the matchsticks is equal to *the weight of **all** the air in the inflated balloon.* The weight of that air is then not equal to the gravity acting on that air, and your statement in the lower grades that 'the weight of the matchsticks equals that of the inflated balloon' is correct. However in English the usual definition of 'weight' is 'the gravitational force acting on an object'. With that definition, the weight of the matchssticks equals the weight of only the **extra** air in the inflated balloon as compared to normal air in that space.
