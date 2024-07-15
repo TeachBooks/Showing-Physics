@@ -54,7 +54,7 @@ The mysterious fountain.
 ```
 
 ## Preparation
-Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large paper tubes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible. Note: both bottles and all tubes must be sealed airtight by the stoppers, the connection between the bottles as well. The connecting tube should protrude into these bottles as little as possible. The end of the tube below the funnel as well as that of the tube on the right in the figure should go as deep as possible, preferably placed close to the bottom of each bottle. The 'tap' should extend as little as possible above the bottle on the right.
+Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large paper tubes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible. Note: both bottles and all tubes must be sealed airtight by the stoppers, the connection between the bottles as well. The connecting tube should protrude into these bottles as little as possible. The end of the tube below the funnel as well as that of the tube on the right in figure 2 should be placed as deep as possible, close to the bottom of each bottle. The 'tap' should extend as little as possible above the bottle on the right, the funnel should extend as much as possible above the one on the left.
 
 ```{figure} demo91_figure2.jpg
 ---
@@ -67,7 +67,7 @@ Sketch of the setup
 
 
 ## Procedure
-Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel and the liquid level in the container on the right is high enough). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
+Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel and the liquid level in the container on the left is high enough). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
 
 The discussion during the experiment is more interesting than the execution and the events. Some questions to ask and tasks to be performed (see a possible 'scenario' in the {ref}`worksheet<worksheet>`):
 * *How do you think it works?* (Add a sketch to your explanation, compare with your neighbor.)
