@@ -46,12 +46,12 @@ Setup for this experiment: FLIR C5 camera connected to a computer. Clamped in a 
 2. Place the dish with water under the camera. 
 3. Turn on the camera with streaming mode enabled and connect it to your computer.
 4. Open a camera app on the computer and let it display the image from the infrared camera. 
-5. Set the distance (on the touchscreen) of the infrared camera to the correct value. Enter the emissivity of paper (approximately 0.70) into the infrared camera.
+5. Set the distance (on the touchscreen) of the infrared camera to the correct value. Enter the emissivityvalue of paper (approximately 0.70) into the infrared camera.
 
 ## Procedure
 Students already have knowledge of molecular theory and phase transitions.
-1. Set up the apparatus and explain to the students what they see. Tell them you are going to place the sheet of paper on the dish of water. The infrared camera can measure the temperature.
-1. *What happens to the temperature of the paper above the water?*
+1. Set up the apparatus and explain to the students what they see. Tell them you are going to place the sheet of paper on the dish of water. The infrared camera measures the temperature.
+1. *What happens to the temperature of the paper?*
    - Will remain the same
    - Will decrease
    - Will increase
@@ -75,7 +75,7 @@ a. The surface of the paper on which water has condensed is clearly visible. On 
 ```
 
 ## Physics Background
-This demonstration is extensively described by {cite}`Xie2011`. The rise in temperature of the paper is caused by the condensation of water vapor from the dish on the underside of the paper. When the water molecules in the vapor condense, they release heat. The heat conducts through the thin paper and causes a temperature rise. The amount of water molecules condensing on the paper is so small that you barely feel moisture when you touch the paper, but it is enough to cause a temperature rise detected by the infrared camera.
+This demonstration is extensively described by {cite}`Xie2011`. The rise in temperature of the paper is caused by the condensation of water vapor from the dish underneath the paper. When the water molecules in the vapor condense, they release heat. The heat conducts through the thin paper and causes a temperature rise. The amount of water molecules condensing on the paper is so small that you barely feel moisture when you touch the paper, but it is enough to cause a temperature rise which is detected by the infrared camera.
 
 This heating mechanism can be confirmed by holding the paper above the cup for a minute until it reaches thermal equilibrium with the surroundings and then removing the paper. IR images of the paper show that the temperature of the originally heated circular zone drops immediately after removal to below the ambient temperature. This can be explained by the water molecules that had condensed on the underside of the paper beginning to evaporate, resulting in rapid cooling of the paper.
 
@@ -118,7 +118,8 @@ Considering that not all the heat is released at once, the rate of water vapor d
 ```{tip}
 - Place the setup visibly on the desk. Project the measurement via the computer onto a screen or digital board. Ensure the temperature is easy to follow by, for example, directing a temperature spot of the camera at the spot to be measured. 
 - A water droplet on the edge of the paper will also be clearly visible with a lower temperature due to evaporation (see {numref}`Figure {number}<demo63_fig2>` a). 
-- After a few hours, the setup shows the paper has a lower temperature. Paper is porous, and the water molecules evaporate again at the surface of the paper. Hold the paper vertically above the dish as well.
+- After a few hours, the setup shows the paper has a lower temperature. Paper is porous, and the water molecules evaporate again at the surface of the paper. 
+- Hold the paper vertically above the dish as well to show condensation vertically. 
 ```
 
 ## References
