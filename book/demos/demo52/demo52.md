@@ -41,7 +41,7 @@ Light bulb and hand.
 - A 100 W light bulb with fitting and plug
 - Measuring tape
 - Blindfold
-- Optional for verifying the inverse square law: computer with Coach 6 and Coachlab, light sensor (e.g., CMA 0142i)
+- Optional for verifying the inverse square law: computer with Coach 7 and CoachlabII+, light sensor (e.g., CMA 0142i)
 
 ### Preparation
 Connect the light bulb to the mains.
@@ -80,7 +80,7 @@ The essence of this experiment is that students calculate the sun's emitted powe
 Ensure that students' arms cannot touch the lamp to prevent skin burns.
 ```
 ## Follow-up
-Before or after determining the sun's emitted power, you can let students derive the inverse square law themselves. This can be done by measuring the light intensity of the light bulb at different distances with a light meter (e.g., light sensor CMA 0142i) and graphing it as a function of distance on double-logarithmic paper. The inverse square law can then be applied again to calculate the solar constant, which is the solar power that reaches the earth on average per square meter. From this, you can also calculate the total solar power incident on the earth. This calculation shows that it is many times greater than the amount of power we, as earth inhabitants, use on average for transport, industry, lighting, heating, and other purposes! It is expected that total energy consumption in 2030 will be about 700.10^18 J per year (source (Dutch): http://www.deconsult.nl). This observation can be used to motivate students to use and develop sustainable energy. For example, they can calculate how much total surface area of solar panels would be needed to generate that amount of energy as electrical energy (ignoring aspects like day/night, energy needs, transport of electrical energy, etc.).
+Before or after determining the sun's emitted power, you can let students derive the inverse square law themselves. This can be done by measuring the light intensity of the light bulb at different distances with a light meter (e.g., light sensor CMA 0142i ot BT50i) and graphing it as a function of distance on double-logarithmic paper. The inverse square law can then be applied again to calculate the solar constant, which is the solar power that reaches the earth on average per square meter. From this, you can also calculate the total solar power incident on the earth. This calculation shows that it is many times greater than the amount of power we, as earth inhabitants, use on average for transport, industry, lighting, heating, and other purposes! It is expected that total energy consumption in 2030 will be about 700.10$^{18}$ J per year (source (Dutch): http://www.deconsult.nl). This observation can be used to motivate students to use and develop sustainable energy. For example, they can calculate how much total surface area of solar panels would be needed to generate that amount of energy as electrical energy (ignoring aspects like day/night, energy needs, transport of electrical energy, etc.).
 
 
 For calculations, an Excel file is available
