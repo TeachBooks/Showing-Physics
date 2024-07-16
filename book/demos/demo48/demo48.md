@@ -19,7 +19,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);">
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Level:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 3 and up</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 9 and up</td>
     </tr>
     <tr style="background-color: var(--background-color);">
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
@@ -28,18 +28,18 @@ align: right
 </table>
 
 ## Introduction
-This demonstration shows the alternating voltage across a (bicycle) lamp, the changing luminosity of the lamp, and the difference between the voltage and luminosity changes. As both quantities change rapidly over time, they need to be measured at a high frequency. This can be easily done using the Coach program. Students will see in a diagram how quickly the voltage changes sign and will be asked to predict how the luminosity changes.
+This demonstration shows the alternating voltage across a (incandescent-bicycle) lamp, the changing luminosity of the lamp, and the difference between the voltage and luminosity changes. As both quantities change rapidly over time, they need to be measured at a high frequency. This can be easily done using the Coach 7 program or similar measuring programm. Students how quickly the voltage changes sign and will be asked to predict how the luminosity of the lamp changes.
 
 ## Equipment
 * Setup with lamp and AC power source
-* Bicycle lamp
+* incandescent lamp (6V)
 * Voltage sensor
 * Luminosity sensor
-* Coach7 measurement program
-* CMA files
+* Coach 7 or similar measurement program
+* CMA files or similar. 
 
 ## Preparation
-Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect the voltage and luminosity sensors to an interface and start the Coach measurement program. Ensure the interface is recognized and displays a standard diagram of voltage versus time. Test the luminosity sensor and adjust its distance from the lamp so that the measured luminosity is within the sensor's range. Set a trigger condition to stabilize the display of both signals.
+Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect the voltage and luminosity sensors to an interface and start the Coach 7 measurement program. Ensure the interface is recognized and displays a standard diagram of voltage versus time. Test the luminosity sensor and adjust its distance from the lamp so that the measured luminosity is within the sensor's range. Set a trigger condition to enhance the display of both signals.
 
 ```{figure} demo48_figure1.JPG
 ---
@@ -57,12 +57,12 @@ The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 
 ## Procedure
 1. Point to the fluorescent lights and ask students to sketch a graph of luminosity versus time.
-2. Measure the frequency of the light from the fluorescent lights using the light sensor. Do not explain the exact frequency yet; that will come later in the demonstration.
+2. Measure the frequency of the light from the fluorescent lights using the light sensor. Do not explain the exact frequency yet; this will come later in the demonstration.
 3. Introduce the demonstration to investigate the flickering of light.
 4. Place the setup on the desk and discuss the circuit. Draw the circuit diagram on the board and perform an initial measurement showing only the alternating voltage across the lamp.
 5. Discuss the shape of the alternating voltage with the students. Ask how the direction of the current changes. (You can also connect a current sensor.)
 6. Position the luminosity sensor near the setup. Explain what the sensor measures. Ask students to individually sketch a graph predicting the luminosity measurement.
-7. Perform a measurement of both luminosity and alternating voltage. Calculate with the students the frequency of the alternating voltage.
+7. Perform a measurement of both luminosity and alternating voltage. Calculate the frequency of the alternating voltage with the students.
 8. Repeat the frequency calculation for the luminosity. Ask students to explain why the luminosity has a frequency that is double that of the voltage.
 9. Ask students how the graphs would change if direct current (DC) was used instead of alternating current (AC). Demonstrate this.
 10. Extend the demonstration with measurements on LED lighting.
@@ -82,7 +82,7 @@ Two measurements in one diagram: the alternating voltage across the lamp and the
 ```
 
 ## Physics Background
-The alternating voltage from our power grid changes at 50 Hz, as does the alternating current. In each period, the voltage and current rise and fall twice. The direction of the current doesn't matter for the lamp to light up. Therefore, the lamp's brightness fluctuates exactly 100 times per second. Students can quickly grasp this explanation, though they might not think of it on their own. There is a common misconception that light sources do not vary in intensity because this fluctuation is not easily perceived {cite}`Bacalla2013`.
+The alternating voltage from our power grid changes at 50 Hz, as does the alternating current. In each period, the voltage and current rise and fall twice. The direction of the current does not influence the burning of an incandescent lamp. Therefore, the lamp's brightness fluctuates exactly 100 times per second. Students can quickly grasp this explanation, though they might not think of it on their own. Students have a common misconception that light sources do not vary in intensity because this fluctuation because they do not perceive this {cite}`Bacalla2013`.
 
 ## Follow-up
 * How does direct current (DC) affect the lamp's luminosity?
