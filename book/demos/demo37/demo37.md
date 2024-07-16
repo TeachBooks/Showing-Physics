@@ -40,7 +40,7 @@ Experimentally verifying a formula might seem trivial, but when you ask students
 * Coach files (available here [**include link to the coach files**]).
 
 ## Preparation
-Set up the apparatus as shown in {numref}`Figure {number} <demo37_fig1>`. Connect the pressure sensor to an interface and start the Coach measurement program. Choose from the standard activities (Measure, Upper Level, Physics) activity 7. Boyle's Law. Measure the volume manually and enter it into Coach. Conduct a measurement with at least 8 pressure and volume readings. Especially take measurements at higher pressures and smaller volumes since this is where issues with residual volume manifest. Save the measurement as a separate result file. (The measurement can also be done during the demonstration.)
+Set up the apparatus as shown in {numref}`Figure {number} <demo37_fig1>`. Connect the pressure sensor to an interface and start the Coach measurement program. Choose from the standard activities (Measure, Upper Level, Physics) activity 7. Boyle's Law. Measure the volume manually and enter it into Coach. Conduct a measurement with at least eight pressure and volume readings. Especially take measurements at higher pressures and smaller volumes since this is where issues with residual volume manifest. Save the measurement as a separate result file. (The measurement can also be done during the demonstration.)
 
 ```{tip}
 Place the setup clearly on the lectern.
@@ -101,7 +101,7 @@ The ideal gas law assumes that the attraction between molecules is zero and that
 
 $$ (p + \frac{n^2a}{V^2})(V-n \cdot b) = n \cdot R \cdot T $$
 
-The pressure is corrected for attraction in it, and the volume of molecules is taken into account. These corrections become important at a higher density. The constant b is then roughly the volume of 1 mole, and the constant a depends on the attraction between molecules. These constants are determined empirically. For details, we refer to well-known textbooks such as {cite}`young2014`, chapter 17. Coach models for Boyle's Law and for the Van der Waals version are available on the site [**include link to the coach files**].
+The pressure is corrected for attraction between molecules and also the volume of molecules is taken into account. These corrections become important at a higher density. The constant b is then roughly the volume of 1 mole, and the constant a depends on the attraction between molecules. These constants are determined empirically. For details, we refer to well-known textbooks such as {cite}`young2014`, chapter 17. Coach models for Boyle's Law and for the Van der Waals version are available on the site [**include link to the coach files**].
 
 ```{figure} demo37_figure4.jpg
 ---
