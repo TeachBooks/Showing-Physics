@@ -16,9 +16,9 @@
 </table><br>
 
 ## Introduction
-Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar. A slightly altered version of that demonstration provides excellent opportunity to highlight some characteristics of how science works. For that demonstration you make use of two burning candles of different lengths, placed under the bell jar. 
+Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar. A slightly altered version of that demonstration provides excellent opportunity to highlight some characteristics of how science works. For this demonstration you make use of two burning candles of different lengths, placed under the bell jar. 
 
-One option is to explain the setup and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg to do the experiment in the same lesson. In science, you often have to deal with uncertainties and experiments are frequently postponed.
+One option is to explain the setup and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg you to do the experiment in the same lesson. (In science, you often have to deal with uncertainties and experiments are frequently postponed.)
 
 ```{figure} NV14_figuur_1_300dpi.jpg
 ---
@@ -29,8 +29,8 @@ Two burning candles of different lengths inside a sealed glass jar.
 ```
 
 ## Equipment
-- Two candles of different lengths in a stand
-- Matches
+- Two candles of different lengths in a stand (+/- 4/5 cm difference in length)
+- Matches or lighter
 - Glass bell jar or glass jar
 - Cloth to remove the condensed water from the bell jar
 
@@ -42,27 +42,27 @@ Set up the candles so they can easily fit under the bell jar and the bell jar ca
 2. What will happen to the candle when I place it under the bell jar?
 3. Place the candle under the bell jar.
     - *Why does the candle go out?*
-4. Explain that oxygen is consumed during combustion, producing carbon dioxide and water vapor.
+4. Explain that oxygen is consumed while the candle is burning, producing carbon dioxide and water vapor.
     - *How did you observe both effects inside the bell jar?* 
-5. Ensure the bell jar has a proper oxygen ratio again (blow into the bell jar or move it back and forth).
+5. Ensure the bell jar has a proper oxygen ratio again (blow into the bell jar or swing it around to get rid of the combustion gasses.).
 6. Tell the students that you will now place two candles of different lengths. Ask them which one will go out first and to explain why they think so.
 7. Perform the experiment.
     - *What is the explanation?*
 8. What do you expect when we do the experiment again? Do the experiment again.
-9. Did we expect the taller candle to go out first? What are possible explanations for the outcome? 
-10. For the various explanations, how can we verify whether that explanation might be true? 
+9. Did we expect the longer/shorter candle to go out first? What are possible explanations for the outcome? 
+10. For the various explanations, how can we verify whether that explanation might be right? 
 
 ## Physics Background
 There are two plausible explanations:
-1. **Without Flow:** During combustion, warm water vapor and carbon dioxide are produced. The water vapor condenses on the wall of the glass bell jar. The carbon dioxide has a high temperature and therefore a temporarily low density, causing it to rise. It accumulates at the top, forming a layer at the top, so the upper candle goes out first. Oxygen is thus more concentrated in the lower part of the bell jar.
-2. **With Flow:** The hot carbon dioxide rises in the bell jar due to its low density, cools down, and sinks after cooling, creating a flow. This flow first reaches the lower candle, which consumes oxygen, so the higher candle gets relatively oxygen-poor air. The upper candle will therefore go out earlier.
+1. **Without convection:** During combustion, warm water vapor and carbon dioxide are produced. The water vapor condenses on the wall of the glass bell jar. The carbon dioxide has a high temperature and therefore a temporarily low density, causing it to rise. It accumulates at the top, forming a layer at the top, so the upper candle goes out first. Oxygen is thus more concentrated in the lower part of the bell jar.
+2. **With convection:** The hot carbon dioxide rises in the bell jar due to its low density, cools down, and sinks after cooling, creating a convection flow. This flow first reaches the lower candle, which consumes oxygen, so the higher candle gets relatively oxygen-poor air. The upper candle will therefore go out earlier.
 
 You can investigate which explanation is more accurate using CO$_2$ sensors and temperature sensors under the bell jar. The height of the candles relative to the top of the bell jar may also affect the process.
 
 ```{tip}
 - For better visibility, place the setup on a raised platform.
 - After burning the first candle, dry the inside of the bell jar to remove condensed water vapor.
-- Students associate the smoke from the candle when it goes out with the production of carbon dioxide. However, this is gaseous candle wax that sublimates. The evaporation of candle wax continues for a while. Only if you look very closely can you see the flow in the beginning, when the 'bell jar' is not yet over both candles. You see the flame of the upper candle move. At the top of the bell jar, you don't see condensed water vapor because the temperature of the top of the bell jar is very high.
+- Students associate the smoke from the candle when it goes out with the production of carbon dioxide. However, this is gaseous candle wax that sublimates. The evaporation of candle wax continues for a while. Only if you look very closely can you see the convection flow in the beginning, when the 'bell jar' is not yet over both candles. You see the flame of the upper candle move. At the top of the bell jar, you don't see condensed water vapor because the temperature of the top of the bell jar is very high.
 - You can also time the demonstrations twice and ask what causes the time difference.
 ```
 
