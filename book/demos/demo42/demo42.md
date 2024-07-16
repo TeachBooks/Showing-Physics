@@ -32,7 +32,7 @@ width: 50%
 align: center
 name: demo42_fig1
 ---
-The two cans contain hot water (same initial temperature) and a temperature sensor. The temperature measurements are displayed on a digital board using Coach.
+The two cans contain hot water (same initial temperature) and a temperature sensor. The temperature measurements are displayed on a digital board using Coach 7 or similar program.
 ```
 
 ## Introduction
@@ -41,25 +41,25 @@ We show students that the cooling of objects is influenced by the environment. T
 ## Equipment
 * Two cans filled with hot water at the same initial temperature
 * Two temperature sensors or thermometers
-* Coach as measurement software
+* Coach 7 or similar programm  as measurement software
 * A screen or digital board for projecting the temperature graphs
 * Hot and cold water
 * A handkerchief
 
 ## Preparation
-Set up the apparatus as shown in {numref}`Figure {number} <demo42_fig1>`. Connect the two temperature sensors to the interface. Start Coach and create an activity where the temperature of the water in the cans can be clearly read. 
+Set up the apparatus as shown in {numref}`Figure {number} <demo42_fig1>`. Connect the two temperature sensors to the interface. Start Coach 7 or similar programm and create an activity where the temperature of the water in the cans can be clearly read. 
 
-Ensure that hot water is available, as well as a handkerchief that can be soaked in cold water. Pour the hot water into the cans and place the temperature sensors in the cans. Wrap one of the cans in a wet handkerchief. Start the measurement. Optionally provide graph paper to the students.
+Ensure that hot water is available, as well as a handkerchief that can be soaked in cold water. Pour the hot water into the cans and place the temperature sensors in the cans. Wrap one of the cans in a wet handkerchief. Start the measurement. Optionally: provide graph paper to the students for them to handdraw the graph.
 
 ```{tip}
-* Place the setup on a raised platform so that students can see clearly when wrapping the can.
-* Since there isn't much to see with the setup, it's important for students to be able to follow the temperature changes closely. A projection screen is a useful aid for this experiment.  
+* Place the setup on a raised platform so that students can see clearly when and how the can is wrapped.
+* Since there isn't much to see during the experiment, it's important for students to be able to follow the temperature changes closely. A projection screen is a useful aid for this experiment.  
 * Have some exercises or questions ready for students to work on while the measurements are running.
 ```
 
 
 ## Procedure
-1.	Ask the students how to keep a hot liquid at temperature for as long as possible. What insulation methods do they know? Which form of heat transfer does the insulation method involve?
+1.	Ask the students how to keep a hot liquid at a high temperature for as long as possible. What insulation methods do they know? Which form of heat transfer does the insulation method involve?
 2.	Explain that you are going to conduct an experiment that demonstrates the difference in insulation between two heat sources.
 3.	Explain how the experiment will proceed and ask the students to write down their expectations.
 4.	Carefully pour the hot water into the cans and wrap one of the two cans in the wet (cold) handkerchief.
@@ -77,13 +77,13 @@ We immediately see the difference in cooling between the two cans. The can with 
 ```
 
 ## Physics background
-The can with the handkerchief cools down quickly, especially at the beginning, because there is a greater temperature difference with the surroundings than there is for the other can. As the warmth of the handkerchief increases, the temperature difference decreases, decreasing the heat flow. At this point, the evaporation of water from the handkerchief will further contribute to cooling. This experiment fits well with upper-level physics because of:
+The can with the handkerchief cools down faster, especially at the beginning, because there is a greater temperature difference with the outside of the can than there is for the other can. As the temperature of the handkerchief increases, the temperature difference decreases, decreasing the heat flow. At this point, the evaporation of water from the handkerchief will further contribute to cooling. This experiment fits well with upper-level physics because of:
 
 $$ \frac{\Delta Q} {\Delta t} = \frac{\lambda \cdot A \cdot \Delta T}{d} $$
 
 with:
 
-$\frac{\Delta Q}{\Delta t}$	the heat removed per second;\
+$\frac{\Delta Q}{\Delta t}$	the heat flow per second;\
 $\lambda$ the thermal conductivity;\
 $A$ the surface area;\
 $\Delta T$ the temperature difference;\
