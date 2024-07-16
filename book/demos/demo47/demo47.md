@@ -45,7 +45,7 @@ The charge sensor, plastic rods, and a cloth used to charge the objects by rubbi
 ```
 
 ## Preparation
-Connect the charge sensor to Coach. Ensure that the sensor's value is displayed in a window. Set the sensor to a range of $\pm$ 25 nC using the adjustment knob.
+Connect the charge sensor to the interface and start Coach 7 or similar measuring programm. Ensure that the sensor's value is displayed in a window. Set the sensor to a range of $\pm$ 25 nC using the adjustment knob.
 
 Connect the black clip of the sensor to a ground. Reset the sensor using the reset button. Display the measurement on a large screen, such as a digital board.
 
@@ -56,7 +56,7 @@ width: 50%
 align: center
 name: demo47_fig1
 ---
-The charge sensor is grounded via a CoachLab. The red clip of the sensor is held near the separated pieces of tape.
+The charge sensor is grounded via a CoachLabII+ interface. The red clip of the sensor is held near the separated pieces of tape.
 ```
 
 ## Procedure
@@ -70,7 +70,7 @@ The charge sensor is grounded via a CoachLab. The red clip of the sensor is held
 
 ```{tip}
 * You can also separate the tape in duplicate. Then show that the pieces of tape can attract or repel each other.
-* When charging a rod, rub in one direction.
+* When charging a rod, rub in one direction (up or down but not up/down).
 ```
 
 ## Physics Background
