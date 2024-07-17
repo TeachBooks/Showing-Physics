@@ -1,8 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
 # Surprising infra-red investigations
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -22,11 +17,11 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">infrared, visible light, absorption, transparency</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo22_figure1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The person is standing behind a garbage bag but is still clearly visible in infrared.
@@ -46,22 +41,20 @@ Make sure you have a garbage bag and a glass plate. Connect the IR-camera to the
 
 ```{figure} demo22_figure2.png
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The person is not visible in infrared behind glass, though visible in the visible light spectrum.
 ```
 
 ## Procedure
-1.	Ask students to mention differences between IR and visible light.
-2.	What similarities do students know between IR and visible light?
-3.	Point the IR camera to objects that are heat sources and explain that the camera creates false colors so that we can distinguish areas with different temperatures. (The camera assigns different colors to different IR radiation).
-4.	What will the IR camera show when a student is behind a glass window? Let students predict and then try this!
-5.	Place a student behind a glass plate and film the student in the infrared modus (not in MSX mode). Students notice that infrared radiation does not pass through the glass.
-6.	What does the glass do with IR? Does it absorb infrared, or does it mirror infrared? How can you test your answer with this equipment?
-7.	Use this experiment to discuss transparency, opacity or absorption of objects for electromagnetic radiation. For example, UV radiation and glass.
+1.	Ask students to mention differences and similarities between IR and visible light.
+2.	Point the IR camera to objects that are heat sources and explain that the camera creates false colors so that we can distinguish areas with different temperatures. (The camera assigns different colors to different IR radiation).
+3.	What will the IR camera show when a student is behind a glass window? Let students predict first and subsequently try.
+4.	Place a student behind a glass plate and film the student in the infrared modus (not in MSX mode). Students notice that infrared radiation does not pass through the glass.
+5.	What does the glass do with IR? Does it absorb infrared, or does it mirror infrared? How can you test your answer with this equipment?
+6.	Use this experiment to discuss transparency, opacity or absorption of objects for electromagnetic radiation. For example, UV radiation and glass.
  
-
 ## Physics background
 Visible light is not absorbed by the glass, but is absorbed by the black garbage bag. The opposite is true for IR radiation. Glass reflects infrared like a mirror.
 

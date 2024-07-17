@@ -20,17 +20,18 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">particle-wave duality of light, quantization, threshold frequency, photonsS</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">particle-wave duality of light, quantization, threshold frequency, photons</td>
     </tr>
-</table><br>
+</table>
 
 
 ```{figure} demo23_figure1.jpg
 ---
 width: 50%
 align: center
+name: demo23_fig1
 ---
-some caption
+Red light shined on a green LED: no voltage.
 ``` 
 
 ## Introduction
@@ -46,19 +47,20 @@ It is not generally known that a light emitting diode (LED) can be used in rever
 
 ```{figure} demo23_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
+name: demo23_fig2
 ---
-some caption
+With white light, the DMM measures a voltage.
 ``` 
 
 ## Preparation
-For the first demonstration we make the LEDs shine by connecting each LED in forward direction in series with a resistor and a voltage source. Subsequent demonstrations are done without a voltage source, connecting  the LEDs directly to a Voltmeter and illuminated them with a laser pointer or other source (figures 1 and 2). Set the voltmeter to a range of 0 – 2V.
+For the first demonstration we make the LEDs shine by connecting each LED in forward direction in series with a resistor and a voltage source. Subsequent demonstrations are done without a voltage source, connecting  the LEDs directly to a Voltmeter and illuminated them with a laser pointer or other source ({numref}`Figures {number} <demo23_fig1>` and {numref}`{number} <demo23_fig2>`). Set the voltmeter to a range of 0 – 2V.
 
 ## Procedure
 In this description we use a red and a green LED but it could be other colors as long as one has a large wavelength and the other a much shorter wavelength. We connect both LEDs and make them shine. The LEDs convert electrical energy to light. *Would it be possible to do the opposite, to convert light into electrical energy? How can we investigate that?*
 
-We connect the red LED with the voltmeter and illuminate it with a red laser (figure 1). *Would other colors of light such as white and green also generate a voltage over the LED?* Verify this with the white and green light sources (figure 2).
+We connect the red LED with the voltmeter and illuminate it with a red laser ({numref}`Figures {number} <demo23_fig1>`). *Would other colors of light such as white and green also generate a voltage over the LED?* Verify this with the white and green light sources (figure 2).
 
 *Would intensity influence the voltage? How can we investigate this?* Vary the distance between LED and laser pointer, or use a filter that reduces the intensity of the laser pointer. So a LED can act like a solar cell. Please note that the voltage still depends on some other factors apart from the color such as other properties of the LED and resistance of the Voltmeter (should be large).
 
@@ -68,12 +70,12 @@ The question now is why even a modest intensity of white or green light does gen
 
 To further support this idea we can also look again at the conversion of electrical energy to light. To produce light the green LED needs a higher voltage than the red LED! Then we can get into determining Planck’s constant with LEDs, an experiment described elsewhere in this book.
 
-```{figure} demo23_figure3.JPG
+```{figure} demo23_figure3.png
 ---
-width: 50%
+width: 70%
 align: center
 ---
-some caption
+A concept cartoon can be used to elicit students' ideas.
 ``` 
 
 ## Physics background
