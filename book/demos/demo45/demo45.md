@@ -34,7 +34,7 @@ The basic setup.
 ```
 
 ## Introduction
-Students often think that when you have related quantities and you increase one, the other will also increase. More of **A** results in more of **B**. In a series of experiments, {cite:t}`Tsakmaki2016` attempt to dispel this student misconception. Using the context of the Magdeburg hemispheres, we explore Newton's third law in this experiment. You can direct this demonstrations towards various goals, depending on what you want to achieve.
+Students often think that when you have related quantities and you increase one, the other will also increase. More of **A** results in more of **B**. In a series of experiments, {cite:t}`Tsakmaki2016` attempted to dispel this students' misconception. Using the context of the Magdeburg hemispheres, we explore Newton's third law in this experiment. You can direct this demonstrations towards various goals, depending on what you want to achieve.
 
 ## Equipment
 * 4 stands
@@ -53,7 +53,6 @@ Ask the students to predict the outcome of the historical experiment with the Ma
 Have a student read the value on the spring scale in {numref}`Figure {number}<demo45_fig1>`. Explain that you will replace the stand with mass blocks. *In the context of the Magdeburg hemispheres experiment, you replace the tree with four horses.* Ask the students to predict if the force read on the spring scale will increase, decrease, or stay the same, and whether they think the hemispheres will now separate.
 
 Replace the stand with the equivalent mass blocks, as shown in {numref}`Figure {number}<demo45_fig2>`. Have the student read the value on the spring scale again.
-
 
 ```{figure} demo45_figure2.JPG
 ---
