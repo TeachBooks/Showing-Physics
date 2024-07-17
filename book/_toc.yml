@@ -169,5 +169,6 @@ parts:
 
   - caption: References
     chapters:
+    - file: howto
     - file: references
   
