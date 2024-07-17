@@ -85,12 +85,12 @@ A concept cartoon can be used to elicit students' ideas.
 ``` 
 
 ## Physics background
-The main principles have been mentioned above. After this demonstration it will be easier to understand the photo cell. It is better to avoid getting into explanations of how LEDs work. The LED in this demonstration is purely a black box whose behavior we cannot explain by light waves as a continuous flow of energy, but only with energy packages or light quanta which we have named photons.
+The main principles have been mentioned above. After this demonstration it will be easier for students to understand the photo cell. It is better to avoid getting into explanations of how LEDs work. The LED in this demonstration is purely a black box whose behavior we cannot explain by light waves as a continuous flow of energy, but only with energy packages or light quanta which we have named photons.
 
-A practical application of the same phenomenon is the fact that one cannot get a brown skin from visible light (behind a glass window), regardless of the intensity. UV energy packages are needed and they are absorbed by glass. Apparently pigment cells in our skin need energy packages with at least the energy of UV. The teacher can also refer to the fact that traditional photo paper is not sensitive for red light .... but who still knows that?
+A practical application of the same phenomenon is the fact that one cannot get a brown skin from visible light (behind a glass window), regardless of the intensity. UV energy packages are needed and they are absorbed by glass. Apparently pigment cells in our skin need energy packages with at least the energy of UV (there is a nice [Dutch exam question on the use of suncream](https://newsroom.nvon.nl/files/default/nav191vb.pdf)). The teacher can also refer to the fact that traditional photo paper is not sensitive for red light .... but who still knows that?
 
 ```{tip}
-* As the internal resistance of the Voltmeter is very high, the LED cannot produce a current and retains a fixed voltage. One needs an internal resistance of at least 10 $M\Omega$ in order to measure the voltage; with 1 $M\Omega$ the LED will already discharge.
+* As the internal resistance of the Voltmeter is very high, the LED cannot produce a current and retains a fixed voltage. One needs an internal resistance of at least 10 $\text{M}\Omega$ in order to measure the voltage; with 1 $\text{M}\Omega$ the LED will already discharge.
 * LEDs in a colored holder may not work in this experiment as there could be light absorption of certain colors in the holder. 
 * In our experiments small LEDs reacted better than big ones. It is unclear why.
 * The extra resistance is only needed to limit the current when LEDs are on. The magnitude of the resistance depends on the power source and the maximum power of the LEDs. Most LEDs can stand a current of several tens of mA and this is sufficient for well visible light.
