@@ -17,4 +17,6 @@ How to helpen bij het bekijken van het boek
 :width: 70%
 ```
 
-6. Wil je iets doorvoeren op een specifieke pagina, bijvoorbeeld een figuur, mail Freek of klik op de <i class="fa-brands fa-github"></i> button bovenaan het scherm en open een issue door op de {fa}`lightbulb` button te klikken. Daar kun je commentaar voor die specifieke pagina kwijt.
+6. De teksten staan in zogenaamde MarkDown files (extensie .md). De link in het boek geeft ook aan waar je een bestand terug kunt vinden: [Upward and downward force](./demos/demo26/demo26.md) heeft de URL: https://teachbooks.github.io/Showing-Physics/main/demos/demo26/demo26.html en vind je dus terug in de map `demos / demo26` en heeft de titel demo26.md.
+
+7. Wil je iets doorvoeren op een specifieke pagina, bijvoorbeeld een figuur, mail Freek of klik op de <i class="fa-brands fa-github"></i> button bovenaan het scherm en open een issue door op de {fa}`lightbulb` button te klikken. Daar kun je commentaar voor die specifieke pagina kwijt.
