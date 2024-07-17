@@ -19,18 +19,10 @@
     </tr>
 </table>
 
-<div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe
-            src="https://www.youtube.com/embed/YDBr1Lof_mI?si=RhTC31XHv-6gL4Kl"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-        ></iframe>
-    </div>
-</div>
-
+```{figure} demo56_figure5.png
+:width: 70%
+:align: center
+```
 
 ## Introduction
 Wires are wound on a spool, cables on a reel. If you need a small piece of cable, you pull the cable. But what happens to the reel if it is on the ground or table? Which way does a wire spool move?
