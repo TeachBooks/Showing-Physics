@@ -52,7 +52,7 @@ What will happen to the mass indicated on the balance? And what value will the s
 Set up the needed materials on the table.
 
 ## Procedure
-1. Present the setup ({numref}`Figure {number} <demo26_fig3>`). Explain that you will lower the object into the water and ask for individual predictions in multiple-choice format, as follows:
+1. Present the setup ({numref}`Figure {number} <demo26_fig3>` left). Explain that you will lower the object into the water and ask for individual predictions in multiple-choice format, as follows:
 
 <iframe src="https://tudelft.h5p.com/content/1292320429114244097/embed" width="1088" height="266" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo26Q1"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <iframe src="https://tudelft.h5p.com/content/1292320430014845357/embed" width="1088" height="308" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo26Q2"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>

@@ -1,8 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
 # Why does the water rise?
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -81,13 +76,12 @@ align: center
 The candle is extinguished. What made the liquid level rise?
 ```
 
-
 ## Physics background
-(For explanation 3). With complete combustion of candle wax (mainly paraffin or stearin), roughly speaking, for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
+For explanation 3: With complete combustion of candle wax (mainly paraffin or stearin), roughly speaking, for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
 
-(For explanation 2). Heat released to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
+For explanation 2: Heat released to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
 
-(For explanation 1). For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the 'resulting space' can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
+For explanation 1: For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the 'resulting space' can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
 
 More important than the 'correct' explanation here is that students themselves come up with, defend, and evaluate arguments for and against the explanations. Another important aspect is that a need arises for empirical evidence.
 
@@ -100,13 +94,13 @@ The balloon on the bottle inflates when you place the bottle in hot water.
 ```
 
 ```{tip}
-Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water ({cite:t}`liem1991invitations`). Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
+Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water {cite:p}`liem1991invitations`. Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
 ```
 
 Illustration of explanation 3: bring some water in an empty soda can to a boil, then quickly invert it and place it in a bowl of cold water, with the opening below the water surface. The can collapses with a bang because the water vapor condenses.
 
 ## Follow-up
-With three candles instead of one, the final water level is higher ({cite:t}`liem1991invitations`). Which of the explanations does this observation correspond to?
+With three candles instead of one, the final water level is higher {cite:p}`liem1991invitations`. Which of the explanations does this observation correspond to?
 
 
 ```{warning}
@@ -137,6 +131,7 @@ It almost always turns out that not everyone sees exactly the same things. The t
 **Explain**<br>
 *The water replaces the oxygen consumed by combustion.*<br>
 Students learn that oxygen is necessary for combustion. When the oxygen is depleted, the candle goes out. Some biology textbooks explain the rising liquid level in this experiment by saying that the water rises to replace the disappeared oxygen. The water often does indeed fill a part of the glass that roughly corresponds to the percentage of oxygen in the atmosphere according to Binas (a Dutch reference book): 21%.
+
 But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct after all or can they think of an alternative?
 
 So far, our audiences have forwarded the following three possible explanations (but there may be others);
@@ -145,12 +140,16 @@ So far, our audiences have forwarded the following three possible explanations (
 3. Gaseous water forms in the flame. When the flame goes out, the water condenses. This decreases the number of gas molecules, and thus the pressure. The atmosphere pushes water in until a new equilibrium is reached.
 
 Have students choose the explanation they think is best and come up with arguments for their own explanation and against those of others. Arguments are more plausible if they fit better with known theory and observations. Based on these criteria, groups can compare their views.
+
 In conclusion, the teacher may explain that it is not unusual for scientists to disagree. They can also find different observations important and accept different explanations. The smartest and most creative scientists find the best observations and arguments in favour of some claims (often their own) and against others (usually those of competitors). This has proven to be an excellent approach for the rapid development of reliable scientific knowledge.
 
 **Further options**<br>
 To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
+
 Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
-If you do this experiment with three candles instead of one, the final water level rises higher ({cite:t}`liem1991invitations`). Which of the explanations does this observation agree with?
+
+If you do this experiment with three candles instead of one, the final water level rises higher {cite:p}`liem1991invitations`. Which of the explanations does this observation agree with?
+
 It might be worth considering placing sensors in the glass to record the temperature and pressure changes during the process, and using video measurement to establish the volume changes. This might quantitatively determine which form of the ideal gas law best describes this process. This has not (yet) been tested.
 ```
 
