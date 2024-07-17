@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Extinguishing without water
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -23,7 +17,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">gas, density, fire</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -37,8 +31,6 @@ align: right
     </div>
 </div>
 
-
-
 ## Introduction
 In this demonstration, you light a tea light candle and then extinguish it without water. The existence of a gas is difficult for lower-grade students to imagine. Almost all gases are invisible, so it's hard to conceive how a gas behaves. The demonstration illustrates the behavior of a gas.
 
@@ -47,7 +39,7 @@ In this demonstration, you light a tea light candle and then extinguish it witho
 width: 50%
 align: center
 ---
-The tea light candle extinguishes.
+Diagram of a burning tea light candle and a glass with vinegar and baking soda.
 ```
 
 ## Equipment
@@ -63,24 +55,25 @@ Put vinegar and baking soda or soda in the jar. Not too much, as it will bubble 
 
 ## Procedure
 1. Place the candle in a glass and light it.
-2. Make a pouring motion with the jar just above the flame (see figure 1 and 2). The flame goes out (figure 3) because the carbon dioxide flows over it.
-
-```{figure} demo29_figure1.jpg
----
-width: 50%
-align: center
----
-Diagram of a burning tea light candle and a glass with vinegar and baking soda.
-```
+2. Make a pouring motion with the jar just above the flame (see {numref}`Figure {number} <demo29_fig2>`). The flame goes out ({numref}`Figure {number} <demo29_fig1>`) because the carbon dioxide flows over it.
 
 ```{figure} demo29_figure2.jpg
 ---
 width: 50%
 align: center
+name: demo29_fig2
 ---
 Pour the contents of the glass with vinegar and baking soda over the candle.
 ```
 
+```{figure} demo29_figure1.jpg
+---
+width: 50%
+align: center
+name: demo29_fig1
+---
+The tea light candle is extinguished by something invisible... what is it?
+```
 
 ## Physics background
 Baking soda and vinegar react with each other, producing carbon dioxide. This gas is heavier than air and remains in the glass, and it's invisible. Pouring it over the candle, this gas extinguishes the candle flame without seeming to have done anything.
@@ -93,8 +86,7 @@ Baking soda and vinegar react with each other, producing carbon dioxide. This ga
 ## Follow-up
 Light a second candle in a jam jar and seal it. When it is extinguished, pour the gas over the burning first candle: does it extinguish?
 
-
 > One of our testers  used two tall standing glasses as an alternative, one of which is filled with CO$_2$ from a cylinder; the other glass contains air. <br>
-> A candle on a wire is kept in the glass with air and remains lit. Then in the glass with CO$_2$; it immediately extinguishes. 
-> Then, as if pouring liquid, pour the CO$_2$ gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.
+> A candle on a wire is kept in the glass with air and remains lit. Then in the glass with CO$_2$; it immediately extinguishes.<br>
+> Then, as if pouring liquid, pour the CO$_2$ gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.<br>
 > If no CO$_2$ gas cylinder is available, you may use some solid dry ice from a discarded extinguisher to fill the glass with CO$_2$. That works just as well.

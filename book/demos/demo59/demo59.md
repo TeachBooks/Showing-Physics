@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Crookes' radiometer
 <span style="font-size: 25px; color: gray;">Not colliding photons but ... crawling gas molecules</span> 
 
@@ -20,7 +14,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 11</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">

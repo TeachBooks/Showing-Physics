@@ -57,7 +57,7 @@ To get attention for the actual demonstration, make sure that students are aware
 
 {cite:t}`mitchell1992some` give the following advice based on his extensive PEOE experience:
 
-1.  It is very important that students realize that they are not alone in their prediction. Therefore, it is important to summarize the class's ideas and report back to the class. An effective way to do this is to have predictions written down in a handy format so that the teacher can quickly take inventory by walking around.
+1.  It is very important that students realize that they are not alone in their prediction. Therefore, it is important to summarize the class's ideas and report back to the class (see for instance [Falling candle](../demos//demo35/demo35.md)). An effective way to do this is to have predictions written down in a handy format so that the teacher can quickly take inventory by walking around.
 2.  Students must feel safe to give their opinion. Therefore, never link assessment to a PEOE, not even by praise for a correct answer. Emphasize to students that you are interested in their ideas and that both wrong and correct predictions are important for the class reasoning process    and for their own learning process.
 3. A discussion after the prediction where different predictions are explained and discussed often works well. This discussion precedes the observation, the execution of the demonstration itself.
 4. At the end of PEOE, emphasize that incorrect predictions are often quite understandable or even 'logical' and that they are very useful in the learning process.
