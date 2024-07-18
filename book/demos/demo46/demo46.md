@@ -35,7 +35,7 @@ Ticker (height 2.4 cm, frequency 100 drops/s) and parabola of drops.
 ```
 
 ## Introduction
-This demonstration beautifully shows the independence of the motion of an object in mutually perpendicular directions. Naturally, we are talking about horizontal projectile motion. This principle is made clear here in an almost entirely conceptual way, without quadratic equations but with stunning visuals.
+This demonstration beautifully shows the independence of motion in mutually perpendicular directions. In this demonstration, the example of horizontal projectile motion is used where water droplets are the projectiles. The principle is clarified almost entirely conceptually, without quadratic equations but with stunning visuals.
 
 ## Equipment
 * Dark room that can preferably be fully darkened
@@ -43,25 +43,25 @@ This demonstration beautifully shows the independence of the motion of an object
 * Two stands
 * Height-adjustable table
 * Clamps
-* Ticker
+* Ticker timer
 * Bicycle valve tube (> 80 cm)
-* Faucet with (about 1.5 m) flexible hose
+* Faucet with (about 1.5 m) flexible tube
 * Sink
 * Stroboscope
 * Ruler
 
 ```{warning}
-Stroboscopic lighting can trigger seizures in people with epilepsy; this demonstration is not suitable for them.
+Stroboscopic lighting can trigger seizures in people with certain kinds of epilepsy; this demonstration is not suitable for them.
 ```
 
 ## Preparation
 * Place a stand on the table next to the faucet by the sink.
 * Attach a hose to the faucet.
 * Attach the overflow vessel to the stand at a considerable height, letting the hose from the faucet hang into it.
-* Push one end of the valve tube over the spout of the vessel.
-* Attach the ticker with a clamp to the second, securely clamped stand, slightly lower than the vessel.
-* Normally, your ticker ticks with a point on carbon paper to make dots. You can place the hose under that point, but it might puncture it. The point is on a vibrating plate: detach it and turn it over, so the point is facing up. Place the hose underneath, and screw it back in place.
-* Position the ticker and hose so that a stream of water flows horizontally out of the hose and falls from a considerable height into the sink.
+* Attach one end of the valve tube to the outlet of the overflow vessel.
+* Attach the ticker timer with a clamp to the second, securely clamped stand, slightly lower than the vessel.
+* Normally, your ticker timer taps with a point on carbon paper to make dots on a paper strip. It will now tap on the valve tube to produce water droplets, but that point might puncture the tube. Therefore, remove the plate on which the point is situated, turn it over and re-attach it, with the point facing up and the tube underneath. Make sure it is loosely attached and water can still flow through the tube.
+* Position the ticker timer and valve tube so that a stream of water flows horizontally out of the hose and falls from a considerable height into the sink.
 * Finally, set up the stroboscope to illuminate the falling water stream from the side.
 
 ```{figure} demo46_figure1.jpg
@@ -74,11 +74,11 @@ The setup.
 ```
 
 Next, there is some fine-tuning to do:
-1. Turn the faucet on slightly, so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing water.
-2. Adjust the height difference between the vessel and the ticker so that the stream falls into the sink in a nice arc. Ensure that the water still falls into the sink even at the maximum height of the vessel.
-3. Turn on the ticker. Adjust the vibrating plate pressing on the valve tube so that it produces individual droplets. (You will only see the individual droplets under stroboscopic lighting but can hear it rattle, not hum, when properly adjusted.)
+1. Turn the faucet on slightly, so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing waterstream.
+2. Adjust the positions of the vessel and the ticker timer so that the stream falls into the sink in a nice arc. During the demonstration you will want to change the height and make various arcs: ensure that for the whole intended range the water falls into the sink.
+3. Turn on the ticker timer. Adjust the vibrating plate pressing on the valve tube so that it produces individual droplets. (You will only see the individual droplets under stroboscopic lighting but the ticker timer ratttles, no longer hums, when properly adjusted.)
 4. Darken the room, and illuminate the falling water with the stroboscope from the side. Adjust the frequency so that the droplets appear to hang motionless in the air, forming a parabola.
-5. Adjust the flow rate by changing the height of the table.
+5. Adjust the flow rate by changing the height of the table with the overflow vessel.
 
 ## Procedure
 Your demonstration might proceed as follows, starting from when the audience sees the droplet parabola.
@@ -111,11 +111,11 @@ name: demo46_fig4
 Large initial speed.
 ```
 
-*"If we hang the vessel higher, the outflow speed increases. So the arc widens. Does a droplet hang in the air longer now? How can you see that?"*
+*"If we hang the vessel higher, the outflow speed increases. So the arc widens. Does the fall of a droplet take longer now? How can you see that?"*
   The number of floating pearls in the arc does not change, so the fall duration remains the same as before. No matter how you change the height of the vessel, the falling duration is always the same for the same fall height. The fall of the droplet is a combination of horizontal and vertical motion, and these two motions proceed independently.
 
 *"The vertical distance between the droplets increases. What does that say about the vertical speed of the droplets?"*
-  The vertical distance between successive droplets grows: they accelerate in the vertical direction. Measurements of the vertical distances between the droplets roughly show: the same vertical distance is added between successive pairs of droplets.
+  The vertical distance between successive droplets grows: they accelerate in the vertical direction. Measurements of the vertical distances between the droplets roughly show: the same vertical distance is added between successive pairs of droplets. (The "increment" of the falling distance in successive time intervals is constant.)
 
 *"What is the name of such a motion in which the vertical speed increases uniformly?"*
   Producing droplets at a frequency of 100 Hz means the vertical distance between successive droplets increases by 1 mm. Measuring with a ruler by eye will lack precision. Measure on a photo ({numref}`Figure {number} <demo46_fig4>`) and/or average the values.
