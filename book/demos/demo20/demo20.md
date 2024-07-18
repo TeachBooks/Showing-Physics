@@ -19,6 +19,10 @@
     </tr>
 </table>
 
+``` {figure} demo20_figure2.png
+width: 60%
+```
+
 ## Introduction
 The start of a new topic should be somewhat exciting, stimulating curiosity. This demonstration can be used as a start on the topic of optics, all students can participate. The demonstration may illustrate how physics works as well, though in a very simplified manner: students make predictions first and the actual experiment will 'proof' whether there prediction is correct.
 
