@@ -73,8 +73,8 @@ name: demo46_fig1
 The setup.
 ```
 
-Next, there is some fine-tuning to do:
-1. Turn the faucet on slightly, so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing waterstream.
+Next, some fine-tuning is required:
+1. Turn the faucet on slightly, adjust so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing waterstream.
 2. Adjust the positions of the vessel and the ticker timer so that the stream falls into the sink in a nice arc. During the demonstration you will want to change the height and make various arcs: ensure that for the whole intended range the water falls into the sink.
 3. Turn on the ticker timer. Adjust the vibrating plate pressing on the valve tube so that it produces individual droplets. (You will only see the individual droplets under stroboscopic lighting but the ticker timer ratttles, no longer hums, when properly adjusted.)
 4. Darken the room, and illuminate the falling water with the stroboscope from the side. Adjust the frequency so that the droplets appear to hang motionless in the air, forming a parabola.
@@ -84,10 +84,10 @@ Next, there is some fine-tuning to do:
 Your demonstration might proceed as follows, starting from when the audience sees the droplet parabola.
 
 *"How long does a droplet take to fall from the ticker to the edge of the sink?"*
-  From the vibrating frequency, you get the time between two visible droplets (In the photos: 0.01s). Count the number of floating pearls in the arc ({numref}`Figure {number}<demo46_fig2>`) and you know the fall duration.
+  From the vibrating frequency, you get the time between two visible droplets (In the photos: 0.01s). That is the time it takes a droplet to move between the visible positions. Count the number of floating pearls in the arc ({numref}`Figure {number}<demo46_fig2>`) and you know the duration of the fall.
 
 *"The pattern seems regular. What is regular about it?"*
-  Not only the time but also the horizontal distance between successive droplets is equal ({numref}`Figure {number}<demo46_fig3>`). You can measure this. From this, the horizontal speed of each droplet follows. It remains nearly constant during the fall.
+  Not only the time taken but also the horizontal distance moved between successive droplets is equal ({numref}`Figure {number}<demo46_fig3>`). You can measure this. From this, the horizontal speed of each droplet follows. It remains nearly constant during the fall.
 
   ```{figure} demo46_figure3.JPG
 ---
@@ -98,7 +98,7 @@ name: demo46_fig3
 Small initial speed.
 ```
 
-*"How could you increase the horizontal speed?"*
+*"How could we increase the horizontal speed?"*
   If you hang the overflow vessel higher, the outflow speed increases ({numref}`Figure {number}<demo46_fig4>`). The arc widens and initially descends less steeply.
 
   
