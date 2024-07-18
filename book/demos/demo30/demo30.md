@@ -21,7 +21,7 @@
 
 ```{figure} demo30_figure2.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The inflated balloon moves downward.
@@ -50,7 +50,7 @@ Explain what you expect, and why you expect that.
 
 ```{figure} demo30_figure1.JPG
 ---
-width: 50%
+width: 70%
 align: center
 name: demo30_fig1
 ---
@@ -78,7 +78,7 @@ Explanation for upper grades: *When inflating the balloon, gravity increases (mo
 A balance compares the force of gravity acting on two objects. This works well if there is only a single homogeneous gravitational field, as in an accelerating elevator, but not necessarily in a medium with high density and a second, buoyant force. In scales that compare gravity with a spring force, often the exact opposite is the case.
 The buoyant force on the inflated balloon is equal to the gravity that would act on that volume if ordinary air were there: $F_{\text{buoyant}} = F_{\text{g, ordinary air}}$. For the whole balance, the right side can be written as:
 
-$$F_{\text{g, inflated balloon}} - F_{\text{buoyant}} = F_{\text{g, balloon + compressed air - ordinary air}} \\ = F_{\text{g, balloon + extra air}}$$
+$$F_{\text{g, inflated balloon}} - F_{\text{buoyant}} = F_{\text{g, balloon + compressed air - ordinary air}} \\ F_{\text{g, inflated balloon}} - F_{\text{buoyant}} = F_{\text{g, balloon + extra air}}$$
 
 If you neglect the buoyant force on the left, then the gravity on the matches is equal to that on the extra air compressed into the balloon. The following bit is a little subtle:
 The Dutch and German word 'Gewicht' translate as 'Weight' but do not always mean exactly the same. 'Gewicht' is usually defined as the net force exerted by an object on its support (hence in free fall it is 'weightless'). With that definition, the weight of the matchsticks is equal to *the weight of **all** the air in the inflated balloon.* The weight of that air is then not equal to the gravity acting on that air, and your statement in the lower grades that 'the weight of the matchsticks equals that of the inflated balloon' is correct. However in English the usual definition of 'weight' is 'the gravitational force acting on an object'. With that definition, the weight of the matchsticks equals the weight of only the **extra** air in the inflated balloon as compared to normal air in that space.

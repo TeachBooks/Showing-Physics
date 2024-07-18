@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Miscommunicating vessels
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -21,15 +15,15 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Density, pressure</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">density, pressure</td>
     </tr>
 </table><br>
 
-Adapted from {cite}`liem1991invitations`
+Adapted from {cite:t}`liem1991invitations`
 
-```{figure} A08_PD12_fig1_ubuisje_site.jpg
+```{figure} demo38_figure1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 name: demo38_fig1
 ---
@@ -63,9 +57,9 @@ Conduct a conversation with the students along the following lines:
 
 Once it's clear what the class thinks, remove the stopper. The liquid level rises on the side where the stopper was, and it decreases on the other side. In these communicating vessels, the liquid levels are at unequal heights!
 
-```{figure} A08_PD12_fig2_ubuisje_site.jpg
+```{figure} demo38_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 name: demo38_fig2
 ---
@@ -79,19 +73,21 @@ A suitable activity for this question is, for example, Think-Pair-Share, in whic
 ```{tip}
 Don't forget to come back to the initial situation after discussing the final situation. Students who have the necessary prior knowledge will mostly have said that the liquid levels were initially at the same height *because the pressure on both sides was equal*. But that's only the case after the cork is removed: then atmospheric pressure prevails on both sides. Yet the liquid levels were initially at the same height - how can that be? Hopefully, they can figure it out themselves, based on the developed description of the final situation: there must have been overpressure in the air under the cork to compensate for the extra weight of the water in the other leg. Water was poured into the tube until that was the case. So the fact that the levels were the same height didn't happen 'by itself,' you deliberately misled your students (to teach them something about pressure and density, of course).
 ```
+
 ## Physics background
 In communicating vessels, the liquid levels are always at the same height (provided a single liquid is used). This is because the same air pressure pushes on the surface of all vessels - for an equally large force upwards, liquid columns of equal height are needed. If the forces are not equal the water would experience a net force and flow until they are. So how can the liquid in these vessels be at unequal heights?
 
 The situation is easiest to understand by looking at the bottom point of the tube. The liquid there is stationary, so the pressure from the right and from the left is equal. Then the liquid mass must be equal on both sides, so their densities must be different. It seems there's only one liquid in the tube, but there are two, with different densities. If you look closely, you can see the interface between the ethanol and the water as a slight cloudiness in the liquid. (Presumably, the refractive index varies irregularly there because the ethanol is in the process of dissolving into the water.)
+
 If the vessels were communicating, the liquids would have flowed if their initial levels were the same, but the cork prevented that.
 
 At ages 16-18, you can calculate together where the separation should be: with $dh$ the height difference and $h$ the height at the water side we can write:
 
 $$ \rho_e (h + dh) = \rho_w (h – x) + \rho_e \cdot x $$
 
-which can be rewritten as follows
+which can be rewritten as follows:
 
-$$ x = ((\rho_e–\rho_w)h + \rho_e \cdot dh) / (\rho_w+\rho_e)$$
+$$ x = \frac{(\rho_e–\rho_w)h + \rho_e \cdot dh}{\rho_w+\rho_e}$$
 
 If a negative value for $x$ is obtained, the interface is on the ethanol side; if a positive value is obtained, $x$ is on the water side. 
 

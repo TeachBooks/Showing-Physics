@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Floating pearls
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -74,9 +68,9 @@ The setup.
 ```
 
 Next, some fine-tuning is required:
-1. Turn the faucet on slightly, adjust so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing waterstream.
+1. Turn the faucet on slightly, adjust so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing water stream.
 2. Adjust the positions of the vessel and the ticker timer so that the stream falls into the sink in a nice arc. During the demonstration you will want to change the height and make various arcs: ensure that for the whole intended range the water falls into the sink.
-3. Turn on the ticker timer. Adjust the vibrating plate pressing on the valve tube so that it produces individual droplets. (You will only see the individual droplets under stroboscopic lighting but the ticker timer ratttles, no longer hums, when properly adjusted.)
+3. Turn on the ticker timer. Adjust the vibrating plate pressing on the valve tube so that it produces individual droplets. (You will only see the individual droplets under stroboscopic lighting but the ticker timer rattles, no longer hums, when properly adjusted.)
 4. Darken the room, and illuminate the falling water with the stroboscope from the side. Adjust the frequency so that the droplets appear to hang motionless in the air, forming a parabola.
 5. Adjust the flow rate by changing the height of the table with the overflow vessel.
 
@@ -118,7 +112,7 @@ Large initial speed.
   The vertical distance between successive droplets grows: they accelerate in the vertical direction. Measurements of the vertical distances between the droplets roughly show: the same vertical distance is added to the falling distance of successive pairs of droplets. (The *"increment"* of the falling distance in successive time intervals is constant.)
 
 *"What is the name of this type of motion, in which the vertical speed increases uniformly?"*
-  This is a uniformly accelerated motion. Using *'g'* and noting that droplets are produced at a rate of 100 Hz, the vertical distance expected between successive pairs of droplets increases by 1 mm. This is too small for live direct measurement with a ruler, but can be measured sufficietly accurately using a photo ({numref}`Figure {number} <demo46_fig4>`).
+  This is a uniformly accelerated motion. Using *'g'* and noting that droplets are produced at a rate of 100 Hz, the vertical distance expected between successive pairs of droplets increases by 1 mm. This is too small for live direct measurement with a ruler, but can be measured sufficiently accurately using a photo ({numref}`Figure {number} <demo46_fig4>`).
 
 From the measurements, an approximate value for *g* can be determined. With time intervals of $0.01$ s and noting that the distance increase is indeed $0.001$ m in the photo, the increase in the average speed is $\frac{0.001}{0.01} = 0.1$ m/s, and the acceleration is $\frac{0.1}{0.01} = 10$ m/s$^2$. During the fall, the vertical speed increases uniformly.
 
