@@ -112,15 +112,15 @@ Large initial speed.
 ```
 
 *"If we hang the vessel higher, the outflow speed increases. So the arc widens. Does the fall of a droplet take longer now? How can you see that?"*
-  The number of floating pearls in the arc does not change, so the fall duration remains the same as before. No matter how you change the height of the vessel, the falling duration is always the same for the same fall height. The fall of the droplet is a combination of horizontal and vertical motion, and these two motions proceed independently.
+  The number of floating pearls in the arc does not change, so the duration of the fall is the same as before. No matter how you change the height of the vessel, the duration of the fall is always the same for the same height of fall. The fall of the droplet is a combination of horizontal and vertical motion, and these two motions proceed independently.
 
-*"The vertical distance between the droplets increases. What does that say about the vertical speed of the droplets?"*
-  The vertical distance between successive droplets grows: they accelerate in the vertical direction. Measurements of the vertical distances between the droplets roughly show: the same vertical distance is added between successive pairs of droplets. (The "increment" of the falling distance in successive time intervals is constant.)
+*"The vertical distance between the droplets increases. What does that mean for the vertical speed of the droplets?"*
+  The vertical distance between successive droplets grows: they accelerate in the vertical direction. Measurements of the vertical distances between the droplets roughly show: the same vertical distance is added to the falling distance of successive pairs of droplets. (The *"increment"* of the falling distance in successive time intervals is constant.)
 
-*"What is the name of such a motion in which the vertical speed increases uniformly?"*
-  Producing droplets at a frequency of 100 Hz means the vertical distance between successive droplets increases by 1 mm. Measuring with a ruler by eye will lack precision. Measure on a photo ({numref}`Figure {number} <demo46_fig4>`) and/or average the values.
+*"What is the name of this type of motion, in which the vertical speed increases uniformly?"*
+  This is a uniformly accelerated motion. Using *'g'* and noting that droplets are produced at a rate of 100 Hz, the vertical distance expected between successive pairs of droplets increases by 1 mm. This is too small for live direct measurement with a ruler, but can be measured sufficietly accurately using a photo ({numref}`Figure {number} <demo46_fig4>`).
 
-From the measurements, an approximate value for *g* can be determined. With time intervals of $0.01$ s: if the distance increase is $0.001$ m, the increase in the average speed is $\frac{0.001}{0.01} = 0.1$ m/s, and the acceleration is $\frac{0.1}{0.01} = 10$ m/s$^2$. During the fall, the vertical speed increases uniformly.
+From the measurements, an approximate value for *g* can be determined. With time intervals of $0.01$ s and noting that the distance increase is indeed $0.001$ m in the photo, the increase in the average speed is $\frac{0.001}{0.01} = 0.1$ m/s, and the acceleration is $\frac{0.1}{0.01} = 10$ m/s$^2$. During the fall, the vertical speed increases uniformly.
 
 ```{tip}
 Always fun to finish: increase the stroboscope frequency a bit, and the droplets will climb up the parabola, 'back into the faucet.'
@@ -129,10 +129,10 @@ If you can't use your own photos, you can use those from this article: the origi
 ```
 
 ## Physics Background
-Each droplet undergoes identical horizontal projectile motion. The droplets are launched at fixed time intervals. When illuminated at these same time intervals, each droplet precisely occupies the position of its predecessor at each subsequent flash. Thus, the parabola of droplets appears to hang still in the air.
+Each droplet undergoes identical horizontal projectile motion. The droplets are launched at fixed time intervals. When illuminated briefly at the end of each time interval, each droplet precisely occupies the position of its predecessor at each subsequent flash. Thus, the parabola of droplets appears to be hanging still in the air (if the stroboscope and ticker time are at the same frequency).
 
-If illuminated at slightly longer intervals (higher frequency), the droplets appear to move slightly beyond where their predecessor was, appearing to move slowly downward. If illuminated at slightly shorter intervals, they appear to move upward, back into the faucet.
-In the beginning of the stream, you don’t see individual droplets; they form later as the accelerating pieces of water are pulled apart. The ticker apparently creates almost evenly sized droplets with equal intervals. Cohesion does the rest.
+If illuminated at the end of slightly longer intervals (lower strobe frequency), the droplets appear to move slightly beyond where their predecessor was, and collectively they appear to move slowly downward. If illuminated at slightly shorter intervals, they appear to move upward, back toward the ticker timer.
+In the beginning of the stream, you don’t see individual droplets; they form later as the accelerating pieces of water are pulled apart. The ticker timer apparently creates almost evenly sized droplets with equal intervals. Cohesion does the rest.
 
 ## References
 ```{bibliography}
