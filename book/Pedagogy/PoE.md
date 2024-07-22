@@ -19,6 +19,10 @@ The demonstration is then performed by the teacher. A demonstration is often wel
 
 In the final step, students are asked to explain the observed results and compare the outcome with their initial prediction. This step involves thus critical thinking and reasoning. Through guided discussion and reflection, students develop a deeper understanding of the underlying physics concepts. 
 
+```{tip}
+An excellent example of a POE-approach is presented in [Rich boiling phenomena](../demos/demo36/demo36.md), including a table which scaffolds the process.
+```
+
 These steps are further elaborated on in the table below We use the trivial example of a large and small falling stone ({numref}`Figure {number} <fig_poe>`). (Both the mass and the volume of the stones are different). Many students (and their parents) expect a large stone to fall faster than a small one.
 
 ``` {figure} Figures/POE.PNG

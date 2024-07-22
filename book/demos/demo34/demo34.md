@@ -19,6 +19,15 @@
     </tr>
 </table><br>
 
+```{figure} demo34_figure4.png
+---
+width: 50%
+align: center
+name: demo34_fig4
+---
+Various liquids stacked upon each other. Sunflower and olive oil have slightly different densities.
+```
+
 ## Introduction
 This demonstration can be performed as an introduction to or as practice with the concept of density. Students will observe that liquids can float on other liquids and that the mass/quantity of the liquid does not play a role. Students will also see that liquids do not automatically mix (when poured slowly). The materials used are familiar to students. Additionally, there is a good color contrast, so even students at the back of the class can see it well.
 
