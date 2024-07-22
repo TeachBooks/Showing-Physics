@@ -17,22 +17,21 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">density, pressure</td>
     </tr>
-</table><br>
+</table>
 
-Adapted from {cite:t}`liem1991invitations`
-
-```{figure} demo38_figure1.jpg
+```{figure} demo38_figure2.jpg
 ---
 width: 70%
 align: center
-name: demo38_fig1
+name: demo38_fig2
 ---
-U-tube with liquid and stopper.
+U-tube after removal of the stopper.
 ```
+
+Adapted from {cite:t}`liem1991invitations`
 
 ## Introduction
 The situation seems very normal - a U-tube filled with a clear liquid, with both sides at the same height. It's unclear what the cork on one side is for. That becomes apparent when you remove it, and the situation becomes incomprehensible unless you realize that there are not one but two liquids at play here. In the lower grades, this simple experiment challenges students to think about material properties. In the upper grades, it's a conceptual challenge regarding density and pressure, and a framework for some solid calculations.
-
 
 ## Equipment
 * U-tube
@@ -57,13 +56,13 @@ Conduct a conversation with the students along the following lines:
 
 Once it's clear what the class thinks, remove the stopper. The liquid level rises on the side where the stopper was, and it decreases on the other side. In these communicating vessels, the liquid levels are at unequal heights!
 
-```{figure} demo38_figure2.jpg
+```{figure} demo38_figure1.jpg
 ---
 width: 70%
 align: center
-name: demo38_fig2
+name: demo38_fig1
 ---
-U-tube after removal of the stopper.
+U-tube with liquid and stopper.
 ```
 
 * *Explain what's happening here and how the liquid levels can be at unequal heights.*
