@@ -1,7 +1,11 @@
 # How to
 How to helpen bij het bekijken van het boek
 
-1. Ga naar [Github.com](https://github.com/) en maak een account aan. 
+1. Ga naar [Github.com](https://github.com/) en maak een account aan. Rechtsboven voor sign in / sign up.
+
+```{figure} figures/signin.PNG
+width: 70%
+```
 
 2. Stuur Freek een berichtje met ofwel je mailadres waarmee je aangemeld hebt bij Github of je Github account naam. 
 
@@ -13,7 +17,7 @@ How to helpen bij het bekijken van het boek
 
 5. Hieronder weergegeven, de folderstructuur met de bestanden die je kunt aanpassen, rechtsboven de link naar het boek en hoe het er uit komt te zien.
 
-```{figure} howto.png
+```{figure} figures/howto.png
 :width: 70%
 ```
 
