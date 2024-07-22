@@ -50,6 +50,7 @@ parts:
       - file: demos/demo09/demo09 #vapor
       - file: demos/demo10/demo10 #vdgraaf   
       - file: demos/demo27/demo27 #air and balloon         
+      - file: demos/demo37/demo37 #boyle
       - file: demos/demo39/demo39 #inquiring rotational flame
       - file: demos/demo41/demo41 #emptying a bottle
       - file: demos/demo60/demo60
@@ -123,7 +124,7 @@ parts:
       - file: demos/demo28/demo28 # cold and salt water
       - file: demos/demo36/demo36 #boiling water
       - file: demos/demo64/demo64
-      - file: demos/demo37/demo37 #boyle
+      
       - file: demos/demo38/demo38 #pressure
       - file: demos/demo42/demo42 #cooling cans
       - file: demos/demo63/demo63
