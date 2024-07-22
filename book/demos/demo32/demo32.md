@@ -55,7 +55,8 @@ The setup requires careful preparation. The strings should hang slack in the ini
 
 ## Procedure
 Show and discuss the setup extensively; it may be confusing at first. If necessary, show the right half of the drawing as well.
-The question is: What happens to the block when the hook is cut with pliers?\
+
+The question is: *What happens to the block when the hook is cut with pliers?*\
     A. The block remains in place.\
     B. The block hangs lower.\
     C. The block falls to the ground.\

@@ -3,17 +3,17 @@ In many phenomena, students and laypeople come up with predictions in which they
 
 The idea is that students first predict what will happen and explain, at least to themselves, why they think it will happen in that particular way. This first step includes both the prediction and an explanation, emphasizing that we ask students for a prediction with reasoning, not just a guess. This step encourages students to draw on their prior knowledge and understanding of physical concepts to anticipate what will happen. Predicting first will encourage students also to observe more carefully. They become aware of their own 'preconceptions'. Moreover, writing down their prediction may motivate them to want to know the answer, and an explanation of why they think the demonstration will happen in a certain way provides valuable insights in their thinking.
 
-```{note}
-A great example is found in [Two springs, series or parallel?](../demos/demo32/demo32.md). Students there predict what happens to the block when the hook is cut with pliers. They have sufficient knowledge of springs to make a considered choice, but will probably still be surprised by the result.
+````{note}
+A great example is found in [Two springs, series or parallel?](../demos/demo32/demo32.md) Students there predict what happens to the block when the hook is cut with pliers. They have sufficient knowledge of springs to make a considered choice, but will probably still be surprised by the result.
 
-````{figure} ../demos/demo32_figure2.jpg
+```{figure} ../demos/demo32/demo32_figure2.jpg
 ---
 width: 30%
 align: center
 ---
 What happens to the block when the hook is cut with pliers?
-````
 ```
+````
 
 The demonstration is then performed by the teacher. A demonstration is often well suited as it reduces distracting elements, for instance handling the equipment, observing what happens and simultaneously making sense of it. During this phase, students gather empirical evidence that either supports or contradicts their initial predictions. 
 
