@@ -1,8 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
 # Twice as much isn't twice as big
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -32,9 +27,8 @@ name: demo45_fig1
 ---
 The basic setup.
 ```
-
 ## Introduction
-Students often think that when you have related quantities and you increase one, the other will also increase. More of **A** results in more of **B**. In a series of experiments, {cite:t}`Tsakmaki2016` attempted to dispel this students' misconception. Using the context of the Magdeburg hemispheres, we explore Newton's third law in this experiment. You can direct this demonstrations towards various goals, depending on what you want to achieve.
+Students often think that when you have related quantities and you increase one, the other will also increase. More of **A** results in more of **B**. In a series of experiments, {cite:t}`Tsakmaki2016` attempted to dispel this students' misconception. Using the context of the Magdeburg hemispheres, we explore whether twice as much is really twice as much with regards to Newton's third law. You can direct this demonstrations towards various goals, depending on what you want to achieve.
 
 ## Equipment
 * 4 stands
@@ -48,11 +42,11 @@ Students often think that when you have related quantities and you increase one,
 Assemble the setup as shown in {numref}`Figure {number} <demo45_fig1>` beforehand.
 
 ## Procedure
-Ask the students to predict the outcome of the historical experiment with the Magdeburg hemispheres. *Von Guericke put two large hemispheres together and vacuumed them. One side was tied with a rope to a tree, the other side was tied to four horses. The horses couldn't pull the hemispheres apart. Would it be possible if the tree was also replaced by four horses? Explain.*
+Ask the students to predict the outcome of the historical experiment with the Magdeburg hemispheres. *Von Guericke put two large hemispheres together and vacuumed them. One side was tied with a rope to a tree, the other side was tied to four horses. The horses couldn't pull the hemispheres apart. Would it be possible if the tree was replaced by four horses? Explain.*
 
-Have a student read the value on the spring scale in {numref}`Figure {number}<demo45_fig1>`. Explain that you will replace the stand with mass blocks. *In the context of the Magdeburg hemispheres experiment, you replace the tree with four horses.* Ask the students to predict if the force read on the spring scale will increase, decrease, or stay the same, and whether they think the hemispheres will now separate.
+Have a student read the value on the spring scale in {numref}`Figure {number}<demo45_fig1>`. Explain that you will replace the stand with mass blocks. *In the context of the Magdeburg hemispheres experiment, you replace the tree with four horses.* Ask the students to predict if the force read on the spring scale will increase, decrease, or stay the same, and whether they think the hemispheres would possible separate now.
 
-Replace the stand with the equivalent mass blocks, as shown in {numref}`Figure {number}<demo45_fig2>`. Have the student read the value on the spring scale again.
+Replace the stand with the equivalent mass blocks, as shown in {numref}`Figure {number}<demo45_fig2>`. Have the student read the value on the spring scale again. Discuss with them the result. Here, twice as much weight attached to the string does not imply a twice as big force exerted...
 
 ```{figure} demo45_figure2.JPG
 ---

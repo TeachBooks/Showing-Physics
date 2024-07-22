@@ -86,6 +86,20 @@ In free fall, the gravitational downward pull on both is zero (within the fallin
 ## Follow-up
 For further exploration: Will the tealight candle also be extinguished if you don't drop the jar but throw it (straight) up and catch it before it comes down? Does a flame tilt when going around a corner, and if so, in which direction (towards the inside or the outside of the curve)? How does a flame react to deceleration and acceleration?
 
+And what happens to the parabolic trajectory of a water jet from a bottle when the bottle is dropped?
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/TZp_kRmXIiY?si=ePRCoTst6POE27vT"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 ```{tip}
 There are some marvelous movie clips on <a href="https://www.youtube.com/watch?v=9zdD7lfB0Fs" target="_blank">candles burning in space</a>.
 ```

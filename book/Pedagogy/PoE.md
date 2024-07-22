@@ -19,6 +19,8 @@ The demonstration is then performed by the teacher. A demonstration is often wel
 
 In the final step, students are asked to explain the observed results and compare the outcome with their initial prediction. This step involves thus critical thinking and reasoning. Through guided discussion and reflection, students develop a deeper understanding of the underlying physics concepts. 
 
+A great example is found in the demonstration [Twice as much isn't twice as big](../demos/demo45/demo45.md) where the idea of *More of **A** results in more of **B*** is dispelled. Especially explaining why (surprisingly) nothing changes is important in that demonstration.
+
 ```{tip}
 An excellent example of a POE-approach is presented in [Rich boiling phenomena](../demos/demo36/demo36.md), including a table which scaffolds the process.
 ```
