@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Playing with density
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -32,6 +26,7 @@ This demonstration can be performed as an introduction to or as practice with th
 ---
 width: 50%
 align: center
+name: demo34_fig2
 ---
 Various liquids stacked upon each other.
 ```
@@ -43,7 +38,7 @@ Various liquids stacked upon each other.
 * 250 mL water; a cork
 * A cherry tomato
 * A coin
-* A plastic bottle cap. **Note! Not every cap is suitable. The density should lie between that of water and sunflower oil. In the example (Figure 3), a green cap from an AA bottle was used.**
+* A plastic bottle cap. **Note! Not every cap is suitable. The density should lie between that of water and sunflower oil. In the example ({numref}`Figure {number} <demo34_fig2>`), a green cap from an AA bottle was used.**
 * Possibly for supplement (see tip): three small measuring cylinders and a scale.
 
 ## Preparation
@@ -89,14 +84,15 @@ An example of the demo
 ```
 
 ## Physics background
-Due to the difference in density, the substances will arrange themselves in the bottle (Figure 3) as schematically indicated in Figure 4.
+Due to the difference in density, the substances will arrange themselves in the bottle ({numref}`Figure {number} <demo34_fig2>`) as schematically indicated in {numref}`Figure {number} <demo34_fig3>`.
 
-After just a few minutes, it is visible that the water changes color. This is because substances (sugars) from the honey slowly dissolve in the water. This increases the density of this layer and the tomato will rise a layer. Solubility is a concept that students probably do not yet know well because it is often taught after the concept of density.
+After just a few minutes, it is visible that the water changes color. This is because substances (sugars) from the honey slowly dissolve in the water. This increases the density of this layer and the tomato will rise one layer. Solubility is a concept that students probably do not yet know well because it is often taught after the concept of density.
 
-```{figure} demo34_figure3.jpg
+```{figure} demo34_figure3.png
 ---
 width: 50%
 align: center
+name: demo34_fig3
 ---
 A schematic of the various liquids and 'objects'
 ```
@@ -108,6 +104,7 @@ A schematic of the various liquids and 'objects'
 
 * A beautiful follow-up demonstration on density is described [here](../demo28/demo28.md).
 ```
+
 ## Follow-up
 It is possible to make sugar solutions in water with different densities. When using cold water (from the refrigerator), you can neatly layer them on top of each other. This offers many possibilities for experimenting with density.
 

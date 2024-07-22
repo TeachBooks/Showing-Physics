@@ -47,7 +47,7 @@ The setup is best built during the lesson. This to emphasize the sequence of eve
 
 ```{figure} demo33_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The setup: a sodium lamp, a blue flame, and a semi-translucent screen (a lab coat was used here).
@@ -82,4 +82,4 @@ Note that the emission spectrum you observe in the flame consists partly of a tr
 ## Follow-up
 With a spectroscope, you can measure that the emission line of the lamp is the same as the emission line of the flame with table salt.
 
-When using potassium salt, you will not get a shadow. You can first have the students predict this.
+When using potassium salt, you will not get a shadow. Let students first predict whether a shadow will be formed.
