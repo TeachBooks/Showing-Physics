@@ -1,10 +1,3 @@
-
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Blowing out a light bulb
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -26,8 +19,6 @@ align: right
     </tr>
 </table>
 
-This demonstration is adapted from {cite:p}`Walravens2011`.
-
 ```{figure} demo31_figure1.jpg
 ---
 width: 70%
@@ -37,9 +28,10 @@ name: demo31_fig2
 If you (carefully!) heat the piece of glass, the resistance value decreases and the light bulb lights up.
 ```
 
+This demonstration is adapted from {cite:p}`Walravens2011`.
 
 ## Introduction
-The primary goal of this demonstration is to demonstrate the NTC behavior of glass. With this demo, you can discuss concepts from electrical engineering at many levels. You can prompt students to think about heating due to current flow.
+The primary goal of this demonstration is to demonstrate the NTC behavior of glass. You can discuss concepts from electrical engineering at various levels and prompt students to think about heating due to current flow.
 
 ## Equipment
 * Random light bulb
@@ -50,7 +42,7 @@ The primary goal of this demonstration is to demonstrate the NTC behavior of gla
 * Gas burner
 
 ```{warning}
-**Safety and environment**: Make sure to wear safety glasses (the same for the front row of students or place a screen)
+Make sure to wear safety glasses (the same for the front row of students or place a screen)
 ```
 
 ## Preparation
@@ -61,10 +53,21 @@ The primary goal of this demonstration is to demonstrate the NTC behavior of gla
  The glass shards are razor-sharp!
 ```
 
+```{figure} demo31_figure2.jpg
+---
+width: 70%
+align: center
+name: demo31_fig3
+---
+The piece of glass continues to conduct even after it is removed from the flame. By blowing against this glass, you can cool it down and turn off the light bulb.
+```
+
 ## Procedure
-* Draw the circuit on the board, set up the arrangement, and relate the setup to the circuit. The burner is not visible. Then ask the class if the bulb will light up when the switch is flipped. After the discussion, flip the switch and bring out the burner.
-* Carefully heat the glass in the roaring flame: dip it briefly into the flame and then remove it. After heating for a while, the bulb will light up. While continuing to heat in the flame, you can ask the class what will happen if you stop heating and place the fitting with glass down. This usually leads to lively discussion. When that discussion has lasted long enough and has been sufficiently in-depth, remove the glass from the flame. To the amazement of a large part of the class, the bulb remains on, no matter how long you wait.
-* Finally, demonstrate how to turn off the light bulb: blowing against the glass cools it down. Eventually, the bulb goes out. It takes effort, so you can pretend to run out of breath just before the piece of glass stops glowing (practice a few times). If you stop blowing at that moment and the power of the bulb is well chosen, the piece of glass will heat up again, and the bulb will slowly turn on again.
+* Draw the circuit on the schoolboard, set up the equipment, and relate the setup to the circuit. The Bunsen burner is not visible. 
+* Ask the class if the bulb will light when the switch is flipped. After the discussion, flip the switch.
+* Bring out the Bunsen burner. Carefully heat the glass in the roaring flame: dip it briefly into the flame and then remove it. After heating for a while, the bulb will light up. While continuing heating, you can ask the class what will happen if you stop heating and place the fitting with glass down. This usually leads to lively discussions. After an in-depth discussion, remove the glass from the flame. To the amazement of a large part of the class, the bulb remains on, no matter how long you wait.
+* Demonstrate that you can turn off the light by blowing against the bulb. *How can you explain that?*
+* If you stop blowing and the power of the bulb is well chosen, the glass will heat up again, and the bulb will slowly light.
 
 ```{figure} demo31_figure3.png
 ---
@@ -75,25 +78,14 @@ name: demo31_fig1
 Circuit diagram of the setup. The resistor consists of a piece of glass (see {numref}`Figure {number} <demo31_fig3>`).
 ```
 
-
-```{figure} demo31_figure2.jpg
----
-width: 70%
-align: center
-name: demo31_fig3
----
-The piece of glass continues to conduct even after it is removed from the flame. By blowing against this glass, you can cool it down and turn off the light bulb.
-```
-
-
 ## Physics background
 Glass behaves like an NTC because, in terms of electron structure, it somewhat resembles a semiconductor. At room temperature, the conduction band is empty, and the band gap is too large for the electrons to cross. When heated, the electrons gain enough thermal energy to cross the band gap, and the glass conducts better and better. The ions in the glass play no role in the conduction.
 
 ```{tip}
-* The power of the light bulb relative to the exact properties and dimensions of the piece of glass is critical: if the power is too low, the current is too small to keep the glass warm. If the power is too high, you cannot blow out the lamp. So, try it out properly. The author had to use lamps of $40$ W, $60$ W, and even $75$ W for the desired result in different versions of this demonstration. This also provides an opportunity to discuss with the students the effect of the power of the burning lamp.
+* The power of the light bulb relative to the exact properties and dimensions of the piece of glass is critical: if the power is too low, the current is too small to keep the glass warm. If the power is too high, you cannot blow out the lamp. So, try and optimize! 
+* We used lamps of $40$ W, $60$ W, and even $75$ W for the desired result in different versions of this demonstration. This also provides an opportunity to discuss with the students the effect of the power of the burning lamp.
 * If you find a well-working combination, stock up on light bulbs (exactly the same); in a few years, they may no longer be available.
 ```
-
 
 ## References
 ```{bibliography}

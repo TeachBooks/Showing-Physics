@@ -20,7 +20,7 @@
 </table>
 
 ``` {figure} demo20_figure2.png
-width: 60%
+width: 40%
 ```
 
 ## Introduction
