@@ -12,11 +12,22 @@ align: right
 3. [Preface from the editor](../introduction/Preface2.md)
 4. [About the authors](../Introduction/Authors.md)
 5. [NVON](../Introduction/NVON.md)
-6. Table of contents
+6. [Python](../Introduction/Python%20summary.ipynb)
+7. Table of contents
 
 **Pedagogy**<br>
-7. [Introduction](../Pedagogy/Introduction.md)<br>
-8. [Nature of Science](../Pedagogy/Nos.md)<br>
-9. [Argumentation](../Pedagogy/Argumentation.md)<br>
-10. [Thinking-Back-and-Forth](../Pedagogy/BackAndForthThinking.md)<br>
-11. [Predict Explain Observe Explain](../Pedagogy/PoE.md)
+8. [Introduction](../Pedagogy/Introduction.md)<br>
+9. [Nature of Science](../Pedagogy/Nos.md)<br>
+10. [Argumentation](../Pedagogy/Argumentation.ipynb)<br>
+11. [Thinking-Back-and-Forth](../Pedagogy/BackAndForthThinking.md)<br>
+12. [Predict Explain Observe Explain](../Pedagogy/PoE.md)
+
+**Demos on NOS**
+
+**Demos on Scientific Inquiry**
+
+**Demos for conceptual development**
+
+**Demos for special occasions**
+
+**References**
