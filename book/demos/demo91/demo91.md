@@ -183,9 +183,7 @@ Does this experiment have anything to do with science and the ways scientists do
 
 *Lower Secondary*
 
-The color of the liquids has nothing to do with it; it was only meant to make things interesting. It's just coloured water. If you pour a little water into the funnel, the level in the bottle on the left rises, pushing air through the tube into the bottle on the right, which also causes the water there to rise. The tube of the 'tap' is narrow
-
-, so soon the water rises, goes around the bend, and falls into the funnel. Then you don't need to pour anymore, the water coming from the tap keeps the process going, usually until the right bottle is empty. The water stops running when the level difference in the bottles is the same, or the right bottle is empty.
+The color of the liquids has nothing to do with it; it was only meant to make things interesting. It's just colored water. If you pour a little water into the funnel, the level in the bottle on the left rises, pushing air through the tube into the bottle on the right, which also causes the water there to rise. The tube of the 'tap' is narrow, so soon the water rises, goes around the bend, and falls into the funnel. Then you don't need to pour anymore, the water coming from the tap keeps the process going, usually until the right bottle is empty. The water stops running when the level difference in the bottles is the same, or the right bottle is empty.
 
 *Upper Secondary*
 

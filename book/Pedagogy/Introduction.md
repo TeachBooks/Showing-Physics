@@ -1,14 +1,17 @@
 # Introduction
 Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveil the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience. 
 
-Where most books on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
-
 ```{figure} ../demos/demo12/demo12_figure2.jpg
 ---
-width: 50%
+width: 100%
+figclass: margin
 ---
 A teacher demonstrating [stability](../demos/demo12/demo12.md)
 ```
+
+Where most books on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
+
+
 
 ## What can demonstrations accomplish?
 Almost everyone who is enthusiastic about STEM education remembers a great demonstration. One that sticks in the memory. One that you would like to share because you enjoyed it so much yourself. But did you learn anything from it? Do physics concepts become better anchored? An article in the *American Journal of Physics* states:

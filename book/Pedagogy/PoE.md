@@ -1,8 +1,6 @@
 # Predict Explain Observe Explain
 In many phenomena, students and laypeople come up with predictions in which they have a lot of confidence, that yet turn out to be wrong. Our intuition is often off the mark. It is precisely in these cases that demonstrations can be extra motivating and useful. But then it all comes down to the proper approach and your role as a teacher. You must optimally emphasize the contrast between prediction and outcome and try to stimulate the thinking of all students instead of that of just a few smart ones.
 
-The idea is that students first predict what will happen and explain, at least to themselves, why they think it will happen in that particular way. This first step includes both the prediction and an explanation, emphasizing that we ask students for a prediction with reasoning, not just a guess. This step encourages students to draw on their prior knowledge and understanding of physical concepts to anticipate what will happen. Predicting first will encourage students also to observe more carefully. They become aware of their own 'preconceptions'. Moreover, writing down their prediction may motivate them to want to know the answer, and an explanation of why they think the demonstration will happen in a certain way provides valuable insights in their thinking.
-
 ```{figure} ../demos/demo32/demo32_figure2.jpg
 ---
 width: 100%
@@ -11,6 +9,8 @@ figclass: margin
 ---
 What happens to the block when the hook is cut with pliers?
 ```
+
+The idea is that students first predict what will happen and explain, at least to themselves, why they think it will happen in that particular way. This first step includes both the prediction and an explanation, emphasizing that we ask students for a prediction with reasoning, not just a guess. This step encourages students to draw on their prior knowledge and understanding of physical concepts to anticipate what will happen. Predicting first will encourage students also to observe more carefully. They become aware of their own 'preconceptions'. Moreover, writing down their prediction may motivate them to want to know the answer, and an explanation of why they think the demonstration will happen in a certain way provides valuable insights in their thinking.
 
 ```{note}
 A great example of the importance of making a prediction is found in [Two springs, series or parallel?](../demos/demo32/demo32.md) Students there predict what happens to the block when the hook is cut with pliers. They have sufficient knowledge of springs to make a considered choice, but will probably still be surprised by the result.
