@@ -1,11 +1,5 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Transit of a planet
-<span style="font-size: 25px; color: gray;">Simulating Planet Transits</span> 
+<span style="font-size: 25px; color: gray;">Simulating planet transits</span> 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -27,7 +21,7 @@ align: right
 </table>
 
 ## Introduction
-Most students will not be familiar with the transit of an exoplanet, though exoplants might fascinate them. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
+Most students will not be familiar with the transit of an exoplanet, though exoplanets might fascinate them. With a relatively simple setup, you can give your students a glimpse of how such an observation works. The calculations can be extrapolated to real-life scenarios.
 
 ```{figure} demo82_figure1.jpeg
 ---
@@ -43,6 +37,10 @@ Setup to measure a transit.
 * Caliper
 * Light sensor
 * Sphere in a rider of an optical case
+
+```{tip}
+There are great [simulations](https://astro.unl.edu/naap/esp/animations/transitSimulator.html) making transits even more clear.
+```
 
 ## Preparation
 1. Align the setup so that the light sensor, sphere, and opaque lamp are in line.
@@ -60,7 +58,7 @@ Setup to measure a transit.
 6. Provide the formula below and ask the students to apply it to the situation. Provide the diameter of the lamp. Here, $H$ represents the brightness or intensity of the received light. 
     $\frac{H_{dip}}{H_{star}} =1-(\frac{r_{planet}}{R_{star}})^2$
 7. Let students calculate the radius of the planet using the formula.
-8. Control question: In what way(s) does this demonstration deviate from the actual observation of exoplanets?
+8. A question to check students' understanding: In what way(s) does this demonstration deviate from actual observations of exoplanets?
 
 ```{figure} demo82_figure2.png
 ---

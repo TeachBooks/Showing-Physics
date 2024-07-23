@@ -1,11 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
-betere film nodig
-
 # Lorentz force on charged particles
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -25,7 +17,7 @@ betere film nodig
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Lorentz, Force, Magnetic field, charge</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -40,7 +32,7 @@ betere film nodig
 </div>
 
 ## Introduction
-The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, the Lorentz force on ions in a solution convincingly is made visible. The Lorentz force is already known, so students can engage in robust [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md) in this situation.
+The Lorentz force on charged particles is more abstract and difficult to visualize than the Lorentz force on a current-carrying wire. In this demonstration, the Lorentz force on ions in a solution is made visible. The Lorentz force is already known, so students can engage in robust [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md) in this situation.
 
 ## Equipment
 - Tank with a layer of saline solution about one centimeter deep
