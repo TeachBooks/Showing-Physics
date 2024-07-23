@@ -115,7 +115,6 @@ parts:
       - file: demos/demo68/demo68 #collissions
       - file: demos/demo69/demo69 #hill
       - file: demos/demo58/demo58 #two blocks        
-      - file: demos/demo47/demo47a #bowling ball
 
     - file: demos/Conceptdemos4 #thermo
       sections:

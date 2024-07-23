@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Strange shadows
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -23,11 +17,10 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">straight-line propagation, shadow, similar triangles, light, Additive mixing of light, primary color, complementary color</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
-When introducing students to the concepts of light, you can conduct increasingly challenging and interesting light demonstrations with simple tools. Here we first introduce students to the idea of shadow and half-shadow.
-Students are introduced to the ideas of mixing colors which can be done in two different ways: subtractive and additive. When you illuminate an object with colored lights, it is called additive mixing.
+When introducing students to the concepts of light, you can conduct increasingly challenging and interesting light demonstrations with simple tools. Here, we first introduce students to the idea of shadow and half-shadow. Then they are introduced to the ideas of mixing colors which can be done in two different ways: subtractive and additive. When you illuminate an object with colored lights, it is called additive mixing.
 
 ## Equipment
 * A piece of cardboard the size of an A4 sheet with a hole in it
@@ -62,26 +55,12 @@ width: 70%
 align: center
 name: demo50_fig1
 ---
-Core and penumbra of three lamps.
+Core and penumbra of three lamps. Made visible by three lamps, one cardboard with a rectangular hole, and displayed at the classroom's ceiling.
 ```
 
 Then turn on a second lamp, creating multiple areas on the ceiling, each with a different shade of gray (penumbra). Let students explain how these different areas form. You can link the phenomenon to a stadium where a single person can have multiple shadows at the same time. Let the students predict what will happen if you turn on a third lamp, as shown in {numref}`Figure {number} <demo50_fig1>`. Now, turn on the third lamp. There will be areas that are completely dark and an area that is very bright. But there will also be intermediate areas that seem gray. These are the penumbra regions.
 
 ## Part 2
-
-
-```{tip}
-There are lovely simulations availble on mixing with light, for instance this <a href="https://phet.colorado.edu/en/simulations/color-vision/about" target="_blank">one from PHET</a>.
-
-<iframe src="https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html"
-        width="800"
-        height="600"
-        allowfullscreen>
-</iframe>
-```
-
-
-
 
 ```{figure} demo50_figure2.jpg
 ---
@@ -89,10 +68,9 @@ width: 50%
 align: center
 name: demo50_fig2
 ---
- A schematic of the setup. 
+A schematic of the setup. 
 ```
 
-## Equipment
 ## Preparation
 The demonstration should be conducted in a well-darkened room. The better the room is darkened, the more vivid the colors will be. The distance between the panel and the holder, as well as the distance between the holder and the screen, should be determined experimentally. Here are some guidelines:
 
@@ -102,7 +80,7 @@ The demonstration should be conducted in a well-darkened room. The better the ro
 
 ```{figure} demo50_figure3.jpg
 ---
-width: 50%
+width: 70%
 align: center
 name: demo50_fig3
 ---
@@ -127,12 +105,14 @@ An example to make students think about the additive qualities of light.
 ```
 
 ## Physics background
+### Part 1
 Calculating magnification or the size of a shadow with a point light source is difficult for students. In this demonstration, you develop the formula:
 
 $$N=\frac{L_B}{L_V} = \frac{b}{v} $$
 
 You make it clear that the mentioned variables play a role. You show that the magnification depends on these variables. The formula is also covered in math in the second class, but this often does not coincide with the time it is discussed in physics. Coordination is therefore advisable!
 
+### Part 2
 The primary colors in additive mixing are Red, Blue, and Green.
 These three names are written with a capital letter each.
 Their complementary colors are Cyan, Yellow, and Magenta. Each of these is made up of two primary colors, which is why they are written with two capital letters.
@@ -164,11 +144,22 @@ Table 2 shows the results of combining different light sources.
 
 Various masks are shown in {numref}`Figure {number}<demo50_fig6>`, with their image on the screen for a nearby screen and a far away screen.
 
-In figure 1a, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.
+```{tip}
+There are lovely simulations availble on mixing with light, for instance this <a href="https://phet.colorado.edu/en/simulations/color-vision/about" target="_blank">one from PHET</a>.
 
-In figure 2a, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.
+<iframe src="https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+```
 
-The masks in figures 1a and 2a are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
+In {numref}`Figure {number} 1a <demo50_fig6>`, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.
+
+In {numref}`Figure {number} 2a <demo50_fig6>`, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.
+
+The masks in {numref}`Figures {number} 1a and 2a<demo50_fig6>` are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
+
 In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.
 And also figures 5a and 6a, and their corresponding figures 5b and 6b.
 Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.

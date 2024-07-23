@@ -1,17 +1,11 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-# Alternating voltage over a Lamp
+# Alternating voltage across a lamp
 
 <span style="font-size: 25px; color: gray;">Quick computer measurements to measure alternating voltage and luminosity</span>
-
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Norbert van Veen</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Norbert van Veen and Freek Pols</td>
     </tr>
     <tr style="background-color: var(--background-color);">
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
@@ -28,18 +22,7 @@ align: right
 </table>
 
 ## Introduction
-This demonstration shows the alternating voltage across a (incandescent-bicycle) lamp, the changing luminosity of the lamp, and the difference between the voltage and luminosity changes. As both quantities change rapidly over time, they need to be measured at a high frequency. This can be easily done using the Coach 7 program or similar measuring programm. Students how quickly the voltage changes sign and will be asked to predict how the luminosity of the lamp changes.
-
-## Equipment
-* Setup with lamp and AC power source
-* incandescent lamp (6V)
-* Voltage sensor
-* Luminosity sensor
-* Coach 7 or similar measurement program
-* CMA files or similar. 
-
-## Preparation
-Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect the voltage and luminosity sensors to an interface and start the Coach 7 measurement program. Ensure the interface is recognized and displays a standard diagram of voltage versus time. Test the luminosity sensor and adjust its distance from the lamp so that the measured luminosity is within the sensor's range. Set a trigger condition to enhance the display of both signals.
+This demonstration shows the alternating voltage across a (incandescent-bicycle) lamp and the changing luminosity of the lamp. Is the frequency the same? Are the voltage and luminosity in phase? 
 
 ```{figure} demo48_figure1.JPG
 ---
@@ -50,44 +33,54 @@ name: demo48_fig1
 The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 ```
 
+## Equipment
+* Setup with lamp and AC power source
+* Incandescent lamp (6V)
+* Voltage sensor
+* Luminosity sensor
+* Educational science software or an oscilloscope
+* Optional: table top set of fluorescent light, see {numref}`Figure {number}<demo48_fig3>`
+
+## Preparation
+Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect the voltage and luminosity sensors to your measurement device. Ensure the digital readings can be seen by all students. Test the luminosity sensor and adjust its distance from the lamp so that the measured luminosity is within the sensor's range. Set a trigger condition to enhance the display of both signals.
+
 ```{tip}
-* Place the setup on a magnetic board or inclined surface so students can see it clearly.
-* Secure the luminosity sensor in a stand to keep it at the correct height above the lamp and prevent it from receiving too much or too little light.
+Secure the luminosity sensor in a stand to keep it at the correct height above the lamp and prevent it from receiving too much or too little light.
 ```
 
+<!-- 
+```{figure} demo48_figure3.JPG
+---
+width: 70%
+align: center
+name: demo48_fig3
+---
+A tabletop set of fluorescent light can be used to investigate characteristics of this lamp.
+``` 
+-->
+
 ## Procedure
-1. Point to the fluorescent lights and ask students to sketch a graph of luminosity versus time.
-2. Measure the frequency of the light from the fluorescent lights using the light sensor. Do not explain the exact frequency yet; this will come later in the demonstration.
-3. Introduce the demonstration to investigate the flickering of light.
+1. Point to the fluorescent lights at the ceiling, and ask students to sketch a graph of luminosity versus time. Is it constant or does it alter as function of time?
+2. Determine the frequency of the light from the fluorescent lights using the light sensor. Do not explain the exact frequency yet; this will come later in the demonstration. If you have a tabletop set available, you can show how the luminosity changes as function of the position (the luminosity is far less at both ends of the lamp).
+3. Introduce the demonstration to further investigate the flickering of light.
 4. Place the setup on the desk and discuss the circuit. Draw the circuit diagram on the board and perform an initial measurement showing only the alternating voltage across the lamp.
-5. Discuss the shape of the alternating voltage with the students. Ask how the direction of the current changes. (You can also connect a current sensor.)
-6. Position the luminosity sensor near the setup. Explain what the sensor measures. Ask students to individually sketch a graph predicting the luminosity measurement.
-7. Perform a measurement of both luminosity and alternating voltage. Calculate the frequency of the alternating voltage with the students.
-8. Repeat the frequency calculation for the luminosity. Ask students to explain why the luminosity has a frequency that is double that of the voltage.
-9. Ask students how the graphs would change if direct current (DC) was used instead of alternating current (AC). Demonstrate this.
-10. Extend the demonstration with measurements on LED lighting.
+5. Discuss the shape of the alternating voltage with the students. Ask how the direction of the current changes. Discuss the frequency and whether it is familiar to them. 
+6. Position the luminosity sensor near the setup. If you haven't done yet with the fluorescent lights, explain what the sensor measures. Ask students to individually sketch a graph predicting the luminosity measurement.
+7. Perform a measurement of both luminosity and alternating voltage. Determine the frequency of the alternating voltage and the luminosity. Do they have the same frequency? Why (not)? 
+8. Ask students how the graphs would change if direct current (DC) was used instead of alternating current (AC). Demonstrate this.
+9. Extend the demonstration with measurements on LED lighting. You can discuss why it is important in various workplaces that special lighting is used, see also our [demonstration on sampling](../demo44/demo44.md).
 
 ```{figure} demo48_figure2.JPG
 ---
-width: 50%
+width: 70%
 align: center
 name: demo48_fig2
 ---
 Two measurements in one diagram: the alternating voltage across the lamp and the luminosity of the lamp over time.
 ```
 
-```{tip}
-* Ask students to predict what will happen to the luminosity.
-* A suggested sequence for the demonstration could be: Measurement 1: AC voltage, Measurement 2: lamp luminosity, Measurement 3: combined measurement in one diagram.
-```
-
 ## Physics Background
-The alternating voltage from our power grid changes at 50 Hz, as does the alternating current. In each period, the voltage and current rise and fall twice. The direction of the current does not influence the burning of an incandescent lamp. Therefore, the lamp's brightness fluctuates exactly 100 times per second. Students can quickly grasp this explanation, though they might not think of it on their own. Students have a common misconception that light sources do not vary in intensity because this fluctuation because they do not perceive this {cite}`Bacalla2013`.
-
-## Follow-up
-* How does direct current (DC) affect the lamp's luminosity?
-* Can this experiment be replicated with LEDs? What frequency is observed?
-* Conduct the experiment with both a flashlight LED and a 230 V LED lamp.
+The alternating voltage from our power grid changes at 50 Hz (60Hz in the US), as does the alternating current. In each period, the voltage and current rise and fall twice. The direction of the current does not influence the lightning of an incandescent lamp. Therefore, the lamp's brightness fluctuates exactly twice as much. Students can quickly grasp this explanation, though they might not think of it on their own. Students have often the idea that light sources do not vary in intensity as they do not perceive this {cite}`Bacalla2013`.
 
 ## References
 ```{bibliography}
