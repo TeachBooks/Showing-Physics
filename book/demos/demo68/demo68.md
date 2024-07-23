@@ -1,11 +1,4 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Colliding with Newton's third law 
-
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -22,7 +15,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Force, Newton, Third law, IOLab</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Force, Newton's third law, IOLab</td>
     </tr>
 </table>
 
@@ -30,6 +23,7 @@ align: right
 ---
 width: 70%
 align: center
+name: demo68_fig1
 ---
 Two carts colliding. Forces acted upon by each of the carts is measured.
 ```
@@ -51,7 +45,7 @@ The forces on the IOlabs are equal in magnitude but opposite in direction. These
 - Double-sided tape
 - Computer
 
-The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@tudelft.nl For returning the IOLabs, the shipping costs are borne by the school. Information about using the IOLab can be found here: <a href="https://www.iolab.science/getting_started.html" target="_blank">https://www.iolab.science/getting_started.html</a> and an introductory video below (use automated translation):
+Information about using the IOLab can be found here: <a href="https://www.iolab.science/getting_started.html" target="_blank">https://www.iolab.science/getting_started.html</a> and an introductory video below (use automated translation):
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -66,18 +60,21 @@ The IOLabs are available for loan. To borrow them, send an email to c.f.j.pols@t
 </div>
 
 ## Preparation
-Ensure that you are familiar with the IOlab, that you can read out sensors, and start and stop a measurement. Wind up the spring on one IOlab and attach the ring to the other. Weight one of the two IOlabs. Affix the weight with double-sided tape. Create a track so that the motion of the IOlabs before and after the collision remains linear. The IOlab tends to go around the corner during collisions.
+Ensure that you are familiar with the IOlab, that you can read out sensors, and start and stop a measurement. Connect the spring to one of the IOlabs and attach the ring to the other, see {numref}`Figure {number} <demo68_fig1>`. Create a track so that the motion of the IOlabs before and after the collision remains linear. The IOlab tends to go around the corner during collisions.
+
+For the second part of demo, attach a weight to one of the IOlabs. Affix it with double-sided tape. 
 
 ## Procedure
-1. Explain what happens in this demo: one of the carts collides while moving with the other cart. Measure the forces exerted by the carts on each other as a function of time and display them in a graph. Demonstrate the operation of the force sensor by compressing the spring while the measurement is running. 
-2. Predict how the two ($F$,$t$) graphs will look. Specify specific points in the graph Without giving away too much in the explanation about what might be important points. An alternative is to show a number of ($F$,$t$) graphs and let the students choose and justify their choice (think). 
-3. Compare your graph with that of your neighbor (pair). 
+1. Explain what happens in this demo: one of the carts will be pushed, released and then collides with the other cart. The forces exerted by the carts (as function of time) are measured and displayed in a graph. Demonstrate the operation of the force sensor by compressing the spring while the measurement is running. 
+2. Let students **predict** how the two ($F$,$t$) graphs will look. Let them specify specific points in the graph without giving away too much in the explanation about what might be important points. An alternative is to show a number of ($F$,$t$) graphs and let the students choose and justify their choice (think). 
+3. Let students compare their graph with that of their neighbor (pair). 
 4. Ask some students to explain their graph (share). 
-5. Perform the demo. 
-6. Provide an explanation for the similarities and differences between your own graph and the measurements. 
+5. **observe:** Perform the demo.  
+6. Let students provide an **explanation** for the similarities and differences between their own graph and the measurements. 
 7. Would it matter if the other cart was already moving before the collision? If so, why? Demonstrate it. 
-8. Build on students' responses, with some guiding questions, you can help students build a reasoning. Summarize Newton's third law with them. 
-9. Control question: *A truck has broken down. Fortunately, a motorist is kind enough to push the truck to the nearest garage. Consider the following two situations:*
+8. Now, attach the mass to one of the carts and do the entire demonstration again. Are students willing to adjust their previous thoughts?
+9. Build on students' responses, with some guiding questions, you can help students build a reasoning. Summarize Newton's third law with them. 
+10. A question to check students' understanding: *A truck has broken down. Fortunately, a motorist is kind enough to push the truck to the nearest garage. Consider the following two situations:*
     1. *The car accelerates to a speed of 50 km/h* 
     2. *The car travels at a constant speed of 50 km/h* 
      

@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Ranking the 'stars'
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -23,8 +17,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Observing, luminosity, stars, measurement</td>
     </tr>
-</table><br>
-
+</table>
 
 ## Introduction
 In this activity, astronomical observations are simulated in the classroom. By observing light bulbs using various methods, the goal is to make students understand how to obtain temperature information from stars. This method can also lead to information about the luminosity of a star and therefore to information about their distance to the observer. Using [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md) student can infer such 'conclusions' themselves.
@@ -34,8 +27,9 @@ In this activity, astronomical observations are simulated in the classroom. By o
 width: 90%
 align: center
 ---
+The demonstration investigates 'distance' stars by comparing the brightness of light bulbs through filters.
 <br>*left:* The two light bulbs photographed through a red filter held in front of the camera. The inset shows the original color image.<br>
-*right:* The same two light bulbs now photograpged through a blue filter held in front of the camera. 
+*right:* The same two light bulbs now photographed through a blue filter held in front of the camera. 
 ```
 
 ## Equipment

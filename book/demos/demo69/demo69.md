@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Up and down the hill
 <span style="font-size: 25px; color: gray;">Accelerating along a slope</span>
 
@@ -51,7 +45,7 @@ Position, velocity, and acceleration
 - Slope ~15 cm wide, 50 cm long
 - Computer and projection.
 
-Information about using the IOLab can be found here: <a href="https://www.iolab.science/getting_started.html" target="_blank">https://www.iolab.science/getting_started.html</a> and an introductory video below (use automated translation):
+Information about using the IOLab can be found <a href="https://www.iolab.science/getting_started.html" target="_blank">here</a>, and an introductory video below (use automated translation):
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -69,7 +63,7 @@ Information about using the IOLab can be found here: <a href="https://www.iolab.
 Familiarize yourself with the IOlab, find out hot to read out sensors and start and stop a measurement. Set up the apparatus, distribute graph paper, and connect the IOlab to the computer. Choose the "Wheel 100 Hz" option.
 
 ## Procedure
-1. Explain what will happen in this demonstration. You will give a cart a push, providing it with enough speed to travel up the slope and then roll back down. You will decelerate the cart again. Measure the velocity of the cart and represent it in the ($v,t$) graph.
+1. Explain what will happen in this demonstration. You will give a cart a push, providing it with enough speed to travel up the slope and then roll back down. You will decelerate the cart again so it doesn't collide. During the movement, you will measure the velocity of the cart and represent it in the ($v,t$) graph.
 2. What ($v,t$) graph will emerge? Ask students to include specific points in the diagram they anticipate (e.g. will the intercept with the y-axis be below, at or above zero? Which point of the graph shows the highest point reached by the cart? Etc.) (*think*)
 3. Ask students to compare their predicted graph with that of their neighbors. (*pair*)
 4. Ask a few students to show and explain their predicted graph. (*share*)
@@ -86,7 +80,6 @@ align: center
 ---
 Shooting a ball
 ```
-
 
 ## Physics background
 The kink in the ($v,t$)-graph at $v$=0m/s (see {numref}`Figure {number} <demo69_fig4>` occurs because the friction force changes direction at the highest point reached.
