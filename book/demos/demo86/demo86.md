@@ -21,7 +21,7 @@
 
 ```{figure} demo86_figure4.jpg
 ---
-width: 560%
+width: 70%
 align: center
 name: demo86_fig4
 ---
@@ -29,7 +29,16 @@ Measurement of the induced voltage using an oscilloscope.
 ```
 
 ## Introduction
-A magnet falling through a coil generates an induced voltage. In this demonstration, we observe a magnet falling through a plastic tube and an aluminum tube. Both tubes have six identical coils arranged at equal intervals along the tube. We examine the measured induced voltage over time.
+A magnet falling through a coil generates an induced voltage. In this demonstration, we observe a magnet falling through a plastic tube and an aluminum tube. Both tubes have the same number of identical coils arranged at equal intervals along the tube. We examine the measured induced voltage over time.
+
+```{figure} demo86_figure1.png
+---
+width: 90%
+align: center
+figclass: margin
+---
+Setup with the aluminum tube on the left and the plastic tube on the right
+```
 
 ## Equipment
 - Plastic tube and aluminum tube each with at least three identical coils evenly spaced around them 
@@ -39,16 +48,10 @@ A magnet falling through a coil generates an induced voltage. In this demonstrat
 - Bar magnet
 - Soft surface beneath the tube.
 
-```{figure} demo86_figure1.png
----
-width: 50%
-align: center
----
-Setup with the aluminum tube on the left and the plastic tube on the right
-```
-
 ## Preparation
-Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to your measurement device or oscilloscope. Set a trigger so that the measurement start when the magnet passes the first coil. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. For the measurements of {numref}`Figure {number}<demo86_fig2>`, we used a sample rate of 1000 measurements per second, a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and ran the measurement for a maximum of 1 s.
+Secure the tubes in the stands. Position the tubes perfectly vertically. Connect a voltage sensor ($\pm$ 10 V) to the coils around the plastic tube. Connect the sensor to your measurement device or oscilloscope. Set a trigger so that the measurement start when the magnet passes the first coil. For the aluminum tube, a voltage sensor ($\pm$ 500 mV) is more suitable. Set the voltage sensor to 0 V. 
+
+For the measurements of {numref}`Figure {number}<demo86_fig2>`, we used a sample rate of 1000 measurements per second, a trigger time of 0.1 s (trigger on the voltage sensor at 100 mV) and ran the measurement for a maximum of 1 s.
 
 ## Procedure
 Move a magnet through a coil and demonstrate that it generates a voltage. (Sketch the graph of one movement of a magnet through a coil on the board.) 
@@ -66,7 +69,7 @@ Each of the six coils of the plastic tube produces a signal as the falling magne
 ```
 
 3. How do the six graphs compare to each other? Provide an explanation for the similarities and difference.
-4. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough, see {numref}`Figure {number}<demo86_fig3>`/
+4. Use the area determination under the Analysis/Processing option to show that the area under each peak of the coil graph gives the same value. The area value of such a peak is also equal to the area under a trough, see {numref}`Figure {number}<demo86_fig3>`.
 
 ```{figure} demo86_figure3.png
 ---
@@ -94,3 +97,6 @@ Because the product of $N·ΔΦ$ is constant (the number of turns per coil is eq
 - The experiment is also feasible with only three coils per tube.
 - If you take the absolute value of $U_{ind}$, then the change in $U_{ind}$ over time can be seen with only positive peaks. Then the increase in falling speed is clearly visible. You can potentially use this to determine the acceleration due to gravity.
 ```
+
+## Follow up
+The demonstration [Does the magnet challenge gravity?](../demo16/demo16.md) provides a suitable follow up. 
