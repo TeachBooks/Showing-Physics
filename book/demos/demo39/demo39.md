@@ -63,7 +63,7 @@ Try out various experiments calmly and resist the temptation to do something in 
 ## Procedure
 There are many ways to perform this demonstration. In the described execution, the emphasis is on research skills, particularly investigating a phenomenon and testing explanations.
 
-Start with a [video](https://youtu.be/RGux3OOLhSw?si=7rYlvaSTr_PLRoO1&t=326) or photo of a real-life fire tornado. Then show the fire tornado in miniature. Invite the students to investigate this phenomenon focusing on the question: *What is needed to create a fire tornado in this experiment?* The {ref}`concept cartoon <demo39_fig3>` can be helpful if the students themselves don't come up with enough suggestions. 
+Start with a <a href="https://youtu.be/RGux3OOLhSw?si=7rYlvaSTr_PLRoO1&t=326" target="_blank">video</a> or photo of a real-life fire tornado. Then show the fire tornado in miniature. Invite the students to investigate this phenomenon focusing on the question: *What is needed to create a fire tornado in this experiment?* The {ref}`concept cartoon <demo39_fig3>` can be helpful if the students themselves don't come up with enough suggestions. 
 
 Explicitly invite them to come up with various suggestions how such a tornado comes to existence. List their suggestions on the board. Some students might suggest an experiment; others will suggest various explanations. For the first group, it's important to ask what exactly the students want to find out. For the second group, ask them to come up with a corresponding experiment. Both routes to an experiment are important in science and can be named as such. Then, together with the class, come up with an experiment to test a possible influence for as many suggestions as possible.
 
