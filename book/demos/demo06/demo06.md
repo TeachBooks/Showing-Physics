@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Refraction, dispersion, spectrum, rainbow, prism, lens</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo06_figure1.png
 ---
@@ -86,7 +86,6 @@ The spectrum on the wall looks very much like a rainbow, but it is another pheno
 
 ## Follow-up
 There are possibilities for computation in the artikel 'Ein Regenbogen ohne Regen' (in German) which is accessible through the link in the references below.
-
 
 ## References
 ```{bibliography}

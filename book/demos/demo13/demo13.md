@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Forces, components of forces, analyzing forces</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Can one girl be stronger than four boys? Sure! if she is clever…

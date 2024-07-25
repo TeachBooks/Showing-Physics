@@ -28,7 +28,8 @@ A challenge: Building a slanting tower where the top block is not above the bott
 ```
 
 ## Introduction
-If you put two blocks on top of each other, then the upper one remains stable if the center of mass is above the lower block. So the upper block cannot stick out more than ½ x the length of the block. <br>
+If you put two blocks on top of each other, then the upper one remains stable if the center of mass is above the lower block. So the upper block cannot stick out more than ½ x the length of the block.
+
 *Would it be possible to pile up blocks such that the upper one sticks out farther?*
 
 ## Equipment

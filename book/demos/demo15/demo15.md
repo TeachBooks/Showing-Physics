@@ -62,7 +62,8 @@ Now it’s a matter of trial-and error: due to resistance the cart should only m
 * The mass of the pendulum
 * The height of the cross-bar
 * The mass of the cart itself 
-* The underlying surface<br>
+* The underlying surface
+
 After all the cart should jerkily ride into one direction, after releasing the pendulum. 
 
 Our cart has a total mass of about one kilogram (including the pendulum), the mass of the pendulum is 0.10 kg, the pendulum has a length of 65 cm and the crossbar is about 45 cm underneath the point of suspension.

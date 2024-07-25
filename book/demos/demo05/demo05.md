@@ -46,10 +46,9 @@ A schematic of the experimental setup
 Build the set-up, see {numref}`Figure {number} <demo05_fig1>`. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses and matching spring-balance so that friction is negligible up to speeds of about 1 m/s.
 
 ## Procedure
-The cord, with a knot in it, is revolving uniformly (at constant speed). If you pull the cart with your hand along with the knot, the cart has the same constant speed as the knot. Note that it takes a moment to attain that speed, but then the spring-balances can be read. The follwoing questions can now be raised and are meant to be answerd in the demonstration that follows:
+The cord, with a knot in it, is revolving uniformly (at constant speed). If you pull the cart with your hand along with the knot, the cart has the same constant speed as the knot. Note that it takes a moment to attain that speed, but then the spring-balances can be read. The following questions can now be raised and are meant to be answered in the demonstration that follows:
 1. *How does the pulling force compare to the opposing force, during the part of movement where the speed is constant?* 
 2. *What changes if we select a greater constant speed?* 
-
 
 A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here. An example is presented in this [worksheet](demo05worksheet.doc). Students do predictions by writing up the answers they think will be found to the two questions above. Then the experiment is carried out. A somewhat larger speed is realized by (slightly) increasing the voltage across the electric motor. A conclusion is formulated on the basis of the observations. The worksheet questions direct students to apply the gained knowledge in similar contexts, with the goal of exploring whether Newton's first law is generally applicable. 
 

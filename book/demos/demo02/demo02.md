@@ -143,7 +143,7 @@ Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk
 Answer: ...
 
 **Attempt 3:** Very hot water\
-Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.<br>
+Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.\
 Answer: ...
  
 **Attempt 4:** steam ($T=100$°C)\

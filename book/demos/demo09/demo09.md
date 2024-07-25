@@ -61,8 +61,8 @@ Bring the burning candle down into the kettle, and note that the flame dies. Sum
 width: 70%
 align: center
 ---
-*left:* Above the kettle, the flame burns somewhat weaker.
-<br> *right:* Inside the kettle, above the water, the flame extinguishes
+*left:* Above the kettle, the flame burns somewhat weaker.\
+*right:* Inside the kettle, above the water, the flame extinguishes
 ```
 
 Draw a conclusion together. It may well be that the conclusion is not: *there is water vapor above the liquid*. After all, that has not been proven. What we can agree on is: 
@@ -72,7 +72,6 @@ Draw a conclusion together. It may well be that the conclusion is not: *there is
 *	This substance turns into water droplets when it rises higher.
  
 The substance concerned has a name: <a href="https://en.wikipedia.org/wiki/Steam" target="_blank">steam</a>. Often the fog is said to be made of steam, but that is not scientifically correct. You could conclude the demonstration together through establishing a proper name for the droplets hanging above the kettle. ‘Cloud’, ‘mist’ and ‘fog’ are acceptable names, but your students may think of more imaginative ones. 
-
 
 ## Physics background
 The air that is above the liquid before the water boils is quickly pushed away when the liquid starts to boil. The temperature inside the kettle remains at 100°C. Water vapor or steam fills the space immediately above the boiling surface, it condenses only a bit higher up above the kettle, where the temperature is lower. Due to lack of oxygen, the flame dies in the steam (some prior knowledge about burning is prerequisite).
