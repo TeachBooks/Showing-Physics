@@ -90,7 +90,7 @@ However, the difference is not exactly 15 cm, as the strings were not initially 
 ```
 ```{figure} demo32_figure3.jpg
 ---
-width: 30%
+width: 70%
 align: center
 ---
 The block will move up as the two springs are now parallel rather than in series.
