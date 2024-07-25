@@ -97,9 +97,9 @@ Increase attention and entertainment:
 The parallel between linear movements and rotations is interesting. The linear inertia is the mass $m$. The rotational inertia is called the moment of inertia in physics and is indicated by the letter $I$. For an object with a mass $m$ that turns around a fixed point at distance $r$ we have: $I=mr^2$
 
 Now compare the following situations:
-* *Linear movement*: $\Sigma F = ma \quad$ **(1)**<br>
+* *Linear movement*: $\Sigma F = ma \quad$ **(1)**\
 The sum of all forces on an object ($\Sigma F$) is equal to the product: mass ($m$) $\cdot$ acceleration ($a$).
-* *Rotational movement*:  $\Sigma \tau = I\alpha = mr^2\alpha \quad$ **(2)**<br>
+* *Rotational movement*:  $\Sigma \tau = I\alpha = mr^2\alpha \quad$ **(2)**\
 The sum of all torques ($\Sigma \tau$) that cause an angular acceleration ($\alpha$) is equal to the product of rotational inertia ($I$) $\cdot$ angular acceleration ($\alpha$).
 
 See a university level mechanics text for the restrictions to equations **(1)** and **(2)**.

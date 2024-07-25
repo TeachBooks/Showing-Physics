@@ -64,15 +64,14 @@ Schematic of the setup with the voltage source, ring and copper button. The bath
 2.  Now explain the set-up using the diagram on the board.
 3.  Then students return to their seats and answer the following questions on a worksheet:
 ```{exercise}
-{style=upper-alpha}
-**1.**  At three different points in the drawing indicate with arrows the direction of current, magnetic field, and Lorentz force.
-**2.**  Using the vectors drawn, explain the movement of the liquid.
-**3.**  Predict what we will observe when:
-  *a.* only the direction of the current is reversed,
-  *b.* only the direction of the magnetic field is reversed,
-  *c.* both are reversed.
-**4.**  Where would the candles experience the greatest force, near the center or near the edge of the circle? Why? How could you investigate this experimentally?
-**5.**  Does the Lorentz force have the same direction on moving Na$^+$ and Cl$^-$ ions? Explain.
+1. At three different points in the drawing indicate with arrows the direction of current, magnetic field, and Lorentz force.
+2. Using the vectors drawn, explain the movement of the liquid.
+3. Predict what we will observe when:
+    1. only the direction of the current is reversed,
+    2. only the direction of the magnetic field is reversed,
+    3. both are reversed.
+4. Where would the candles experience the greatest force, near the center or near the edge of the circle? Why? How could you investigate this experimentally?
+5. Does the Lorentz force have the same direction on moving Na$^+$ and Cl$^-$ ions? Explain.
 ```
 4.  Repeat the demonstration to check the answers to questions **C** and **D**.
 

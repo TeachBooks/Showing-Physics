@@ -23,7 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Boiling </td>
     </tr>
-</table><br>
+</table>
 
 
 ## Introduction

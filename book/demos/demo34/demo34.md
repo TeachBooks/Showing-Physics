@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">density, floating, sinking, suspension</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo34_figure4.png
 ---

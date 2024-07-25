@@ -23,7 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Nature of Science</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 This is one of the 'Black Box' activities suitable for addressing 'how science works'. Students observe, infer, devise hypotheses, and then test them. They need to be creative because figuring out what exactly is happening is not simple. We may never even know...

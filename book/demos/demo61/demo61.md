@@ -13,7 +13,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar. A slightly altered version of that demonstration provides excellent opportunity to highlight some characteristics of how science works. For this demonstration you make use of two burning candles of different lengths, placed under the bell jar. 

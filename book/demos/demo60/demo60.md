@@ -19,7 +19,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 8, extension availabe for grade 11 and above</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">

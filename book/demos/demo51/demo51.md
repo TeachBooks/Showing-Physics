@@ -23,7 +23,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Thermal radiation, reflection and absorption, parabolic mirror, focal point</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Heat is – in popular terms – a form of energy. Its counterpart is ‘cold’. You can get rid of cold by adding heat. You can't get rid of heat by adding cold, although it might seem that way when you open a window in winter. In fact, heat escapes. Heat is 'something', cold is 'nothing'. 

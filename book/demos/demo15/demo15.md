@@ -115,7 +115,7 @@ The phenomenon can be visualized by making graphs of the forces vs. time. You mi
 -	The rolling resistance force
 -	The resultant force
 
-Draw the graphs straight above one another with the same time axis.<br>
+Draw the graphs straight above one another with the same time axis.\
 Instead of sketching the graphs you could also have them calculated and drawn by means of a mathematics modelling programme.
 
 Of course, the motion of the cart and the pendulum can also be measured and analyzed, e.g. by means of a video-measurement. In the case of a symmetric pendulum the amplitudes of the cart and the pendulum could be compared to their masses.

@@ -18,7 +18,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Nature of Science, siphon</td>
     </tr>
-</table><br>
+</table>
 
 An idea from {cite:t}`lederman1998avoiding`.
 

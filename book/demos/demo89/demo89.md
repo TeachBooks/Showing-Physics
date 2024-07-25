@@ -19,7 +19,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">LEDs, Optics</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo89_figure1.jpg
 ---

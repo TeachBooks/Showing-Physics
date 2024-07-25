@@ -22,7 +22,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Angular velocity, orbital velocity, centripetal force</td>
     </tr>
-</table><br>
+</table>
 
 ## Introduction
 Students often find concepts linked to circular motion difficult. Examples include the difference between orbital velocity and angular velocity and understanding the centripetal force. In this demonstration, you combine these concepts with the frictional force to create a situation where only one force provides the centripetal force. 

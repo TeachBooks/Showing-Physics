@@ -20,7 +20,7 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14-18</td>
     </tr>
-</table><br>
+</table>
 
 
 ## Introduction

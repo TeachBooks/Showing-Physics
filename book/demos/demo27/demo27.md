@@ -17,7 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">heating and expansion of air, pressure, combustion</td>
     </tr>
-</table><br>
+</table>
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -49,7 +49,7 @@ The teacher performs the experiment but is meant to mainly direct the discussion
 
 ```{figure} demo27_figure1.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 Place the glass or jar over the burning candle.
@@ -70,24 +70,24 @@ Let students brainstorm arguments for and against each explanation, exchange the
 
 ```{figure} demo27_figure2.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The candle is extinguished. What made the liquid level rise?
 ```
 
 ## Physics background
-For explanation 3: With complete combustion of candle wax (mainly paraffin or stearin), roughly speaking, for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
+**For explanation 3:** With complete combustion of candle wax (mainly paraffin or stearin), roughly speaking, for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
 
-For explanation 2: Heat released to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
+**For explanation 2:** Heat released to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
 
-For explanation 1: For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the 'resulting space' can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
+**For explanation 1:** For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the 'resulting space' can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
 
 More important than the 'correct' explanation here is that students themselves come up with, defend, and evaluate arguments for and against the explanations. Another important aspect is that a need arises for empirical evidence.
 
 ```{figure} demo27_figure3.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The balloon on the bottle inflates when you place the bottle in hot water.
@@ -114,22 +114,22 @@ Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 
 **Scenario for a [POE Approach](../../Pedagogy/PoE.md)**
 
-**Predict**<br>
+**Predict**\
 Pour some (colored) water into the dish, place the candle in it, and light it. Get the glass ready. Explain that you are about to place the glass over the candle.
 
 Ask for a prediction of what will happen. Even very young children know that the candle will go out after a while. Older students may also know that the liquid will rise in the glass.
 
 (Ideally students' predictions are partially, but not entirely, accurate. This way, the observation result is not discouraging, but there is still room for learning.)
 
-**Observe**<br>
+**Observe**\
 Instruct the students to carefully observe what happens from the moment you place the glass over the candle, and to write down their observations as precisely as possible. Then place the glass and wait.
 
 Afterward, compare the observations. Everyone will have seen that the candle goes out, and some will have noticed air bubbles escaping at the beginning. Usually, not everyone notices that the flame gradually gets smaller rather than going out suddenly. Almost everyone sees the water rising in the glass, but it’s not always apparent that this only starts in earnest once the flame is out. Some note that the wick smokes for a while after the flame is out, and a few even observe condensation on the glass.
 
 It almost always turns out that not everyone sees exactly the same things. The teacher can point out that such differences are also very common among scientists and sometimes even necessary. This happens, for example, because they are interested in different aspects of the event: a biologist, chemist, or physicist might find different aspects of the extinguishing candle interesting.
 
-**Explain**<br>
-*The water replaces the oxygen consumed by combustion.*<br>
+**Explain**\
+*The water replaces the oxygen consumed by combustion.*\
 Students learn that oxygen is necessary for combustion. When the oxygen is depleted, the candle goes out. Some biology textbooks explain the rising liquid level in this experiment by saying that the water rises to replace the disappeared oxygen. The water often does indeed fill a part of the glass that roughly corresponds to the percentage of oxygen in the atmosphere according to Binas (a Dutch reference book): 21%.
 
 But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct after all or can they think of an alternative?
@@ -143,7 +143,7 @@ Have students choose the explanation they think is best and come up with argumen
 
 In conclusion, the teacher may explain that it is not unusual for scientists to disagree. They can also find different observations important and accept different explanations. The smartest and most creative scientists find the best observations and arguments in favour of some claims (often their own) and against others (usually those of competitors). This has proven to be an excellent approach for the rapid development of reliable scientific knowledge.
 
-**Further options**<br>
+**Further options**\
 To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
 
 Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
