@@ -34,6 +34,16 @@
 ## Introduction
 A block is hung from a set of two springs. See the left half of the drawing.
 The springs are connected by a 'hook'. Next to (or through) the springs hang two strings. The strings hang slack.
+
+```{figure} demo32_figure2.jpg
+---
+width: 70%
+align: center
+figclass: margin
+---
+What happens to the block when the hook is cut with pliers?
+```
+
 What happens if you cut the hook between the springs with a pair of pliers?
 
 ```{figure} demo32_figure1.png
@@ -46,7 +56,7 @@ A schematic of the setup.
 
 ```{figure} demo32_figure4.jpg
 ---
-width: 100%
+width: 80%
 align: center
 figclass: margin
 ---
@@ -62,14 +72,7 @@ The two springs connected with a hook.
 ## Preparation
 The setup requires careful preparation. The strings should hang slack in the initial setup but should still be as short as possible. 
 
-```{figure} demo32_figure2.jpg
----
-width: 100%
-align: center
-figclass: margin
----
-What happens to the block when the hook is cut with pliers?
-```
+
 
 ## Procedure
 Show and discuss the setup extensively; it may be confusing at first. If necessary, show the right half of the drawing as well.
