@@ -57,6 +57,7 @@ The setup requires careful preparation. The strings should hang slack in the ini
 ---
 width: 30%
 align: center
+figclass: margin
 ---
 The two springs connected with a hook.
 ```
