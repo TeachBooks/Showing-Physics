@@ -15,7 +15,7 @@ align: right
     6. [Python](../Introduction/Python%20summary.ipynb)
     7. Table of contents
 2. **Pedagogy**
-    8. [Introduction](../Pedagogy/Introduction.md)
+    1. [Introduction](../Pedagogy/Introduction.md)
     9. [Nature of Science](../Pedagogy/Nos.md)
     10. [Argumentation](../Pedagogy/Argumentation.ipynb)
     11. [Thinking-Back-and-Forth](../Pedagogy/BackAndForthThinking.md)
