@@ -108,19 +108,19 @@ Students get a feel for “doing science” when conducting their own inquiry, b
 
 ## Demonstrations as a NoS activity
 Any demonstration and experiment can in principle be made into a NoS activity. There are stable elements that fit into almost all demonstrations. For example, you can ask the following questions about their statements:
-1. *Did you actually see it and really observe it, or infer it from what you saw?* <br>
+1. *Did you actually see it and really observe it, or infer it from what you saw?* \
 Especially young students tend not to distinguish between observation and interpretation: what you see, what you think it is and what it actually is are not differentiated. In the demonstration called “Magic”, you pour a transparent liquid into a funnel and then collect about the same amount of transparent liquid in a beaker. Is that the same liquid? Is it water? The rest of the demonstration shows that you can’t just assume that it is. What you see may not be what you get.
 
-2. *What did you observe? Did others notice that too? Was there anything else you noticed?* <br>
+2. *What did you observe? Did others notice that too? Was there anything else you noticed?* \
 Perception is not automatic. It is influenced by your knowledge and expectations. When you know what to look for you see more, and that is true also in science. Fleming's discovery of the effect of penicillin based on some forgotten bacterial cultures is certainly no exception. If you don't tell students what you want them to see but leave that up to them, the variety of observations turns out to be enormous. This is not always desirable, but can help if you want to demonstrate the importance of focused observation in research.
 
-3. *How did that come about? Can you explain how that happened? Are there any other possible explanations?* <br>
+3. *How did that come about? Can you explain how that happened? Are there any other possible explanations?* \
 In the "Cylinder Puzzle," use students' own descriptions and explanations to discuss NoS. It is important to use a demonstration that is simple enough to allow for students to compare the quality of their explanations.
 
-4. *What can we do to see if your explanation could be correct? How can we test your hypothesis?* <br>
+4. *What can we do to see if your explanation could be correct? How can we test your hypothesis?* \
 An explanation has no value unless it fits the observations. It is stronger if it fits better and excludes more alternatives. Coming up with your own tests for explanations is important and instructive. This is another reason for not forwarding the "right answer” too soon.
 
-5. *Have we now proved with this research that our conclusion is true? (For example, have we proved Hooke's law?)* <br>
+5. *Have we now proved with this research that our conclusion is true? (For example, have we proved Hooke's law?)* \
 The concept of scientific proof is tricky. You cannot prove Hooke's law in the same way as the Pythagorean theorem: the latter requires no observations. Moreover, from a finite number of observations you can never logically draw an inference about all the observations yet to come: this is called the 'problem of induction'. Nevertheless, the validity and reliability of the observations in a study contribute to the quality of the conclusion.
 
 As a teacher, the art is in properly assessing when and with which students you can go deeper into a particular feature of NoS. If you are open to it, very useful conversations can arise. For example, discuss that an "experiment" is by definition an investigation in which variables are controlled (i.e., held constant). Such experiments are crucial in physics and chemistry, but in astronomy or paleontology there are other methods of investigation as well. Students may think that scientific knowledge can only be gained from experimental research, but there are all kinds of acceptable scientific research, experiments are only one form. 

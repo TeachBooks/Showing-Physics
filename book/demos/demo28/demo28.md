@@ -93,7 +93,8 @@ width: 70%
 align: center
 name: demo28_figure1
 ---
-**left:** Red-colored warm water and blue cold water.<br>
+In the demo, warm and cold water are 'mixed'.\
+**left:** Red-colored warm water and blue cold water.\
 **right:** Warm above and cold below do not mix.
 ```
 

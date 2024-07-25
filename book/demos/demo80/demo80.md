@@ -27,8 +27,8 @@ In this activity, astronomical observations are simulated in the classroom. By o
 width: 90%
 align: center
 ---
-The demonstration investigates 'distance' stars by comparing the brightness of light bulbs through filters.
-<br>*left:* The two light bulbs photographed through a red filter held in front of the camera. The inset shows the original color image.<br>
+The demonstration investigates 'distance' stars by comparing the brightness of light bulbs through filters.\
+*left:* The two light bulbs photographed through a red filter held in front of the camera. The inset shows the original color image.\
 *right:* The same two light bulbs now photographed through a blue filter held in front of the camera. 
 ```
 

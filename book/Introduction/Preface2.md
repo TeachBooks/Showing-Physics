@@ -8,7 +8,7 @@ We hope that this book may serve as a source of inspiration and captivates you j
 
 <div align="right">
 
-Freek Pols *(editor)*<br>
+Freek Pols *(editor)*\
 2024 - 07 - 15
 
 </div>

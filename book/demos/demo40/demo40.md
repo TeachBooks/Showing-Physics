@@ -62,8 +62,8 @@ name: demo40_fig2
 Inside of the can: schematic.
 ```
 
-* Attach the weight or stone to one side of the ring.<br>
-* Close the lid.<br>
+* Attach the weight or stone to one side of the ring.
+* Close the lid.
 * Test your setup by carefully but firmly rolling the can away. It should roll a few meters, then stop and return.
 * If needed, try it with a smaller or larger weight and a tighter or looser elastic band until you get the optimal effect. Make sure the weight is hanging in the middle of the can. In the shown example {numref}`Figure {number} <demo40_fig1>`, the weight is the heaviest cap from my socket wrench set.
 

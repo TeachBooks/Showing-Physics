@@ -86,7 +86,7 @@ Baking soda and vinegar react with each other, producing carbon dioxide. This ga
 ## Follow-up
 Light a second candle in a jam jar and seal it. When it is extinguished, pour the gas over the burning first candle: does it extinguish?
 
-> One of our testers  used two tall standing glasses as an alternative, one of which is filled with CO$_2$ from a cylinder; the other glass contains air. <br>
-> A candle on a wire is kept in the glass with air and remains lit. Then in the glass with CO$_2$; it immediately extinguishes.<br>
-> Then, as if pouring liquid, pour the CO$_2$ gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.<br>
+> One of our testers  used two tall standing glasses as an alternative, one of which is filled with CO$_2$ from a cylinder; the other glass contains air.\
+> A candle on a wire is kept in the glass with air and remains lit. Then in the glass with CO$_2$; it immediately extinguishes.\
+> Then, as if pouring liquid, pour the CO$_2$ gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.\
 > If no CO$_2$ gas cylinder is available, you may use some solid dry ice from a discarded extinguisher to fill the glass with CO$_2$. That works just as well.

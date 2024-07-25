@@ -140,6 +140,6 @@ Since $ \frac{R}{r} $ is greater than 1, the energy loss of the small sphere is 
 Use a temperature sensor attached to a large and a slightly smaller sphere, perform the measurement using appropriate software. Ask questions like:
 * *How meaningful is the measurement this way?*
 * *How quickly do they both cool down?* 
-* *What influence does the temperature sensor itself have?* <br>
+* *What influence does the temperature sensor itself have?*\
 *The sensor also needs to heat up, in the case of a too small sphere, this will cost a lot of thermal energy from the sphere and therefore it will cool down even faster.*
 

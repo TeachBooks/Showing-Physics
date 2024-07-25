@@ -74,7 +74,7 @@ Possible in this way as well
 ## Procedure
 Turn this demonstration into a story (a detailed example below); .
 
-**Energy transport without transformers**<br>
+**Energy transport without transformers**\
 * *On the left is the power station, on the right is a village or town, in between is the transmission line.* (You can put a piece of paper on the wires in case students in the back don't see them). *The customer should have 6 volts* (depends on the bulb used).
 * Set the power supply to 6 volts (use the voltage meter), and note that the light is not, or just barely, lit. Measure the voltage at the customer's premises: far too low!
 * You can measure the current, calculate the power the customer is getting and the loss rate.
@@ -85,13 +85,13 @@ Turn this demonstration into a story (a detailed example below); .
 * Turn down the source to 6 V. Measure the voltage across both lines and the consumer and find that the total is 6 V.
 * So the lines have a too much resistance relative to the consumer. The consumer inevitably has a very small resistance because it is a parallel circuit of countless devices and lamps: that gives a very small replacement resistance.
 
-**First solution:**<br>
+**First solution:**\
 * Make the resistance of the line smaller. Replace the thin wires with 'normal' cords (just connect them in parallel), then the problem is solved. On this scale, it can be done, but in reality it is prohibitively expensive....
 
-**Problem analysis**<br>
+**Problem analysis**\
 * Another way of looking at the problem: If the resistance of the line cannot be easily reduced, then less current must pass through it: The energy loss is $P_{loss}=I^2R$. However, the transmitted power must remain the same. This is possible if we increase the voltage: The power transported is $P=UI$.
 
-**Second solution**<br>
+**Second solution**\
 * Include the two transformers. The first transforms up and the second transforms down. Set the 'power plant' to 6 V again and see that the light does burn properly now. 
 * Measure the voltage at the consumer's side.
 * Measure the voltage at the transmission line and see if that matches (approximately) the transformation ratio.
@@ -144,7 +144,7 @@ There can be plenty of further experimentation, e.g. with different loads, diffe
 Several educational additions to the described test are possible:
 - The voltage on the line is dangerously high. Why can you still hold it? But what should you definitely not do? And if you were to ground one point? *A treatise on 'floating' circuits and isolation transformers:* I always have an imaginary 1000 V battery at hand, which I dare to grab on one side...
 - To make it extra clear that the voltage is quite high, you can connect a 230V/60W lamp; it will then glow weakly. Also note that the lamp at the end of the line will then burn more dimly...
-- Introduce the following paradox: <br>
+- Introduce the following paradox: \
 *According to the formula $P=I^2R$, the loss decreases because the current decreases when the voltage is transformed upwards. But according to the formula $P=U^2/R$, the power actually increases. What is happening there?* You want to arrive at the following: the voltage 'on the line' is the voltage between the two wires, so the 'high voltage'. The voltage 'across the line' is the difference between the beginning and the end of the line, i.e. the voltage loss. Because there is 'tension across the line', the tension 'on the line' at the end is slightly less than at the beginning.
 - Because it is a series circuit - also with the transformers - the loss percentage can be easily determined by dividing the voltage 'across the line' by the voltage 'on the line'.
 - It can also be discussed that in practice there is only one line: the 'return line' is the earth, whose resistance is negligible. Anyone who still doesn't think it's enough, can explain that thanks to the three phases, in practice there is hardly any return current.

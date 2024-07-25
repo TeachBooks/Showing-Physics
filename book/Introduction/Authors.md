@@ -105,24 +105,24 @@ Norbert van Veen (1976) obtained his Physics teaching qualifications  at the Hog
 Maarten van Woerkom (1944) studied theoretical solid state physics at the Catholic University of Nijmegen. After his studies he was a physics teacher at HBS-b, havo and vwo in Almelo and Groenlo. In that period he was a member of the construction group of final exam papers for  vwo (higher secondary education) and subsequently for ten years a member of the central exam committee developing assignments (CEVO). For his contributions to Dutch physics education he received the Minnaert Prize in 1994. He was a physics teacher at the University of Twente for ten years.
 
 
-**Contributors**<br>
-Anton Schins<br>
-Bart van Dalen<br>
-Ella van Leeuwen<br>
-Frank Schweickert<br>
-Frits Hidden<br>
-Henny Kramer-Pals<br>
-Jelmer van Diepen<br>
-Jorn Boomsma<br>
-Liliane Bouma<br>
+**Contributors**\
+Anton Schins\
+Bart van Dalen\
+Ella van Leeuwen\
+Frank Schweickert\
+Frits Hidden\
+Henny Kramer-Pals\
+Jelmer van Diepen\
+Jorn Boomsma\
+Liliane Bouma\
 Loran de Vries
-Luuk Froling<br>
-Maria Antonia Jiminez Ruiz<br>
-Oda Warringa<br>
-Onne Slooten<br>
-Paul Hupkens<br>
-Ron Vonk<br>
-Rutger Ockhorst<br>
-Suzanne Schuurman<br>
-Tom Haanstra<br>
-Tom van Woudenberg<br>
+Luuk Froling\
+Maria Antonia Jiminez Ruiz\
+Oda Warringa\
+Onne Slooten\
+Paul Hupkens\
+Ron Vonk\
+Rutger Ockhorst\
+Suzanne Schuurman\
+Tom Haanstra\
+Tom van Woudenberg
