@@ -1,11 +1,5 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # Captured laser beam
-<span style="font-size: 25px; color: gray;">Total Internal Reflection in a Water Jet</span>
+<span style="font-size: 25px; color: gray;">Total internal reflection in a water jet</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
@@ -24,11 +18,11 @@ align: right
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Total internal reflection, fiber optics</td>
     </tr>
-</table><br>
+</table>
 
 ```{figure} demo53_figure4.png
 ---
-width: 50%
+width: 70%
 align: center
 name: demo32_fig4
 ---
@@ -37,7 +31,6 @@ This demonstration shows how fibers allow even sharp corners
 
 ## Introduction
 This demonstration shows a beautiful light show. And on physics... it relates to how fiber optics work. This demonstration may serve as an interesting introduction or as a test of students'understanding of the phenomenon.
-
 
 ## Equipment
 - Transparent water tank (as large as possible) with a hole in it
@@ -55,7 +48,7 @@ The setup must be well aligned. It is easiest to do this with a plug in the open
 
 ```{figure} demo53_figure2.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The setup where we used a water cooler tank as water reservoir. The hole in the tank has a diameter of about 8 mm; slightly smaller could also work. You can adjust the lab lifts' heights to set how far the water jet reaches into the sink.
@@ -66,7 +59,7 @@ For visibility, gather all students around the setup. Darken the room and immedi
 
 ```{figure} demo53_figure1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The laser beam follows the water jet into the (white) sink. The inset in the top left shows a detail of the opening and the first total internal reflection.
@@ -76,7 +69,7 @@ As an introduction, this demo is well suited to explain internal reflection. Do 
 
 ```{figure} demo53_figure3.png
 ---
-width: 50%
+width: 90%
 align: center
 name: demo32_fig3
 ---

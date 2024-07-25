@@ -22,7 +22,7 @@
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
-            src="https://www.youtube.com/embed/YDBr1Lof_mI?si=RhTC31XHv-6gL4Kl"
+            src="https://www.youtube.com/embed/Jryw6ot9SV0?si=BCocz9sLwoL4FZPI"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -59,7 +59,7 @@ Put a bit of water in the can and heat it. *What happens to the air in the can?*
 
 ```{figure} demo98_figure2.JPG
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The outcome of this experiment: a crumpled can.
@@ -72,3 +72,11 @@ The teacher can give a bonus to students who can show a video of their own implo
 
 ## Physics background
 The vessel is filled with air and a bit of liquid water. Heating the water creates water vapour. If the stopper is open, the vessel is filled with water vapour and the air is 'pushed' out. You close the vessel and cool it down. Now the water vapour condenses. Now, at lower temperatures, air can contain much less water vapour per litre of air - the water vapour thus condensates with the result that the pressure in the sealed vessel drops. The pressure is much lower than the pressure of the outside air and the vessel will be compressed from the outside. With a robust vessel like an oil drum, it can take several minutes for something to happen!
+
+```{figure} demo98_figure3.JPG
+---
+width: 70%
+align: center
+---
+Heating a can with a layer of water, without the need for gas.
+```

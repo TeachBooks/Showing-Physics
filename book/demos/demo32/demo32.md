@@ -44,6 +44,15 @@ align: center
 A schematic of the setup.
 ```
 
+```{figure} demo32_figure4.jpg
+---
+width: 100%
+align: center
+figclass: margin
+---
+The two springs connected with a hook.
+```
+
 ## Equipment
 * Two slack springs with an unloaded length of at least 12 cm. The springs must be slack because they need to stretch considerably under the given load. 
 * A block of over 100 grams
@@ -52,15 +61,6 @@ A schematic of the setup.
 
 ## Preparation
 The setup requires careful preparation. The strings should hang slack in the initial setup but should still be as short as possible. 
-
-```{figure} demo32_figure4.jpg
----
-width: 30%
-align: center
-figclass: margin
----
-The two springs connected with a hook.
-```
 
 ## Procedure
 Show and discuss the setup extensively; it may be confusing at first. If necessary, show the right half of the drawing as well.
