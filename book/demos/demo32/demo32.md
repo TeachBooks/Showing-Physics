@@ -22,7 +22,7 @@
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
-            src="https://www.youtube.com/embed/sC2QB7bcqew?si=pK21XN1XtZEU0CO8"
+            src="https://www.youtube.com/embed/0npozz8oKH4?si=KISFssJzD5S2U7N5"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -52,6 +52,14 @@ A schematic of the setup.
 
 ## Preparation
 The setup requires careful preparation. The strings should hang slack in the initial setup but should still be as short as possible. 
+
+```{figure} demo32_figure4.jpg
+---
+width: 30%
+align: center
+---
+The two springs connected with a hook.
+```
 
 ## Procedure
 Show and discuss the setup extensively; it may be confusing at first. If necessary, show the right half of the drawing as well.
