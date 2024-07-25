@@ -17,6 +17,7 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Force, motion, Newton's laws</td>
     </tr>
+</table>
 
 ## Introduction
 How can you experience force and motion in person without too much interference from that annoying, always present friction? With a bowling ball! During this demonstration in the hallway or gymnasium, some students try to influence the direction of a bowling ball with brooms and feel the essence of Newton's first and second law.
@@ -67,14 +68,15 @@ There is room for discussion here. Let students try it first. Then the question 
 **10. Checking students' understanding**<br>
 Memphis is standing 10 meters in front of the center of an open goal. He receives a hard cross from Bergwijn's left and hits it exactly at right angles, perpendicular to the direction of travel. Explain with a drawing and reasoning why the ball might not go into the goal.
 
-
+<!-- 
 ```{figure} demo43_figure1.png
 ---
 width: 50%
 align: center
 ---
 some caption
-```
+``` 
+-->
 
 ## Physics background
 Newton's first and second laws are key here: The heavy bowling ball continues straight at a constant speed unless a net force is applied. With the broom you can change both the size and direction and speed of the ball.

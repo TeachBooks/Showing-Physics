@@ -2,7 +2,7 @@
 
 ```{figure} ../Pedagogy/Figures/team.jpg
 ---
-width:70%
+width: 70%
 ---
 Part of the team discussing one of the potential demonstrations of the third edition of Show*de*Fysica.
 ```

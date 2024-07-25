@@ -58,7 +58,7 @@ width: 75%
 [Determination of $g$](../demos/demo73/demo73.ipynb) revolves around the question how you can determine the acceleration due to gravity as precise as possible.
 ```
 
-Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. They are meant to teach students to thoroughly consider various options and determine, also in regard of the practical limitations, what decision is 'best' from a scientific perspective. [Argumentation](./Argumentation.md) plays a major role in this. 
+Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. They are meant to teach students to thoroughly consider various options and determine, also in regard of the practical limitations, what decision is 'best' from a scientific perspective. [Argumentation](./Argumentation.ipynb) plays a major role in this. 
 
 Teaching students how to investigate their world independently in a scientific way includes addressing questions such as:
 1. What does it mean when some claim is said to be *"scientifically proven"*? 
@@ -92,7 +92,7 @@ In physics research, all of these questions matter but in demonstrations this is
 
 Questions like question 1. encourage [thinking-back-and-forth between theory and practice](../Pedagogy/BackAndForthThinking.md). In demonstrations of this kind something often happens that your audience doesn't expect and that raises questions. This will allow you to illustrate how in physical research you are constantly testing theory and practice against each other. Students experience this with the support of the teacher in the demonstrations. 
 
-Questions like question 2. focus on [argumentation](../Pedagogy/Argumentation.md). When doing scientific inquiry students often seem satisfied with any answer they can find, without spending further effort in finding the most *convincing* answer available. In science only that optimally convincing answer would be good enough.
+Questions like question 2. focus on [argumentation](../Pedagogy/Argumentation.ipynb). When doing scientific inquiry students often seem satisfied with any answer they can find, without spending further effort in finding the most *convincing* answer available. In science only that optimally convincing answer would be good enough.
 But what do we find convincing in science, and why? Demonstrations can develop scientific understandings of this kind in students. 
 
 Questions such as question 3. deal with the [nature of science](../Pedagogy/Nos.md). In successful research the researcher is looking for something that was not yet known. 

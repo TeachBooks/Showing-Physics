@@ -9,7 +9,7 @@ align: right
 **Introduction**
 1. [About this book](../Introduction/About.ipynb)
 2. [Preface](../Introduction/Foreword.md)
-3. [Preface from the editor](../introduction/Preface2.md)
+3. [Preface from the editor](../Introduction/Preface2.md)
 4. [About the authors](../Introduction/Authors.md)
 5. [NVON](../Introduction/NVON.md)
 6. [Python](../Introduction/Python%20summary.ipynb)
