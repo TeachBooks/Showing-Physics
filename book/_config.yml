@@ -57,5 +57,5 @@ sphinx:
  
   extra_extensions:
     - sphinx_exercise
-    - extensions.fa_extension # for fontawesome icons needed when converting to pdf
+    
 

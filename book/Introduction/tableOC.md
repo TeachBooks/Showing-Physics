@@ -16,10 +16,10 @@ align: right
     7. Table of contents
 2. **Pedagogy**
     1. [Introduction](../Pedagogy/Introduction.md)
-    9. [Nature of Science](../Pedagogy/Nos.md)
-    10. [Argumentation](../Pedagogy/Argumentation.ipynb)
-    11. [Thinking-Back-and-Forth](../Pedagogy/BackAndForthThinking.md)
-    12. [Predict Explain Observe Explain](../Pedagogy/PoE.md)
+    2. [Nature of Science](../Pedagogy/Nos.md)
+    3. [Argumentation](../Pedagogy/Argumentation.ipynb)
+    4. [Thinking-Back-and-Forth](../Pedagogy/BackAndForthThinking.md)
+    5. [Predict Explain Observe Explain](../Pedagogy/PoE.md)
 
 **Demos on NOS**
 
