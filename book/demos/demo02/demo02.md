@@ -130,24 +130,24 @@ $$ Q_{absorbed} = Q_{emitted} $$
 
 $$ 50 \text{[g]} · 4.2 \text{[J/g°C]} · (65\text{[°C]} – 5\text{[°C]}) = m_{hot} · 4.2 \text{[J/g°C]} · (T_{hot} – 65\text{°C)}$$
 
-$ ρ_{water} ≈ 1.0$ [g/ml];<br>
-$c_{milk} ≈ c_{water} = 4.18·10^3$ [J/g°C];<br>
+$ ρ_{water} ≈ 1.0$ [g/ml];\
+$c_{milk} ≈ c_{water} = 4.18·10^3$ [J/g°C];\
 $L = 2.26·10^6$ [J/kg] (heat of evaporation)
 
-**Attempt 1:** hot water ($T_{hot} = 90$°C)<br>
-Calculate the amount of hot water $T_{hot} = 90$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.<br>
+**Attempt 1:** hot water ($T_{hot} = 90$°C)\
+Calculate the amount of hot water $T_{hot} = 90$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.\
 Answer: ...
 
-**Attempt 2:** boiling water ($T_{hot} = 100$°C)<br>
-Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.<br>
+**Attempt 2:** boiling water ($T_{hot} = 100$°C)\
+Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.\
 Answer: ...
 
-**Attempt 3:** Very hot water<br>
+**Attempt 3:** Very hot water\
 Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.<br>
 Answer: ...
  
-**Attempt 4:** steam ($T=100$°C)<br>
-Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘milk’ with a temperature of 5°C to reach a temperature of 65°C.<br>
+**Attempt 4:** steam ($T=100$°C)\
+Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘milk’ with a temperature of 5°C to reach a temperature of 65°C.\
 Answer: ...
 ```
 

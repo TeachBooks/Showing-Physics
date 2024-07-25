@@ -53,8 +53,8 @@ sphinx:
         thebe: true
     html:
       use_multitoc_numbering: true
-    nb_render_text: ["remove-input", "hide-input"]  # to hide or remove input cells with tags
-    suppress_warnings: ['ref.duplicate'] # suppress warnings for duplicate labels
+    #nb_render_text: ["remove-input", "hide-input"]  # to hide or remove input cells with tags
+    
     
   extra_extensions:
     - sphinx_exercise
