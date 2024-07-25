@@ -68,7 +68,7 @@ Large wire spool. Which way will it roll?
 
 ```{figure} demo56_cc.png
 ---
-width: 50%
+width: 80%
 align: center
 name: demo56_cc
 ---
@@ -82,7 +82,7 @@ For a simple explanation of the movement direction, look at the torque that the 
 
 ```{figure} demo56_figure4.png
 ---
-width: 50%
+width: 70%
 align: center
 name: fig:schematic
 ---

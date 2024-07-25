@@ -62,6 +62,15 @@ The two springs connected with a hook.
 ## Preparation
 The setup requires careful preparation. The strings should hang slack in the initial setup but should still be as short as possible. 
 
+```{figure} demo32_figure2.jpg
+---
+width: 100%
+align: center
+figclass: margin
+---
+What happens to the block when the hook is cut with pliers?
+```
+
 ## Procedure
 Show and discuss the setup extensively; it may be confusing at first. If necessary, show the right half of the drawing as well.
 
@@ -70,14 +79,6 @@ The question is: *What happens to the block when the hook is cut with pliers?*\
     B. The block hangs lower.\
     C. The block falls to the ground.\
     D. The block hangs higher.
-
-```{figure} demo32_figure2.jpg
----
-width: 30%
-align: center
----
-What happens to the block when the hook is cut with pliers?
-```
 
 ## Physics background
 In the initial state, the springs are connected in series. If the spring constant of one spring is $C$, then the spring constant of the series-connected springs is $½ C$. For example, with a block, there is an elongation of 20 cm.
@@ -89,6 +90,7 @@ However, the difference is not exactly 15 cm, as the strings were not initially 
 * Create sets of four colored cards. For example, a green card with the letter A, an orange card with the letter B, a red card with the letter C, and a white card with the letter D. If each student has such a set, then after the discussion, what a student chooses as an answer can be made visible.
 * Let the block vibrate in the initial position by giving it a small deflection and releasing it. What can be observed about the oscillation period in the final state? The spring constant has become four times larger.
 ```
+
 ```{figure} demo32_figure3.jpg
 ---
 width: 70%

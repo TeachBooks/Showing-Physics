@@ -88,7 +88,7 @@ With water, we revisit what boiling is exactly. Normally, the air pressure in bu
 
 ```{tip}
 - When boiling under the bell jar: once the water boils, turn off the pump to prevent much condensation inside. 
-- Demonstrating boiling at a lower temperature can also be done by boiling water in a flask, immediately turning off the heat, sealing the flask with a rubber stopper and thermometer in the stopper, and then inverting it and pouring cold water over it. The reduced pressure brings the water to a boil again at a temperature below 100 degrees ({cite:t}`liem1987invitations` p. 106).
+- Demonstrating boiling at a lower temperature can also be done by boiling water in a flask, immediately turning off the heat, sealing the flask with a rubber stopper and thermometer in the stopper, and then inverting it and pouring cold water over it. The reduced pressure brings the water to a boil again at a temperature below 100 degrees.
 ```
 
 ## References

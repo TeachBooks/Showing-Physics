@@ -22,7 +22,7 @@
 ## Introduction
 Imagine a stick with headless nails or needles in each end, resting on fragile wine glasses. Then a hard hit with a club. The stick breaks, but the wine glasses do not. How is that possible?
 
-```{figure} demo55_figure1.png
+```{figure} demo55_figure1.jpg
 ---
 width: 70%
 align: center

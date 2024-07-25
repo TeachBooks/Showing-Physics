@@ -34,7 +34,6 @@
 ## Introduction
 Here you demonstrate the force that can be exerted by the outside air. As a bit of water just is evaporated in a vessel and is then cooled down, an enormous force acts on the outside resulting in a spectacular implosion. A classic and spectacular demonstration! 
 
-
 ```{figure} demo98_figure1.JPG
 ---
 width: 50%
@@ -45,11 +44,19 @@ Heating a can with a layer of water.
 
 ## Equipment
 * Sealable metal container (slightly cleaned oil drum, a large paint can, an empty soft drink can)
-* Gas burner large enough to heat the container
+* Gas burner or electric stove 
 * Room temperature water
 * Wet cloth
 * Cold water (possibly with ice cubes)
 * Pair of gloves
+
+```{figure} demo98_figure3.jpg
+---
+width: 70%
+align: center
+---
+Heating a can with a layer of water, without the need for gas.
+```
 
 ## Preparation
 Test the demonstration so that you know approximately how long it takes for the can to implode. 
@@ -73,10 +80,3 @@ The teacher can give a bonus to students who can show a video of their own implo
 ## Physics background
 The vessel is filled with air and a bit of liquid water. Heating the water creates water vapour. If the stopper is open, the vessel is filled with water vapour and the air is 'pushed' out. You close the vessel and cool it down. Now the water vapour condenses. Now, at lower temperatures, air can contain much less water vapour per litre of air - the water vapour thus condensates with the result that the pressure in the sealed vessel drops. The pressure is much lower than the pressure of the outside air and the vessel will be compressed from the outside. With a robust vessel like an oil drum, it can take several minutes for something to happen!
 
-```{figure} demo98_figure3.JPG
----
-width: 70%
-align: center
----
-Heating a can with a layer of water, without the need for gas.
-```
