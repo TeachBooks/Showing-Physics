@@ -28,8 +28,22 @@ video
     </tr>
 </table>
 
+
+
 ## Introduction
 In this demonstration metal balls change into ping-pong balls. Of course that is impossible, but the initial explanation of the presenter also does not make sense. So how does it work? A very simple demonstration that where the observations challenge the students to find explanations and engage them in reasoning with concepts as density, floating, and sinking.
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/PSft5KU3rjU?si=pou798Occ5HutTLp"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Equipment
 * Three metal balls
