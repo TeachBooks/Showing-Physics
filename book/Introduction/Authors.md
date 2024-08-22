@@ -115,7 +115,7 @@ Henny Kramer-Pals\
 Jelmer van Diepen\
 Jorn Boomsma\
 Liliane Bouma\
-Loran de Vries
+Loran de Vries\
 Luuk Froling\
 Maria Antonia Jiminez Ruiz\
 Oda Warringa\
