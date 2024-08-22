@@ -7,11 +7,14 @@ Looking around the demonstration room in the department, I see a lot of stuff th
 The book emphasizes the importance of listening to all students' thoughts before providing answers. I have found that this works well even for a large lecture hall, where students' different ways of describing a phenomenon can be elicited using *peer instruction*, when students vote use clickers, phones or even colored papers, and then discuss predictions and outcomes with their neighbors. This book provides a rich treasure chest of examples to surprise and inspire students and to challenge and develop their understanding of physics.
 
 <div  align="right">
-Ann-Marie Pendrill
-Prof. em, 
+
+Ann-Marie Pendrill\
+Prof. em. \
 University of Gothenburg and Lund university
+
 </div>
 
 ```{figure} Figures/AMP.jpg
-width: 70%
+:width: 40%
+:align: right
 ```
