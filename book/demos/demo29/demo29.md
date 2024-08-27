@@ -51,7 +51,7 @@ Diagram of a burning tea light candle and a glass with vinegar and baking soda.
 * Baking soda or soda
 
 ## Preparation
-Put vinegar and baking soda or soda in the jar. Not too much, as it will bubble and overflow from the jar. The bubbling is caused by the carbon dioxide gas that is released.
+Put vinegar and baking soda or soda in the jar. Not too much, as it will bubble and overflow from the jar. This can be clearly seen in the video. The bubbling is caused by the carbon dioxide gas that is released.
 
 ## Procedure
 1. Place the candle in a glass and light it.
@@ -79,7 +79,7 @@ The tea light candle is extinguished by something invisible... what is it?
 Baking soda and vinegar react with each other, producing carbon dioxide. This gas is heavier than air and remains in the glass, and it's invisible. Pouring it over the candle, this gas extinguishes the candle flame without seeming to have done anything.
 
 ```{tip}
-* After the demonstration, you can talk about the dangers of suffocation due to CO2 and other heavy gases. An example is the Nyos disaster in 1986, where a large number of residents in Cameroon were suffocated in their sleep due to the sudden release of CO$_2$ from a volcanic crater lake.
+* After the demonstration, you can talk about the dangers of suffocation due to CO2 and other heavy gases. An example is the [Nyos disaster](https://en.wikipedia.org/wiki/Lake_Nyos_disaster) in 1986, where a large number of residents in Cameroon were suffocated in their sleep due to the sudden release of CO$_2$ from a volcanic crater lake.
 * Show a fire extinguisher that relies on this extinguishing effect of carbon dioxide. These extinguishers are easily recognizable because they have a black expansion tube or snow tube at the end of the hose. There is a handle between the expansion tube and the hose that must be held during use of the extinguisher. The handle is necessary because the end of the unprotected tube becomes very cold (up to about -80°C), and one can suffer third-degree burns from this extreme cold.
 ```
 

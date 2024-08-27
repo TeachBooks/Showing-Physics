@@ -93,7 +93,7 @@ A can with a hole.
     </div>
 </div>
 
-*A variation of the demonstration described above.* 
+*A variation on the demonstration described above.* 
 
 
 ```{tip}
