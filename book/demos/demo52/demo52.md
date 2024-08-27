@@ -27,7 +27,7 @@ The power emitted by the sun can be reasonably well determined using a regular 1
 width: 70%
 align: center
 ---
-Light bulb and hand.
+Feel with your hand at what distance the 100W lamp appears as hot as the sun.
 ```
 
 ### Equipment
@@ -36,22 +36,16 @@ Light bulb and hand.
 - Blindfold
 - Optional for verifying the inverse square law: light sensor
 
-### Preparation
-Connect the light bulb to the power source.
-
-```{figure} demo52_figure1.JPG
----
-width: 50%
-align: center
----
-Feel with your hand at what distance the 100W lamp appears as hot as the sun.
-```
-
-### Procedure
-Step 2 of the procedure is only carried out if it is summer and sunny; otherwise, students must rely on their memory of the sun's warmth on the beach (step 3). Work with groups of two students who come forward one by one. Student 1 performs the measurement and monitors blindfolded student 2 to ensure they do not burn their hand on the hot lamp. Emphasize this important task!
-
 ```{warning}
 Ensure that the blindfolded student is watched so that hands do not burn!
+```
+
+### Preparation
+Preferably, wait for a bright, sunny day. Connect the light bulb to the power source.
+
+### Procedure
+```{note}
+Step 2 of the procedure is only carried out if it is summer and sunny; otherwise, students must rely on their memory of the sun's warmth on the beach (step 3). Work with groups of two students who come forward one by one. Student 1 performs the measurement and monitors blindfolded student 2 to ensure they do not burn their hand on the hot lamp. Emphasize this important task!
 ```
 
 1. Ask students how to easily estimate the power of the sun. Partially answer this by turning on the 100 W lamp, holding your hand near it, and asking how powerful a lamp would need to be at 150 million km to achieve the same warming effect. Then explain the basic measurement method, including the inverse square law. Alternatively, you could let students partially figure out the inverse square law themselves in step 6. The inverse square law can also be verified with a light sensor (see Follow-up).
@@ -75,7 +69,7 @@ Inverse Square Law.
 ```
 
 ## Follow-up
-Before or after determining the sun's emitted power, you can let students derive the inverse square law themselves. This can be done by measuring the light intensity of the light bulb at different distances with a light meter (e.g., light sensor CMA 0142i ot BT50i) and graphing it as a function of distance on double-logarithmic paper. The inverse square law can then be applied again to calculate the solar constant, which is the solar power that reaches the earth on average per square meter. From this, you can also calculate the total solar power incident on the earth. This calculation shows that it is many times greater than the amount of power we, as earth inhabitants, use on average for transport, industry, lighting, heating, and other purposes! It is expected that total energy consumption in 2030 will be about 700.10$^{18}$ J per year (source (Dutch): http://www.deconsult.nl). This observation can be used to motivate students to use and develop sustainable energy. For example, they can calculate how much total surface area of solar panels would be needed to generate that amount of energy as electrical energy (ignoring aspects like day/night, energy needs, transport of electrical energy, etc.).
+Before or after determining the sun's emitted power, you can let students derive the inverse square law themselves. This can be done by measuring the light intensity of the light bulb at different distances with a light meter and graphing it as a function of distance on double-logarithmic paper. The inverse square law can then be applied again to calculate the solar constant, which is the solar power that reaches the earth on average per square meter. From this, you can also calculate the total solar power incident on the earth. This calculation shows that it is many times greater than the amount of power we, as earth inhabitants, use on average for transport, industry, lighting, heating, and other purposes! It is expected that total energy consumption in 2030 will be about $700\cdot10^{18}$ J per year (source (Dutch): http://www.deconsult.nl). This observation can be used to motivate students to use and develop sustainable energy. For example, they can calculate how much total surface area of solar panels would be needed to generate that amount of energy as electrical energy (ignoring aspects like day/night, energy needs, transport of electrical energy, etc.).
 
 
 For calculations, an Excel file is available

@@ -34,16 +34,6 @@
 ## Introduction
 How can you experience force and motion in person without too much interference from that annoying, always present friction? With a bowling ball! During this demonstration in the hallway or gymnasium, some students try to influence the direction of a bowling ball with brooms and feel the essence of Newton's first and second law.
 
-<!--
-```{figure} demo43_fig1.jpg
----
-width: 50%
-align: center
-name: demo43_fig1
----
-As the ball is heavy, friction hardly plays a role allowing to investigate Newton's laws of motion.
-```
--->
 
 ## Equipment
 * Heavy bowling ball
@@ -58,6 +48,17 @@ First try yourself how you can influence the movement of a bowling ball with the
 ```{tip}
 Students can gain similar experiences with a heavily loaded supermarket cart. There too you feel how difficult it is to change direction and that the new direction is a superposition of the direction of the original speed and the applied force.
 ```
+
+<!--
+```{figure} demo43_fig1.jpg
+---
+width: 50%
+align: center
+name: demo43_fig1
+---
+As the ball is heavy, friction hardly plays a role allowing to investigate Newton's laws of motion.
+```
+-->
 
 ## Procedure
 During the demonstration, we follow various steps.

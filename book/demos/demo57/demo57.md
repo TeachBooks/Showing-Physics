@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Curve ball
 <span style="font-size: 25px; color: gray;">Coandă Effect</span> 
 
@@ -64,35 +58,9 @@ The light ball should fit inside the tube and have enough friction with the inne
    * Sketch the path you observe the ball taking. Sketch the ball at a point halfway along that path, and add the velocity, spin, and acceleration of the ball.
    * Can you make the curve go in the opposite direction? How? How can you make it curve upward so it travels further? And how can you make it hit the ground faster?
    * Name five sports where curve balls are used and explain the purpose of imparting spin in each case.
-6. To conclude, it might be interesting to show the spectacular YouTube video of a basketball being thrown with spin into a canyon:
+6. To conclude, it might be interesting to show the spectacular YouTube video of a [basketball being thrown with spin into a canyon](https://www.youtube.com/watch?v=QtP_bh2lMXc).
 
-
-<div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe
-            src="https://www.youtube.com/watch?v=QtP_bh2lMXc "
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-        ></iframe>
-    </div>
-</div>
-
-A bit more explanation can be found in the following video:
-
-<div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe
-            src="https://www.youtube.com/watch?v=23f1jvGUWJs"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-        ></iframe>
-    </div>
-</div>
-
+A bit more explanation can be found in this [video](https://www.youtube.com/watch?v=23f1jvGUWJs).
 
 ## Physics background
 The observed phenomena can be explained by the Coandă effect {cite}`Veld2009`. Flowing water that runs along the convex side of a spoon adheres to the curved surface ({numref}`Figure {number}<demo57_fig2>`, left). The jet no longer goes straight but is drawn towards the convex surface. Conversely, and according to Newton's third law, the fluid jet also pulls on the spoon. Flowing water along one side of a table tennis ball follows the curved side of the ball. The water stream bends away from its original direction. According to Newton, the ball is then also pulled into the stream. A table tennis ball on a string will be drawn into a water jet ({numref}`Figure {number}<demo57_fig2>`, right). Similarly, a table tennis ball can be drawn into an airstream. 
