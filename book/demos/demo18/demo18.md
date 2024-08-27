@@ -20,6 +20,18 @@
     </tr>
 </table>
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/j6AdqYow-SA?si=_V9xTfojRVXjNFep"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 ## Introduction
 When a rigid body is dropped, all parts have the same acceleration. However, when you drop a body where the parts can move with respect to each other you get unexpected results!
 
@@ -53,11 +65,12 @@ A can with a hole.
 ### Procedure dropping balls
 1.	Hold one of the balls in your hand such that the other ball is suspended under it. 
 2.	Ask your students to predict what will happen with movement of the bottom ball immediately after you let the top one go. 
-3.	Ask your students the following question:
-<iframe src="https://tudelft.h5p.com/content/1292319738939214407/embed" width="1088" height="308" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo18 Q1"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+3.	Ask your students the question below.
 4.	Ask the students to explain why they chose that alternative. In the discussion gravitational acceleration will be mentioned. The elastic band will contract of course. The balls will not experience the same acceleration because of the elastic band. 
 5.	After all students decided on one of these alternatives you drop the balls. 
 6.	You will have to repeat the process several times, because it happens so fast. You or your students might film this with a high-speed camera of iPhone (120 or 240 frames/second). 
+
+<iframe src="https://tudelft.h5p.com/content/1292319738939214407/embed" width="1088" height="308" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="Demo18 Q1"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Procedure dropping bottle
 1.	Close the hole with your finger and fill the bottle with (colored) water. 
@@ -67,6 +80,21 @@ A can with a hole.
 5.	Now ask again what will happen when you drop the bottle after the water was already flowing. 
 6.	Discuss.
 7.	Let the students observe what happens. Explain
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/TZp_kRmXIiY?si=PoysElJrshdAOq0D"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
+*A variation of the demonstration described above.* 
+
 
 ```{tip}
 An interesting variation on this demonstration occurs when you extend the elastic by pulling the bottom ball downwards with one hand. Then drop the configuration! 
