@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Powerful Balloon 
 <span style="font-size: 25px; color: gray;">A surprisingly revealing measurement</span>
 
@@ -45,12 +39,12 @@ Turn the balance on with the stand for the balloon on it. Set the balance to 0.0
 
 ## Procedure
 1. Explain to the students how the demonstration works.
-2. Predict what the balance will indicate and why.
+2. Let students predict what the balance will indicate and why.
 3. Inflate the balloon and place it directly in the stand on the balance. Perform the measurement.
 4. Show with the graph that the mass of the balloon increases significantly in the first two minutes.
     - *What could be an explanation?*
 6. Provide the explanation of the demonstration.
-7. Control questions: *Why does an object become heavier when you lift it out of the water? Why does a hot air balloon have more buoyant force when the air inside it is warmer? What are the pressure and temperature in the balloon before the start of the experiment (just after inflating) and after reaching the equilibrium mass?*
+7. Questions to check students' understanding: *Why does an object become heavier when you lift it out of the water? Why does a hot air balloon have more buoyant force when the air inside it is warmer? What are the pressure and temperature in the balloon before the start of the experiment (just after inflating) and after reaching the equilibrium mass?*
 
 ```{figure} demo65_figure2.jpg
 ---
@@ -74,13 +68,11 @@ The effect is most noticeable just after inflating. After a few minutes, the equ
 
 ```{tip}
 - In addition to the graph, you can also display the mass value on a screen. Film or photograph with a FLIR-C5 camera to show that the balloon’s temperature is higher than the outside temperature. Heat (the air in) the balloon with a hairdryer if desired to make the effect stronger. Place the balloon on a tube or cup for better support against movement due to air currents and the like. 
-- Tip from a tester: work in a draft-free room.
 ```
 
 ## Follow up
 There are more demonstrations available, for instance [Rotating Balloon](../demo78/demo78.md), [A Balloon that Can Do Everything](../demo76/demo76.md) and [Air is not nothing: weighing air](../demo30/demo30.md).
 
-## References
-```{bibliography}
-:filter: docname in docnames
+```{tip}
+It is interesting to know (and show) when the pressure inside the balloon is maximal. Surprisingly it is when the balloon is very small. This can be observed by filling the balloon which is hardest when it is empty, or by releasing it with sound. The pitch is highest at the last part, when the balloon is almost empty.
 ```

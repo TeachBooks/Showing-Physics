@@ -30,14 +30,6 @@
 ## Introduction
 A burning candle is an everyday phenomenon, but the physical and chemical effects that contribute to the burning are complex. This demonstration is suitable for developing your students' physical reasoning. Without complicated equipment, you show a surprising phenomenon. Why does the flame of a candle disappear?
 
-```{figure} demo60_figure1.jpg
----
-width: 100%
-align: center
----
-The visible flame of a candle disappears near a copper spiral.
-```
-
 ## Materials Needed
 - Approximately 20 cm long, thick (Ø 1 to 2 mm) uninsulated copper wire
 - Candle
@@ -45,6 +37,14 @@ The visible flame of a candle disappears near a copper spiral.
 
 ## Preparation
 Make a 1-2 cm long spiral from the copper wire by wrapping it around a pencil. The coils should not be too tight together, otherwise, you won't see the flame, but if the coils are too far apart, the effect is lessened. Test in advance!
+
+```{figure} demo60_figure1.jpg
+---
+width: 100%
+align: center
+---
+The visible flame of a candle disappears near a copper spiral.
+```
 
 ## Procedure
 Depending on the candle and the spiral, the experiment will be slightly different for everyone. Proper observation is therefore important.
@@ -67,17 +67,12 @@ For combustion, activation energy (heat) is needed. A burning candle provides th
 
 That the flame in the coil can turn blue is surprising to many because we know from the gas burner that the blue or transparent flame (complete combustion) is hotter than the yellow flame (incomplete combustion). With a candle, it is more complicated. The natural gas from the gas burner can react directly with oxygen in the air. With a candle, the liquid wax must first evaporate, which requires a lot of energy, leading to a relatively low temperature (600°C). Subsequently, long chains of wax vapor (e.g., palmitic acid $\text{CH}_3[\text{CH}_2]_{14}\text{COO}[\text{CH}_2]_{29}\text{CH}_3$) are thermally broken down, which again costs energy (temperature in this area: 800-1000°C). Only then does an exothermic reaction with oxygen (oxidation) occur. The temperature is around 1200°C. The copper spiral removes heat and creates an area where the molecular chains still need to be broken down over a longer distance.
 
-In figures 2a and 2b, you see an attempt to measure the temperature by holding a thermocouple in different parts of the flame: The actual temperature of the flame will be higher than the indicated value because the temperature sensor itself also conducts heat and therefore causes cooling. It is clear that the yellow part of the flame is hotter than the transparent part.
-
 ```{figure} demo60_figure2.jpg
 ---
 width: 80%
 align: center
 ---
-Figure 2a. Temperature measured in (a) the invisible part and (b) the visible part of the flame.
+A measurement of the temperature in (a) the invisible part and (b) the visible part of the flame.
 ```
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```
+In figures 2a and 2b, you see an attempt to measure the temperature by holding a thermocouple in different parts of the flame: The actual temperature of the flame will be higher than the indicated value because the temperature sensor itself also conducts heat and therefore causes cooling. It is clear that the yellow part of the flame is hotter than the transparent part.

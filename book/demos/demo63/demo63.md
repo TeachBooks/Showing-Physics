@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Condensation heat in infrared
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -26,11 +20,11 @@ align: right
 </table>
 
 ## Introduction
-In this demonstration, you make a nanoscale process visible in a simple way. Due to continuous evaporation, water in a cup has a lower temperature than the room its in, even after hours of being in that room. We follow the temperature of a sheet of paper as evaporated water condenses on it. With the measured temperature rise, we estimate the number (layers) of water molecules needed for this increase.
+In this demonstration, you make a nanoscale process visible in a simple way. Due to continuous evaporation, water in a cup has a lower temperature than the room its in, even after hours of being in that room. We monitor the temperature of a sheet of paper as evaporated water condenses on it. With the measured temperature rise, we estimate the number (layers) of water molecules needed for this increase. This demonstration is described in detail by {cite}`Xie2011`. 
 
 ```{figure} demo63_figure1.png
 ---
-width: 50%
+width: 70%
 align: center
 ---
 Setup for this experiment: FLIR C5 camera connected to a computer. Clamped in a stand clamp perpendicular to the dish under the paper.
@@ -46,24 +40,7 @@ Setup for this experiment: FLIR C5 camera connected to a computer. Clamped in a 
 2. Place the dish with water under the camera. 
 3. Turn on the camera with streaming mode enabled and connect it to your computer.
 4. Open a camera app on the computer and let it display the image from the infrared camera. 
-5. Set the distance (on the touchscreen) of the infrared camera to the correct value. Enter the emissivityvalue of paper (approximately 0.70) into the infrared camera.
-
-## Procedure
-Students already have knowledge of molecular theory and phase transitions.
-1. Set up the apparatus and explain to the students what they see. Tell them you are going to place the sheet of paper on the dish of water. The infrared camera measures the temperature.
-1. *What happens to the temperature of the paper?*
-   - Will remain the same
-   - Will decrease
-   - Will increase
-2. Perform the measurement. Read the temperature of the paper above the water and also of the part of the paper that falls beside the dish. Use the movable temperature spot on the touchscreen to measure the temperature of these parts of the paper.
-3. Now tell them that you are going to remove the paper from the dish and quickly turn it over. Measure the temperature of the underside of the paper.
-4. *What happens to the temperature of the part of the paper that was above the dish with water?*
-   - Will remain the same
-   - Will decrease
-   - Will increase
-5. Talk about the condensation and evaporation of water and how energy is needed and released respectively.
-6. Control questions: *Why do you blow on a bowl of soup to cool it down? A puddle of rainwater also evaporates even if it is not one hundred degrees Celsius outside. What can you say about the temperature of the puddle compared to the ambient temperature?*
-8. Perform the calculation of the number of layers of water molecules on the paper. See physical background.
+5. Set the distance (on the touchscreen) of the infrared camera to the correct value. Enter the emissivity value of paper (approximately 0.70) into the infrared camera.
 
 ```{figure} demo63_figure_2.jpg
 ---
@@ -71,11 +48,30 @@ width: 100%
 align: center
 name: demo63_fig2
 ---
-a. The surface of the paper on which water has condensed is clearly visible. On the edge of the paper, you see two water droplets where the water evaporates and causes a lower temperature. b. Cooling of the paper after turning.
+*a.* The surface of the paper on which water has condensed is clearly visible. At the edge of the paper, you see two water droplets where the water evaporates and causes a lower temperature.\
+*b.* Cooling of the paper due to evaporation.
 ```
 
+## Procedure
+Students already have knowledge of molecular theory and phase transitions.
+1. Set up the apparatus and explain to the students what they see. Tell them you are going to place the sheet of paper on the dish of water. The infrared camera measures the temperature.
+1. *What happens to the temperature of the paper?*\
+   A. The temperature will remain the same\
+   B. The temperature will decrease\
+   C. The temperature will increase
+2. Perform the measurement. Read the temperature of the paper above the water and also of the part of the paper that falls beside the dish. Use the movable temperature spot on the touchscreen to measure the temperature of these parts of the paper.
+3. Now tell them that you are going to remove the paper from the dish and quickly turn the paper. Measure the temperature of the bottom of the paper.
+4. *What happens to the temperature of the part of the paper that was above the dish with water?*\
+   A. The temperature will remain the same
+   B. The temperature will decrease
+   C. The temperature will increase
+5. Talk about the condensation and evaporation of water and how energy is needed and released respectively.
+6. Questions to check students' understanding: *Why do you blow on a bowl of soup to cool it down? A puddle of rainwater also evaporates even if it is not one hundred degrees Celsius outside. What can you say about the temperature of the puddle compared to the ambient temperature?*
+8. Perform the calculation of the number of layers of water molecules on the paper. See [physical background](demo63PB).
+
+(demo63PB)=
 ## Physics Background
-This demonstration is extensively described by {cite}`Xie2011`. The rise in temperature of the paper is caused by the condensation of water vapor from the dish underneath the paper. When the water molecules in the vapor condense, they release heat. The heat conducts through the thin paper and causes a temperature rise. The amount of water molecules condensing on the paper is so small that you barely feel moisture when you touch the paper, but it is enough to cause a temperature rise which is detected by the infrared camera.
+The rise in temperature of the paper is caused by the condensation of water vapor from the dish underneath the paper. When the water molecules in the vapor condense, they release heat. The heat conducts through the thin paper and causes a temperature rise. The amount of water molecules condensing on the paper is so small that you barely feel moisture when you touch the paper, but it is enough to cause a temperature rise which is detected by the infrared camera.
 
 This heating mechanism can be confirmed by holding the paper above the cup for a minute until it reaches thermal equilibrium with the surroundings and then removing the paper. IR images of the paper show that the temperature of the originally heated circular zone drops immediately after removal to below the ambient temperature. This can be explained by the water molecules that had condensed on the underside of the paper beginning to evaporate, resulting in rapid cooling of the paper.
 
@@ -117,7 +113,7 @@ Considering that not all the heat is released at once, the rate of water vapor d
 
 ```{tip}
 - Place the setup visibly on the desk. Project the measurement via the computer onto a screen or digital board. Ensure the temperature is easy to follow by, for example, directing a temperature spot of the camera at the spot to be measured. 
-- A water droplet on the edge of the paper will also be clearly visible with a lower temperature due to evaporation (see {numref}`Figure {number}<demo63_fig2>` a). 
+- A water droplet on the edge of the paper will also be clearly visible with a lower temperature due to evaporation (see {numref}`Figure {number}<demo63_fig2>`). 
 - After a few hours, the setup shows the paper has a lower temperature. Paper is porous, and the water molecules evaporate again at the surface of the paper. 
 - Hold the paper vertically above the dish as well to show condensation vertically. 
 ```

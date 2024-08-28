@@ -18,8 +18,6 @@
 ## Introduction
 Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar. A slightly altered version of that demonstration provides excellent opportunity to highlight some characteristics of how science works. For this demonstration you make use of two burning candles of different lengths, placed under the bell jar. 
 
-One option is to explain the setup and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg you to do the experiment in the same lesson. (In science, you often have to deal with uncertainties and experiments are frequently postponed.)
-
 ```{figure} NV14_figuur_1_300dpi.jpg
 ---
 width: 50%
@@ -27,6 +25,8 @@ align: center
 ---
 Two burning candles of different lengths inside a sealed glass jar.
 ```
+
+One option is to explain the setup and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg you to do the experiment in the same lesson. (In science, you often have to deal with uncertainties and experiments are frequently postponed.)
 
 ## Equipment
 - Two candles of different lengths in a stand (+/- 4/5 cm difference in length)
@@ -41,9 +41,9 @@ Set up the candles so they can easily fit under the bell jar and the bell jar ca
 1. Light one candle first.
 2. What will happen to the candle when I place it under the bell jar?
 3. Place the candle under the bell jar.
-    - *Why does the candle go out?*
+    - *Why does the flame dies?*
 4. Explain that oxygen is consumed while the candle is burning, producing carbon dioxide and water vapor.
-    - *How did you observe both effects inside the bell jar?* 
+    - *Are both effects inside the bell jar visible?* 
 5. Ensure the bell jar has a proper oxygen ratio again (blow into the bell jar or swing it around to get rid of the combustion gasses.).
 6. Tell the students that you will now place two candles of different lengths. Ask them which one will go out first and to explain why they think so.
 7. Perform the experiment.
@@ -51,6 +51,7 @@ Set up the candles so they can easily fit under the bell jar and the bell jar ca
 8. What do you expect when we do the experiment again? Do the experiment again.
 9. Did we expect the longer/shorter candle to go out first? What are possible explanations for the outcome? 
 10. For the various explanations, how can we verify whether that explanation might be right? 
+11. What will happen if we have a taller or wider jar? Will the result be the same?
 
 ## Physics Background
 There are two plausible explanations:
@@ -64,9 +65,4 @@ You can investigate which explanation is more accurate using CO$_2$ sensors and 
 - After burning the first candle, dry the inside of the bell jar to remove condensed water vapor.
 - Students associate the smoke from the candle when it goes out with the production of carbon dioxide. However, this is gaseous candle wax that sublimates. The evaporation of candle wax continues for a while. Only if you look very closely can you see the convection flow in the beginning, when the 'bell jar' is not yet over both candles. You see the flame of the upper candle move. At the top of the bell jar, you don't see condensed water vapor because the temperature of the top of the bell jar is very high.
 - You can also time the demonstrations twice and ask what causes the time difference.
-```
-
-## References
-```{bibliography}
-:filter: docname in docnames
 ```
