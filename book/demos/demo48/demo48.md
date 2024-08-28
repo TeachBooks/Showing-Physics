@@ -48,17 +48,6 @@ Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect
 Secure the luminosity sensor in a stand to keep it at the correct height above the lamp and prevent it from receiving too much or too little light.
 ```
 
-<!-- 
-```{figure} demo48_figure3.JPG
----
-width: 70%
-align: center
-name: demo48_fig3
----
-A tabletop set of fluorescent light can be used to investigate characteristics of this lamp.
-``` 
--->
-
 ## Procedure
 1. Point to the fluorescent lights at the ceiling, and ask students to sketch a graph of luminosity versus time. Is it constant or does it alter as function of time?
 2. Determine the frequency of the light from the fluorescent lights using the light sensor. Do not explain the exact frequency yet; this will come later in the demonstration. If you have a tabletop set available, you can show how the luminosity changes as function of the position (the luminosity is far less at both ends of the lamp).

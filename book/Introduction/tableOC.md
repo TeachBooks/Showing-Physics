@@ -1,20 +1,14 @@
-```{figure} ../figures/open.png
----
-width: 35%
-align: right
-```
-
 # Table of contents
 
-1. **Introduction**
+**Introduction**
     1. [About this book](../Introduction/About.ipynb)
     2. [Preface](../Introduction/Foreword.md)
     3. [Preface from the editor](../Introduction/Preface2.md)
     4. [About the authors](../Introduction/Authors.md)
     5. [NVON](../Introduction/NVON.md)
     6. [Python](../Introduction/Python%20summary.ipynb)
-    7. Table of contents
-2. **Pedagogy**
+    7. [Table of contents]()
+**Pedagogy**
     1. [Introduction](../Pedagogy/Introduction.md)
     2. [Nature of Science](../Pedagogy/Nos.md)
     3. [Argumentation](../Pedagogy/Argumentation.ipynb)
@@ -22,11 +16,121 @@ align: right
     5. [Predict Explain Observe Explain](../Pedagogy/PoE.md)
 
 **Demos on NOS**
+    1. [The returning can]()
+    2. [Introducing a particle model to explain the coloring of eggs]()
+    3. [Crookes’ radiometer]()
+    4. [Cylinder Puzzle]()
+    5. [Magic, trick or physics?]()
+    6. [Roll and Stop]()
+    7. [Mysterious fountain]()
 
 **Demos on Scientific Inquiry**
+    1. [Can it be air?]()
+    2. [Does Van de Graaff not like a shower?]()
+    3. [Why does the water rise?]()
+    4. [Boyle’s law]()
+    5. [Investigating a devastating Flame]()
+    6. [A battle between two bottles]()
+    7. [Flamecooler]()
+    8. [Trapped candles]()
+    9. [Speed of light in a liquid]()
+    10. [Powerful Balloon]()
+    11. [Determination of g]()
+    12. [On a roll]()
+
 
 **Demos for conceptual development**
+*Wave, optics, quantum*
+    1. [Light in darkness]()
+    2. [Reflection]()
+    3. [Making Einstein young again]()
+    4. [Surprising infra-red investigations]()
+    5. [LEDs and photons]()
+    6. [Writing with a laser using phosphorescence]()
+    7. [Shadow of a flame 1]()
+    8. [Shadow of a flame 2]()
+    9. [Standing wave with an electric toothbrush]()
+    10. [Physics of the panflute]()
+    11. [Ranking the ‘stars’]()
+    12. [Singing rod]()
+    13. [Bouncing ball in a tube]()
+    14. [Fluorescent olive oil]()
+    15. [Hot spots in the microwave]()
+    16. [Strange shadows]()
+    17. [Cold radiation]()
+    18. [Captured laser beam]()
+
+*Electricity Magnetism*
+    1. [Merry-go-around of floating candles]()
+    2. [Blowing out a light bulb]()
+    3. [Measuring charge]()
+    4. [Alternating voltage across a lamp]()
+    5. [Lorentz force on charged particles]()
+    6. [Slow bulbs]()
+    7. [Induction tubes]()
+    8. [High voltage]()
+
+*Mechanics*
+    1. [Newton’s First Law]()
+    2. [Falling faster than g]()
+    3. [Rotational inertia]()
+    4. [Tug-of-War]()
+    5. [Stick-slip motion]()
+    6. [Self-propelling car]()
+    7. [Does the magnet challenge gravity?]()
+    8. [Who dares?]()
+    9. [Dropping balls and bottles]()
+    10. [Feeling physics with your own body!]()
+    11. [Upward and downward force]()
+    12. [Twice as much isn’t twice as big]()
+    13. [Floating pearls]()
+    14. [Tension in a pendulum]()
+    15. [Rotating balloon]()
+    16. [Colliding with Newton’s third law]()
+    17. [Up and down the hill]()
+    18. [Rotating cubes]()
+
+*Thermodynamics*
+    1. [Making a perfect cappuccino]()
+    2. [Playing with density]()
+    3. [Ocean currents]()
+    4. [Rich boiling phenomena]()
+    5. [Boiling by cooling]()
+    6. [Miscommunicating vessels]()
+    7. [Cool cans]()
+    8. [Condensation heat in infrared]()
+    9. [Cooling metal spheres]()
+    10. [Black and white]()
+
+*Else*
+    1. [Magic Memory Balls]()
+    2. [Extinguishing without water]()
+    3. [Air is not nothing: weighing air]()
+    4. [Two springs, series or parallel?]()
+    5. [Force and motion with a bowling ball]()
+    6. [Upward dripping]()
+    7. [Curve ball]()
+    8. [Colliding balls]()
+    9. [A balloon that can do everything]()
+    10. [Transit of a planet]()
+    11. [A light bulb as hot as the sun?]()
+    12. [DNA]()
+    13. [Gauss’ rifle]()
+    14. [Falling spring]()
+    15. [Radioactive decay - A simulation]()
 
 **Demos for special occasions**
+    1. [Spectacular spectrum]()
+    2. [Making a slanting tower stacking blocks]()
+    3. [Magic with pendulums]()
+    4. [Falling candle]()
+    5. [Boiling without heating in a vacuum]()
+    6. [Stick on wine glass]()
+    7. [Cloud formation]()
+    8. [Optics with LEDs]()
+    9. [Spinning circles in a wine glass]()
+    10. [Pulling a spool]()
+    11. [Implosion]()
 
 **References**
+    1. [Literature](../references.md)

@@ -1,9 +1,3 @@
-```{figure} ../../figures/ready.png
----
-width: 35%
-align: right
-```
-
 # Cold radiation
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

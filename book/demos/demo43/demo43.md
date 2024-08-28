@@ -49,7 +49,6 @@ First try yourself how you can influence the movement of a bowling ball with the
 Students can gain similar experiences with a heavily loaded supermarket cart. There too you feel how difficult it is to change direction and that the new direction is a superposition of the direction of the original speed and the applied force.
 ```
 
-<!--
 ```{figure} demo43_fig1.jpg
 ---
 width: 50%
@@ -58,7 +57,6 @@ name: demo43_fig1
 ---
 As the ball is heavy, friction hardly plays a role allowing to investigate Newton's laws of motion.
 ```
--->
 
 ## Procedure
 During the demonstration, we follow various steps.
