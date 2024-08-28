@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Flamecooler
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -17,7 +11,7 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 8, extension availabe for grade 11 and above</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">from grade 8, extension available for grade 11 and above</td>
     </tr>
 </table>
 
@@ -41,10 +35,8 @@ A burning candle is an everyday phenomenon, but the physical and chemical effect
 width: 100%
 align: center
 ---
-The visible flame of a candle disappears near a copper spiral.\ 
-_Photos by Aike Stortelder._
+The visible flame of a candle disappears near a copper spiral.
 ```
-
 
 ## Materials Needed
 - Approximately 20 cm long, thick (Ø 1 to 2 mm) uninsulated copper wire
@@ -58,7 +50,7 @@ Make a 1-2 cm long spiral from the copper wire by wrapping it around a pencil. T
 Depending on the candle and the spiral, the experiment will be slightly different for everyone. Proper observation is therefore important.
 1. Light the candle. 
 2. Slowly bring the spiral from above over the candle flame. Do not touch the wick with the spiral. 
-    -  *Write down what you observe as precisely as possible. What surprises you?* 
+    - *Write down what you observe as precisely as possible. What surprises you?* 
     - The visible flame will disappear at the spiral. If the spiral is loosely wound, you will still see a thin yellow flame in the center and a blue one around it. In other cases, the flame will go out. If smoke still rises, you can relight the flame above the spiral.
 4. Alone or in pairs, explain what you see. Write down your hypothesis. 
 5. Collect the answers and ask for a substantiation of their hypotheses. This way, students learn to make connections between physical concepts and their own experiences. Do not reject any explanation. 
@@ -84,7 +76,6 @@ align: center
 ---
 Figure 2a. Temperature measured in (a) the invisible part and (b) the visible part of the flame.
 ```
-
 
 ## References
 ```{bibliography}

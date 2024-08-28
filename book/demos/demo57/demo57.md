@@ -71,7 +71,9 @@ width: 100%
 align: center
 name: demo57_fig2
 ---
-Left: The water jet bends towards the convex surface. Right: A ping pong ball is pulled into the water jet.
+The Coandă effect explained using a wat jet.\
+*Left:* The water jet bends towards the convex surface.\ 
+*Right:* A ping pong ball is pulled into the water jet.
 ```
 
 The rolled-up A4 paper tube rolls down the plank. It leaves the plank with both velocity and rotation. Because of its speed, the cylinder experiences a kind of counter-wind, just like a cyclist feels the wind in their face when riding fast. The air flowing past is deflected more on the side of the paper cylinder that rotates with the air than on the other side. The air experiences an upward force, and the cylinder experiences an equal and opposite force downward. The cylinder experiences a force perpendicular to the axis of rotation downward. See {numref}`Figure {number}<demo57_fig3>`. The ball rolling down the slope also experiences this force. However, in comparison to the gravitational force on the rolling object, this force is too small to significantly alter its trajectory.

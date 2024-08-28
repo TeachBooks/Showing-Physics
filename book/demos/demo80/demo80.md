@@ -56,7 +56,7 @@ width: 90%
 align: center
 name: demo80BBD
 ---
-Black body spectrum, figure taken from <a href="https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg" target="_blank">https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg</a>
+Black body spectrum, figure taken from <a href="https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg" target="_blank">https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg</a> (public domain).
 ```
 
 ## Physics background

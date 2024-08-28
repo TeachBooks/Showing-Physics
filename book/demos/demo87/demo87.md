@@ -29,7 +29,7 @@ width: 70%
 align: center
 name: demo87_fig1
 ---
-The green laser beam appears to turn orange in olive oil. (Photo: Rutger Ockhorst.) 
+The green laser beam appears to turn orange in olive oil. 
 ```
 
 ## Equipment

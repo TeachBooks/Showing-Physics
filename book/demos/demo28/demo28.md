@@ -46,7 +46,7 @@ name: demo28_figure4
 width: 50%
 align: center
 ---
-Gulfstream, figure obtained from <a href="https://www.flickr.com/photos/gridarendal/31551868273" target="_blank">https://www.flickr.com/photos/gridarendal/31551868273</a>
+Gulfstream, figure obtained from <a href="https://www.flickr.com/photos/gridarendal/31551868273" target="_blank">https://www.flickr.com/photos/gridarendal/31551868273</a> (CC BY-NC-SA 2.0)
 ```
 
 ## Equipment
