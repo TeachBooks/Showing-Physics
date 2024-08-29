@@ -15,7 +15,7 @@
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">heating and expansion of air, pressure, combustion</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heating and expansion of air, pressure, combustion</td>
     </tr>
 </table>
 
@@ -107,6 +107,11 @@ With three candles instead of one, the final water level is higher {cite:p}`liem
 Hold the can in the illustration of explanation 3 with tongs or oven mitts.
 ```
 
+## References
+```{bibliography}
+:filter: docname in docnames
+```
+
 ## Worksheet
 
 ``` {admonition} Why Does the Water Rise?
@@ -151,9 +156,4 @@ Instead of presenting students with possible explanations, you can also have the
 If you do this experiment with three candles instead of one, the final water level rises higher {cite:p}`liem1991invitations`. Which of the explanations does this observation agree with?
 
 It might be worth considering placing sensors in the glass to record the temperature and pressure changes during the process, and using video measurement to establish the volume changes. This might quantitatively determine which form of the ideal gas law best describes this process. This has not (yet) been tested.
-```
-
-## References
-```{bibliography}
-:filter: docname in docnames
 ```

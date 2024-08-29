@@ -11,14 +11,12 @@ A teacher demonstrating [stability](../demos/demo12/demo12.md)
 
 Where most books on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
 
-
-
 ## What can demonstrations accomplish?
 Almost everyone who is enthusiastic about STEM education remembers a great demonstration. One that sticks in the memory. One that you would like to share because you enjoyed it so much yourself. But did you learn anything from it? Do physics concepts become better anchored? An article in the *American Journal of Physics* states:
 
-> Despite popular beliefs to the contrary, students learn little, if anything, from traditionally presented classroom demonstrations. {cite:p}`crouch2004classroom`
+> Despite popular beliefs to the contrary, students learn little, if anything, from traditionally presented classroom demonstrations {cite:p}`crouch2004classroom`.
 
-So... should we abandon those demonstrations? That at least would save time... a lot of time. {cite:t}`crouch2004classroom` fortunately also reports that you can significantly increase the learning effect of demonstrations. To do so, one important part of your demonstration may involve asking your students to [predict the result](PoE). Meaningful predictions of the results (requiring some understanding of the phenomenon) followed by their observation is reported to lead to increased learning. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether students learn anything from a demonstration is then much less in question.
+So... should we abandon those demonstrations? That at least would save time... a lot of time. {cite:t}`crouch2004classroom` fortunately also report that you can significantly increase the learning effect of demonstrations. To do so, one important part of your demonstration may involve asking your students to [predict the result](PoE). Meaningful predictions of the results (requiring some understanding of the phenomenon) followed by their observation is reported to lead to increased learning. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether students learn anything from a demonstration is then much less in question.
 
 ```{figure} ../demos/demo98/demo98_figure2.JPG
 ---

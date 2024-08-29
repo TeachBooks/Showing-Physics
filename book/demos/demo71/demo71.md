@@ -20,8 +20,6 @@
     </tr>
 </table>
 
-An idea from {cite:t}`lederman1998avoiding`.
-
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
@@ -39,7 +37,9 @@ The video is a little different from the performance described below. In the act
 ```
 
 ## Introduction
-Demonstrate a surprising phenomenon and use it to develop understanding of the Nature of Science. It's about the journey, not the destination.
+Demonstrate a surprising phenomenon and use it to develop understanding of the Nature of Science. It's about the journey, not the destination. 
+
+This demonstration is an idea from {cite:t}`lederman1998avoiding`.
 
 ## Equipment
 - 2 large beakers

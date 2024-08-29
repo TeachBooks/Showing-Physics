@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Colliding balls
 <span style="font-size: 25px; color: gray;">Conversion of kinetic energy to heat</span>
 

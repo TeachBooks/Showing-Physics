@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Roll and Stop
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -43,12 +37,11 @@ Fill the cylinder completely with the liquid and add the lead weight (wash your 
 3. Discuss the different ideas centrally and write them on the board.
 4. Have students come up with an experiment for each of the ideas (hypotheses) to test them. But remember, opening the cylinder is not allowed.
 5. Perform the experiments when possible. Is the hypothesis confirmed or not? Are there other hypotheses that are also ruled out as a result of the devised and performed experiment?
-6. Control question: instead of testing students' knowledge, you can use metacognitive reflection here. Reflection should make it clearer for them what they have learned and why it is relevant.
-7. Discuss and write up with the class what you have learned about science and about how science works. Together forward categorize and consolidate the ansers: this is what they should remember from this lesson.
+6. Control question: instead of testing students' knowledge, you can use meta-cognitive reflection here. Reflection should make it clearer for them what they have learned and why it is relevant.
+7. Discuss and write up with the class what you have learned about science and about how science works. Together forward categorize and consolidate the answers: this is what they should remember from this lesson.
 
 
-Depending on the desired outcome, one or more aspects of NoS can be discussed, see <a href="https://www.nsta.org/nstas-official-positions/nature-science" target="_blank">https://www.nsta.org/nstas-official-positions/nature-science</a> and the introduction on page [**Insert page**].
-
+Depending on the desired outcome, one or more aspects of NoS can be discussed, see <a href="https://www.nsta.org/nstas-official-positions/nature-science" target="_blank">https://www.nsta.org/nstas-official-positions/nature-science</a> and our [introduction](../../Pedagogy/Nos.md).
 
 ## Physics background
 Due to the viscous liquid, the piece of lead will not remain at the bottom of the cylinder but stay slightly behind, see figure 1. This results in a torque causing the cylinder to slow down and momentarily stop rolling. The lead sinks back to the bottom of the cylinder, allowing the cylinder to roll a bit further again.
@@ -59,9 +52,4 @@ width: 50%
 align: center
 ---
 The setup consists of a cylinder filled with a viscous liquid containing a piece of (fish) lead.
-```
-
-## References
-```{bibliography}
-:filter: docname in docnames
 ```

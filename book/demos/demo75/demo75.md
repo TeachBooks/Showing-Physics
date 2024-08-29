@@ -1,9 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
 # Cooling metal spheres
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

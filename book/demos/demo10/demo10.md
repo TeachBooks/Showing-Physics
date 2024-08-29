@@ -16,7 +16,7 @@
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Charge, electrostatic induction,Coulomb force</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Charge, electrostatic induction, Coulomb force</td>
     </tr>
 </table>
 

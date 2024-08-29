@@ -1,10 +1,3 @@
-```{figure} ../../figures/checked.png
----
-width: 35%
-align: right
-```
-
-
 # Tension in a pendulum
 
 <table style="width: 100%; border-collapse: collapse; border: none;">

@@ -32,9 +32,11 @@
     </div>
 </div>
 
-This demonstration is described earlier in {cite:t}`lederman1998avoiding`.
+
 ## Introduction
-This activity involves no physics but demonstrates a model of how physicists (and other scientists) work and what they try to achieve. Students take on the role of scientists to describe and explain confusing and astonishing observations. Then, they reflect on them.
+This activity involves no physics but demonstrates a model of how physicists (and other scientists) work and what they try to achieve. Students take on the role of scientists to describe and explain confusing and astonishing observations. Then, they reflect on them. 
+
+This demonstration is described earlier in {cite:t}`lederman1998avoiding`.
 
 ## Equipment
 * Opaque cylinder with opaque lids on both sides; 
