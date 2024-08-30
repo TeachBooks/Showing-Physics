@@ -22,7 +22,7 @@
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
-            src="https://www.youtube.com/embed/Y9JK9J6-CUA"
+            src="https://www.youtube.com/embed/8hTPYkltneI?si=AQajoukiTaT-gLeU"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -49,7 +49,7 @@ Boiling might seem ordinary at first glance, but there's a lot to observe and ex
 - Matches or lighter
 - Safety goggles
 
-```{figure} demo36_figure1.png
+```{figure} demo36_figure1.jpg
 ---
 width: 70%
 align: center
@@ -88,6 +88,14 @@ Phase| Predict                                | Explain                         
 
 ## Physics background
 When the Erlenmeyer flask is heated, the air inside it expands. This means you see large bubbles in the beaker. As the water becomes hot, proportionately more water vapor enters the air at the top of the Erlenmeyer flask. The air bubbles in the beaker become smaller because the water vapor part condenses as soon as it arrives in the beaker. When the water in the Erlenmeyer flask boils, the last air is pushed  through the tube (small bubbles) and replaced by water vapor. This condenses along the way through the tube. There are now much smaller bubbles or no bubbles anymore.
+
+```{figure} demo36_figure2.jpg
+---
+width: 70%
+align: center
+---
+The flask is fully filled with water at the end of the demonstration. 
+```
 
 After the burner is turned off, the boiling stops; the water vapor in the Erlenmeyer flask condenses quickly. Due to the sharp in pressure, the water starts to boil again. In addition, cold water is drawn in from the beaker. The Erlenmeyer flask fills up easily. In this phase, large forces act on the Erlenmeyer flask. 
 
