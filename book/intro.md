@@ -7,7 +7,7 @@ align: center
 ---
 ```
 
-In this book we present a selection of the 99 'best', most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:p}`showdefysica1,showdefysica2,showdefysica3` as published by the <a href="http://nvon.nl" target="_blank">Dutch Association for Science Teachers</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! Moreover, we include videos and opportunities to live code and use python simulations without the need for any software installation.
+In this book we present a selection of the 99 'best', most beautiful physics demonstrations from the Dutch book series "Show*de*Fysica" {cite:p}`showdefysica1,showdefysica2,showdefysica3` as published by the <a href="http://nvon.nl" target="_blank">Dutch Association for Science Education</a>. Where most physics demonstration books cover a large range of demonstrations, this book includes also various strategies to make the most of these! Moreover, we include videos and opportunities to live code and use python simulations without the need for any software installation.
 
 The demonstrations are structured using the four categories:
 * Demonstrations on [nature of science](./demos/NOSdemos.md)

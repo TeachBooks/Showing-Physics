@@ -13,7 +13,7 @@ Part of the team discussing one of the potential demonstrations of the third edi
 ```
 **Leo te Brinke**
 
-Leo te Brinke (1954) obtained his MO-B in physics from the Catholic University of Nijmegen. Since then he has been physics teacher at several schools for havo (vocational) and vwo (pre-university), and in adult education. He was one of the founders of the Scan and Pulsar school  textbooks for physics. At NOT-Teleac he contributed to the video series Milestones in Physics and Engineering and Science Bank.
+Leo te Brinke (1954) obtained his MO-B in physics from the Catholic University of Nijmegen. Since then he has been physics teacher at several schools for havo (senior general secondary education) and vwo (pre-university), and in adult education. He was one of the founders of the Scan and Pulsar school  textbooks for physics. At NOT-Teleac he contributed to the video series Milestones in Physics and Engineering and Science Bank.
 
 
 ```{figure} authors/auth_Ed.jpg
@@ -22,7 +22,7 @@ Leo te Brinke (1954) obtained his MO-B in physics from the Catholic University o
 ```
 **Ed van den Berg** 
 
-Ed van den Berg (1951) studied physics at the VU and received his PhD in Science Education from the University of Iowa (USA). He worked as a teacher/developer in teacher training programs in Indonesia, the Philippines and in the Netherlands. Until recently, he was a lecturer in nature and technology education at the Knowledge Center Domain of Education and Education of the Hogeschool van Amsterdam and a lecturer in science didactics at the teacher training program of the VU. Among other things, he was involved in the Modern Physics and New Physics projects and published over 300 articles in journals for teachers at home and abroad.
+Ed van den Berg (1951) studied physics at the Vrije Universiteit Amsterdam (VU) and received his PhD in Science Education from the University of Iowa (USA). He worked as a teacher/developer in teacher training programs in Indonesia, the Philippines and in the Netherlands. Until recently, he was a lecturer in nature and technology education at the Knowledge Center Domain of Education and Education of the Hogeschool van Amsterdam and a lecturer in science didactics at the teacher training program of the VU. Among other things, he was involved in the Modern Physics and New Physics projects and published over 300 articles in journals for teachers at home and abroad.
 
 
 ```{figure} authors/auth_Peter.jpg
@@ -31,7 +31,7 @@ Ed van den Berg (1951) studied physics at the VU and received his PhD in Science
 ```
 **Peter Dekkers** *(editor)*
 
-Peter Dekkers (1960) worked as a physics teacher, teacher trainer and physics education teacher in Botswana, South Africa and The Netherlands, at TU Delft since 2014. He did his Master in Foundations of Physics in Utrecht and received his PhD in Physics Education from the Vrije Universiteit Amsterdam. He did research on conceptual development, the role of practical work and Nature of Science. 
+Peter Dekkers (1960) worked as a physics teacher, teacher trainer and physics education teacher in Botswana, South Africa and The Netherlands, at TU Delft since 2014. He did his Master in Foundations of Physics in Utrecht and received his PhD in Physics Education from the VU. He did research on conceptual development, the role of practical work and Nature of Science. 
 
 ```{figure} authors/auth_Ineke.jpg
 :figclass: margin
@@ -66,7 +66,7 @@ Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has b
 ```
 **Wim Sonneveld** 
 
-Wim Sonneveld (1955) studied Applied Physics at TU Delft. He has taught physics since 1976. He later also taught mathematics and the transdisciplinary subjects ANW (General Sciences)and NLT (Nature, Life, Technology). From 2000 he has  been a teacher trainer and physics teacher at TU Delft. He has been a member of the NiNa committee that established the current physics examination program. He was  active in the curriculum innovation projects Salvo and  Getting Practical. As an author, Wim has many publications to his name and he is  final editor of the physics method Overal Natuurkunde for the second phase.
+Wim Sonneveld (1955) studied Applied Physics at TU Delft. He has taught physics since 1976. He later also taught mathematics and the transdisciplinary subjects ANW (General Sciences)and NLT (Nature, Life, Technology). From 2000 he has  been a teacher trainer and physics teacher at TU Delft. He has been a member of the NiNa committee that established the current physics examination program. He was  active in the curriculum innovation projects Salvo and  Getting Practical. As an author, Wim has many publications to his name and he is final editor of the physics method Overal Natuurkunde for the second education.
 
 
 ```{figure} authors/auth_Wouter.jpg
@@ -84,7 +84,7 @@ Wouter Spaan (1982) studied astronomy at Leiden University. That choice of study
 ```
 **Kirsten Stadermann**
 
-Kirsten Stadermann (1966) studied physics and mathematics at the universities of MÃ¼nster (D), Cologne (D) and Leiden. She started as a developer of FIR ring lasers at the Max-Planck-Institut for Radioastronomy. She was a physics teacher for more than 20 years, became physics teacher of the year, participated in 'Science on Stage' and dedicated herself to the STEM top class (amongst others). She received her PhD from the RUG on the connection between Quantum Physics and Nature of Science in physics classes. She then became a physics teacher at the University of Flensburg (D) and Twente. Today at UT, Kirsten is affiliated with the ELAN teacher training program and the TNW faculty. 
+Kirsten Stadermann (1966) studied physics and mathematics at the universities of Münster (D), Cologne (D) and Leiden. She started as a developer of FIR ring lasers at the Max-Planck-Institut for Radioastronomy. She was a physics teacher for more than 20 years, became physics teacher of the year, participated in 'Science on Stage' and dedicated herself to the STEM top class (amongst others). She received her PhD from the RUG on the connection between Quantum Physics and Nature of Science in physics classes. She then became a physics teacher at the University of Flensburg (D) and Twente. Today at UT, Kirsten is affiliated with the ELAN teacher training program and the TNW faculty. 
 
 
 ```{figure} authors/auth_Norbert.jpg
@@ -102,7 +102,7 @@ Norbert van Veen (1976) obtained his Physics teaching qualifications  at the Hog
 ```
 **Maarten van Woerkom**
 
-Maarten van Woerkom (1944) studied theoretical solid state physics at the Catholic University of Nijmegen. After his studies he was a physics teacher at HBS-b, havo and vwo in Almelo and Groenlo. In that period he was a member of the construction group of final exam papers for  vwo (higher secondary education) and subsequently for ten years a member of the central exam committee developing assignments (CEVO). For his contributions to Dutch physics education he received the Minnaert Prize in 1994. He was a physics teacher at the University of Twente for ten years.
+Maarten van Woerkom (1944) studied theoretical solid state physics at the Catholic University of Nijmegen. After his studies he was a physics teacher at HBS-b, havo and vwo in Almelo and Groenlo. In that period he was a member of the construction group of final exam papers for vwo and subsequently for ten years a member of the central exam committee developing assignments (CEVO). For his contributions to Dutch physics education he received the Minnaert Prize in 1994. He was a physics teacher at the University of Twente for ten years.
 
 
 **Contributors**\
