@@ -38,12 +38,13 @@ Original idea by {cite:t}`Biezeveld`.
 ## Introduction
 What is more romantic than a darkened physics classroom with all students lined up around the demonstration table with candles which move like boats in the water, powered by an invisible force? 
 
-```{figure} demo19_figure3.png
+```{figure} demo19_figure2.jpg
 ---
 width: 50%
 align: center
+name: demo19_fig2
 ---
-Schematic of the setup with copper ring attached to the +, the copper button in the center connected to the ground, and a 'homogenous' magnetic field. Hence, the candles will move clockwise.
+The setup with the magnets beneath the bath, the copper ring in the water, the copper button in the middle and two connection wires.
 ```
 
 ## Equipment
@@ -62,13 +63,12 @@ Schematic of the setup with copper ring attached to the +, the copper button in 
 3. Prepare the set-up right before conducting the demonstration and try out whether the candles float properly.
 4. Make a diagram of the set-up on the board.
 
-```{figure} demo19_figure2.JPG
+```{figure} demo19_figure3.png
 ---
 width: 50%
 align: center
-name: demo19_fig2
 ---
-The setup with the magnets beneath the bath, the copper ring in the water, the copper button in the middle and two connection wires.
+Schematic of the setup with copper ring attached to the +, the copper button in the center connected to the ground, and a 'homogenous' magnetic field. Hence, the candles will move clockwise.
 ```
 
 ## Procedure
