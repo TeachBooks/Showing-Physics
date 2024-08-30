@@ -21,19 +21,30 @@
     </tr>
 </table>
 
-```{figure} demo19_figure1.JPG
----
-width: 50%
-align: center
-name: demo19_fig1
----
-The setup with the magnet beneath the bath, the copper ring in the water, the copper button in the middle and two connection wires.
-```
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/KCvmLewtMH8?si=FQUtX7N5HAz5rwAW"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 Original idea by {cite:t}`Biezeveld`.
 
 ## Introduction
 What is more romantic than a darkened physics classroom with all students lined up around the demonstration table with candles which move like boats in the water, powered by an invisible force? 
+
+```{figure} demo19_figure3.png
+---
+width: 50%
+align: center
+---
+Schematic of the setup with copper ring attached to the +, the copper button in the center connected to the ground, and a 'homogenous' magnetic field. Hence, the candles will move clockwise.
+```
 
 ## Equipment
 * A transparent container or basin;
@@ -45,19 +56,20 @@ What is more romantic than a darkened physics classroom with all students lined 
 * Matches or a lighter;
 * A bit of salt to dissolve in the water and make the water conductive.
 
-```{figure} demo19_figure2.jpg
+## Preparation
+1. Make a hole in the middle of the block of copper which would make a tight fit with a standard electric cable. The ring and the block constitute the electrodes in the water. One is connected with the + and the other with the - of the power source.
+2. Use a strong magnet with a large flat surface ({numref}`Figure {number} <demo19_fig2>`) which generates a vertical magnetic field in the container or basin which is put on top of the magnet. The surface area of the magnet should be at least as big as the area of the ring. Strong and reasonably priced magnets are available from [www.supermagnete.com](http://www.supermagnete.com) One could also combine several smaller flat magnets and place them on an iron base.
+3. Prepare the set-up right before conducting the demonstration and try out whether the candles float properly.
+4. Make a diagram of the set-up on the board.
+
+```{figure} demo19_figure2.JPG
 ---
 width: 50%
 align: center
+name: demo19_fig2
 ---
-Schematic of the setup with the voltage source, ring and copper button. The bath is drawn with a dotted line, and a magnet beneath it.
+The setup with the magnets beneath the bath, the copper ring in the water, the copper button in the middle and two connection wires.
 ```
-
-## Preparation
-1. Make a hole in the middle of the block of copper which would make a tight fit with a standard electric cable. The ring and the block constitute the electrodes in the water. One is connected with the + and the other with the - of the power source.
-2. Use a strong magnet with a large flat surface ({numref}`Figure {number} <demo19_fig1>`) which generates a vertical magnetic field in the container or basin which is put on top of the magnet. The surface area of the magnet should be at least as big as the area of the ring. Strong and reasonably priced magnets are available from [www.supermagnete.com](http://www.supermagnete.com) One could also combine several smaller flat magnets and place them on an iron base.
-3. Prepare the set-up right before conducting the demonstration and try out whether the candles float properly.
-4. Make a diagram of the set-up on the board.
 
 ## Procedure
 1.  Invite the students to line up around the demonstration table. Point out the different components of the set-up without telling them what they are going to see. Then light the candles, ask a student to switch off the lights, power the set-up and see .....!
