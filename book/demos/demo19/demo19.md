@@ -40,7 +40,7 @@ What is more romantic than a darkened physics classroom with all students lined 
 
 ```{figure} demo19_figure2.jpg
 ---
-width: 50%
+width: 90%
 align: center
 name: demo19_fig2
 ---
