@@ -14,7 +14,7 @@ parts:
     - file: Introduction/Authors      #checked, add subauthors
     - file: Introduction/NVON
     - file: Introduction/Python summary
-    - file: Introduction/tableOC
+    # - file: Introduction/tableOC
   
   - caption: Pedagogy
     numbered: 2

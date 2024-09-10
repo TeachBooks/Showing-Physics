@@ -74,6 +74,8 @@ If the frequency of the stroboscope is the same as the frequency of dripping wat
 
 ```{tip}
 Phyphox can be used to determine the frequency of the water droplets, you can use the acoustic chronometer for this. 
+
+There are some marvelous [video's available](https://www.youtube.com/watch?v=LdEbyvUOlsg) on this topic.
 ```
 
 Each flash of the stroboscope corresponds to one frame of the film. You are sampling the motion.

@@ -40,7 +40,7 @@ The setup with a plastic test tube rack to place the spheres on.
 - Ladle
 - Tea towel.
 
-This description uses Coach 7 as measurement software. The [measurement file](./demo75coach.cma7) using this software is.
+This description uses [Coach 7](https://cma-science.nl/coach7_desktop_downloads_en) as measurement software. The [measurement file](./demo75coach.cma7) using this software is.
 
 ## Preparation
 1. Set up a measurement setup as shown in Figures {numref}`{number}<fig:demo75_setup1>` and {numref}`{number}<fig:demo75_setup2>`.

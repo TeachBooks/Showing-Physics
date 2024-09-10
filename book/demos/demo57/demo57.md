@@ -96,7 +96,7 @@ align: center
 name: demo57_fig2
 ---
 The Coandă effect explained using a wat jet.\
-*Left:* The water jet bends towards the convex surface.\ 
+*Left:* The water jet bends towards the convex surface.\
 *Right:* A ping pong ball is pulled into the water jet.
 ```
 

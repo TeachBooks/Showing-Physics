@@ -40,6 +40,15 @@ How can you experience force and motion in person without too much interference 
 * Broomstick 
 * Large empty space (hallway, gym)
 
+```{figure} demo43_fig1.png
+---
+width: 50%
+align: center
+name: demo43_fig2
+---
+A track including a pole to experience how 'easy' it is to make turns.
+```
+
 ## Preparation
 Be careful to remove any objects that are of value and can break! A rolling bowling ball can cause damage!
 
@@ -98,8 +107,7 @@ some caption
 
 **9. Students work in pairs to formulate the rules about the influence of forces on the movement of the bowling ball.**
 
-**10. Checking students' understanding**\
-Memphis is standing 10 meters in front of the center of an open goal. He receives a hard cross from Bergwijn's left and hits it exactly at right angles, perpendicular to the direction of travel. Explain with a drawing and reasoning why the ball might not go into the goal.
+A question to check students' understanding: Memphis is standing 10 meters in front of the center of an open goal. He receives a hard cross from Bergwijn's left and hits it exactly at right angles, perpendicular to the direction of travel. Explain with a drawing and reasoning why the ball might not go into the goal.
 
 
 

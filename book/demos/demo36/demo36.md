@@ -97,7 +97,7 @@ align: center
 The flask is fully filled with water at the end of the demonstration. 
 ```
 
-After the burner is turned off, the boiling stops; the water vapor in the Erlenmeyer flask condenses quickly. Due to the sharp in pressure, the water starts to boil again. In addition, cold water is drawn in from the beaker. The Erlenmeyer flask fills up easily. In this phase, large forces act on the Erlenmeyer flask. 
+After the burner is turned off, the boiling stops; the water vapor in the Erlenmeyer flask condenses quickly. Due to the sharp drop in pressure, the water starts to boil again. In addition, cold water is drawn in from the beaker. The Erlenmeyer flask fills up easily. In this phase, large forces act on the Erlenmeyer flask. 
 
 ```{tip}
 A complete description (Dutch) can be found <a href="https://www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c" target="_blank">here</a>.
