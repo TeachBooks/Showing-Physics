@@ -54,7 +54,7 @@ Depending on the candle and the spiral, the experiment will be slightly differen
     - The visible flame will disappear at the spiral. If the spiral is loosely wound, you will still see a thin yellow flame in the center and a blue one around it. In other cases, the flame will go out. If smoke still rises, you can relight the flame above the spiral.
 4. Alone or in pairs, explain what you see. Write down your hypothesis. 
 5. Collect the answers and ask for a substantiation of their hypotheses. This way, students learn to make connections between physical concepts and their own experiences. Do not reject any explanation. 
-    - Control question: *Think of an experiment to test your hypothesis.*
+    - A question to check students' understanding: *Think of an experiment to test your hypothesis.*
 
 ## Physics Background
 ### For age 10-12:
@@ -71,8 +71,9 @@ That the flame in the coil can turn blue is surprising to many because we know f
 ---
 width: 80%
 align: center
+name: demo60_fig2
 ---
 A measurement of the temperature in (a) the invisible part and (b) the visible part of the flame.
 ```
 
-In figures 2a and 2b, you see an attempt to measure the temperature by holding a thermocouple in different parts of the flame: The actual temperature of the flame will be higher than the indicated value because the temperature sensor itself also conducts heat and therefore causes cooling. It is clear that the yellow part of the flame is hotter than the transparent part.
+In {numref}`Figure {number} <demo60_fig2>`, you see an attempt to measure the temperature by holding a thermocouple in different parts of the flame: The actual temperature of the flame will be higher than the indicated value because the temperature sensor itself also conducts heat and therefore causes cooling. It is clear that the yellow part of the flame is hotter than the transparent part.

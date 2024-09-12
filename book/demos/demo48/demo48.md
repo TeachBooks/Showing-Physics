@@ -41,6 +41,15 @@ The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 * Educational science software or an oscilloscope
 * Optional: table top set of fluorescent light, see {numref}`Figure {number}<demo48_fig3>`
 
+```{figure} demo48_figure3.jpg
+---
+width: 70%
+align: center
+name: demo48_fig3
+---
+Optionally one can do measurement on a fluorescent light.
+```
+
 ## Preparation
 Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect the voltage and luminosity sensors to your measurement device. Ensure the digital readings can be seen by all students. Test the luminosity sensor and adjust its distance from the lamp so that the measured luminosity is within the sensor's range. Set a trigger condition to enhance the display of both signals.
 

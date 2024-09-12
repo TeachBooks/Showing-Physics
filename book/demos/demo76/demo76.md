@@ -56,7 +56,7 @@ For each prediction, ask a student that made it to explain, and do so for each o
 3. *Why does the balloon sink first?*
 4. *When does the balloon start to hover?*
 5. *Why does the balloon eventually float?*
-6. Control question: *What can you say about the (average) temperature of the water inside the balloon when it hovers?* 
+6. A question to check students' understanding: *What can you say about the (average) temperature of the water inside the balloon when it hovers?* 
     1. It is higher than the temperature of the water surrounding the balloon.
     2. It is approximately equal to the temperature of the water surrounding the balloon.
     3. It is lower than the temperature of the water surrounding the balloon.

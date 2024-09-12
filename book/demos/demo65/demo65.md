@@ -75,4 +75,16 @@ There are more demonstrations available, for instance [Rotating Balloon](../demo
 
 ```{tip}
 It is interesting to know (and show) when the pressure inside the balloon is maximal. Surprisingly it is when the balloon is very small. This can be observed by filling the balloon which is hardest when it is empty, or by releasing it with sound. The pitch is highest at the last part, when the balloon is almost empty.
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/McMa_XNx0fw?si=jCvbaPsF5YjwDFCN"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 ```

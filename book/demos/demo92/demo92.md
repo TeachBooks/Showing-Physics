@@ -19,8 +19,6 @@
     </tr>
 </table>
 
-This demonstration has been published in the Dutch magazine for science teachers {cite:t}`dekkers1999drogen`.
-
 ## Introduction
 If you let a bunch of different round objects roll down a slope, some will be faster than others. Careful study will show that the mass and size do not matter, but the shape does. This is difficult to understand or infer from observations. However the observations can encourage students to propose systematic investigations to establish which objects roll faster. In this demonstration, the teacher can help students develop skills in planning of an investigation as well as systematic collection, representation and interpretation of data. The test is inspired by a question in an old old televised science quiz: if you let a boiled and a raw egg roll down a slope simultaneously, which will arrive at the bottom first? 
 
@@ -31,6 +29,8 @@ align: center
 ---
 Which rolling object reaches the bottom first?
 ```
+
+This demonstration has been published in the Dutch magazine for science teachers {cite:t}`dekkers1999drogen`.
 
 ## Equipment
 * A variety of objects that can roll. 

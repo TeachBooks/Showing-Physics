@@ -75,7 +75,7 @@ For this experiment we used Coach 7 to read out our device, however, many force 
     ```
 7. Have the students calculate the displacement angle in the extreme position.
 8. Students calculate the speed in the equilibrium position using the centripetal force.
-8. Control question: *When do you feel the "heaviest" while swinging? Why?*
+8. A question to check students' understanding: *When do you feel the "heaviest" while swinging? Why?*
 
 
 ## Physics background

@@ -41,7 +41,7 @@ Set up the candles so they can easily fit under the bell jar and the bell jar ca
 1. Light one candle first.
 2. What will happen to the candle when I place it under the bell jar?
 3. Place the candle under the bell jar.
-    - *Why does the flame dies?*
+    - *Why does the flame die?*
 4. Explain that oxygen is consumed while the candle is burning, producing carbon dioxide and water vapor.
     - *Are both effects inside the bell jar visible?* 
 5. Ensure the bell jar has a proper oxygen ratio again (blow into the bell jar or swing it around to get rid of the combustion gasses.).

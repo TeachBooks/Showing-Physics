@@ -82,7 +82,7 @@ Most measurement software allow you to determine the value of the area in $V_s$.
 
 5. *Why should this area be equal?*
 6. Repeat the experiment with the aluminum tube.
-7. Control question: *What do you expect from the graph that will be measured?*
+7. A question to assess students' understanding: *What do you expect from the graph that will be measured?*
 
 ## Physics background
 An approaching magnetic field induces a current in a coil so that the magnetic field induced by the coil opposes that of the approaching magnet (Lenz's Law). The coil creates an attracting magnetic field when the magnet moves away from the coil. Thus, the direction of the current in the coil windings changes.
