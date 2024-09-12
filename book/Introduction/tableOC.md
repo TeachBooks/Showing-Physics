@@ -39,16 +39,15 @@
   11. [Determination of g](/demos/demo73/demo73)
   12. [On a roll](/demos/demoX/demoX)
 
-
 **Demos for conceptual development**
 
 *Wave, optics, quantum*
-  1. [Light in darkness](/demos/demoX/demoX)
+  1. [Light in darkness](/demos/demo03/demo03)
   2. [Reflection](/demos/demoX/demoX)
-  3. [Making Einstein young again](/demos/demoX/demoX)
-  4. [Surprising infra-red investigations](/demos/demoX/demoX)
-  5. [LEDs and photons](/demos/demoX/demoX)
-  6. [Writing with a laser using phosphorescence](/demos/demoX/demoX)
+  3. [Making Einstein young again](/demos/demo21/demo21)
+  4. [Surprising infra-red investigations](/demos/demo22/demo22)
+  5. [LEDs and photons](/demos/demo23/demo23)
+  6. [Writing with a laser using phosphorescence](/demos/demo24/demo24)
   7. [Shadow of a flame 1](/demos/demoX/demoX)
   8. [Shadow of a flame 2](/demos/demoX/demoX)
   9. [Standing wave with an electric toothbrush](/demos/demoX/demoX)

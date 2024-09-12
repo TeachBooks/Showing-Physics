@@ -54,7 +54,7 @@ The mysterious fountain.
 ```
 
 ## Preparation
-Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large paper tubes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible. Note: both bottles and all tubes must be sealed airtight by the stoppers, the connection between the bottles as well. The connecting tube should protrude into these bottles as little as possible. The end of the tube below the funnel as well as that of the tube on the right in figure 2 should be placed as deep as possible, close to the bottom of each bottle. The 'tap' should extend as little as possible above the bottle on the right, the funnel should extend as much as possible above the one on the left.
+Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large paper tubes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible. Note: both bottles and all tubes must be sealed airtight by the stoppers, the connection between the bottles as well. The connecting tube should protrude into these bottles as little as possible. The end of the tube below the funnel as well as that of the tube on the right in {numref}`Figure {number}<demo91_fig2>` should be placed as deep as possible, close to the bottom of each bottle. The 'tap' should extend as little as possible above the bottle on the right, the funnel should extend as much as possible above the one on the left.
 
 ```{figure} demo91_figure2.jpg
 ---

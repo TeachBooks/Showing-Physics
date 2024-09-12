@@ -46,10 +46,35 @@ Ideally: include among the objects solid and hollow cylinders and spheres of equ
 Turn the board and tripods into a slope, make it easily visible for all, place the block at the top and the cushion at the bottom. Place round objects of varying mass, size and shape at the top of the slope, against the block, side by side. 
 Practice pulling away from the block so that all objects start rolling at the same time.
 
+
+
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/PY2blUzvXvQ?si=PzcmCcQzGvPmgHVM"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
+*A slightly altered version of the demo, the materials used in the video are shown in {numref}`Figure {number} <demo92_figure3>`.*
+
+```{figure} demo92_figure3.jpg
+---
+width: 70%
+align: center
+name: demo92_figure3
+---
+The materials as used in the video.
+```
+
 ## Procedure
 **Predict** The class probably already knows, that all objects fall equally fast. But does the same apply to rolling objects? Explain that you are going to remove the block so that all objects start at the same time in rolling down. Will they all stay next to each other? Will some roll faster? If so, which will be faster and why? 
 
-**Observe** Next pull the block away. Ideally, as everything starts rolling, there are a clear differences in the way the objects roll, but it's not at all clear which kinds of object are faster. A more systematic and clearer approach is clearly needed. Your students can probably come up with that kind of plan if you help tham a little, and will be happy to assist with its implementation.
+**Observe** Next pull the block away. Ideally, as everything starts rolling, there are a clear differences in the way the objects roll, but it's not at all clear which kinds of object are faster. A more systematic and clearer approach is clearly needed. Your students can probably come up with that kind of plan if you help them a little, and will be happy to assist with its implementation.
 
 ```{figure} demo92_figure2.jpg
 ---
@@ -62,9 +87,9 @@ Can we create order?
 Some suggestions:
 - Investigate (first) simple shapes: hollow and full spheres and cylinders are easiest.
 - Isolate relevant factors: pupils can probably come up with mass and radius. You will want to add 'shape' if they don't mention it, and 'hollow or full'.
-- Most pupils do understand that it is necessary to vary possibly relevant factors one by one (fair measurement) if you want to establish the influence of each: let them make a plan for doing so. Encourage them to jusitify their method and finding a systematic way to organise data. Looking at a collection of cylinders and spheres can already help organize their thinking; you may want to suggest to investigate only two objects at a time.
+- Most pupils do understand that it is necessary to vary possibly relevant factors one by one (fair measurement) if you want to establish the influence of each: let them make a plan for doing so. Encourage them to justify their method and finding a systematic way to organize data. Looking at a collection of cylinders and spheres can already help organize their thinking; you may want to suggest to investigate only two objects at a time.
 - A method that works well is: place two objects at the high end touching each other, one in front of the other, and let go. First one in front, then the other. If one of the two is faster, that is quite easy to see (if you insist on a quantitative approach you may want to use a stopwatch, but this may be less convincing).
-- Divide the tasks: making a plan that takes all factors into account mayb be too difficult for the students, but planning research on whether mass in cylinders matters often succeeds.
+- Divide the tasks: making a plan that takes all factors into account maybe be too difficult for the students, but planning research on whether mass in cylinders matters often succeeds.
 
 **Explain** Discuss which of the predictions turned out to be correct and which were not. Evaluate the explanations given. If necessary, explain how physicists explain the phenomena.
 

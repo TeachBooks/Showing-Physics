@@ -52,11 +52,12 @@ The cylinder puzzle - A model of the universe
 ```
 
 ## Preparation
-Make four holes in the cylinder. Use two pieces of cord, thread them through the holes, with one passing over the other inside the cylinder, for example as shown at the top left of figure 2. Adjust them: both strings should loosely fit inside the cylinder. Tie knots at the ends and cut to size. Then, pull on one of the knots: this should result in something like figure 1. Each time a knot is pulled, a few centimeters of rope should come out there, while the protruding piece is pulled inward.
+Make four holes in the cylinder. Use two pieces of cord, thread them through the holes, with one passing over the other inside the cylinder, for example as shown at the top left of {numref}`Figure {number} <demo70_figure2>`. Adjust them: both strings should loosely fit inside the cylinder. Tie knots at the ends and cut to size. Then, pull on one of the knots: this should result in something like {numref}`Figure {number} <fig:cylinder_puzzle1>`. Each time a knot is pulled, a few centimeters of rope should come out there, while the protruding piece is pulled inward.
 ```{figure} demo70_figure2.png
 ---
 width: 80%
 align: center
+name: demo70_figure2
 ---
 All these models of the contents of the cylinder are consistent with all observations.
 ```
@@ -74,12 +75,12 @@ Next pull on three knots successively with a short, firm tug, for example, **A**
     - *Are you sure now what's inside the cylinder? Why?*\
     Coming up with a good explanation is an excellent achievement. But you still don't know for sure what's inside: you would have to look.
     - *Do you think everyone found the same solution? Compare the solutions.*\
-    There are many possible solutions: figure 2 shows a few. This also indicates that we still don't know for sure what's inside the cylinder.
+    There are many possible solutions: {numref}`Figure {number} <demo70_figure2>` shows a few. This also indicates that we still don't know for sure what's inside the cylinder.
     - *How certain are you of your model? Does it need further testing? What would you do? How much more work is needed?*\
     You're only really finished testing when you know what's really inside the cylinder. If your predictions keep turning out to be correct, you may claim that your model is very good. But all models in the figure predict the same things, so which one is the one that shows the real inside?
 5. **Reflection.** Is this science? 
     - *Why didn't you all find the same answer?*\
-    It depends on your imagination and ideas, which are different for everyone. The same goes for scientists. Scientists also can't always open things up to see how they work insideand often only see the outside. If you try to "open" it, it often won't work anymore.
+    It depends on your imagination and ideas, which are different for everyone. The same goes for scientists. Scientists also can't always open things up to see how they work inside and often only see the outside. If you try to "open" it, it often won't work anymore.
 
 6. **Opening the cylinder?** Let whoever really wants to open the cylinder do so now. Real scientists would also look inside the cylinder if they could because they are terribly curious. But very often in science, there is no way to 'open' what is being studied.
 
@@ -91,7 +92,7 @@ Many of the things you do to solve the cylinder puzzle resemble what scientists 
 - You use your model to make predictions and test those predictions.
 - Maybe you refine your model during or after testing the predictions.
 
-There are also differences with the work of scientists. In the universe that scientists study, you often can't open things up to see the inside. It is impossible to open Earth and see how gravity really works, or what the inside of a molecule really looks like, or how evalution really operates. Theories can be used to describe observations and make predictions perfectly. By making more observations and adjusting their models, scientists gain more insight into what happens and how it works. They use their creativity and imagination, and while they strive for a single correct solution, often come up with different, contended answers and predictions. They can test these and improve their explanations and models. But they are never completely finished, and what they know is never absolute and completely certain.
+There are also differences with the work of scientists. In the universe that scientists study, you often can't open things up to see the inside. It is impossible to open Earth and see how gravity really works, or what the inside of a molecule really looks like, or how evaluation really operates. Theories can be used to describe observations and make predictions perfectly. By making more observations and adjusting their models, scientists gain more insight into what happens and how it works. They use their creativity and imagination, and while they strive for a single correct solution, often come up with different, contended answers and predictions. They can test these and improve their explanations and models. But they are never completely finished, and what they know is never absolute and completely certain.
 
 ## References
 ```{bibliography}

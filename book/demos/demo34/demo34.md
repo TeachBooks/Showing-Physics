@@ -82,7 +82,7 @@ Below are step-by-step instructions with tasks and questions that can be adjuste
 
 9.	Close the bottle.
 
-10.	Turn the bottle slowly, the liquids and objects rearrange (Figure 2).
+10.	Turn the bottle slowly, the liquids and objects rearrange ({numref}`Figure {number} <demo34_fig2>`).
 
 ```{figure} demo34_figure1.jpg
 ---

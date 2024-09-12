@@ -98,5 +98,5 @@ A practical application of the same phenomenon is the fact that one cannot get a
 ```
 
 ## Follow-up
-One could also make a rough estimate of Planck’s constant. If the red LED generates $1.6$ V and you assume that each electron is excited with one photon, then one could determine the minimum energy of the photons and a minimum value of Planck’s constant. With $1.6$ V and a wavelength of $633$ nm (He-Ne-laser) we obtain $5.4\cdot 10^{-34}$ Js.  ($1.6$ eV = hc/$\lambda$).
+One could also make a rough estimate of Planck’s constant. If the red LED generates $1.6$ V and you assume that each electron is excited with one photon, then one could determine the minimum energy of the photons and a minimum value of Planck’s constant. With $1.6$ V and a wavelength of $633$ nm (He-Ne-laser) we obtain $5.4\cdot 10^{-34}$ Js.  ($1.6 \text{eV} = \frac{hc}{\lambda}$).
 

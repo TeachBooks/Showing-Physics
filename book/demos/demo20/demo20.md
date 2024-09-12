@@ -20,7 +20,11 @@
 </table>
 
 ``` {figure} demo20_figure2.png
-width: 40%
+---
+width: 60%
+name: demo20_figure2
+---
+A simple setup consisting of a laser and a mirror and some colored stickers for the students.
 ```
 
 ## Introduction
