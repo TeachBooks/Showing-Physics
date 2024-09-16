@@ -70,7 +70,3 @@ Different microwaves have different hotspot patterns. Could there be a correlati
 
 Is the rotation of the turntable effective for every hotspot distribution? How does this work, for example, with the pattern in the photo?
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```

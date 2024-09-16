@@ -40,7 +40,7 @@ How can you experience force and motion in person without too much interference 
 * Broomstick 
 * Large empty space (hallway, gym)
 
-```{figure} demo43_fig1.png
+```{figure} demo43_fig2.png
 ---
 width: 50%
 align: center
@@ -108,8 +108,6 @@ some caption
 **9. Students work in pairs to formulate the rules about the influence of forces on the movement of the bowling ball.**
 
 A question to check students' understanding: Memphis is standing 10 meters in front of the center of an open goal. He receives a hard cross from Bergwijn's left and hits it exactly at right angles, perpendicular to the direction of travel. Explain with a drawing and reasoning why the ball might not go into the goal.
-
-
 
 ## Physics background
 Newton's first and second laws are key here: The heavy bowling ball continues straight at a constant speed unless a net force is applied. With the broom you can change both the size and direction and speed of the ball.

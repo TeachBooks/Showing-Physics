@@ -1,9 +1,3 @@
-```{figure} ../../figures/busy.png
----
-width: 35%
-align: right
-```
-
 # Shadow of a flame 2
 <span style="font-size: 25px; color: gray;">Visualization of heat flow</span>
 
@@ -14,20 +8,20 @@ align: right
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">TIME</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5 minutes</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">GRADE OR AGE</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">13-15y</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">CONCEPTS</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Density, heat, convection</td>
     </tr>
 </table>
 
 ## Introduction
-This is a demonstration that must be seen by everyone because it showcases such beautiful physics. Depending on the purpose you choose you can emphasize different aspects.
+This is a demonstration that must be seen by everyone because it showcases such beautiful, quickly overlooked physics. Depending on the purpose you choose you can emphasize different aspects.
 
 ```{figure} demo74_fig1.jpg
 ---
@@ -57,12 +51,12 @@ It's nice to attach an ice cream to a stand. It also creates an airflow that you
 
 ```{figure} demo74_fig2.jpg
 ---
-width: 70%
+width: 60%
 align: center
 ---
 The shadow of a flame
 ```
 
 ## Physics background
-"The flame heats the air. The density of the warm air is now lower than that of the surroundings, causing it to rise. Due to the density difference in the air, light passes through different media and undergoes refraction. This can be seen as 'the shadow of the flame'. The density differences and fluctuations in the flow are made visible here. Initially, there is laminar flow, but it becomes turbulent at a certain point. Gently wave your hand and you'll see the laminar flow immediately become turbulent.
+The flame heats the air. The density of the warm air is now lower than that of the surrounding, causing it to rise. Due to the density difference in the air, light passes through different media and undergoes refraction. This can be seen as 'the shadow of the flame'. The density differences and fluctuations in the flow are made visible here. Initially, there is laminar flow, but it becomes turbulent at a certain point. Gently wave your hand and you'll see the laminar flow immediately become turbulent.
 

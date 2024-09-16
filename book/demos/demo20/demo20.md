@@ -21,7 +21,7 @@
 
 ``` {figure} demo20_figure2.png
 ---
-width: 60%
+width: 40%
 name: demo20_figure2
 ---
 A simple setup consisting of a laser and a mirror and some colored stickers for the students.

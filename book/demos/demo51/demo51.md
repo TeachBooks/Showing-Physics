@@ -49,7 +49,7 @@ After seeing this experiment, once demonstrated by David Jones on the German TV 
 * The experiment can be made even more convincing by placing a second temperature sensor at another location equally distant from A, if possible.
 ```
 
-```{figure} B44_LtB03_foto1-site.jpg
+```{figure} B44_LtB03_foto1.jpg
 ---
 width: 50%
 align: center
@@ -154,8 +154,3 @@ An illustration to show the students, to let them think about the demonstration.
 
 For those without parabolic mirrors (or something similar), you could try bending shiny metal strips into parabolas. Such a mirror doesn’t have a focal point but a 'focal line', but it might still work. We haven’t tried it.
 
-
-## References
-```{bibliography}
-:filter: docname in docnames
-```

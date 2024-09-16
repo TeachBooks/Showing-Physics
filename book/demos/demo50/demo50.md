@@ -15,7 +15,7 @@
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">straight-line propagation, shadow, similar triangles, light, Additive mixing of light, primary color, complementary color</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">straight-line propagation, shadow, similar triangles, light, additive mixing of light, primary color, complementary color</td>
     </tr>
 </table>
 
@@ -178,7 +178,3 @@ In this series of figures, various masks are shown.
 ## Follow up
 The demo [Optics with LEDs](../demo89/demo89.md) provides plenty of follow ups.
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```
