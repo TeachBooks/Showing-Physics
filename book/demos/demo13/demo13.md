@@ -64,7 +64,7 @@ $$\Rightarrow  F_{\text{boys on rope}} = \frac{-F_{\text{lady on rope}}}{2·sin(
 
 Angle $\theta$ is the angle between rope and the horizontal and is very small, thus the vertical component of the force of the boys is very small. Therefore, minimal force is needed to bend the rope downwards. 
 
-## Follow up
+## Follow-up
 Use photographs of cable car and power line set-ups to calculate the tension in the cables. See for instance this <a href="https://newsroom.nvon.nl/files/default/nah151vb.pdf" target="_blank">Dutch national exam question</a>.
 
 ## References

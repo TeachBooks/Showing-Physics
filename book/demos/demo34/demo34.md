@@ -47,8 +47,11 @@ Various liquids stacked upon each other.
 * 250 mL water; a cork
 * A cherry tomato
 * A coin
-* A plastic bottle cap. **Note! Not every cap is suitable. The density should lie between that of water and sunflower oil. In the example ({numref}`Figure {number} <demo34_fig2>`), a green cap from an AA bottle was used.**
 * Possibly for supplement (see tip): three small measuring cylinders and a scale.
+* A plastic bottle cap. 
+```{Note} 
+Not every cap is suitable. The density should lie between that of water and sunflower oil. In the example ({numref}`Figure {number} <demo34_fig2>`), a green cap from an AA bottle was used.
+```
 
 ## Preparation
 Ensure that all materials are within reach. Fill three small measuring cylinders with the three liquids (see tip).
@@ -117,7 +120,3 @@ A schematic of the various liquids and 'objects'
 ## Follow-up
 It is possible to make sugar solutions in water with different densities. When using cold water (from the refrigerator), you can neatly layer them on top of each other. This offers many possibilities for experimenting with density.
 
-## References
-```{bibliography}
-:filter: docname in docnames
-```

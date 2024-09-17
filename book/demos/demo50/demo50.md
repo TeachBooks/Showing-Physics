@@ -175,6 +175,6 @@ name: demo50_fig6
 In this series of figures, various masks are shown.
 ```
 
-## Follow up
+## Follow-up
 The demo [Optics with LEDs](../demo89/demo89.md) provides plenty of follow ups.
 

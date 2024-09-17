@@ -66,8 +66,8 @@ The charge sensor is grounded via a CoachLabII+ interface. The red clip of the s
 * When charging a rod, rub in one direction (up or down but not up/down).
 ```
 
-## Physics Background
+## Physics background
 Friction causes charge separation. Initially, the objects are neutral. Friction causes some electrons to move, resulting in one object being charged oppositely to the other. The magnitude of the charge in these experiments is on the order of tens of nC.
 
-## Follow up
+## Follow-up
 There are many demonstration with static charge, for instance: Rub a balloon on your head and hang it against the wall. What causes it to stick against the wall?

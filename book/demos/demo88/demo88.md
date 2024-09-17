@@ -62,7 +62,7 @@ Vacuum bell jar, pump, match, and beaker with hot water
    - It makes no difference
 5. A question to assess students' understanding: *In what practical situations does this type of cloud formation occur?*
 
-## Physics Background
+## Physics background
 Due to the low pressure, the water in the beaker evaporates faster, causing the temperature in the beaker to drop. A lot of water vapor enters the bell jar. At a certain air pressure, water vapor condenses on the present smoke particles.
 
 At high altitudes, the air pressure is also lower, allowing water vapor to condense on suitable condensation nuclei, such as particles emitted by an airplane engine. Because the water droplets in the cloud scatter sunlight of all colors equally, clouds appear white.

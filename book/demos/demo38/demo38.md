@@ -28,10 +28,10 @@ name: demo38_fig2
 U-tube after removal of the stopper.
 ```
 
-Adapted from {cite:t}`liem1991invitations`
-
 ## Introduction
 The situation seems very normal - a U-tube filled with a clear liquid, with both sides at the same height. It's unclear what the cork on one side is for. That becomes apparent when you remove it, and the situation becomes incomprehensible unless you realize that there are not one but two liquids at play here. In the lower grades, this simple experiment challenges students to think about material properties. In the upper grades, it's a conceptual challenge regarding density and pressure, and a framework for some solid calculations.
+
+This demonstration is adapted from {cite:t}`liem1991invitations`
 
 ## Equipment
 * U-tube

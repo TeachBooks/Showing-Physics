@@ -31,10 +31,10 @@
     </div>
 </div>
 
-Earlier described in {cite:t}`Vonk2015`.
-
 ## Introduction
 Boiling might seem ordinary at first glance, but there's a lot to observe and explain physically in this seemingly mundane situation.
+
+This demonstration is earlier described in {cite:t}`Vonk2015`.
 
 ## Equipment
 - Thick-walled Erlenmeyer flask

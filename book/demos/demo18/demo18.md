@@ -113,8 +113,3 @@ The dropped bottle that already had a started water flow seems to empty out. But
 A colleague testing the dropping balls replaced the bottom tennis ball with a basketball. He expected and got something extra: an oscillation.
 
 There are two variations of this demo included in this book: [Falling spring](../demo96/demo96.md) and [Parabolic orbit in free fall?](../demo43/demo43.md)
-
-## References
-```{bibliography}
-:filter: docname in docnames
-```

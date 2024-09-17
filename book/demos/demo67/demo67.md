@@ -15,6 +15,10 @@
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14</td>
     </tr>
+    <tr style="background-color: var(--background-color);"> 
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heat, kinetic energy, energy conversion, shockwave</td>
+    </tr>
 </table>
 
 ## Introduction
@@ -51,7 +55,7 @@ name: fig:deformation
 Top: the resulting hole in the paper with a singed edge. Bottom: the wave pattern in aluminum foil.
 ```
 
-## Physics Background
+## Physics background
 Kinetic energy is converted into heat. This often occurs in inelastic collisions, e.g. when a meteorite crashes onto the Earth's surface. In the demonstration with paper, the heat is sufficient to reach the ignition temperature of paper and thus burn it. This combustion is only brief because the heat transfer to the surroundings is too small, due to the short duration of the collision.
 
 The formation of the shockwave in the aluminum is somewhat more difficult to explain. The most commonly given explanation online is that the aluminum briefly melts due to the heat and immediately solidifies again. This way, the running wave created during the collision is essentially frozen.
@@ -64,8 +68,3 @@ To show that the small contact surface is essential, you can strike a hammer on 
 
 ## Follow-up
 It would be interesting to investigate whether the explanation for the observed wave pattern in the aluminum is indeed correct. Who can come up with an experiment and carry it out?
-
-## References
-```{bibliography}
-:filter: docname in docnames
-```

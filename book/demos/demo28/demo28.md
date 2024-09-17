@@ -122,7 +122,7 @@ name: demo28_figure5
 The aquarium after cooling with blue ice and warming with red hot water.
 ```
 
-## Follow up
+## Follow-up
 If you the warm water is at the top and you heat the cold water, you may see a thermal column: convection due to temperature difference. In the video below (play it twice the normal speed) you can see what happens. However, the water at the top is still warm, thus the thermal column stops there. That is also what happens when clouds reach the so-called <a href="https://en.wikipedia.org/wiki/Inversion_(meteorology)" target="_blank">inversion</a>.
 
 <div style="display: flex; justify-content: center;">

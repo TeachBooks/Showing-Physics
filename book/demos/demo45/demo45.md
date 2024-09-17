@@ -57,7 +57,7 @@ name: demo45_fig2
 The modified setup; the result is the same.
 ```
 
-## Physics Background
+## Physics background
 Newton's third law states that in equilibrium, there are always two forces that are equal in magnitude but opposite in direction. In situation 1 ({numref}`Figure {number}<demo45_fig1>`), the string attached to the stand prevents the block from falling. There is no acceleration, change of direction, or deformation, so the forces are equal. This means the tension in the string (and thus what you read on the spring scale) is equal to the gravitational force acting on the mass blocks.
 
 The same reasoning applies to situation 2 ({numref}`Figure {number}<demo45_fig2>`): the mass at the left (which were already there) stay put. Thus the tension did not change.

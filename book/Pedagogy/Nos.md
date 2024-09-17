@@ -8,8 +8,8 @@ But what image of the natural sciences should you convey as a physics teacher? W
 ---
 width: 70%
 ---
-Nature of Science activities often include decontextualised Black Box experiments {cite:p}`stadermann2021don`. 'What is inside?' is then the central question, addressing learning goals like 'our knowledge is limited and we
-cannot always be certain about everything' {cite:p}`pols2021s`.
+Nature of Science activities often include decontextualised Black Box experiments {cite:p}`stadermann2021don`. 'What is inside?' is then the central question, addressing learning goals like 'our knowledge is limited and we cannot always be certain about everything' {cite:p}`pols2021s`.
+Figure created with AI.
 ```
 
 ## Why focus on NoS in physics class?

@@ -31,10 +31,10 @@
     </div>
 </div>
 
-This demo has been described earlier by {cite:t}`Veld2007`.
-
 ## Introduction
 A steel ball rolls towards a set of neatly lined up similar looking balls. When the rolling ball touches the set of balls, the last ball shoots off at high speed. A 'cannonball'? Have the laws of mechanics been defied? What about the laws of conservation? 
+
+This demo has been described earlier by {cite:t}`Veld2007`.
 
 ## Equipment
 * A strong magnetic balls;

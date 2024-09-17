@@ -1,9 +1,3 @@
-```{figure} ../../figures/confirmed.png
----
-width: 35%
-align: right
-```
-
 # A balloon that can do everything
 <span style="font-size: 25px; color: gray;">Sinking, Floating, and Hovering Balloon</span>
 
@@ -26,13 +20,12 @@ align: right
     </tr>
 </table>
 
-
 ## Introduction
 Dutch students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
 
 ```{figure} demo76_figure1.jpg
 ---
-width: 50%
+width: 70%
 align: center
 ---
 The balloon is on its way up and hovers for a while in the warm water.

@@ -32,10 +32,8 @@
     </div>
 </div>
 
-This description was inspired by {cite:t}`ehrlich1990`.
-
 ## Introduction
-Everything that falls freely should experience an acceleration $g$? Or not? Are there exceptions? 
+Everything that falls freely should experience an acceleration $g$? Or not? Are there exceptions? This demonstration was inspired by {cite:t}`ehrlich1990`.
 
 ## Equipment
 * Meter stick or equivalent

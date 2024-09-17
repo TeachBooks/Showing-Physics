@@ -70,7 +70,7 @@ Students already have knowledge of molecular theory and phase transitions.
 8. Perform the calculation of the number of layers of water molecules on the paper. See [physical background](demo63PB).
 
 (demo63PB)=
-## Physics Background
+## Physics background
 The rise in temperature of the paper is caused by the condensation of water vapor from the dish underneath the paper. When the water molecules in the vapor condense, they release heat. The heat conducts through the thin paper and causes a temperature rise. The amount of water molecules condensing on the paper is so small that you barely feel moisture when you touch the paper, but it is enough to cause a temperature rise which is detected by the infrared camera.
 
 This heating mechanism can be confirmed by holding the paper above the cup for a minute until it reaches thermal equilibrium with the surroundings and then removing the paper. IR images of the paper show that the temperature of the originally heated circular zone drops immediately after removal to below the ambient temperature. This can be explained by the water molecules that had condensed on the underside of the paper beginning to evaporate, resulting in rapid cooling of the paper.

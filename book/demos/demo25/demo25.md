@@ -41,10 +41,6 @@ Learning to recognize *physics in the everyday environment*, visualizing physics
 ## Preparation
 At the location (classroom or auditorium), think briefly about maximizing visibility and how to create just enough movement space for the participating audience. 
 
-```{figure} demo25_figure2.png
-:width: 70%
-```
-
 ## Procedure
 The description is for a demo during an event with a large audience. For a demo in the classroom the teacher will include more interaction. 
 
@@ -65,23 +61,11 @@ All of this takes some acting, but it is fun.
 7. Take some people from the audience and put them with their heels and buttocks against the wall. Put a bank note of \$5 of \$10 or equivalent currency in front of their feet ({numref}`Figure {number} <demo25_fig3>`). 
 - *Keep your heels against the wall. If you can pick this up without falling, you can keep it.*\
 But this is impossible, to pick up the banknote, the upper part of the body has to bend far, the center of mass will pass the toes. 
-8.  Show the photo of the child and the man on the see-saw.
+8.  Show the [photo of the child and the man on the see-saw](https://thenextweb.com/news/uk-tv-on-demand-service-seesaw-is-saved-at-the-death).
 - *Is this possible? Is something wrong? Using the center of mass concept or the law of moments of force, how can you explain?*
-
-```{figure} demo25_figure4.png
-:width: 70%
-```
 
 ## Physics background
 For definitions and background, see the physics textbooks. 
-
-```{figure} demo25_figure1.jpg
----
-width: 70%
-align: center
----
-Center of mass, playing an essential role in daily life.
-```
 
 ## Follow-up
 There are many interesting phenomena around us which illustrate the power of the center of mass concept. Students could collect such examples like: 

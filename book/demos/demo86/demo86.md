@@ -98,5 +98,5 @@ Because the product of $N·ΔΦ$ is constant (the number of turns per coil is eq
 - If you take the absolute value of $U_{ind}$, then the change in $U_{ind}$ over time can be seen with only positive peaks. Then the increase in falling speed is clearly visible. You can potentially use this to determine the acceleration due to gravity.
 ```
 
-## Follow up
+## Follow-up
 The demonstration [Does the magnet challenge gravity?](../demo16/demo16.md) provides a suitable follow up. 

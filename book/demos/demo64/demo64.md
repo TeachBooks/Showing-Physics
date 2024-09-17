@@ -67,7 +67,7 @@ The setup for this demonstration
 If students need some more convincing, check the [video in this demonstration](../demo54/demo54.md). 
 ```
 
-## Physics Background
+## Physics background
 Both evaporation and boiling involve liquid water turning into gas. Evaporation only happens at the surface and at any temperature, while boiling occurs throughout the liquid, hence the large bubbles that form in the liquid. Below the boiling point, liquid can also turn into gas, but potential bubbles are immediately crushed by the surrounding water. Only at the boiling point is the pressure sufficient to withstand the pressure of the atmosphere and water.
 
 When the air pressure above the water surface decreases, as it does through the sudden condensation of water vapor in this demonstration, boiling bubbles are less easily crushed, and the water boils at a much lower temperature. In this experiment, the air in the flask is displaced by water vapor. We quickly seal the flask. When pouring cold water, the water vapor condenses, making the 'air pressure' in the flask very low, causing boiling bubbles to form even at a much lower temperature.

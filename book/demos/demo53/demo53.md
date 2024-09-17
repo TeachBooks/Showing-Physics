@@ -78,7 +78,7 @@ Using an aquarium with chalk dissolved in it to investigate internal reflection.
 
 If you want to test students' understanding, you can ask what happens if less water flows out of the tank and the water falls more steeply. Most students will give the correct answer, still it is important to ask for an explanation. You might choose to have all students write down that explanation. You will get answers like "the light cannot follow the water," which provides the teacher's task to dig deeper what students really mean and ask for a more scientific explanation. If you then remove the plug again and just wait, most students will be amazed at how long the light remains trapped in the water. Only at the very last moment, the light beam does no longer 'follow' the water. In advanced classes, you can calculate the critical angle.
 
-## Physics Background
+## Physics background
 At the beginning of the demo, the angle of incidence is larger than the critical angle, causing *total internal reflection*. As the initial speed decreases, the angle of incidence at the first water-air transition eventually becomes smaller than the critical angle, causing *refraction*. In fact, this transition is somewhat gradual: if the angle of incidence is slightly less than the critical angle, only a small part will refract, while a large part of the light still reflects.
 
 ```{tip}

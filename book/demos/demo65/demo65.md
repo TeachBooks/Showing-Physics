@@ -55,7 +55,7 @@ Change in mass due to cooling of the balloon.
 ```
 
 
-## Physics Background
+## Physics background
 Two forces act on the balloon: an upward buoyant force and gravity downward. In an inflated balloon, the air temperature is about 37 °C. This is warmer air than outside the balloon. The air in the balloon will cool down by heat transfer to the surroundings. Lower temperature air corresponds to lower pressure. The volume of the balloon will decrease.
 
 Since the buoyant force is proportional to the volume of the balloon, this force will decrease. Thus, the balance will indicate a higher mass. The mass change is on the order of a few tenths of a gram and can be accurately measured with an electronic balance. An indication of the volume difference can be calculated using the buoyant force formula:
@@ -70,7 +70,7 @@ The effect is most noticeable just after inflating. After a few minutes, the equ
 - In addition to the graph, you can also display the mass value on a screen. Film or photograph with a FLIR-C5 camera to show that the balloon’s temperature is higher than the outside temperature. Heat (the air in) the balloon with a hairdryer if desired to make the effect stronger. Place the balloon on a tube or cup for better support against movement due to air currents and the like. 
 ```
 
-## Follow up
+## Follow-up
 There are more demonstrations available, for instance [Rotating Balloon](../demo78/demo78.md), [A Balloon that Can Do Everything](../demo76/demo76.md) and [Air is not nothing: weighing air](../demo30/demo30.md).
 
 ```{tip}

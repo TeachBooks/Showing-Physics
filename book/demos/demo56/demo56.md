@@ -75,7 +75,7 @@ name: demo56_cc
 A concept cartoon may help students to make their thoughts explicit.
 ```
 
-## Physics Background
+## Physics background
 The wire spool can move to the left or right depending on the pull direction ({numref}`Figure {number}<fig:schematic>`). Logically, it seems that if you pull to the right on a horizontal wire, the wire spool will move to the right as well. Doesn't an object always move in the direction of the force?
 
 For a simple explanation of the movement direction, look at the torque that the pulling force $F$ creates relative to the pivot point $P$. This torque depends on the angle the wire makes with the horizontal. A clockwise torque causes the spool to roll to the right, a counterclockwise torque causes it to roll to the left. The critical angle that determines whether the spool will move left or right is determined by checking if the extension of the force lies to the left or right of the pivot point $P$ (see {numref}`Figure {number}<fig:schematic>`).

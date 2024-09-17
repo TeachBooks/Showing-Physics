@@ -56,7 +56,7 @@ Depending on the candle and the spiral, the experiment will be slightly differen
 5. Collect the answers and ask for a substantiation of their hypotheses. This way, students learn to make connections between physical concepts and their own experiences. Do not reject any explanation. 
     - A question to check students' understanding: *Think of an experiment to test your hypothesis.*
 
-## Physics Background
+## Physics background
 ### For age 10-12:
 Briefly: three things are needed for burning: fuel, oxygen, and a sufficiently high temperature. If you remove one of these things, the combustion stops. Here, you lower the temperature.
 

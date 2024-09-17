@@ -77,7 +77,7 @@ name: demo48_fig2
 Two measurements in one diagram: the alternating voltage across the lamp and the luminosity of the lamp over time.
 ```
 
-## Physics Background
+## Physics background
 The alternating voltage from our power grid changes at 50 Hz (60Hz in the US), as does the alternating current. In each period, the voltage and current rise and fall twice. The direction of the current does not influence the lightning of an incandescent lamp. Therefore, the lamp's brightness fluctuates exactly twice as much. Students can quickly grasp this explanation, though they might not think of it on their own. Students have often the idea that light sources do not vary in intensity as they do not perceive this {cite}`Bacalla2013`.
 
 ## References

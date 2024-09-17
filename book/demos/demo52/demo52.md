@@ -30,7 +30,7 @@ align: center
 Feel with your hand at what distance the 100W lamp appears as hot as the sun.
 ```
 
-### Equipment
+## Equipment
 - A 100 W light bulb with fitting and plug
 - Measuring tape
 - Blindfold
@@ -40,10 +40,10 @@ Feel with your hand at what distance the 100W lamp appears as hot as the sun.
 Ensure that the blindfolded student is watched so that hands do not burn!
 ```
 
-### Preparation
+## Preparation
 Preferably, wait for a bright, sunny day. Connect the light bulb to the power source.
 
-### Procedure
+## Procedure
 ```{note}
 Step 2 of the procedure is only carried out if it is summer and sunny; otherwise, students must rely on their memory of the sun's warmth on the beach (step 3). Work with groups of two students who come forward one by one. Student 1 performs the measurement and monitors blindfolded student 2 to ensure they do not burn their hand on the hot lamp. Emphasize this important task!
 ```
@@ -57,7 +57,7 @@ Step 2 of the procedure is only carried out if it is summer and sunny; otherwise
 7. There is a way to improve the estimate. The hand primarily feels the infrared radiation. For the light bulb, this is 90-95% of the radiation. For the sun, it is 52% of the radiation. What correction must be applied to get a better estimate of the sun's power?
 8. Look up the sun's power. Was our experimental estimate reasonable (within a factor of 10)?
 
-### Physics Background
+## Physics background
 The essence of this experiment is that students calculate the sun's emitted power by applying the inverse square law. The lamp emits 100 watts in all directions, with 90-95% in the form of infrared radiation. What falls on your hand is only a part of it. The same situation applies to the sun. We assume that the light bulb radiates its light and heat evenly in all directions, just as the sun radiates its energy in all directions. We also assume that the light bulb's radiation is approximately similar to the sun's radiation. The amount of energy captured by a given surface decreases with distance from the sun. The relationship with distance is that the energy through a surface, as shown in the figure, decreases with the square of the distance. This is known as the inverse square law.
 
 ```{figure} demo52_figure2.jpg

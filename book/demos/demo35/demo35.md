@@ -31,10 +31,10 @@
     </div>
 </div>
 
-This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
-
 ## Introduction
 This experiment combines combustion with force and movement in a surprising way. The experiment lasts less than a second; the interesting part is predicting what will happen and finding an explanation.
+
+This demonstration is based on experiment 62 in {cite:t}`Walravens2011`.
 
 ## Equipment
 * Tealight candle
@@ -74,7 +74,6 @@ The flame has been extinguished much faster than before, so this is not because 
 
 ### Explain
 Discuss which of the predictions have come true. Evaluate the given explanations. Explain, if necessary, what physicists think about it.
-
 
 ## Physics background
 For the flame to burn, a continuous supply of oxygen is required. If this supply is cut off, the combustion stops immediately. When the tealight candle is on the table, the air near the flame heats up, expands, and its density decreases, causing it to rise. The pressure around the flame decreases, and nearby oxygen-rich air is pushed towards the flame by the surrounding atmosphere.

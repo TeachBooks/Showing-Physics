@@ -86,5 +86,5 @@ To be able to construct an analog signal by taking samples (digitally), you need
 One of our testers stated: " 'Upward dripping' is a really fun demonstration which arouses amazement among students. Many students quickly realized the relationship between the flash frequency and the drop frequency in the way they saw the droplet moving.
 ```
 
-## Follow up
+## Follow-up
 Let students make a stop-motion movie with small cars making uniform motion and uniform accelerated motion. Ask them how the stop-motion movie relates to this demonstration. 

@@ -122,13 +122,8 @@ Also nice: zoom in on the part where the stream breaks into individual droplets,
 If you can't use your own photos, you can use those from this article: the originals can be found on the website and enlarged. The scale of the photos is based on the height of the ticker: it is 2.4 cm in reality.
 ```
 
-## Physics Background
+## Physics background
 Each droplet undergoes identical horizontal projectile motion. The droplets are launched at fixed time intervals. When illuminated briefly at the end of each time interval, each droplet precisely occupies the position of its predecessor at each subsequent flash. Thus, the parabola of droplets appears to be hanging still in the air (if the stroboscope and ticker time are at the same frequency).
 
 If illuminated at the end of slightly longer intervals (lower strobe frequency), the droplets appear to move slightly beyond where their predecessor was, and collectively they appear to move slowly downward. If illuminated at slightly shorter intervals, they appear to move upward, back toward the ticker timer.
 In the beginning of the stream, you don’t see individual droplets; they form later as the accelerating pieces of water are pulled apart. The ticker timer apparently creates almost evenly sized droplets with equal intervals. Cohesion does the rest.
-
-## References
-```{bibliography}
-:filter: docname in docnames
-```

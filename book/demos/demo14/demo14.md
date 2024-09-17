@@ -20,8 +20,6 @@
     </tr>
 </table>
 
-Inspired by {cite:t}`Balsma`.
-
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
@@ -37,6 +35,8 @@ Inspired by {cite:t}`Balsma`.
 
 ## Introduction
 Friction is an everyday phenomenon. How would the world behave without friction? We describe two inexpensive demonstrations which show very clearly the difference between friction when there is no movement (static friction) and friction when two surfaces move relative to each other (kinetic friction). Many interesting applications can be found when static friction becomes kinetic friction.   
+
+Inspired by {cite:t}`Balsma`.
 
 ## Equipment
 * Smooth pvc-tube (diameter32 mm) 
