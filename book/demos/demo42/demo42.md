@@ -50,7 +50,7 @@ Ensure that hot water is available, as well as a handkerchief that can be soaked
 * Have some exercises or questions ready for students to work on while the measurements are running.
 ```
 ## Procedure
-1.	Ask the students how to keep a hot liquid at a high temperature for as long as possible. What insulation methods do they know? Which form of heat transfer does the insulation method `reduce`?
+1.	Ask the students how to keep a hot liquid at a high temperature for as long as possible. What insulation methods do they know? Which form of heat transfer does the insulation method "reduce"?
 2.	Explain that you are going to conduct an experiment that demonstrates the difference in insulation between two heat sources.
 3.	Explain how the experiment will proceed and ask the students to write down their expectations.
 4.	Carefully pour the hot water into the cans and wrap one of the two cans in the wet (cold) handkerchief.
