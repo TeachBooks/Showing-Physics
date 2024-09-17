@@ -22,7 +22,7 @@
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
         <iframe
-            src="https://www.youtube.com/embed/NFaxzS9x4OU?si=KtAj052A9xX0u6e3"
+            src="https://www.youtube.com/embed/QgCxSk_qRM4?si=CUNkOnCx0E6snkVy"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -74,6 +74,18 @@ Students will likely answer that question based on the direction of the Lorentz 
 
 To assess students' understanding you can provide a sketch of the result and ask the students to figure out how to achieve that with these materials. Much thinking-back-and-forth is guaranteed here.
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/NFaxzS9x4OU?si=KtAj052A9xX0u6e3"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 ## Physics background
 ```{figure} demo84_figure3.png
 ---
@@ -82,4 +94,3 @@ align: center
 ---
 Force diagram for a positive and a negative ion for the upper magnet from {numref}`Figure {number} <demo84_fig1>` and {numref}`{number} <demo84_fig1>`. The sequence of reasoning is: direction of $F_L$ is observed, direction of $v$ follows from potential direction, direction of $I$ follows from $v$ and particle charge, combining and applying left hand rule gives direction of $B$ (upward out of the water).
 ```
-
