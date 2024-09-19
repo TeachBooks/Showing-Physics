@@ -23,13 +23,17 @@
 ## Introduction
 Dutch students learn about density in the eighth grade. Sinking and floating are phenomena they have experienced. Hovering is something they have often not consciously observed. This demonstration illustrates all three phenomena.
 
-```{figure} demo76_figure1.jpg
----
-width: 70%
-align: center
----
-The balloon is on its way up and hovers for a while in the warm water.
-```
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/6AzWn5dPtbg?si=I29lMAGmZXHrCm8q"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
 
 ## Equipment
 - Aquarium tank (large)
@@ -53,6 +57,14 @@ For each prediction, ask a student that made it to explain, and do so for each o
     1. It is higher than the temperature of the water surrounding the balloon.
     2. It is approximately equal to the temperature of the water surrounding the balloon.
     3. It is lower than the temperature of the water surrounding the balloon.
+
+```{figure} demo76_figure1.jpg
+---
+width: 70%
+align: center
+---
+The balloon is on its way up and hovers for a while in the warm water.
+```
 
 ## Physics background
 The balloon filled with cold water has an average density greater than that of warm water and will therefore sink. The water inside the balloon gradually heats up. The water balloon will have precisely the average density of the warm water for a while. Then the balloon hovers. If the water inside the balloon continues to increase in temperature, the average density decreases and the balloon floats.

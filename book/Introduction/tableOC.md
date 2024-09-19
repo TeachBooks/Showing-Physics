@@ -6,7 +6,7 @@
   3. [Preface from the editor](/Introduction/Preface2.md)
   4. [About the authors](/Introduction/Authors.md)
   5. [NVON](/Introduction/NVON.md)
-  6. [Python](/Introduction/Python%20summary.ipynb)
+  6. [Python](/Introduction/Python summary.ipynb)
   7. [Table of contents](/Introduction/tableOC.md)
   
 **Pedagogy**
@@ -38,7 +38,7 @@
   9. [Speed of light in a liquid](/demos/demo62/demo62)
   10. [Powerful Balloon](/demos/demo65/demo65)
   11. [Determination of g](/demos/demo73/demo73)
-  12. [On a roll](/demos/demoX/demoX)
+  12. [On a roll](/demos/demo92/demo92)
 
 **Demos for conceptual development**
 
