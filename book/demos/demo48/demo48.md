@@ -57,6 +57,15 @@ Set up the apparatus as shown in {numref}`Figure {number}<demo48_fig1>`. Connect
 Secure the luminosity sensor in a stand to keep it at the correct height above the lamp and prevent it from receiving too much or too little light.
 ```
 
+```{figure} demo48_figure2.JPG
+---
+width: 70%
+align: center
+name: demo48_fig2
+---
+Two measurements in one diagram: the alternating voltage across the lamp and the luminosity of the lamp over time.
+```
+
 ## Procedure
 1. Point to the fluorescent lights at the ceiling, and ask students to sketch a graph of luminosity versus time. Is it constant or does it alter as function of time?
 2. Determine the frequency of the light from the fluorescent lights using the light sensor. Do not explain the exact frequency yet; this will come later in the demonstration. If you have a tabletop set available, you can show how the luminosity changes as function of the position (the luminosity is far less at both ends of the lamp).
@@ -68,13 +77,13 @@ Secure the luminosity sensor in a stand to keep it at the correct height above t
 8. Ask students how the graphs would change if direct current (DC) was used instead of alternating current (AC). Demonstrate this.
 9. Extend the demonstration with measurements on LED lighting. You can discuss why it is important in various workplaces that special lighting is used, see also our [demonstration on sampling](../demo44/demo44.md).
 
-```{figure} demo48_figure2.JPG
+```{figure} demo48_figure4.jpg
 ---
 width: 70%
 align: center
-name: demo48_fig2
+name: demo48_fig4
 ---
-Two measurements in one diagram: the alternating voltage across the lamp and the luminosity of the lamp over time.
+Why is the measured frequency 100 Hz?
 ```
 
 ## Physics background
