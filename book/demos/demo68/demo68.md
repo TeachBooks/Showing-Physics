@@ -39,6 +39,8 @@ align: center
 The forces on the IOlabs are equal in magnitude but opposite in direction. These forces also act for the same duration.
 ```
 
+Three Dutch physics teachers have reported on this demonstration in the Dutch Magazine for Science Teachers {cite:p}`Dekkers2024`.
+
 ## Equipment
 - 2 IOlabs
 - Mass
@@ -94,3 +96,8 @@ The car pushes the truck to the nearest garage.
 
 ## Physics background
 Forces always come in pairs. Newton's third law provides an even more precise description of those pairs: the magnitudes of the forces are equal and the directions are opposite. Summarized in a formula: $F_{1→2}=-F_{2→1}$.
+
+## References
+```{bibliography}
+:filter: docname in docnames
+```

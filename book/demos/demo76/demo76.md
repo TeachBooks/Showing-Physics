@@ -1,5 +1,5 @@
 # A balloon that can do everything
-<span style="font-size: 25px; color: gray;">Sinking, Floating, and Hovering Balloon</span>
+<span style="font-size: 25px; color: gray;">Sinking, floating, and hovering balloon</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
