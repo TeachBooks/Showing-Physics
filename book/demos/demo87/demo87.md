@@ -45,6 +45,15 @@ The green laser beam appears to turn orange in olive oil.
 Avoid shining laser light into eyes, beware of reflections on the olive oil bottle. Only use Class 2 lasers of less than 1 mW, safe for eye reflex, with known specifications. (Green lasers sometimes also have a much more intense but invisible infrared beam.)
 ```
 
+```{figure} demo87_figure3.jpg
+---
+width: 40%
+align: center
+name: demo87_fig3
+---
+The materials used in this demonstration.
+```
+
 ## Preparation
 
 A darkened room is not required but works better, and a digital camera is also helpful.
@@ -60,6 +69,15 @@ Directly shining laser light into your eye is harmful.
 Build a row of bottles with water, olive oil and water. Shine the red laser pointer through this row as shown in {numref}`Figure {number} <demo87_fig1>`. You'll notice a red beam of light visible in the olive oil and that the laser spot on the wall is now less intense. Scattering of light by the olive oil explains why you see the beam from the side and why there is less light falling on the wall than before. Emphasize: like before, the light reaching the wall is not scattered in the olive oil.
 
 Explain to the students that you are going to do the same with a green laser pointer. Let students *predict* what they will see. Have them write down, describe, and compare their observations. Now perform the experiment. They will see an orange beam of light in the bottle of olive oil, however, the spot on the wall is still green. Spray water mist left and right of the row of bottles to show that the laser beam is green before and after the row of bottles.
+
+```{figure} demo87_figure4.jpg
+---
+width: 70%
+align: center
+name: demo87_fig4
+---
+Additionally, you can include a fourth bottle filled with water, placing the bottles in different order. Does that change what you see?
+```
 
 Students may write something like: **"The light is green at first, turns orange in the olive oil, and then turns green again"**. This statement seems correct, but how does the color change of the light work then? How does a green beam of light become orange and then green again? Or does it? In essence the question is: *Why do we see the light from the middle of the olive oil as orange and not turned back to green?*
 
