@@ -19,6 +19,18 @@
     </tr>
 </table>
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/gkH8Ex7yCb0?si=U9-DhuiCTP_jFPt3"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 ## Introduction
 If you let a bunch of different round objects roll down a slope, some will be faster than others. Careful study will show that the mass and size do not matter, but the shape does. This is difficult to understand or infer from observations. However the observations can encourage students to propose systematic investigations to establish which objects roll faster. In this demonstration, the teacher can help students develop skills in planning of an investigation as well as systematic collection, representation and interpretation of data. The test is inspired by a question in an old old televised science quiz: if you let a boiled and a raw egg roll down a slope simultaneously, which will arrive at the bottom first? 
 
