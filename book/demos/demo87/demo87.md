@@ -47,7 +47,7 @@ Avoid shining laser light into eyes, beware of reflections on the olive oil bott
 
 ```{figure} demo87_figure3.jpg
 ---
-width: 40%
+width: 60%
 align: center
 name: demo87_fig3
 ---
@@ -72,7 +72,7 @@ Explain to the students that you are going to do the same with a green laser poi
 
 ```{figure} demo87_figure4.jpg
 ---
-width: 70%
+width: 100%
 align: center
 name: demo87_fig4
 ---
