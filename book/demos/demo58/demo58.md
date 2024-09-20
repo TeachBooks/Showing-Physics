@@ -19,8 +19,27 @@
     </tr>
 </table>
 
+<div style="display: flex; justify-content: center;">
+    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
+        <iframe
+            src="https://www.youtube.com/embed/YDBr1Lof_mI?si=yxuBrHGGQmP02JBl"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
+    </div>
+</div>
+
 ## Introduction
 Students often find concepts linked to circular motion difficult. Examples include the difference between orbital velocity and angular velocity and understanding the centripetal force. In this demonstration, you combine these concepts with the frictional force to create a situation where only one force provides the centripetal force. 
+
+
+## Equipment
+- Turntable 
+- Cubes of not too large mass (e.g. LEGO bricks or DUPLO dolls)
+- Scales
+- Ruler
 
 ```{figure} demo58_figure1.JPG
 ---
@@ -30,12 +49,6 @@ name: fig:turntable
 ---
 The turntable with LEGO bricks
 ```
-
-## Equipment
-- Turntable 
-- Cubes of not too large mass (e.g. LEGO bricks or DUPLO dolls)
-- Scales
-- Ruler
 
 ## Preparation
 Place a cube on the turntable of a record player, as shown in {numref}`Figure {number} <fig:turntable>`. LEGO bricks have been used as mass cubes in this setup. Determine the distance from the centre at which the cube will just slide when the turntable is turned on.
@@ -49,6 +62,15 @@ Place a cube on the turntable of a record player, as shown in {numref}`Figure {n
 6.	Have students again calculate the orbital velocity, angular velocity and working sliding friction force.
 7.	Repeat the above step as many times as necessary until the point is reached at which the cube swings off the turntable. At that point, the point is reached where the maximum sliding friction force on the cube is an issue. You can now calculate (or have calculated) the maximum value for the static coefficient of friction (and hence the dynamic coefficient of friction).
 8.	A question to check students understanding: *Can you get a coefficient of friction greater than 1?*
+
+```{figure} demo58_figure3.jpg
+---
+width: 50%
+align: center
+name: demo58_fig3
+---
+A variation of the demo using a tuneable turntable.
+```
 
 ## Physics background
 Three forces act on the cube (see {numref}`Figure {number}<fig:force_balance>`): the gravitational force $F_G$, the normal force $F_N$ and the shear friction force $F_F$. At the moment the cube is on the turntable of the record player, it is the sliding friction force that provides the centripetal force. The following then applies:
