@@ -1,13 +1,12 @@
 # first list the packages you wish to download from PyPI
 teachbooks # depends on jupyter-book
+jupyterbook-patches
 # numpy
 
 # docutils version for reference page formatting
 docutils==0.17.1
 
 # now list the packages (and the respective url) you wish to download from the GitLab package registry
---extra-index-url https://gitlab.tudelft.nl/api/v4/projects/17983/packages/pypi/simple
-jupyterbook_patches ~= 0.1.4  #temporarily disable
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
 sphinx-thebe ~= 0.9.9  #temporarily disable
 
