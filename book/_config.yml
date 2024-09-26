@@ -58,6 +58,6 @@ sphinx:
 
 html:
   use_multitoc_numbering: true
-  favicon: figures/favicon.ico
+  favicon: figures/favi.ico
     #nb_render_text: ["remove-input", "hide-input"]  # to hide or remove input cells with tags
  
