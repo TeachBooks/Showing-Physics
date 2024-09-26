@@ -53,7 +53,7 @@ sphinx:
         thebe: true
     html:
       use_multitoc_numbering: true
-      favicon: figures/favicon.png
+      favicon: figures/favicon.ico
     #nb_render_text: ["remove-input", "hide-input"]  # to hide or remove input cells with tags
  
   extra_extensions:
