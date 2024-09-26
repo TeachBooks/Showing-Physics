@@ -1,6 +1,6 @@
 ```{figure} figures/coverbook.jpg
 ---
-width: 70%
+width: 90%
 align: center
 ---
 ```
