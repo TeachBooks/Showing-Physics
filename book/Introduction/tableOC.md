@@ -90,7 +90,7 @@
   15. [Rotating balloon](/demos/demo78/demo78)
   16. [Colliding with Newton’s third law](/demos/demo68/demo68)
   17. [Up and down the hill](/demos/demo69/demo69)
-  18. [Rotating cubes](/demos/demoX/demoX)
+  18. [Rotating cubes](/demos/demo58/demo58)
 
 *Thermodynamics*
   1. [Making a perfect cappuccino](/demos/demo02/demo02)
