@@ -6,7 +6,7 @@
   3. [Preface from the editor](/Introduction/Preface2.md)
   4. [About the authors](/Introduction/Authors.md)
   5. [NVON](/Introduction/NVON.md)
-  6. [Python](/Introduction/Python summary.ipynb)
+  6. [Python](/Introduction/Python%20summary.ipynb)
   7. [Table of contents](/Introduction/tableOC.md)
   
 **Pedagogy**
