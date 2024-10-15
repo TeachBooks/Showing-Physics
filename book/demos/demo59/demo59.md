@@ -4,7 +4,7 @@
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Kirsten Staderman</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Kirsten Stadermann</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
