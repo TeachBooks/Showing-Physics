@@ -104,6 +104,9 @@ Norbert van Veen (1976) obtained his Physics teaching qualifications  at the Hog
 
 Maarten van Woerkom (1944) studied theoretical solid state physics at the Catholic University of Nijmegen. After his studies he was a physics teacher at HBS-b, havo and vwo in Almelo and Groenlo. In that period he was a member of the construction group of final exam papers for vwo and subsequently for ten years a member of the central exam committee developing assignments (CEVO). For his contributions to Dutch physics education he received the Minnaert Prize in 1994. He was a physics teacher at the University of Twente for ten years.
 
+```{admonition} Special thanks
+A special thanks to Stefan Dekker for his lovely pictures that support the demonstrations of Wouter Spaan.
+```
 
 **Contributors**\
 Ad Mooldijk\
@@ -124,6 +127,7 @@ Onne Slooten\
 Paul Hupkens\
 Ron Vonk\
 Rutger Ockhorst\
+Stefan Dekker\
 Suzanne Schuurman\
 Tom Haanstra\
 Tom van Woudenberg
