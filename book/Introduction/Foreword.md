@@ -3,6 +3,14 @@
  
 From my own undergraduate studies, I recall several spectacular demonstrations, including gyros, van der Graaf experiments and Tesla coils. As a new lecturer, after many years as a computational atomic physicist, I asked to be shown the equipment – after all, I knew it was there. I also learned about smaller demonstrations that could be used for station labs with small groups or for a mini science-center for visiting classes. Sometimes I created assignments for small groups to perform a couple of demonstrations for the rest of the class. When suitable, I brought equipment to problem-solving classes to let students experience it hands-on, when they needed a short break from the math.
 
+```{figure} Figures/cupboard.jpg
+---
+width: 90%
+figclass: margin
+---
+Treasures hidden in the cupboard
+```
+
 Looking around the demonstration room in the department, I see a lot of stuff that I have no idea about how to use. I have learned that the two enthusiastic lecturers I first encountered as a young undergraduate had spent a lot of time building and collecting materials to use for lecture demonstrations. I have also learned that many of my current colleagues in the department are unaware of the treasures hidden in the cupboards, and would not know how to integrate the demonstrations in their teaching. To them, access to this book will be very helpful!
 
 

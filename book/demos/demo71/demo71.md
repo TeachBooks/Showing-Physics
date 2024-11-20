@@ -41,51 +41,78 @@ Demonstrate a surprising phenomenon and use it to develop understanding of the N
 
 This demonstration is an idea from {cite:t}`lederman1998avoiding`.
 
-## Equipment
-- 2 large beakers
-- 1 small beaker
-- Food coloring
-- Water
-- Box
-- About 1.5 m of water tubes;
-- 2 funnels
-- Double-sided tape or tape
-- Water-resistant caulk or glue
-- Empty bottle
-
-## Preparation
-Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a tube directly from one funnel to the outside through a hole on the side. Place a large beaker underneath. 
-
-```{figure} demo71_figure1.png
+```{figure} demo71_figure3.jpg
 ---
 width: 50%
 align: center
 ---
-The Magic box (using longer tubes and elevating the box would produce a more impressive result, see {numref}`Figure {number} <demo71_fig2>`).
+The Magic box.
 ```
 
-Do the same for the other funnel, except that there is a siphon between the inlet and outlet. For a use the plastic bottle, cut off the bottom. Drill a hole in the cap of the bottle, attach a long piece of tube, glue the tube securely, and put the cap back on the bottle. Now invert the bottle and suspend it inside the box, below the funnel on the left. The outlet of the second funnel should let the water enter the inverted bottle: make sure there is no leakage. Guide the tube coming out of the cap from under in the box back up, and let it turn back down just below the top edge of the inverted bottle. Then lead it out of the second hole on the side. The outlet of this tube shoul ideally is situated lower than the lowest point of the inverted bottle (so that it empties all the way).  A large beaker should fit under the outlets. Secure everything well. Make the tubes on the outside of equal length. Ideally, the box looks symmetrical from the outside. 
+## Equipment
+-	2 large beakers
+-	1 small beaker
+-	Food coloring
+-	Water
+-	Box
+-	About 1.5 m of water tubes;
+-	2 funnels
+-	Double-sided tape or tape
+-	Water-resistant caulk or glue
+-	Empty bottle
+-	Overflow vessel
 
-Fill the siphon with water and some food coloring up to a point just below the point where the tube turns back down. The amount of water that you start off with in the small beaker must be enough to make this level rise and the water to go 'over the top' in the tube, and start the siphoning process. 
+## Preparation
+Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a tube to the first funnel (on the right), feed it into the overflow vessel, and lead the overflow tube to the outside through a hole on the side. Place the overflow vessel so that the overflow point is above the lowest point of the outflow tube. Place a large beaker underneath.
 
+```{figure} demo71_figure4.jpg
+---
+width: 50%
+align: center
+---
+The Magic box (see {numref}`Figure {number} <demo71_fig2>` for a schematic of the left side).
+```
+
+Do the same for the second funnel, except that now there is a siphon between the inlet and outlet. Make the siphon by removing the bottom from a water bottle. Drill a hole in the cap of the bottle, attach a long piece of tube, glue the tube securely, and put the cap back on the bottle. Now invert the bottle and suspend it inside the box, below the second funnel. The outlet of the second funnel should let the water enter the inverted bottle: make sure there is no leakage. 
+
+Guide the tube coming out of the cap to go up, and let it turn back down just below the top edge of the inverted bottle. Then lead it out of the second hole on the side. The outlet of this tube should be situated lower than the lowest point of the inverted bottle (so that it empties all the way). Place a large beaker also below the second outlet. 
+
+Secure everything well. Make the tubes on the outside of equal length. Ideally, the box looks symmetrical from the outside. Finally prepare a small beaker with some water in it.
+
+Fill the overflow vessel entirely with tap water. 
+
+Fill the siphon with water and some food coloring up to a point just below the point where the tube turns back down. The amount of water in the small beaker must be enough to make the level in the siphon rise and the water to go ‘over the top’ in the tube, and start the siphoning process.
+ 
 ## Procedure
-Ask students to pay close attention so they can later describe exactly what they saw. Then pour the water carefully through the first funnel. Collect it in the large beaker. Pour it back into the small one. Have students write down their observations. 
+Ask students to pay close attention so they can later describe exactly what they saw. Then pour the water from the small beaker carefully into the first funnel. Collect the outflow in the large beaker and pour it back into the small one. Have students write down their observations.
 
-*Expected statements:* you pour water into the funnel on one side and it flows out through the hose on that side. 
+Expected statements: *you pour water into the funnel on one side and it flows out through the hose on that side.*
 
-Next, pour the same liquid thaty came out into the second funnel. If properly tuned, nothing will happen at first, but then liquid will start flowing out of the tube. Soon students will notice that the color is different. Then they'll see that the outflow goes on for a long time, filling the large beaker almost completely. Does it stop? Yes, eventually it does. What's in the box? Ask the students to come up with an explanation and make a sketch of what they think is in the box and explains what they saw. Let them discuss with each other: do their sketches explain the observations? 
+Next, pour the contents of the small beaker into the second funnel. If properly tuned, nothing will happen at first, but then liquid will start flowing out of the tube. Soon students will notice that the color is different. Then they’ll see that the outflow goes on for a long time, filling the large beaker almost completely. Does it ever stop? Yes, eventually it does. What’s in the box? Ask the students to come up with an explanation and make a sketch of what they think is in the box so as to explain what they saw. Make sure they also include the initial observations involving the first funnel. Let them discuss with each other: do their sketches explain all the observations?
+
+```{tip}
+To help students make a sketch, you can provide a [sketch of the outside of the box](sketch.pdf).
+```
+
+After the sketches have been made and discussed, ask students if they are sure about what they have sketched below the first funnel. They have probably predicted that the water that was poured in is the water that came out, and that ‘nothing happens’. So what if we pour colored water into the first funnel? After students have made their predictions, pour the same amount of water as you started with, but now colored, from the small beaker into the first funnel. The liquid that comes out will be colorless (or much lighter than what you pour in). Ask students if they want to revise their sketch, and if so, allow them to do so.
 
 Select questions for the follow-up discussion:
-1. You've come up with an explanation, but where did it come from? What did you use to find it? (Creativity, imagination, experience, knowledge.) Scientists depend on the same traits.
-2. Is it necessary to test if your explanation is correct? Why or why not? How can you test your explanation? Is that how scientists work too?
-3. Different explanations have been suggested in class. Which explanations are better and why? What are characteristics of good or better explanations?
+1.	You’ve come up with an explanation, but where did it come from? What did you use to find it? (Creativity, imagination, experience, knowledge.) Scientists depend on the same traits.
+2.	If you have figured out an explanation, is it necessary to test if it’s correct? Why, or why not? In what ways could you test your explanation? Do scientists also test their explanations, and if so, how?
+3.	Different explanations have been suggested in class. Which explanations are better?  What makes one explanation better than another?
+4.	Did you change your sketch of what is below the first funnel? If so, why? In science, can explanations also change, if more data become available? But if scientific knowledge can change, is it reliable?
+5.	Are we sure that our best explanation describes what is actually in the box? Can scientists be sure that their best explanations describe the world as it really is? Why do you think so?
+
    
 ### On the side
 The following aspects of Nature of Science can be clarified based on discussing these questions. See also the [introduction on NoS](../../Pedagogy/Nos.md).
-1. Curiosity is a key driving force for scientists. If they don't understand something, they don't become disappointed but interested and excited.
-2. What you observe depends on what exists, but also on *'how'* you observe. Scientists, too, often only see something when they know what to look for.
-3. To explain what you don't understand, you use knowledge you already have. Scientists do the same. For example, because you know water as a clear liquid whose color and quantity do not change easily, you probably did not find the first event surprising. There was nothing to explain there, but later on suddenly there was. The explanation you came up with is based on knowledge and experience, but also on your creativity and imagination. Scientists also use creativity and imagination when inventing explanations!
-4. Explanations are not simply accepted by other scientists, they will thoroughly test them first. There are various ways to do this. For example, can you predict what will happen according to your explanation if another, second cup of water is poured into the box? 
+1.	Curiosity is a key driving force for scientists. If they don’t understand something, they don’t become disappointed but interested and excited.
+2.	If you need to explain something you don’t understand, you start by using knowledge you already have. Scientists do the same. For example, water is a clear liquid whose color and quantity do not change on their own. So you probably did not find the first event surprising. There was nothing to explain, what happened fit in with what you already knew.
+3.	But then the amount and color changed. To explain that, you used your knowledge and experience, but also your creativity and imagination. Scientists also use creativity and imagination when inventing explanations!
+4.	Explanations are not simply accepted by other scientists, they will be thoroughly tested first. There are various ways to do this. For example, a powerful explanation will enable you to make correct predictions of what will happen if you repeat the experiment, or if you change it a little bit.
+5.	Did you correctly predict what happened when pouring colored water into the first funnel? Do you think scientists too can make incorrect predictions if they use scientific knowledge? 
+6.	Scientific theories and models allow scientists to make incredibly many predictions that are enormously precise and accurate. In very many cases their knowledge is trustworthy and useful. But not always, it is in principle always possible that reality turns out to be different. But when that happens that is also an opportunity to improve the theories and models, and learn new things.
+
 
 ## Physics background
 Looking at {numref}`Figure {number} <demo71_fig2>`, initially, the siphon is almost filled to the top (left). With the little extra liquid from the small beaker, the liquid at A turns the corner. The upward and downward parts of the tube remains completely filled throughout the process. The force that drives the water out of the siphon and into the tube is due to the pressure difference between A (1 bar) and B (liquid pressure at depth AB). This becomes smaller as it empties, but is zero only when the siphon is completely empty (if the set-up accords with the diagram).
