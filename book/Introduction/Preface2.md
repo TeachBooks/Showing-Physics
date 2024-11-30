@@ -16,6 +16,7 @@ Freek Pols *(editor)*\
 ```{figure} Figures/FP.JPG
 ---
 width: 70%
+alt: two of the authors doing a physics demonstration at a workshop. Freek is standing on the table.
 ---
 Norbert (left) and Freek (on table) at a workshop on physics demonstrations.
 ```

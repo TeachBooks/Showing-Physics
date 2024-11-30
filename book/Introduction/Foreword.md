@@ -7,6 +7,7 @@ From my own undergraduate studies, I recall several spectacular demonstrations, 
 ---
 width: 90%
 figclass: margin
+alt: cupboard with various physics experiments
 ---
 Treasures hidden in the cupboard
 ```
@@ -28,6 +29,7 @@ University of Gothenburg and Lund university
 ```{figure} Figures/AMP.jpg
 ---
 width: 60%
+alt: Ann-Marie Pendrill doing physics on a playground.
 ---
 Ann-Marie Pendrill doing physics on a playground {cite:p}`pendrill2019training`.\
 Photo: Emelie Asplund

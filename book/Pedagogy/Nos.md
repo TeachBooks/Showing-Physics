@@ -7,6 +7,7 @@ But what image of the natural sciences should you convey as a physics teacher? W
 ```{figure} Figures/nos.PNG
 ---
 width: 70%
+alt: an AI generated picture with students standing around a black box in a physics classroom.
 ---
 Nature of Science activities often include decontextualised Black Box experiments {cite:p}`stadermann2021don`. 'What is inside?' is then the central question, addressing learning goals like 'our knowledge is limited and we cannot always be certain about everything' {cite:p}`pols2021s`.
 Figure created with AI.
@@ -100,6 +101,7 @@ An excellent start are *Black-Box* activities, especially if they evoke immediat
 width: 40%
 name: fig:cylinder_puzzle
 align: center
+alt: a yellow cilinder with four knots sticking out
 ---
 Cylinder puzzle as an example of a model of the universe.
 ```

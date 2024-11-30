@@ -3,6 +3,7 @@
 ```{figure} ../Pedagogy/Figures/team.jpg
 ---
 width: 70%
+alt: part of the author team standing around a table where one of the authors demonstrate a demonstration.
 ---
 Part of the team discussing one of the potential demonstrations of the third edition of Show*de*Fysica.
 ```

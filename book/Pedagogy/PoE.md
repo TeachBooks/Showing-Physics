@@ -6,6 +6,7 @@ In many phenomena, students and laypeople come up with predictions in which they
 width: 100%
 align: center
 figclass: margin
+alt: a picture of two springs in series with a weight attached
 ---
 What happens to the block when the hook is cut with pliers?
 ```
@@ -14,7 +15,6 @@ The idea is that students first predict what will happen and explain, at least t
 
 ```{note}
 A great example of the importance of making a prediction is found in [Two springs, series or parallel?](../demos/demo32/demo32.md) Students there predict what happens to the block when the hook is cut with pliers. They have sufficient knowledge of springs to make a considered choice, but will probably still be surprised by the result.
-
 ```
 
 The demonstration is then performed by the teacher. A demonstration is often well suited as it reduces distracting elements, for instance handling the equipment, observing what happens and simultaneously making sense of it. During this phase, students gather empirical evidence that either supports or contradicts their initial predictions. 
@@ -33,6 +33,7 @@ These steps are further elaborated on in the table below We use the trivial exam
 ---
 name: fig_poe
 width: 70%
+alt: left a hand with a rock, right a hand with a book and on top a paper.
 ---
 The steps of PEOE are explain using this simple demonstration.
 ```

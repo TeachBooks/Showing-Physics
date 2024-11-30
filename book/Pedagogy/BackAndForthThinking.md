@@ -7,6 +7,7 @@ In all natural sciences, describing and explaining phenomena is key. A scientifi
 width: 50%
 name: fig:stacked_liquids
 figclass: margin
+alt: various objects stacked in a jar with different coloured liquids.
 ---
 Liquid column of 'stacked' liquids as shown in [Playing with density](../demos/demo34/demo34.md).
 ```
@@ -17,6 +18,7 @@ To define thinking-back-and-forth (TBF) properly, we distinguish between the dom
 ---
 width: 80%
 name: fig:Domain_explainer
+alt: a representation of the worlds of objects and the world of ideas
 ---
 In the domain of objects and observations, we observe and measure. In the domain of concepts and ideas, we try to reason with theories about how they are interrelated. Between those two domains we can think back-and-forth, identifying four kinds of activity.
 ```
@@ -42,6 +44,7 @@ Often several pedagogical pathways are available to engage students in thinking-
 ---
 width: 50%
 name: fig:combi_schakeling
+alt: an electric circuit with a light bulb in series with two parallel light bulbs.
 ---
 Mixed circuit. Explaining what happens with the brightness of the lamps if one is unscrewed requires a lot of TBF.
 ```

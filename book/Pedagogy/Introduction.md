@@ -5,6 +5,7 @@ Physics demonstrations are fascinating, inspiring, and educational—they truly 
 ---
 width: 100%
 figclass: margin
+alt: a teacher balancing a stick on his finger
 ---
 A teacher demonstrating [stability](../demos/demo12/demo12.md)
 ```
@@ -21,6 +22,7 @@ So... should we abandon those demonstrations? That at least would save time... a
 ```{figure} ../demos/demo98/demo98_figure2.JPG
 ---
 width: 70%
+alt: a crumbled can.
 ---
 Who will forget a great demonstration, one that comes with a BANG?!
 ```
@@ -52,6 +54,7 @@ It this therefore not sufficient to learn (about) physics, students need to *do 
 ---
 figclass: margin
 width: 75%
+alt: Freek standing on a ladder, large stance with a balloon. Freek will pop the balloon.
 ---
 [Determination of $g$](../demos/demo73/demo73.ipynb) revolves around the question how you can determine the acceleration due to gravity as precise as possible.
 ```
@@ -74,6 +77,7 @@ Demonstrations are fun to include in special occasions: at an open day, an anniv
 ---
 width: 40%
 align: center
+alt: a teacher with a tall rod, moving his fingers along the rod.
 ---
 A teacher demonstrating the [singing rod](../demos/demo81/demo81.ipynb) to teach students about standing waves.
 ```

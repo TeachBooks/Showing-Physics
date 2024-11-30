@@ -5,5 +5,6 @@
 ---
 width: 90%
 align: center
+alt: cover with the title and two editors
 ---
 ```
