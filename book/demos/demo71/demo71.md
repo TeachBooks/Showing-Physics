@@ -39,7 +39,7 @@ The video is a little different from the performance described below. In the act
 ## Introduction
 Demonstrate a surprising phenomenon and use it to develop understanding of the Nature of Science. It's about the journey, not the destination. 
 
-This demonstration is an idea from {cite:t}`lederman1998avoiding`.
+This demonstration is an idea from {cite:t}`boujaoude1995demonstrating` and further described in{cite:t}`lederman1998avoiding`.
 
 ```{figure} demo71_figure3.jpg
 ---
