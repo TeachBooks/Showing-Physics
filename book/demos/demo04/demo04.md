@@ -23,6 +23,7 @@
 ---
 width: 50%
 align: center
+alt: stacked blocks
 ---
 A challenge: Building a slanting tower where the top block is not above the bottom block.
 ```
@@ -39,6 +40,7 @@ If you put two blocks on top of each other, then the upper one remains stable if
 width: 50%
 align: center
 name: demo04_fig1
+alt: stacked blocks, evenly spaced.
 ---
 The demo requires only some blocks.
 ```
@@ -52,6 +54,7 @@ Is it possible that the back of the top block passes the front of the bottom blo
 width: 50%
 align: center
 name: demo04_fig2
+alt: schematic of stacked blocks illustrating how top one is left of the lowest one
 ---
 We can try to use the approach that first comes into mind... but probably won't succeed.
 ```
@@ -67,6 +70,7 @@ It is also possible to arrange the pile in reversed order: from top to bottom ({
 width: 50%
 align: center
 name: demo04_fig5
+alt: finger used to balance two block
 ---
 Building the pile in reversed order requires to find the center of mass each time.
 ```
@@ -83,6 +87,7 @@ All of that above block 5 and the overhang is already more than one block length
 width: 50%
 align: center
 name: demo04_fig3
+alt: schematic of correct way of stacking blocks
 ---
 The physics (and mathematics) behind stacking blocks
 ```
@@ -96,6 +101,7 @@ The physics (and mathematics) behind stacking blocks
 width: 50%
 align: center
 name: demo04_fig4
+alt: picture of the market hall in rotterdam, illustrating the practical use of stacked blocks
 ---
 The market hall in Rotterdam is stacked according to the principle above. Figure obtained from: <a href="https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg" target="_blank">https://commons.wikimedia.org/wiki/File:Markthal-Rotterdam.jpg</a> (CC BY-SA)
 ```

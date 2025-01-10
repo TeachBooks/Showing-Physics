@@ -48,6 +48,7 @@ Think how the visibility of observations can be maximized. For example, put a ch
 width: 350%
 align: center
 name: demo11_fig1
+alt: a turning rod with dices on it at the right but at the left dices are above the rod 
 ---
 Are some of the dices falling faster than $g$?
 ```

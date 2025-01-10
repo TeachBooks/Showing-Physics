@@ -28,6 +28,7 @@ In their own practical work students may easily overlook the details in the phen
 width: 90%
 align: center
 name: demo05_fig1
+alt: setup, left a weight with string attached through wheels connected to spring-balance to cart to spring balance
 ---
 A schematic of the experimental setup
 ```
@@ -56,6 +57,7 @@ A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here.
 ---
 width: 70%
 align: center
+alt: the experimental setup as used in class
 ---
 The actual setup
 ```

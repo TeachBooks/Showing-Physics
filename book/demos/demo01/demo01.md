@@ -64,6 +64,7 @@ Cut one of the eggs in a bowl, fill the syringe with its contents, remove the ai
 ---
 width: 50%
 align: center
+alt: an unboiled egg in shell in jar with vinegar
 ---
 An unboiled egg in vinegar.
 ```
@@ -82,6 +83,7 @@ Together, decide which other substances you want to test (include some food colo
 ---
 width: 50%
 align: center
+alt: unboiled egg without its shell in hands of experimenter
 ---
 Unboiled egg without its shell.
 ```
@@ -112,6 +114,7 @@ What causes some substances to pass through both membranes, others to pass throu
 ---
 width: 50%
 align: center
+alt: open egg, egg white is colored, inner part is still yellow.
 ---
 Food coloring penetrates the outer but not the inner membrane.
 ```

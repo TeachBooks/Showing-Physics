@@ -46,6 +46,7 @@ In this demonstration metal balls change into ping-pong balls. Of course that is
 width: 50%
 align: center
 name: demo08_fig1
+alt: three iron balls on top of box with corn
 ---
 Balls before the transformation
 ```
@@ -63,6 +64,7 @@ Put the metal balls on top of the corn, then put the lid on the container and â€
 width: 50%
 align: center
 name: demo08_fig2
+alt: three white balls on top of box with corn
 ---
 Balls after the transformation
 ```

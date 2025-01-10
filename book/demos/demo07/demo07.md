@@ -27,6 +27,7 @@ Five or six pendulums are suspended from a rod ({numref}`Figure {number} <demo07
 width: 40%
 align: center
 name: demo07_fig1
+alt: horizontal rod, vertical strings of different lengths with balls
 ---
 A rod with some balls suspended using strings.
 ``` 
@@ -44,6 +45,7 @@ Drill a narrow hole through each ball and through the broom stick. The string ca
 width: 50%
 align: center
 name: demo07_fig2
+alt: experimenter demonstrating
 ---
 The red ball starts to move.
 ``` 

@@ -29,6 +29,7 @@ A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to 
 ---
 width: 50%
 align: center
+alt: a cappuccino where the milk foam is clearly visible.
 ---
 The context of this demonstration: A cappuccino
 ```
@@ -76,6 +77,7 @@ Steam can cause bad burns. So watch out with the steam coming through the rubber
 ---
 width: 50%
 align: center
+alt: a bunsenburner heating the water in a flask, a connected tube to heat the milk.
 ---
 The experimental setup
 ```

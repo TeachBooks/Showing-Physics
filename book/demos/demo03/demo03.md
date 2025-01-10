@@ -49,6 +49,7 @@ Light the candle and put it under the vacuum bell jar so that smoke is trapped b
 width: 50%
 align: center
 name: demo3_fig1
+alt: left laser, center a vacuum bell jar.
 ---
 The setup consisting of a laser, a vacuum bell jar and a small candle for smoke.
 ```
@@ -62,6 +63,7 @@ Turn the laser on and ask students what they observe. *Is the laser beam visible
 ---
 width: 50%
 align: center
+alt: a red laser beam is visible inside the jar
 ---
 The laser beam is well visible, but the entire bell jar is illuminated as well!
 ```
@@ -71,6 +73,7 @@ Ask students to write down their observation when you turn on the vacuum pump. I
 ---
 width: 50%
 align: center
+alt: only two laser spots, at the corner of the jar, are visible
 ---
 When the bell jar gets more and more vacuum, the light intensity of the laser beam is less until it is not visible at all anymore.
 ```

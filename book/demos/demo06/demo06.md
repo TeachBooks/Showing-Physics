@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo06_fig1
+alt: illuminated aquarium and a rainbow at the wall
 ---
 An aquarium filled with water is put on an overheadprojector 
 ``` 
@@ -47,6 +48,7 @@ Cover the OHP with white sheets of paper. Put the container with water (about ¾
 width: 50%
 align: center
 name: demo06_fig3
+alt: aquarium and two rainbows
 ---
 The aquarium is slightly rotated resulting in two spectacular spectra.
 ``` 
@@ -56,6 +58,7 @@ The aquarium is slightly rotated resulting in two spectacular spectra.
 width: 50%
 align: center
 name: demo06_fig4
+alt: light rays
 ---
 The light rays move from A, B and C to A', B' and C'.
 ``` 
@@ -64,6 +67,7 @@ The light rays move from A, B and C to A', B' and C'.
 ---
 width: 50%
 align: center
+alt: the setup, an aquarium on top of an overheadprojector
 ---
 The setup. The rainbows appear on the left and right walls.
 ``` 

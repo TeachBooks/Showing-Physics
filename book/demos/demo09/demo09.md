@@ -27,6 +27,7 @@ Just above the bubbling surface of boiling water, nothing unusual seems to be ha
 ---
 width: 80%
 align: center
+alt: boiling water and a small tealight which is lit
 ---
 The required materials
 ```
@@ -60,6 +61,7 @@ Bring the burning candle down into the kettle, and note that the flame dies. Sum
 ---
 width: 70%
 align: center
+alt: tealight in the cooker
 ---
 *left:* Above the kettle, the flame burns somewhat weaker.\
 *right:* Inside the kettle, above the water, the flame extinguishes

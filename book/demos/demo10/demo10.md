@@ -24,6 +24,7 @@
 ---
 width: 80%
 align: center
+alt: soap bubbles above a Van de Graaff generator
 ---
 The soap bubble gun and the Van de Graaff generator. In this picture, most bubbles move away from the generator. 
 ```
@@ -46,6 +47,7 @@ Blow the bubbles from above to the Van de Graaff generator (or let a student do 
 ---
 width: 70%
 align: center
+alt: soap bubbles above a Van de Graaff generator
 ---
 The bubbles on the left move towards the Van de Graaff generator, while the bubbles on the right move away from the generator. How is that possible?
 ```
@@ -59,6 +61,7 @@ Then you start the process of developing explanations and testing these using (b
 ---
 width: 70%
 name: demo10_fig3
+alt: a cartoon with four different statements to express what is happening
 ---
 The concept cartoon can be used to start the discussion.
 ```
