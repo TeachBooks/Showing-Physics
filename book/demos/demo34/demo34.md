@@ -24,6 +24,7 @@
 width: 50%
 align: center
 name: demo34_fig4
+alt: various liquids stacked in a measuring cilinder. On top olive oil, below sunflower, water at the bottom.
 ---
 Various liquids stacked upon each other. Sunflower and olive oil have slightly different densities.
 ```
@@ -36,6 +37,7 @@ This demonstration can be performed as an introduction to or as practice with th
 width: 50%
 align: center
 name: demo34_fig2
+alt: Various liquids stacked upon each other.
 ---
 Various liquids stacked upon each other.
 ```
@@ -91,6 +93,7 @@ Below are step-by-step instructions with tasks and questions that can be adjuste
 ---
 width: 50%
 align: center
+alt: a teacher preparing the demo
 ---
 An example of the demo
 ```
@@ -105,6 +108,7 @@ After just a few minutes, it is visible that the water changes color. This is be
 width: 50%
 align: center
 name: demo34_fig3
+alt: A schematic of the various liquids and 'objects'
 ---
 A schematic of the various liquids and 'objects'
 ```

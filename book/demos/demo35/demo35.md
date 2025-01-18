@@ -49,6 +49,7 @@ Glue the tealight candle onto the lid of the jar. Screw the jar upside down on t
 ---
 width: 50%
 align: center
+alt: Tealight candle in a closed jar.
 ---
 Tealight candle in a closed jar.
 ```

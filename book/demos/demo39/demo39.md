@@ -23,6 +23,7 @@
 ---
 width: 50%
 align: center
+alt: a fire tornado in a rotating trash can
 ---
 The fire tornado in a rotating trash can.
 ```
@@ -44,6 +45,7 @@ A rare and devastating phenomenon in forest fires in warm, dry areas is a fire t
 ---
 width: 70%
 align: center
+alt: various items next to the trash bin
 ---
 Some items that can be useful if you want to investigate suggestions from students.
 ```
@@ -72,6 +74,7 @@ Explicitly invite them to come up with various suggestions how such a tornado co
 width: 50%
 align: center
 name: demo39_fig3
+alt: a concept cartoon with various statements on the explanation of the fire tornado
 ---
 The concept cartoon can help elicit ideas. You can go two ways with the statements shown: *what question is behind a statement* and *what experiment can you come up with for it?* By the way, all these people are somehow right.
 ```

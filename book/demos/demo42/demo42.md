@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo42_fig1
+alt: the setup, left a soda can wrapped in water paper, right without. In both can a thermometer is inserted
 ---
 The two cans contain hot water (same initial temperature) and a temperature sensor. The temperature measurements are displayed on a digital board. Which one cools faster? 
 ```
@@ -63,6 +64,7 @@ Ensure that hot water is available, as well as a handkerchief that can be soaked
 width: 80%
 align: center
 name: demo42_fig2
+alt: two graphs of temperature in single diagram clearly showing the wrapped can cools faster
 ---
 We immediately see the difference in cooling between the two cans. The can with the wet handkerchief (green) cools much faster than the can without.
 ```

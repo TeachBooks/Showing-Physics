@@ -56,6 +56,7 @@ Place a dropper, similar to the one used for pipetting, on the table. Position t
 width: 70%
 align: center
 name: demo44_fig1
+alt: the setup, functiongenerator connected to LED strip, water dropper at front.
 ---
 The setup.
 ```

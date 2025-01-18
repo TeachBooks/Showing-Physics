@@ -53,6 +53,7 @@ This demonstration is earlier described in {cite:t}`Vonk2015`.
 ---
 width: 70%
 align: center
+alt: the setup consisting of a heater with a flask on it, an aquarium filled with blue colored water, flask and water are connected with a tube
 ---
 The setup of the experiment.
 ```
@@ -93,6 +94,7 @@ When the Erlenmeyer flask is heated, the air inside it expands. This means you s
 ---
 width: 70%
 align: center
+alt: the flask is fully filled with the blue colored water from the aquarium
 ---
 The flask is fully filled with water at the end of the demonstration. 
 ```

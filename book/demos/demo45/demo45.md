@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo45_fig1
+alt: the setup, three weights attached to wire connected to a spring scale, and further connected to a pole
 ---
 The basic setup.
 ```
@@ -53,6 +54,7 @@ Replace the stand with the equivalent mass blocks, as shown in {numref}`Figure {
 width: 70%
 align: center
 name: demo45_fig2
+alt: same setup except pole is replace by string through pulley with weights attached
 ---
 The modified setup; the result is the same.
 ```

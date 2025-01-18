@@ -29,6 +29,7 @@ This demonstration shows the alternating voltage across a (incandescent-bicycle)
 width: 70%
 align: center
 name: demo48_fig1
+alt: the setup with light bulbs in series and a voltage meter
 ---
 The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 ```
@@ -46,6 +47,7 @@ The setup includes a voltage sensor (range -10 to 10 V) and a luminosity sensor.
 width: 70%
 align: center
 name: demo48_fig3
+alt: a setup with a incandescent lamp and a photodiode
 ---
 Optionally one can do measurement on a fluorescent light.
 ```
@@ -62,6 +64,7 @@ Secure the luminosity sensor in a stand to keep it at the correct height above t
 width: 70%
 align: center
 name: demo48_fig2
+alt: the graphs in one diagram showing the applied and measured voltage. Frequency of measured voltage across light is twice as high.
 ---
 Two measurements in one diagram: the alternating voltage across the lamp and the luminosity of the lamp over time.
 ```
@@ -82,6 +85,7 @@ Two measurements in one diagram: the alternating voltage across the lamp and the
 width: 70%
 align: center
 name: demo48_fig4
+alt: oscilloscope showing the actual measurement
 ---
 Why is the measured frequency 100 Hz?
 ```

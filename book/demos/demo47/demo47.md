@@ -33,6 +33,7 @@ Students are taught about charge and electric fields. In demonstrations, teacher
 width: 70%
 align: center
 name: demo47_fig2
+alt: cloth, pvc tube and charge sensor
 ---
 The charge sensor, plastic rods, and a cloth used to charge the objects by rubbing.
 ```

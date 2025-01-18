@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo38_fig2
+alt: U-shaped tube, liquid at the left is lower than at the right
 ---
 U-tube after removal of the stopper.
 ```
@@ -61,6 +62,7 @@ Once it's clear what the class thinks, remove the stopper. The liquid level rise
 width: 70%
 align: center
 name: demo38_fig1
+alt: U shape tube with liquid and stopper, liquid left and right are at same level
 ---
 U-tube with liquid and stopper.
 ```

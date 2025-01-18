@@ -45,6 +45,7 @@ How can you experience force and motion in person without too much interference 
 width: 50%
 align: center
 name: demo43_fig2
+alt: a bowling ball near a cone, teacher with broom in hand
 ---
 A track including a pole to experience how 'easy' it is to make turns.
 ```
@@ -63,6 +64,7 @@ Students can gain similar experiences with a heavily loaded supermarket cart. Th
 width: 50%
 align: center
 name: demo43_fig1
+alt: large bowling ball
 ---
 As the ball is heavy, friction hardly plays a role allowing to investigate Newton's laws of motion.
 ```

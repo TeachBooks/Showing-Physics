@@ -27,6 +27,7 @@ This demonstration is highly suitable for clarifying the paradox surrounding the
 ---
 width: 50%
 align: center
+alt: a yellow flame made with Bunsen burner, shadow at the wall
 ---
 Scattering, emission, and resulting absorption are visible.
 ```
@@ -49,6 +50,7 @@ The setup is best built during the lesson. This to emphasize the sequence of eve
 ---
 width: 70%
 align: center
+alt: the setup, left white screen, middle Bunsen burner, right sodium lamp.
 ---
 The setup: a sodium lamp, a blue flame, and a semi-translucent screen (a lab coat was used here).
 ```
@@ -70,6 +72,7 @@ The connection to the formation of the absorption spectrum in stellar atmosphere
 ---
 width: 50%
 align: center
+alt: the shadow of the flame at the white screen
 ---
 The shadow on the other side of the screen.
 ```

@@ -45,6 +45,7 @@ This demonstration is meant to evoke fascination and amazement while simultaneou
 width: 50%
 align: center
 name: demo40_fig1
+alt: a large can, an elastic band at the side can be seen
 ---
 This can comes back when rolled away.
 ```
@@ -58,6 +59,7 @@ This can comes back when rolled away.
 width: 50%
 align: center
 name: demo40_fig2
+alt: schematic of inside of the can
 ---
 Inside of the can: schematic.
 ```
@@ -89,6 +91,7 @@ Scientists are never entirely sure of their solutions. Your class can be sure of
 width: 50%
 align: center
 name: demo40_fig3
+alt: the schematic illustrating how torque provides the explanation of the can rolling back
 ---
 Explanation - torque explains the return.
 ```

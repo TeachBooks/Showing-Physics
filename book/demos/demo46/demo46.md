@@ -24,6 +24,7 @@
 width: 80%
 align: center
 name: demo46_fig2
+alt: parabolic orbit illustrated by water dropplets 
 ---
 Ticker (height 2.4 cm, frequency 100 drops/s) and parabola of drops.
 ```
@@ -63,6 +64,7 @@ Stroboscopic lighting can trigger seizures in people with certain kinds of epile
 width: 80%
 align: center
 name: demo46_fig1
+alt: schematic setup
 ---
 The setup.
 ```
@@ -88,6 +90,7 @@ Your demonstration might proceed as follows, starting from when the audience see
 width: 80%
 align: center
 name: demo46_fig3
+alt: picture of water dropplets and parabolic orbit with small horizontal velocity of water dropplets.
 ---
 Small initial speed.
 ```
@@ -101,6 +104,7 @@ Small initial speed.
 width: 80%
 align: center
 name: demo46_fig4
+alt: picture of water dropplets and parabolic orbit with larger horizontal velocity of water dropplets.
 ---
 Large initial speed.
 ```
