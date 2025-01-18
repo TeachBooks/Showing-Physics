@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo12_fig1
+alt: a glass of water on top of a paper
 ---
 Linear inertia: pull a glass of water at a constant speed towards the edge, then suddenly accelerate when the glass is close to the edge.
 ```
@@ -69,6 +70,7 @@ Analog to the translation movement, there is resistance to rotational accelerati
 width: 50%
 align: center
 name: demo12_fig2
+alt: a vertical stick balance on the finger of the experimenter
 ---
 Balancing a stick.
 ```
@@ -81,6 +83,7 @@ Balancing a stick.
 width: 50%
 align: center
 name: demo12_fig3
+alt: drawing with small and a heavy person on top of a rod. Question is who is more stable.
 ---
 Which stick is easier to balance?
 ```

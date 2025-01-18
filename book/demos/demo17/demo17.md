@@ -33,6 +33,7 @@ This demonstration demonstrates the stability of an equilibrium when the center 
 ---
 width: 50%
 align: center
+alt: a bottle hanging on an opener at the end of a table and a bottle standing on the opener
 ---
 The setup. Who can drink the contents of the top bottle without touching the bottle opener or the bottom bottle?
 ``` 
@@ -49,6 +50,7 @@ Now you have everyone’s attention, it is time to put up the challenge: drink f
 ---
 width: 70%
 align: center
+alt: at the left same figure as before, at the right the bottle on top of the opener is removed. Two Force vectors are shown.
 ---
 The top bottle is not necessary for balance. The lines of the normal force and the gravitational force can be aligned. In other words, the center of gravity is located below the support.
 ``` 

@@ -38,6 +38,7 @@ In this demonstration, you light a tea light candle and then extinguish it witho
 ---
 width: 50%
 align: center
+alt: schematic, lit candle in beaker and a tube filled with carbondioxide, poured in beaker with candle
 ---
 Diagram of a burning tea light candle and a glass with vinegar and baking soda.
 ```
@@ -62,6 +63,7 @@ Put vinegar and baking soda or soda in the jar. Not too much, as it will bubble 
 width: 50%
 align: center
 name: demo29_fig2
+alt: lit candle, carbondioxide poured in
 ---
 Pour the contents of the glass with vinegar and baking soda over the candle.
 ```
@@ -71,6 +73,7 @@ Pour the contents of the glass with vinegar and baking soda over the candle.
 width: 50%
 align: center
 name: demo29_fig1
+alt: candle extinguished 
 ---
 The tea light candle is extinguished by something invisible... what is it?
 ```

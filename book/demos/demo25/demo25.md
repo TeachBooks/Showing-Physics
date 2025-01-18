@@ -24,6 +24,7 @@
 ---
 width: 70%
 name: demo25_fig3
+alt: students standing with heels against wall trying to pick up money in front of them.
 ---
 It is 'impossible' to pick up the money.
 ```

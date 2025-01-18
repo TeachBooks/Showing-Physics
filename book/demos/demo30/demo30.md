@@ -23,6 +23,7 @@
 ---
 width: 70%
 align: center
+alt: inflated and empty balloon on balanced rod indicating air has weight. 
 ---
 The inflated balloon moves downward.
 ```
@@ -53,6 +54,7 @@ Explain what you expect, and why you expect that.
 width: 70%
 align: center
 name: demo30_fig1
+alt: same experiment, both balloons deflated, equally balanced.
 ---
 Two empty balloons weigh the same.
 ```

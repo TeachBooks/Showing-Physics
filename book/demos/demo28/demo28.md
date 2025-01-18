@@ -35,8 +35,7 @@ Antonia Jiminez Ruiz</td>
 </div>
 
 ## Introduction
-The Gulf Stream flows like a 100 – 200 km wide river across the Atlantic Ocean from the Caribbean to Europe, see 
-{numref}`Figure {number} <demo28_figure4>`. In the far north of the Atlantic Ocean, the water becomes so cold at the surface that it has a greater density than the slightly warmer underlying water. As a result, it sinks and is carried back to the tropics at depths of several kilometers. This Atlantic conveyor belt is maintained by differences in temperature and salinity, wind, and the rotation of the earth (Coriolis force). 
+The Gulf Stream flows like a 100 – 200 km wide river across the Atlantic Ocean from the Caribbean to Europe, see {numref}`Figure {number} <demo28_figure4>`. In the far north of the Atlantic Ocean, the water becomes so cold at the surface that it has a greater density than the slightly warmer underlying water. As a result, it sinks and is carried back to the tropics at depths of several kilometers. This Atlantic conveyor belt is maintained by differences in temperature and salinity, wind, and the rotation of the earth (Coriolis force). 
 
 This series of demonstrations will sequentially show that warm water 'floats' on cold water, fresh water on salt water, and that differences in temperature and salt concentration can cause currents. In the aquarium, we see the beginning of such a conveyor belt system that can transport a lot of energy due to the high specific heat capacity of water.
 
@@ -45,6 +44,7 @@ This series of demonstrations will sequentially show that warm water 'floats' on
 name: demo28_figure4
 width: 50%
 align: center
+alt: schematic of the gulfstream
 ---
 Gulfstream, figure obtained from <a href="https://www.flickr.com/photos/gridarendal/31551868273" target="_blank">https://www.flickr.com/photos/gridarendal/31551868273</a> (CC BY-NC-SA 2.0)
 ```
@@ -92,6 +92,7 @@ Watch the videos how to put the two jars on top of each other, and practice a fe
 width: 70%
 align: center
 name: demo28_figure1
+alt: at left, jars with red and blue water; at right same jars stacked; colors not mixed
 ---
 In the demo, warm and cold water are 'mixed'.\
 **left:** Red-colored warm water and blue cold water.\
@@ -118,6 +119,7 @@ Water expands when heated, except between 0 and 4 degrees (anomaly of water). So
 width: 90%
 align: center
 name: demo28_figure5
+alt: aquarium with blue and green water showing the flow of heat / cold spots.
 ---
 The aquarium after cooling with blue ice and warming with red hot water.
 ```

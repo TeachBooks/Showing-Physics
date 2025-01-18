@@ -23,6 +23,7 @@
 ---
 width: 40%
 name: demo20_figure2
+alt: a laser shining on a mirror at the table. A red spot can be seen at the wall. 
 ---
 A simple setup consisting of a laser and a mirror and some colored stickers for the students.
 ```
@@ -41,6 +42,7 @@ The students receive stickers which they have to paste on the wall at the spot w
 ``` {figure} demo20_figure1.JPG
 ---
 width: 60%
+alt: a artistic drawing of the experiment
 ---
 The laser and mirror are at large distance from each other, pupils stick their stickers where they think the laser will hit the wall.
 ```

@@ -23,6 +23,7 @@
 ---
 width: 70%
 align: center
+alt: The letters NVON written using a laser and a phosphorescent surface
 ---
 The phosphorescent surface after illumination with a laser (405 nm). 
 ``` 
@@ -52,6 +53,7 @@ Paint a wooden board (any size) a few times with "glow in the dark" paint. Make 
 ---
 width: 70%
 align: center
+alt: a white phosphorescent surface
 ---
 The phosphorescent surface without excitation.
 ``` 
@@ -71,6 +73,7 @@ The phosphorescent surface without excitation.
 width: 70%
 align: center
 name: demo24_fig3
+alt: three different energy schemes showing a photon may fall back to ground state.
 ---
 Different energy schemes to explain the experiment, only one is correct.
 ``` 

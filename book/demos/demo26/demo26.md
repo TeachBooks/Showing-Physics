@@ -23,6 +23,7 @@
 ---
 width: 100%
 align: center
+alt: three pictures showing a scale and a massive ball above, submerged in the water but still attached to a wire, and at the bottom of the can of water
 ---
 A cup of water on an electronic balance. We hang a heavy object in the water. What 'weight' will the scale display?
 ```
@@ -37,6 +38,7 @@ This is a typical example of a Predict-Explain-Observe-Explain demonstration abo
 width: 100%
 align: center
 name: demo26_fig3
+alt: a schematic of the previous picture 
 ---
 What will happen to the mass indicated on the balance? And what value will the spring balance indicate?
 ```

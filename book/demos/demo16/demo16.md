@@ -43,13 +43,14 @@ A magnet falling slowly through a copper tube (showing Lenz' law) is a well-know
 * (Stronger magnet)
 
 ## Preparation
-Build the experimental set-up as pictured in {numref}`Figure {number}<demo16_fig1>`. Test the force sensor and the required settings (software).
+Build the experimental set-up as pictured in {numref}`Figure {number} <demo16_fig1>`. Test the force sensor and the required settings (software).
 
 ```{figure} demo16_figure1.jpg
 ---
 width: 50%
 align: center
 name: demo16_fig1
+alt: a copper tube hanging on a digital scale. A hand, just released the magnet.
 ---
 The experimental setup with the copper tube attached to the force sensor. The tube can be both closed and open. In this picture the tube is open ended.
 ```
@@ -73,6 +74,7 @@ This will result in different graphs. Only after a thorough discussion, you show
 width: 70%
 align: center
 name: demo16_fig2
+alt: two Force times graphs in one diagram showing that the 'extra' Force equals the gravitational force acting on the magnet.
 ---
 The force-time diagram when the magnet falls through the tube. The blue line is the closed tube, the red the open tube. The 'additional' measured force is in both cases the same and equal to the gravitational force acting on the magnet.
 ```

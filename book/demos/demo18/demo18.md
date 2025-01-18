@@ -46,6 +46,7 @@ When a rigid body is dropped, all parts have the same acceleration. However, whe
 ---
 width: 70%
 align: center
+alt: two balls connected with an elastic band
 ---
 Two balls connected with an elastic band.
 ``` 
@@ -57,6 +58,7 @@ Connect the balls with the elastic band. Use the awl or a pin/nail to make a hol
 ---
 width: 70%
 align: center
+alt: a food can with a whole
 ---
 A can with a hole.
 ``` 
@@ -94,7 +96,6 @@ A can with a hole.
 </div>
 
 *A variation on the demonstration described above.* 
-
 
 ```{tip}
 An interesting variation on this demonstration occurs when you extend the elastic by pulling the bottom ball downwards with one hand. Then drop the configuration! 

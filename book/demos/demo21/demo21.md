@@ -24,6 +24,7 @@
 width: 50%
 align: center
 name: demo21_fig1
+alt: a drawing; left old Einstein, right young Einstein
 ---
 Can we turn the old Einstein into the young one?
 ```
@@ -43,8 +44,9 @@ With a clever use of the overhead projector we can make the old Einstein young a
 width: 70%
 align: center
 name: demo21_fig2
+alt: Box with transparant perspex. Both drawings of Einstein on transparant plate are visible.
 ---
-Box with a transparent Perspex or glass plate as top and bottom and opaque sides and with a black carton mask surrounding the bottom. The box is on top of the overhead projector.
+Box with a transparent perspex or glass plate as top and bottom and opaque sides and with a black carton mask surrounding the bottom. The box is on top of the overhead projector.
 ```
 
 Construct a box with a transparent top and bottom of perspex or glass with a distance of about 6 cm between top and bottom, {numref}`Figure {number} <demo21_fig2>`. On the top put a transparency with the old Einstein and on the bottom the young Einstein. The sides of the box are opaque so the young Einstein is hidden from view. Surrounding the bottom of the box is a black mask (cut from black carton) which covers the remaining part of the overhead projector ({numref}`Figure {number} <demo21_fig2b>`). 
@@ -54,6 +56,7 @@ Construct a box with a transparent top and bottom of perspex or glass with a dis
 width: 50%
 align: center
 name: demo21_fig2b
+alt: the same box in the classroom, projecting Einstein on the all.
 ---
 The projection that is created by the setup when placing old Einstein over young Einstein.
 ```
@@ -65,6 +68,7 @@ Put the box on top of the overhead projector ({numref}`Figure {number} <demo21_f
 ---
 width: 50%
 align: center
+alt: a schematic of how the physics with the lenses works.
 ---
 The old Einstein is on the screen; the young one appears by moving the white screen toward the OHP. Object distances are $o_1$ and $o_2$, and image distances are $i_1$ and $i_2$.
 ```
@@ -78,6 +82,7 @@ The old Einstein is on the screen; the young one appears by moving the white scr
 ---
 width: 50%
 align: center
+alt: the same schematic illustrating how the young Einstein may appear.
 ---
 The old Einstein is on the screen, the young one appears when moving the OHP head (mirror + lens) downward.
 ```

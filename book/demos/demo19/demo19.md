@@ -43,6 +43,7 @@ What is more romantic than a darkened physics classroom with all students lined 
 width: 90%
 align: center
 name: demo19_fig2
+alt: left a copper ring in water, two candles floating on it. At right the picture taken from the side only showing the copper ring.
 ---
 The setup with the magnets beneath the bath, the copper ring in the water, the copper button in the middle and two connection wires.
 ```
@@ -67,6 +68,7 @@ The setup with the magnets beneath the bath, the copper ring in the water, the c
 ---
 width: 50%
 align: center
+alt: a schematic showing the current, the magnetic field and the resulting Lorentz force.
 ---
 Schematic of the setup with copper ring attached to the +, the copper button in the center connected to the ground, and a 'homogenous' magnetic field. Hence, the candles will move clockwise.
 ```

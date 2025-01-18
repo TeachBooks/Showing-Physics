@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo31_fig2
+alt: demonstrator heating a light bulb using a bunzenburner
 ---
 If you (carefully!) heat the piece of glass, the resistance value decreases and the light bulb lights up.
 ```
@@ -58,6 +59,7 @@ Make sure to wear safety glasses (the same for the front row of students or plac
 width: 70%
 align: center
 name: demo31_fig3
+alt: heated glass bulb 
 ---
 The piece of glass continues to conduct even after it is removed from the flame. By blowing against this glass, you can cool it down and turn off the light bulb.
 ```
@@ -74,6 +76,7 @@ The piece of glass continues to conduct even after it is removed from the flame.
 width: 50%
 align: center
 name: demo31_fig1
+alt: schematic of the circuit, glass represented as resistor 
 ---
 Circuit diagram of the setup. The resistor consists of a piece of glass (see {numref}`Figure {number} <demo31_fig3>`).
 ```

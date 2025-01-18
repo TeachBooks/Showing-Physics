@@ -23,6 +23,7 @@
 ---
 width: 70%
 align: center
+alt: IR picture showing the outline of a person behind a bag.
 ---
 The person is standing behind a garbage bag but is still clearly visible in infrared.
 ```
@@ -43,6 +44,7 @@ Make sure you have a garbage bag and a glass plate. Connect the IR-camera to the
 ---
 width: 70%
 align: center
+alt: at left IR picture not showing anything, at right normal picture showing someone behind glass door.
 ---
 The person is not visible in infrared behind glass, though visible in the visible light spectrum.
 ```

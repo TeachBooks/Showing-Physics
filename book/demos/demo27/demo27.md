@@ -51,6 +51,7 @@ The teacher performs the experiment but is meant to mainly direct the discussion
 ---
 width: 70%
 align: center
+alt: a candle in a bowl with water, a jar at the side.
 ---
 Place the glass or jar over the burning candle.
 ```
@@ -72,6 +73,7 @@ Let students brainstorm arguments for and against each explanation, exchange the
 ---
 width: 70%
 align: center
+alt: the jar on top of the candle, water in the jar has risen.
 ---
 The candle is extinguished. What made the liquid level rise?
 ```
@@ -89,6 +91,7 @@ More important than the 'correct' explanation here is that students themselves c
 ---
 width: 70%
 align: center
+alt: left beaker with hot water and bottle closed with. right bottle in the beaker, balloon is somewhat inflated.
 ---
 The balloon on the bottle inflates when you place the bottle in hot water.
 ```

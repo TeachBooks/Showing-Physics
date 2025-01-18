@@ -32,6 +32,7 @@ Can one girl be stronger than four boys? Sure! if she is clever…
 width: 70%
 align: center
 name: demo13_fig1
+alt: two person pulling a string horizontal, one girl in middle using one finger to push the string down
 ---
 The young lady will always be stronger
 ```
@@ -51,6 +52,7 @@ Another version of this demonstration was published by {cite:t}`Vollebregt`. The
 ---
 width: 70%
 align: center
+alt: two people trying to pull string with crate of bear in the middle horizontally
 ---
 The rope cannot be pulled horizontal in this case.
 ```

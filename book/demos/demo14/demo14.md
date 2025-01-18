@@ -57,6 +57,7 @@ Inspired by {cite:t}`Balsma`.
 ---
 width: 70%
 name: demo14_fig1
+alt: small rod with cloth, rod is turned.
 ---
 Here it is shown that static friction is larger than kinetic friction.
 ```
@@ -67,6 +68,7 @@ Here it is shown that static friction is larger than kinetic friction.
 ---
 width: 70%
 name: demo14_fig2
+alt: small box pulled using spring 
 ---
 Stick-slip demonstrated
 ```

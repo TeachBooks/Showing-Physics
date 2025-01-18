@@ -40,6 +40,7 @@ The springs are connected by a 'hook'. Next to (or through) the springs hang two
 width: 70%
 align: center
 figclass: margin
+alt: two springs below each others, each spring has parallel to it a wire
 ---
 What happens to the block when the hook is cut with pliers?
 ```
@@ -50,6 +51,7 @@ What happens if you cut the hook between the springs with a pair of pliers?
 ---
 width: 30%
 align: center
+alt: the schematic of the setup before and after the hook is released
 ---
 A schematic of the setup.
 ```
@@ -59,6 +61,7 @@ A schematic of the setup.
 width: 80%
 align: center
 figclass: margin
+alt: a close up of the hook connecting the springs and wires
 ---
 The two springs connected with a hook.
 ```

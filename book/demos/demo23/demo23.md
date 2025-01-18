@@ -24,6 +24,7 @@
 width: 70%
 align: center
 name: demo23_fig1
+alt: red laser shining on green led, led connected to digital multimeter indicating no voltage
 ---
 Red light shined on a green LED: no voltage.
 ``` 
@@ -48,6 +49,7 @@ Adhere to the regular safety rules when using with lasers!
 width: 70%
 align: center
 name: demo23_fig2
+alt: white light shining on green led connected to digital multimeter, output 1.38V
 ---
 With white light, the DMM measures a voltage.
 ``` 
@@ -80,6 +82,7 @@ To further support this idea we can also look again at the conversion of electri
 ---
 width: 70%
 align: center
+alt: a concept cartoon with four people stating their ideas of what is happening.
 ---
 A concept cartoon can be used to elicit students' ideas.
 ``` 
