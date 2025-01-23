@@ -58,7 +58,7 @@ Karel Langendonck (1974) studied technical physics in Eindhoven. He worked in se
 ```
 **Freek Pols** *(editor)*
 
-Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has been working as a practicum coordinator at TU Delft's Engineering Physics program. In 2023 he obtained his PhD on practicum education, specifically on teaching scientific inquiry. He now is an assistant professor at the Science & Engineering Education department. His research remains directed at the development of  experimental physics education, but now with a focus on university level. 
+Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has been working as a practicum coordinator at TU Delft's Engineering Physics program. In 2023 he obtained his PhD on practicum education, specifically on teaching scientific inquiry. He now is an assistant professor at the Science & Engineering Education department. His [research](https://polslab.tnw.tudelft.nl) remains directed at the development of  experimental physics education, but now with a focus on university level. 
 
 
 ```{figure} authors/auth_Wim.jpg
