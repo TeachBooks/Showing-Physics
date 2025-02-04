@@ -37,6 +37,7 @@ Apply the safety measures required when using a laser.
 ---
 width: 100%
 align: center
+alt: laser - lens - lens - spring. Close up of laser shining on the spring
 ---
 The setup consists of a laser, a beam widener of two positive lenses and a spring. The inset below right shows the exposed spring in more detail. The screen is about 6.5 metres to the right of the feather.
 ```

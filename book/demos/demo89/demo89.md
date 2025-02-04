@@ -25,6 +25,7 @@
 ---
 width: 50%
 align: center
+alt: various led lights
 ---
 The monochromatic LEDs used.
 ```
@@ -61,6 +62,7 @@ Determine which demonstration you want to do and prepare these materials.
 ---
 width: 100%
 align: center
+alt: a diagram showing blue green and red graph.
 ---
 Spectra of the monochromatic RGB LEDs determined with a spectrometer.
 ```
@@ -73,6 +75,7 @@ Spectra of the monochromatic RGB LEDs determined with a spectrometer.
 width: 50%
 align: center
 name: demo89_fig3
+alt: colored shadows
 ---
 Color Shadow: the LED lamps are placed next to each other, but in what order?
 ```

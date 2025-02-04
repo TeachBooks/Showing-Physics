@@ -63,6 +63,7 @@ D.	do something different than the above.
 ---
 width: 50%
 align: center
+alt: time lapse of the spring where one can see that the bottom of the spring stays at rest
 ---
 Time-lapse of the drop of a slinky.
 ```

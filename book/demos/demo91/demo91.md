@@ -49,6 +49,7 @@ The delicate tube that acts as the 'tap' can also be made of rubber. Use a trans
 ---
 width: 50%
 align: center
+alt: A laboratory setup featuring two large cylindrical containers wrapped in colored paper—one yellow (left) and one red (right)—connected by a transparent plastic tube. A glass funnel is inserted into the yellow container, with the tube extending from the funnel to the red container. The red container is elevated on a metallic lab jack with a scissor-lift mechanism.
 ---
 The mysterious fountain.
 ```
@@ -61,6 +62,7 @@ Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place t
 width: 50%
 align: center
 name: demo91_fig2
+alt: the schematic of the setup showing how the cilinders are connected with a tube.
 ---
 Sketch of the setup
 ```

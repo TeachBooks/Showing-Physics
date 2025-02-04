@@ -38,6 +38,7 @@ A wine glass and a small ball are easy to find in any school. With some practice
 ---
 width: 50%
 align: center
+alt: A wine glass, bottom up, with a ball inside.
 ---
 A wine glass with a ball describing circles.
 ```

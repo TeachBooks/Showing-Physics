@@ -38,6 +38,7 @@ If you let a bunch of different round objects roll down a slope, some will be fa
 ---
 width: 80%
 align: center
+alt: several objects that can roll lined up
 ---
 Which rolling object reaches the bottom first?
 ```
@@ -79,6 +80,7 @@ Practice pulling away from the block so that all objects start rolling at the sa
 width: 70%
 align: center
 name: demo92_figure3
+alt: three cilinders, one without center core
 ---
 The materials as used in the video.
 ```
@@ -92,6 +94,7 @@ The materials as used in the video.
 ---
 width: 70%
 align: center
+alt: various objects rolling down a hill
 ---
 Can we create order?
 ```

@@ -23,6 +23,7 @@
 ---
 width: 80%
 align: center
+alt: the setup with a voltage source. Light bulb is off.
 ---
 No light without transformer
 ```
@@ -59,6 +60,7 @@ Know that this demonstration is carried out in the Netherlands (230V, DC)!
 ---
 width: 70%
 align: center
+alt: same setup but with transformer, light bulb is on.
 ---
 There is light with transformer
 ```
@@ -67,6 +69,7 @@ There is light with transformer
 ---
 width: 70%
 align: center
+alt: the same setup but with power lines
 ---
 Possible in this way as well
 ```
@@ -124,6 +127,7 @@ To enhance your story you can emphasize that the voltage supply compares to the 
 ---
 width: 90%
 name: demo94_fig5
+alt: powerlines and transformer house as seen near cities.
 ---
 In the Netherlands you often can see the power lines and the transformers near a city (left). There are smaller transformers in each district (right).
 ```

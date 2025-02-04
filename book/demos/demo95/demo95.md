@@ -48,6 +48,7 @@ Place three steel balls on the gutter.
 ---
 width: 80%
 align: center
+alt: three balls aligned, one rolling towards the row of balls.
 ---
 A steel ball rolls down a row of balls; one of them is a magnetic ball
 ```
@@ -74,6 +75,7 @@ Ball **A** rolls against **B**, **A** comes to a halt, **B** takes over speed an
 ---
 width: 50%
 align: center
+alt: a schematic of the energy of the balls
 ---
 ```
 
@@ -89,6 +91,7 @@ If you give ball **A** a push, it rolls towards M. It is attracted considerably,
 ---
 width: 50%
 align: center
+alt: a schematic of the energy
 ---
 ```
 

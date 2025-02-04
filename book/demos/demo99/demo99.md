@@ -25,6 +25,7 @@
 ---
 width: 70%
 align: center
+alt: a light bulb shining near a black and a white tubes, a thermometer inserted in the tubes.
 ---
 The white and black test tube in the holder both heated by the light bulb. 
 ```
@@ -45,6 +46,7 @@ A simple demonstration of heating up and cooling down a black and a white test t
 ---
 width: 50%
 align: center
+alt: the same setup, now shown with the device measuring the temperature
 ---
 The test tubes filled with hot water and temperature sensors connected to a CoachLabII+
 ```
@@ -67,6 +69,7 @@ Heat water in a kettle. Pour the hot water into the measuring cylinder. Pour 20 
 ---
 width: 70%
 align: center
+alt: an IR picture of the two tubes showing the difference in temperature of the two tubes.
 ---
 The cooling test tube tubes radiating equally in the infrared.
 ```
@@ -83,6 +86,7 @@ The cooling test tube tubes radiating equally in the infrared.
 width: 70%
 align: center
 name: demo99_fig4
+alt: a diagram with both the graph of cooling and heating
 ---
 Heating and cooling of the two test tubes. When cooling down, the white test tube is slightly warmer, but the cooling curve is almost identical to that of the black test tube. To clearly show the difference of cooling, the ($T$,$t$) graph of the white tube is started slightly earlier.
 ```

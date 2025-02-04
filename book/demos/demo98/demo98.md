@@ -38,6 +38,7 @@ Here you demonstrate the force that can be exerted by the outside air. As a bit 
 ---
 width: 50%
 align: center
+alt: a soda can is heated using a bunzenburner
 ---
 Heating a can with a layer of water.
 ```
@@ -54,6 +55,7 @@ Heating a can with a layer of water.
 ---
 width: 70%
 align: center
+alt: a sodacan heated with an electric stove
 ---
 Heating a can with a layer of water, without the need for gas.
 ```
@@ -68,6 +70,7 @@ Put a bit of water in the can and heat it. *What happens to the air in the can?*
 ---
 width: 70%
 align: center
+alt: the soda can is crumbled after the experiment
 ---
 The outcome of this experiment: a crumpled can.
 ```
