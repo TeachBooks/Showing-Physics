@@ -28,6 +28,7 @@ Extra virgin olive oil comes from the first pressing of olives and is more expen
 width: 70%
 align: center
 name: demo87_fig1
+alt: three jars, straight laser beam going from green to red to green again.
 ---
 The green laser beam appears to turn orange in olive oil. 
 ```
@@ -50,6 +51,7 @@ Avoid shining laser light into eyes, beware of reflections on the olive oil bott
 width: 60%
 align: center
 name: demo87_fig3
+alt: the setup with lights on.
 ---
 The materials used in this demonstration.
 ```
@@ -75,6 +77,7 @@ Explain to the students that you are going to do the same with a green laser poi
 width: 100%
 align: center
 name: demo87_fig4
+alt: the same picture with lights of, showing the changing colors in the various jars.
 ---
 Additionally, you can include a fourth bottle filled with water, placing the bottles in different order. Does that change what you see?
 ```
